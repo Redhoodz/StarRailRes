@@ -1472,7 +1472,7 @@
             [1.95, 2, 1.95, 2.86],
             [2.1, 2, 2.1, 3.08]
         ],
-        "icon": "icon/skill/1014_basic_atk.png"
+        "icon": "icon/skill/1014_basic_atk2.png"
     },
     "101501": {
         "id": "101501",
@@ -1630,7 +1630,7 @@
         "simple_desc": "Quitte l'état Connexion de circuits et met fin au tour.",
         "desc": "Quitte l'état Connexion de circuits et met fin au tour.",
         "params": [],
-        "icon": "icon/skill/1015_skill.png"
+        "icon": "icon/skill/1015_common_skip.png"
     },
     "110101": {
         "id": "110101",
@@ -2965,7 +2965,7 @@
             [3.36, 1, 2, 0.78, 0.96],
             [3.5, 1, 2, 0.8125, 1]
         ],
-        "icon": "icon/skill/1109_skill.png"
+        "icon": "icon/skill/1109_skill2.png"
     },
     "111001": {
         "id": "111001",
@@ -3280,7 +3280,7 @@
             [0.26, 1.04],
             [0.28, 1.12]
         ],
-        "icon": "icon/skill/1111_basic_atk.png"
+        "icon": "icon/skill/1111_basic_atk2.png"
     },
     "111201": {
         "id": "111201",
@@ -3595,7 +3595,7 @@
             [3.12, 1.3],
             [3.36, 1.4]
         ],
-        "icon": "icon/skill/1201_basic_atk.png"
+        "icon": "icon/skill/1201_basic_atk2.png"
     },
     "120201": {
         "id": "120201",
@@ -4198,7 +4198,7 @@
             [0.1, 0.52, 0.208, 1.3, 0.52],
             [0.1, 0.56, 0.224, 1.4, 0.56]
         ],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/1205_basic_atk2.png"
     },
     "120601": {
         "id": "120601",
@@ -5243,7 +5243,7 @@
             [3, 1, 1.5],
             [3.125, 1, 1.5625]
         ],
-        "icon": "icon/skill/1212_skill.png"
+        "icon": "icon/skill/1212_skill2.png"
     },
     "121301": {
         "id": "121301",
@@ -5413,7 +5413,7 @@
             [3.38],
             [3.64]
         ],
-        "icon": "icon/skill/1213_basic_atk.png"
+        "icon": "icon/skill/1213_basic_atk2.png"
     },
     "121309": {
         "id": "121309",
@@ -5427,7 +5427,7 @@
         "simple_desc": "Annule le renforcement",
         "desc": "Annule le renforcement",
         "params": [],
-        "icon": "icon/skill/1213_skill.png"
+        "icon": "icon/skill/1213_common_return.png"
     },
     "121310": {
         "id": "121310",
@@ -5452,7 +5452,7 @@
             [4.94, 0.78],
             [5.32, 0.84]
         ],
-        "icon": "icon/skill/1213_basic_atk.png"
+        "icon": "icon/skill/1213_basic_atk3.png"
     },
     "121312": {
         "id": "121312",
@@ -5477,7 +5477,7 @@
             [6.5, 2.34],
             [7, 2.52]
         ],
-        "icon": "icon/skill/1213_basic_atk.png"
+        "icon": "icon/skill/1213_basic_atk4.png"
     },
     "121401": {
         "id": "121401",
@@ -6230,7 +6230,7 @@
             [0.696, 0.36],
             [0.72, 0.375]
         ],
-        "icon": "icon/skill/1220_ultimate.png"
+        "icon": "icon/skill/1220_ultimate_on2.png"
     },
     "122009": {
         "id": "122009",
@@ -6260,7 +6260,7 @@
             [0.696, 0.36],
             [0.72, 0.375]
         ],
-        "icon": "icon/skill/1220_ultimate.png"
+        "icon": "icon/skill/1220_ultimate_on3.png"
     },
     "122014": {
         "id": "122014",
@@ -6895,7 +6895,7 @@
             [1.04, 0.6, 3, 3],
             [1.12, 0.6, 3, 3]
         ],
-        "icon": "icon/skill/1224_basic_atk.png"
+        "icon": "icon/skill/1224_basic_atk2.png"
     },
     "122501": {
         "id": "122501",
@@ -7065,7 +7065,7 @@
             [1.3, 0.65],
             [1.4, 0.7]
         ],
-        "icon": "icon/skill/1225_basic_atk.png"
+        "icon": "icon/skill/1225_basic_atk2.png"
     },
     "130101": {
         "id": "130101",
@@ -7235,7 +7235,7 @@
             [3.25, 0.18, 2],
             [3.5, 0.19, 2]
         ],
-        "icon": "icon/skill/1301_basic_atk.png"
+        "icon": "icon/skill/1301_basic_atk2.png"
     },
     "130201": {
         "id": "130201",
@@ -7410,7 +7410,7 @@
             [3.248, 6, 1.102, 180],
             [3.36, 6, 1.14, 180]
         ],
-        "icon": "icon/skill/1302_ultimate.png"
+        "icon": "icon/skill/1302_ultimate2.png"
     },
     "130301": {
         "id": "130301",
@@ -8674,7 +8674,7 @@
         "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "params": [],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/1310_basic_atk2.png"
     },
     "131007": {
         "id": "131007",
@@ -8715,7 +8715,7 @@
             [2.6, 0.2],
             [2.8, 0.2]
         ],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/1310_basic_atk2.png"
     },
     "131009": {
         "id": "131009",
@@ -8745,7 +8745,7 @@
             [2.4, 1.2, 0.25, 2, 0.2, 0.1, 3.6],
             [2.5, 1.25, 0.25, 2, 0.2, 0.1, 3.6]
         ],
-        "icon": "icon/skill/1310_skill.png"
+        "icon": "icon/skill/1310_skill2.png"
     },
     "131201": {
         "id": "131201",
@@ -9309,7 +9309,7 @@
         "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "params": [],
-        "icon": "icon/skill/1315_basic_atk.png"
+        "icon": "icon/skill/1315_maze_normal.png"
     },
     "131507": {
         "id": "131507",
@@ -9350,7 +9350,7 @@
             [2.86],
             [3.08]
         ],
-        "icon": "icon/skill/1315_basic_atk.png"
+        "icon": "icon/skill/1315_basic_atk2.png"
     },
     "131701": {
         "id": "131701",
@@ -9520,7 +9520,7 @@
             [1.24, 0.62, 1.24, 0.5],
             [1.32, 0.66, 1.32, 0.5]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "131710": {
         "id": "131710",
@@ -9545,7 +9545,7 @@
             [1.24, 0.62],
             [1.32, 0.66]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "131712": {
         "id": "131712",
@@ -9570,7 +9570,7 @@
             [1.24],
             [1.32]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "131714": {
         "id": "131714",
@@ -9651,7 +9651,7 @@
             [1.24, 0.62, 1.24, 0.5],
             [1.32, 0.66, 1.32, 0.5]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "132101": {
         "id": "132101",
@@ -9971,7 +9971,7 @@
             [0.96, 1, 0.48],
             [1, 1, 0.5]
         ],
-        "icon": "icon/skill/1401_skill.png"
+        "icon": "icon/skill/1401_skill2.png"
     },
     "140201": {
         "id": "140201",
@@ -10141,7 +10141,7 @@
             [2.6, 1.17, 2.6, 1.17],
             [2.8, 1.26, 2.8, 1.26]
         ],
-        "icon": "icon/skill/1402_basic_atk.png"
+        "icon": "icon/skill/1402_basic_atk2.png"
     },
     "140209": {
         "id": "140209",
@@ -10521,7 +10521,7 @@
             [3.36, 2.016, 150],
             [3.5, 2.1, 150]
         ],
-        "icon": "icon/skill/1404_skill.png"
+        "icon": "icon/skill/1404_skill2.png"
     },
     "140501": {
         "id": "140501",
@@ -10986,7 +10986,7 @@
             [0.4, 0.36, 0.6],
             [0.4, 0.375, 0.625]
         ],
-        "icon": "icon/skill/1407_skill.png"
+        "icon": "icon/skill/1407_skill2.png"
     },
     "140801": {
         "id": "140801",
@@ -11186,7 +11186,7 @@
             [3.25, 0.975, 2],
             [3.5, 1.05, 2]
         ],
-        "icon": "icon/skill/1408_basic_atk.png"
+        "icon": "icon/skill/1408_basic_atk2.png"
     },
     "140809": {
         "id": "140809",
@@ -11216,7 +11216,7 @@
             [0.48, 0.75, 4, 0.36, 0.2],
             [0.5, 0.75, 4, 0.375, 0.2]
         ],
-        "icon": "icon/skill/1408_skill.png"
+        "icon": "icon/skill/1408_skill2.png"
     },
     "140811": {
         "id": "140811",
@@ -11246,7 +11246,7 @@
             [5.4, 0.54, 4, 4, 14.04],
             [5.625, 0.5625, 4, 4, 14.625]
         ],
-        "icon": "icon/skill/1408_skill.png"
+        "icon": "icon/skill/1408_skill3.png"
     },
     "140901": {
         "id": "140901",
@@ -11665,7 +11665,7 @@
         "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "params": [],
-        "icon": "icon/skill/1412_basic_atk.png"
+        "icon": "icon/skill/1412_technique2.png"
     },
     "141207": {
         "id": "141207",
@@ -12169,7 +12169,7 @@
             [0.39, 3, 0.39],
             [0.42, 3, 0.42]
         ],
-        "icon": "icon/skill/1415_basic_atk.png"
+        "icon": "icon/skill/1415_basic_atk2.png"
     },
     "141514": {
         "id": "141514",
@@ -12199,7 +12199,7 @@
             [12],
             [12]
         ],
-        "icon": "icon/skill/1415_ultimate.png"
+        "icon": "icon/skill/1415_ultimate2.png"
     },
     "141519": {
         "id": "141519",
@@ -12383,7 +12383,7 @@
             [1.3, 0.65],
             [1.4, 0.7]
         ],
-        "icon": "icon/skill/1501_basic_atk.png"
+        "icon": "icon/skill/1501_basic_atk2.png"
     },
     "150109": {
         "id": "150109",
@@ -12413,7 +12413,7 @@
             [2, 1, 2, 0.24, 0.12],
             [2, 1, 2, 0.25, 0.125]
         ],
-        "icon": "icon/skill/1501_skill.png"
+        "icon": "icon/skill/1501_skill2.png"
     },
     "150110": {
         "id": "150110",
@@ -12438,7 +12438,7 @@
             [1.3, 0.65],
             [1.4, 0.7]
         ],
-        "icon": "icon/skill/1501_basic_atk.png"
+        "icon": "icon/skill/1501_basic_atk2.png"
     },
     "150120": {
         "id": "150120",
@@ -12468,7 +12468,7 @@
             [0.3, 0.6, 20, 2],
             [0.3125, 0.625, 20, 2]
         ],
-        "icon": null
+        "icon": "icon/skill/1501_elation.png"
     },
     "150201": {
         "id": "150201",
@@ -12643,7 +12643,7 @@
             [1, 1.2, 0.16, 3, 5, 0.24],
             [1, 1.25, 0.16, 3, 5, 0.25]
         ],
-        "icon": null
+        "icon": "icon/skill/1502_elation.png"
     },
     "150401": {
         "id": "150401",
@@ -12963,7 +12963,7 @@
             [5, 1.32],
             [5, 1.375]
         ],
-        "icon": null
+        "icon": "icon/skill/1505_elation.png"
     },
     "150601": {
         "id": "150601",
@@ -13133,7 +13133,7 @@
             [3.12, 0, 100, 1.3, 3, 60, 2, 0.15],
             [3.36, 0, 100, 1.4, 3, 60, 2, 0.15]
         ],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate0.png"
     },
     "150610": {
         "id": "150610",
@@ -13147,7 +13147,7 @@
         "simple_desc": "Inflige des comidégâts imaginaires massifs répartis équitablement entre tous les ennemis et inflige des DGT réels à la cible ayant le plus de PV en fonction du total de DGT infligés.",
         "desc": "Inflige des comidégâts imaginaires massifs répartis équitablement entre tous les ennemis et inflige des DGT réels à la cible ayant le plus de PV en fonction du total de DGT infligés.",
         "params": [],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate1.png"
     },
     "150612": {
         "id": "150612",
@@ -13161,7 +13161,7 @@
         "simple_desc": "Inflige des comidégâts imaginaires massifs répartis équitablement entre tous les ennemis et accorde des points de compétence.",
         "desc": "Inflige des comidégâts imaginaires massifs répartis équitablement entre tous les ennemis et accorde des points de compétence.",
         "params": [],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate2.png"
     },
     "150618": {
         "id": "150618",
@@ -13175,7 +13175,7 @@
         "simple_desc": "Inflige des comidégâts imaginaires massifs répartis équitablement entre tous les ennemis et accorde du Panache.",
         "desc": "Inflige des comidégâts imaginaires massifs répartis équitablement entre tous les ennemis et accorde du Panache.",
         "params": [],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate3.png"
     },
     "150620": {
         "id": "150620",
@@ -13205,7 +13205,7 @@
             [15],
             [15]
         ],
-        "icon": null
+        "icon": "icon/skill/1506_elation.png"
     },
     "150621": {
         "id": "150621",
@@ -13235,7 +13235,7 @@
             [1.08, 6],
             [1.125, 6]
         ],
-        "icon": null
+        "icon": "icon/skill/1506_elation02.png"
     },
     "150701": {
         "id": "150701",
@@ -13272,7 +13272,7 @@
         "effect": "AoEAttack",
         "effect_text": "ZdE",
         "simple_desc": "Consomme des PV et inflige des DGT de feu à tous les ennemis. Inflige ensuite des DGT de feu mineurs à des ennemis uniques qui rebondissent 4 fois.",
-        "desc": "Consomme un montant de PV équivalents à #4[i]% des PV max de Blade Mortenax, inflige des DGT de feu équivalents à #1[f1]% des PV max de Blade Mortenax à tous les ennemis, et inflige #2[i] instances de DGT supplémentaires, chacune infligeant des DGT de feu équivalents à #3[f1]% des PV max de Blade Mortenax à un ennemi aléatoire.\nSi les PV actuels de Blade Mortenax ne sont pas suffisants, ils tombent à 1 lors de l'utilisation de la compétence.\nSi Blade Mortenax n'est pas dans l'état Courroux éternel ou si ses PV sont égaux ou inférieurs à 1, il ne peut pas utiliser sa compétence.\nUtiliser la compétence ne consomme pas de points de compétence.",
+        "desc": "Consomme un montant de PV équivalents à #4[f1]% des PV max de Blade Mortenax, inflige des DGT de feu équivalents à #1[i]% des PV max de Blade Mortenax à tous les ennemis, et inflige #2[i] instances de DGT supplémentaires, chacune infligeant des DGT de feu équivalents à #3[f1]% des PV max de Blade Mortenax à un ennemi aléatoire.\nSi les PV actuels de Blade Mortenax ne sont pas suffisants, ils tombent à 1 lors de l'utilisation de la compétence.\nSi Blade Mortenax n'est pas dans l'état Courroux éternel ou si ses PV sont égaux ou inférieurs à 1, il ne peut pas utiliser sa compétence.\nUtiliser la compétence ne consomme pas de points de compétence.",
         "params": [
             [0.36, 4, 0.12, 0.1],
             [0.396, 4, 0.132, 0.1],
@@ -13405,7 +13405,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1507_basic_atk.png"
+        "icon": "icon/skill/1507_basic_atk2.png"
     },
     "150709": {
         "id": "150709",
@@ -13465,7 +13465,1087 @@
             [4.06],
             [4.2]
         ],
-        "icon": "icon/skill/1507_ultimate.png"
+        "icon": "icon/skill/1507_ultimate2.png"
+    },
+    "150801": {
+        "id": "150801",
+        "name": "Bajiquan",
+        "max_level": 10,
+        "element": "Quantum",
+        "type": "Normal",
+        "type_text": "ATQ normale",
+        "effect": "SingleAttack",
+        "effect_text": "Cible unique",
+        "simple_desc": "Inflige des DGT quantiques mineurs à un ennemi désigné.",
+        "desc": "Inflige des DGT quantiques équivalents à #1[i]% de l'ATQ de Rin Tohsaka à un ennemi désigné.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1508_basic_atk.png"
+    },
+    "150802": {
+        "id": "150802",
+        "name": "Épée ornée Zelretch",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Compétence",
+        "effect": "SingleAttack",
+        "effect_text": "Cible unique",
+        "simple_desc": "Inflige des DGT quantiques à un ennemi désigné.",
+        "desc": "Inflige des DGT quantiques équivalents à #1[i]% de l'ATQ de Rin Tohsaka à un ennemi désigné.",
+        "params": [
+            [0.9],
+            [0.99],
+            [1.08],
+            [1.17],
+            [1.26],
+            [1.35],
+            [1.4625],
+            [1.575],
+            [1.6875],
+            [1.8],
+            [1.89],
+            [1.98],
+            [2.07],
+            [2.16],
+            [2.25]
+        ],
+        "icon": "icon/skill/1508_skill.png"
+    },
+    "150803": {
+        "id": "150803",
+        "name": "An Gal Ta Ki Gal Šè",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Ultra",
+        "type_text": "Ultime",
+        "effect": "AoEAttack",
+        "effect_text": "ZdE",
+        "simple_desc": "Inflige des DGT quantiques massifs à un ennemi désigné et des DGT quantiques aux autres cibles ennemies. Lors de son utilisation, augmente les DGT subis par tous les ennemis et accorde des points de compétence aux alliés.",
+        "desc": "Inflige des DGT quantiques équivalents à #1[i]% de l'ATQ de Rin Tohsaka à un ennemi désigné, et des DGT quantiques équivalents à #2[i]% de l'ATQ de Rin Tohsaka aux autres cibles ennemies. Lors de l'utilisation de cette capacité, accorde #4[i] point de compétence aux alliés, et augmente les DGT subis par tous les ennemis de #5[i]% pour une durée de #6[i] tours.",
+        "params": [
+            [3, 1, 12, 1, 0.1, 3],
+            [3.3, 1.1, 12, 1, 0.11, 3],
+            [3.6, 1.2, 12, 1, 0.12, 3],
+            [3.9, 1.3, 12, 1, 0.13, 3],
+            [4.2, 1.4, 12, 1, 0.14, 3],
+            [4.5, 1.5, 12, 1, 0.15, 3],
+            [4.875, 1.625, 12, 1, 0.1625, 3],
+            [5.25, 1.75, 12, 1, 0.175, 3],
+            [5.625, 1.875, 12, 1, 0.1875, 3],
+            [6, 2, 12, 1, 0.2, 3],
+            [6.3, 2.1, 12, 1, 0.21, 3],
+            [6.6, 2.2, 12, 1, 0.22, 3],
+            [6.9, 2.3, 12, 1, 0.23, 3],
+            [7.2, 2.4, 12, 1, 0.24, 3],
+            [7.5, 2.5, 12, 1, 0.25, 3]
+        ],
+        "icon": "icon/skill/1508_ultimate.png"
+    },
+    "150804": {
+        "id": "150804",
+        "name": "Magie minérale",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "Enhance",
+        "effect_text": "Renforcement",
+        "simple_desc": "Au début du combat, obtient 20 points de Puissance minérale. Lorsqu'une cible alliée consomme ou récupère des points de compétence, augmente ses DGT critiques et Rin Tohsaka obtient de la Puissance minérale. Si Rin Tohsaka bénéficie d'au moins 15 points de Puissance minérale ou que le nombre de points de compétence actuel est supérieur ou égal à 7, sa compétence est renforcée en Seconde expérience magique.",
+        "desc": "Obtient #1[i] points de Puissance minérale en entrant en combat. Lorsqu'une cible alliée consomme ou récupère des points de compétence, ses DGT critiques augmentent de #3[i]% pendant #2[i] tours. Pour chaque point de compétence consommé ou récupéré, Rin Tohsaka gagne 1 point de Puissance minérale. Si Rin Tohsaka bénéficie d'au moins #5[i] points de Puissance minérale, ou si les points de compétence actuels sont supérieurs ou égaux à #4[i], sa compétence est renforcée en Seconde expérience magique.",
+        "params": [
+            [20, 2, 0.35, 7, 15, 999],
+            [20, 2, 0.385, 7, 15, 999],
+            [20, 2, 0.42, 7, 15, 999],
+            [20, 2, 0.455, 7, 15, 999],
+            [20, 2, 0.49, 7, 15, 999],
+            [20, 2, 0.525, 7, 15, 999],
+            [20, 2, 0.5687, 7, 15, 999],
+            [20, 2, 0.6125, 7, 15, 999],
+            [20, 2, 0.6562, 7, 15, 999],
+            [20, 2, 0.7, 7, 15, 999],
+            [20, 2, 0.735, 7, 15, 999],
+            [20, 2, 0.77, 7, 15, 999],
+            [20, 2, 0.805, 7, 15, 999],
+            [20, 2, 0.84, 7, 15, 999],
+            [20, 2, 0.875, 7, 15, 999]
+        ],
+        "icon": "icon/skill/1508_talent.png"
+    },
+    "150805": {
+        "id": "150805",
+        "name": "Style Tohsaka libre",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "AoEAttack",
+        "effect_text": "ZdE",
+        "simple_desc": "Après qu'Archer a attaqué avec sa compétence Caladbolg II : Épée spirale factice, s'il reste 3 points de compétence ou moins, ou si Caladbolg II : Épée spirale factice a été lancée activement 5 fois pendant l'état Connexion de circuits et que l'ATQ de suivi conjointe de Style Tohsaka libre n'a pas encore été activée, Rin Tohsaka et Archer lancent une ATQ de suivi conjointe sur tous les ennemis pour infliger des DGT quantiques massifs et accorder des points de compétence aux alliés. Cette ATQ de suivi conjointe ne peut s'activer qu'une seule fois. Le compteur d'activations se réinitialise à la fin du tour de Rin Tohsaka.",
+        "desc": "Après qu'Archer a utilisé sa compétence Caladbolg II : Épée spirale factice pour attaquer, s'il reste #3[i] points de compétence ou moins, ou si Caladbolg II : Épée spirale factice a été lancée activement 5 fois pendant l'état Connexion de circuits et que l'ATQ de suivi conjointe de Style Tohsaka libre n'a pas encore été activée, Rin Tohsaka et Archer lancent une ATQ de suivi conjointe sur tous les ennemis pour infliger séparément des DGT quantiques équivalents à #1[i]% de l'ATQ de Rin Tohsaka et #4[i]% de l'ATQ d'Archer. D'autre part, accorde #2[i] points de compétence aux alliés. Cette ATQ de suivi conjointe ne peut s'activer qu'une seule fois. Le compteur d'activations se réinitialise à la fin du tour de Rin Tohsaka.",
+        "params": [
+            [1.5, 4, 3, 1.5],
+            [1.65, 4, 3, 1.65],
+            [1.8, 4, 3, 1.8],
+            [1.95, 4, 3, 1.95],
+            [2.1, 4, 3, 2.1],
+            [2.25, 4, 3, 2.25],
+            [2.4375, 4, 3, 2.4375],
+            [2.625, 4, 3, 2.625],
+            [2.8125, 4, 3, 2.8125],
+            [3, 4, 3, 3],
+            [3.15, 4, 3, 3.15],
+            [3.3, 4, 3, 3.3],
+            [3.45, 4, 3, 3.45],
+            [3.6, 4, 3, 3.6],
+            [3.75, 4, 3, 3.75]
+        ],
+        "icon": "icon/skill/1508_talent.png"
+    },
+    "150806": {
+        "id": "150806",
+        "name": "Attaque",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+        "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+        "params": [],
+        "icon": "icon/skill/1508_technique2.png"
+    },
+    "150807": {
+        "id": "150807",
+        "name": "Conversion de charge",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Technique",
+        "effect": "Enhance",
+        "effect_text": "Renforcement",
+        "simple_desc": "Après avoir utilisé la technique, obtient 10 points de Puissance minérale au début du prochain combat.",
+        "desc": "Après avoir utilisé la technique, obtient #1[i] points de Puissance minérale au début du prochain combat.",
+        "params": [
+            [10, 2, 2]
+        ],
+        "icon": "icon/skill/1508_technique.png"
+    },
+    "150809": {
+        "id": "150809",
+        "name": "Seconde expérience magique",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Compétence",
+        "effect": "Bounce",
+        "effect_text": "Rebond",
+        "simple_desc": "Inflige des DGT quantiques mineurs à tous les ennemis, puis consomme la Puissance minérale pour infliger des DGT quantiques mineurs à une cible ennemie aléatoire un certain nombre de fois. Lors de l'utilisation de cette capacité, si les points de compétence actuels sont supérieurs à 2, consomme des points de compétence jusqu'à en conserver 2, et obtient immédiatement 2 points de Puissance minérale pour chaque point de compétence consommé.",
+        "desc": "Inflige des DGT quantiques équivalents à #1[i]% de l'ATQ de Rin Tohsaka à tous les ennemis. Consomme ensuite #2[i] points de Puissance minérale pour infliger des DGT quantiques supplémentaires équivalents à #3[i]% de l'ATQ de Rin Tohsaka à une cible ennemie aléatoire. Si Rin Tohsaka bénéficie d'au moins #2[i] points de Puissance minérale et que le champ de bataille compte des cibles ennemies dont les PV sont supérieurs à 0, cette opération se répète jusqu'à un maximum de #6[i] fois. Lors de l'utilisation de cette capacité, si le nombre de points de compétence actuel est supérieur à #4[i], consomme des points de compétence jusqu'à en conserver #4[i], et obtient immédiatement #5[i] points de Puissance minérale pour chaque point de compétence consommé.",
+        "params": [
+            [0.45, 3, 0.45, 2, 2, 33, 0, 1],
+            [0.495, 3, 0.495, 2, 2, 33, 0, 1],
+            [0.54, 3, 0.54, 2, 2, 33, 0, 1],
+            [0.585, 3, 0.585, 2, 2, 33, 0, 1],
+            [0.63, 3, 0.63, 2, 2, 33, 0, 1],
+            [0.675, 3, 0.675, 2, 2, 33, 0, 1],
+            [0.7312, 3, 0.7312, 2, 2, 33, 0, 1],
+            [0.7875, 3, 0.7875, 2, 2, 33, 0, 1],
+            [0.8438, 3, 0.8438, 2, 2, 33, 0, 1],
+            [0.9, 3, 0.9, 2, 2, 33, 0, 1],
+            [0.945, 3, 0.945, 2, 2, 33, 0, 1],
+            [0.99, 3, 0.99, 2, 2, 33, 0, 1],
+            [1.035, 3, 1.035, 2, 2, 33, 0, 1],
+            [1.08, 3, 1.08, 2, 2, 33, 0, 1],
+            [1.125, 3, 1.125, 2, 2, 33, 0, 1]
+        ],
+        "icon": "icon/skill/1508_skill2.png"
+    },
+    "150901": {
+        "id": "150901",
+        "name": "Coup indifférent",
+        "max_level": 10,
+        "element": "Thunder",
+        "type": "Normal",
+        "type_text": "ATQ normale",
+        "effect": "SingleAttack",
+        "effect_text": "Cible unique",
+        "simple_desc": "Inflige des DGT de foudre mineurs à un ennemi unique.",
+        "desc": "Inflige des DGT de foudre équivalents à #1[i]% de l'ATQ de Gilgamesh à une cible ennemie désignée.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1509_basic_atk.png"
+    },
+    "150902": {
+        "id": "150902",
+        "name": "Gate of Babylon",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "BPSkill",
+        "type_text": "Compétence",
+        "effect": "Blast",
+        "effect_text": "Propagation",
+        "simple_desc": "Obtient Reconnaissance du roi, ce qui permet aux DGT infligés d'ignorer une partie de la DÉF des cibles. Inflige des DGT de foudre à un ennemi unique et des DGT de foudre aux cibles adjacentes.",
+        "desc": "Obtient Reconnaissance du roi, ce qui permet aux DGT infligés d'ignorer #5[i]% de la DÉF des cibles pendant #6[i] tours.\nInflige des DGT de foudre équivalents à #1[i]% de l'ATQ de Gilgamesh à une cible ennemie désignée, et des DGT de foudre équivalents à #2[i]% de l'ATQ de Gilgamesh aux cibles adjacentes.",
+        "params": [
+            [1.4, 0.7, 0.1, 10, 0.15, 3, 2],
+            [1.54, 0.77, 0.11, 10, 0.165, 3, 2],
+            [1.68, 0.84, 0.12, 10, 0.18, 3, 2],
+            [1.82, 0.91, 0.13, 10, 0.195, 3, 2],
+            [1.96, 0.98, 0.14, 10, 0.21, 3, 2],
+            [2.1, 1.05, 0.15, 10, 0.225, 3, 2],
+            [2.275, 1.1375, 0.1625, 10, 0.2437, 3, 2],
+            [2.45, 1.225, 0.175, 10, 0.2625, 3, 2],
+            [2.625, 1.3125, 0.1875, 10, 0.2812, 3, 2],
+            [2.8, 1.4, 0.2, 10, 0.3, 3, 2],
+            [2.94, 1.47, 0.21, 10, 0.315, 3, 2],
+            [3.08, 1.54, 0.22, 10, 0.33, 3, 2],
+            [3.22, 1.61, 0.23, 10, 0.345, 3, 2],
+            [3.36, 1.68, 0.24, 10, 0.36, 3, 2],
+            [3.5, 1.75, 0.25, 10, 0.375, 3, 2]
+        ],
+        "icon": "icon/skill/1509_skill.png"
+    },
+    "150903": {
+        "id": "150903",
+        "name": "Enuma Elish",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "Ultra",
+        "type_text": "Ultime",
+        "effect": "AoEAttack",
+        "effect_text": "ZdE",
+        "simple_desc": "Inflige des DGT de foudre massifs à tous les ennemis. Inflige également des DGT de foudre mineurs à des ennemis aléatoires, rebondissant 10 fois.",
+        "desc": "Inflige des DGT de foudre équivalents à #1[i]% de l'ATQ de Gilgamesh à tous les ennemis et inflige #3[i] instances de DGT supplémentaires. Chaque instance inflige des DGT de foudre équivalents à #2[i]% de l'ATQ de Gilgamesh à un ennemi aléatoire.",
+        "params": [
+            [2, 0.5, 10],
+            [2.2, 0.55, 10],
+            [2.4, 0.6, 10],
+            [2.6, 0.65, 10],
+            [2.8, 0.7, 10],
+            [3, 0.75, 10],
+            [3.25, 0.8125, 10],
+            [3.5, 0.875, 10],
+            [3.75, 0.9375, 10],
+            [4, 1, 10],
+            [4.2, 1.05, 10],
+            [4.4, 1.1, 10],
+            [4.6, 1.15, 10],
+            [4.8, 1.2, 10],
+            [5, 1.25, 10]
+        ],
+        "icon": "icon/skill/1509_ultimate.png"
+    },
+    "150904": {
+        "id": "150904",
+        "name": "« Dévoue-toi et divertis-moi »",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "Enhance",
+        "effect_text": "Renforcement",
+        "simple_desc": "Lorsqu'un coéquipier utilise son ultime, Gilgamesh obtient Fardeau du roi, ce qui augmente les DGT d'ultime infligés.\nPour commencer, Gilgamesh utilise automatiquement son ATQ normale au début de son tour. Lorsqu'une autre cible alliée agit, Gilgamesh obtient 1 point d'Intérêt. Pour chaque point d'Intérêt dont bénéficie Gilgamesh, sa VIT augmente.\nLorsque l'Intérêt atteint 10 points pour la première fois, Gilgamesh entre dans l'état Curiosité. Dans cet état, seule la compétence peut être utilisée, et ce jusqu'à la fin du combat. Après l'utilisation de sa compétence, réinitialise l'Intérêt.",
+        "desc": "Lorsqu'un coéquipier utilise son ultime, Gilgamesh obtient Fardeau du roi, ce qui augmente les DGT d'ultime infligés de #3[i]% pour une durée de #1[i] tours.\nPour commencer, Gilgamesh utilise automatiquement son ATQ normale au début de son tour. Lorsqu'une autre cible alliée agit, Gilgamesh obtient 1 point d'Intérêt. Pour chaque point d'Intérêt dont bénéficie Gilgamesh, sa VIT augmente de #4[i]%.\nLorsque l'Intérêt atteint #2[i] points pour la première fois, Gilgamesh entre dans l'état Curiosité. Dans cet état, seule la compétence peut être utilisée, et ce jusqu'à la fin du combat. Après l'utilisation de sa compétence, réinitialise l'Intérêt.",
+        "params": [
+            [3, 10, 0.2, 0.1],
+            [3, 10, 0.22, 0.1],
+            [3, 10, 0.24, 0.1],
+            [3, 10, 0.26, 0.1],
+            [3, 10, 0.28, 0.1],
+            [3, 10, 0.3, 0.1],
+            [3, 10, 0.325, 0.1],
+            [3, 10, 0.35, 0.1],
+            [3, 10, 0.375, 0.1],
+            [3, 10, 0.4, 0.1],
+            [3, 10, 0.42, 0.1],
+            [3, 10, 0.44, 0.1],
+            [3, 10, 0.46, 0.1],
+            [3, 10, 0.48, 0.1],
+            [3, 10, 0.5, 0.1]
+        ],
+        "icon": "icon/skill/1509_talent.png"
+    },
+    "150905": {
+        "id": "150905",
+        "name": "« Je t'autorise à frapper »",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "AoEAttack",
+        "effect_text": "ZdE",
+        "simple_desc": "Lorsque Gilgamesh ou Saber attaque, le compteur d'attaques augmente. Après que n'importe quelle unité a attaqué, si le compteur d'attaques atteint 8 cumuls, Gilgamesh et Saber lancent une ATQ de suivi conjointe sur tous les ennemis pour infliger des DGT de foudre massifs et des DGT de vent massifs. Gilgamesh obtient 3 points d'Intérêt, et Saber régénère de l'énergie et augmente les DGT de son prochain ultime.",
+        "desc": "Lorsque Gilgamesh ou Saber attaque, le compteur d'attaques augmente de 1. Après que n'importe quelle unité a attaqué, si le compteur d'attaques atteint #5[i] cumuls, Gilgamesh et Saber lancent une ATQ de suivi conjointe qui inflige séparément des DGT de foudre équivalents à #1[i]% de l'ATQ de Gilgamesh et des DGT de vent équivalents à #2[i]% de l'ATQ de Saber à tous les ennemis. Gilgamesh obtient #3[i] points d'Intérêt, Saber régénère #4[i] points d'énergie et la prochaine utilisation de son ultime inflige des DGT équivalents à #6[i]% des DGT initiaux.\nLe compteur d'attaques cumulées est réinitialisé après l'utilisation de l'ATQ de suivi conjointe.",
+        "params": [
+            [2, 3, 3, 120, 8, 1.2],
+            [2.2, 3.3, 3, 120, 8, 1.28],
+            [2.4, 3.6, 3, 120, 8, 1.36],
+            [2.6, 3.9, 3, 120, 8, 1.44],
+            [2.8, 4.2, 3, 120, 8, 1.52],
+            [3, 4.5, 3, 120, 8, 1.6],
+            [3.25, 4.875, 3, 120, 8, 1.7],
+            [3.5, 5.25, 3, 120, 8, 1.8],
+            [3.75, 5.625, 3, 120, 8, 1.9],
+            [4, 6, 3, 120, 8, 2],
+            [4.2, 6.3, 3, 120, 8, 2.08],
+            [4.4, 6.6, 3, 120, 8, 2.16],
+            [4.6, 6.9, 3, 120, 8, 2.24],
+            [4.8, 7.2, 3, 120, 8, 2.32],
+            [5, 7.5, 3, 120, 8, 2.4]
+        ],
+        "icon": "icon/skill/1509_talent.png"
+    },
+    "150906": {
+        "id": "150906",
+        "name": "Attaque",
+        "max_level": 1,
+        "element": "Thunder",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+        "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+        "params": [],
+        "icon": "icon/skill/1509_basic_atk.png"
+    },
+    "150907": {
+        "id": "150907",
+        "name": "Enkidu",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Technique",
+        "effect": "Impair",
+        "effect_text": "Incapacitation",
+        "simple_desc": "Crée une dimension spéciale. Les ennemis situés dans cette dimension entrent dans l'état Permission du roi et cessent toute action.\nAttaquer un ennemi dans l'état Permission du roi fait rentrer simultanément tous les ennemis dans l'état Permission du roi en combat. Après l'entrée en combat, inflige des DGT de foudre à tous les ennemis et accorde immédiatement 3 points d'Intérêt.",
+        "desc": "Après avoir utilisé la technique, crée 1 dimension spéciale pour une durée de #1[i] secondes. Les ennemis situés dans cette dimension spéciale entrent dans l'état Permission du roi. Les ennemis dans l'état Permission du roi ne peuvent plus agir.\nLorsque le combat est engagé en attaquant activement un ennemi dans l'état Permission du roi, tous les ennemis dans l'état Permission du roi entrent en combat et Gilgamesh inflige des DGT de foudre équivalents à #2[i]% de son ATQ à tous les ennemis après être entré en combat. D'autre part, Gilgamesh obtient immédiatement #3[i] points d'Intérêt. Il ne peut exister qu'1 dimension créée par les alliés à la fois.",
+        "params": [
+            [10, 2, 3]
+        ],
+        "icon": "icon/skill/1509_technique.png"
+    },
+    "150909": {
+        "id": "150909",
+        "name": "Coup indifférent",
+        "max_level": 10,
+        "element": "Thunder",
+        "type": "BPSkill",
+        "type_text": "Compétence",
+        "effect": "SingleAttack",
+        "effect_text": "Cible unique",
+        "simple_desc": "",
+        "desc": "",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1509_basic_atk.png"
+    },
+    "151001": {
+        "id": "151001",
+        "name": "Première balise céleste allumée",
+        "max_level": 10,
+        "element": "Fire",
+        "type": "Normal",
+        "type_text": "ATQ normale",
+        "effect": "SingleAttack",
+        "effect_text": "Cible unique",
+        "simple_desc": "Inflige des DGT de feu mineurs à un ennemi.",
+        "desc": "Inflige des DGT de feu équivalents à #1[i]% de l'ATQ de Himeko • Nova à un ennemi unique.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1510_basic_atk.png"
+    },
+    "151002": {
+        "id": "151002",
+        "name": "Phare dans l'obscurité",
+        "max_level": 15,
+        "element": "",
+        "type": "BPSkill",
+        "type_text": "Compétence",
+        "effect": "Support",
+        "effect_text": "Soutien",
+        "simple_desc": "Après avoir utilisé la compétence, récupère immédiatement toutes les utilisations de la compétence de soutien et Himeko • Nova obtient Sémaphore de navigation. Lorsque Himeko • Nova bénéficie de Sémaphore de navigation, les DGT infligés augmentent. Au début de chaque tour, récupère immédiatement 1 utilisation de la compétence de soutien.",
+        "desc": "Après avoir utilisé sa compétence, récupère immédiatement toutes les utilisations de la compétence de soutien et Himeko • Nova obtient Sémaphore de navigation pour une durée de #2[i] tours. Au début du tour de Himeko • Nova, le nombre de tours diminue de 1. Lorsque Himeko • Nova bénéficie de Sémaphore de navigation, les DGT infligés par tous les alliés augmentent de #1[i]%. Au début de chaque tour, récupère immédiatement 1 utilisation de la compétence de soutien.",
+        "params": [
+            [0.1, 3],
+            [0.11, 3],
+            [0.12, 3],
+            [0.13, 3],
+            [0.14, 3],
+            [0.15, 3],
+            [0.1625, 3],
+            [0.175, 3],
+            [0.1875, 3],
+            [0.2, 3],
+            [0.21, 3],
+            [0.22, 3],
+            [0.23, 3],
+            [0.24, 3],
+            [0.25, 3]
+        ],
+        "icon": "icon/skill/1510_skill.png"
+    },
+    "151003": {
+        "id": "151003",
+        "name": "Nous aussi, nous poursuivons les étoiles",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Ultime",
+        "effect": "AoEAttack",
+        "effect_text": "ZdE",
+        "simple_desc": "Lors de l'ultime, lance Rayon de particules hyperluminales ou Impulsion d'annihilation orbitale sur tous les ennemis. Inflige ensuite des DGT de feu à 3 ennemis uniques aléatoires.",
+        "desc": "Himeko • Nova entre immédiatement aux commandes de l'Astroïde. L'Astroïde peut utiliser Rayon de particules hyperluminales 6 fois contre les ennemis, ou consommer l'Énergie primordiale pour lancer Impulsion d'annihilation orbitale et infliger des DGT de feu pouvant atteindre #9[i]% de l'ATQ de Himeko • Nova à un ennemi désigné et des DGT de feu pouvant atteindre #10[i]% de l'ATQ de Himeko • Nova aux autres cibles.\nLorsque les utilisations de Rayon de particules hyperluminales sont épuisées, lance automatiquement Impulsion d'annihilation orbitale, suivi d'un coup de grâce infligeant #6[i] instances de DGT. Chaque instance inflige des DGT de feu équivalents à #7[i]% de l'ATQ de Himeko • Nova à un ennemi aléatoire.\nLorsque Rayon de particules hyperluminales ou Impulsion d'annihilation orbitale inflige un coup fatal à tous les ennemis sur le champ de bataille, ou lorsque les PV des ennemis ne peuvent plus être réduits, lance immédiatement le coup de grâce.",
+        "params": [
+            [0.16, 1, 0.1, 1, 0.15, 3, 0.4, 3, 3.81, 1.26],
+            [0.176, 1, 0.11, 1, 0.165, 3, 0.44, 3, 4.191, 1.386],
+            [0.192, 1, 0.12, 1, 0.18, 3, 0.48, 3, 4.572, 1.512],
+            [0.208, 1, 0.13, 1, 0.195, 3, 0.52, 3, 4.953, 1.638],
+            [0.224, 1, 0.14, 1, 0.21, 3, 0.56, 3, 5.334, 1.764],
+            [0.24, 1, 0.15, 1, 0.225, 3, 0.6, 3, 5.715, 1.89],
+            [0.26, 1, 0.1625, 1, 0.2437, 3, 0.65, 3, 6.1913, 2.0475],
+            [0.28, 1, 0.175, 1, 0.2625, 3, 0.7, 3, 6.6675, 2.205],
+            [0.3, 1, 0.1875, 1, 0.2812, 3, 0.75, 3, 7.1437, 2.3625],
+            [0.32, 1, 0.2, 1, 0.3, 3, 0.8, 3, 7.62, 2.52],
+            [0.336, 1, 0.21, 1, 0.315, 3, 0.84, 3, 8.001, 2.646],
+            [0.352, 1, 0.22, 1, 0.33, 3, 0.88, 3, 8.382, 2.772],
+            [0.368, 1, 0.23, 1, 0.345, 3, 0.92, 3, 8.763, 2.898],
+            [0.384, 1, 0.24, 1, 0.36, 3, 0.96, 3, 9.144, 3.024],
+            [0.4, 1, 0.25, 1, 0.375, 3, 1, 3, 9.525, 3.15]
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151004": {
+        "id": "151004",
+        "name": "Voyage commun sur un chemin brûlant",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "Enhance",
+        "effect_text": "Renforcement",
+        "simple_desc": "Lorsque Himeko • Nova est sur le champ de bataille, déploie un territoire et tous les personnages alliés obtiennent la compétence de soutien. Lorsqu'un personnage allié utilise la compétence de soutien, la PÉN de RÉS à tous les types et les DGT critiques de Himeko • Nova augmentent, et les attaques de Himeko • Nova réduisent la robustesse qu'importent les types de faiblesses.\nLorsqu'un personnage allié autre que Himeko • Nova utilise la compétence de soutien, il régénère de l'énergie.",
+        "desc": "Lorsque Himeko • Nova est sur le champ de bataille, déploie immédiatement le territoire Vision de l'Astroïde. L'Astroïde apparaît alors sur le champ de bataille et accorde 1 utilisation de la compétence de soutien à tous les personnages alliés. Les personnages alliés peuvent utiliser la compétence de soutien pour attaquer les ennemis avec l'Astroïde.\nUtiliser la compétence de soutien est considéré comme l'utilisation de la compétence de Himeko • Nova. Augmente la PÉN de RÉS à tous les types de Himeko • Nova de #2[i]% et ses DGT critiques de #1[i]%. Ses attaques peuvent ignorer les types de faiblesses pour réduire la robustesse des ennemis. En cas de Rupture de faiblesse, déclenche l'effet de Rupture de faiblesse au feu.\nLorsqu'un personnage allié autre que Himeko • Nova utilise la compétence de soutien, il régénère #3[i] points d'énergie.",
+        "params": [
+            [0.4, 0.1, 4],
+            [0.44, 0.11, 4],
+            [0.48, 0.12, 4],
+            [0.52, 0.13, 4],
+            [0.56, 0.14, 4],
+            [0.6, 0.15, 4],
+            [0.65, 0.1625, 4],
+            [0.7, 0.175, 4],
+            [0.75, 0.1875, 4],
+            [0.8, 0.2, 4],
+            [0.84, 0.21, 4],
+            [0.88, 0.22, 4],
+            [0.92, 0.23, 4],
+            [0.96, 0.24, 4],
+            [1, 0.25, 4]
+        ],
+        "icon": "icon/skill/1510_talent.png"
+    },
+    "151006": {
+        "id": "151006",
+        "name": "Attaque",
+        "max_level": 1,
+        "element": "Fire",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+        "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
+        "params": [],
+        "icon": "icon/skill/1510_basic_atk.png"
+    },
+    "151007": {
+        "id": "151007",
+        "name": "Croisière d'exploration stellaire",
+        "max_level": 1,
+        "element": "Fire",
+        "type": "Maze",
+        "type_text": "Technique",
+        "effect": "Enhance",
+        "effect_text": "Renforcement",
+        "simple_desc": "Augmente la limite de points de technique de 3 points. Après utilisation active de la technique, entre dans l'état Croisière et dépense 2 points de technique pour attaquer tous les ennemis dans une zone définie. Après l'entrée en combat, utilise la compétence 1 fois au début de chaque vague.\nSi un ennemi normal est attaqué, il est immédiatement éliminé sans entrer en combat. Aucun point de technique n'est dépensé si aucun ennemi n'est touché.",
+        "desc": "Lorsque Himeko • Nova est dans l'équipe, la limite de points de technique augmente de 3 points.\nAprès utilisation de la technique, Himeko • Nova entre dans l'état Croisière pour une durée de #1[i] secondes. L'utilisation active de la technique consomme 2 points de technique et lance immédiatement une attaque contre tous les ennemis dans une zone définie. Après l'entrée en combat, utilise immédiatement la compétence 1 fois au début de chaque vague.\nSi Himeko • Nova attaque un ennemi normal, il est immédiatement éliminé sans entrer en combat. Aucun point de technique n'est consommé si aucun ennemi n'est touché.",
+        "params": [
+            [30]
+        ],
+        "icon": "icon/skill/1510_technique.png"
+    },
+    "151008": {
+        "id": "151008",
+        "name": "Rayon de particules hyperluminales",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Ultime",
+        "effect": "AoEAttack",
+        "effect_text": "ZdE",
+        "simple_desc": "Inflige des DGT de feu mineurs à tous les ennemis et obtient 1 point d'Énergie primordiale. La limite de points d'Énergie primordiale est de 3.",
+        "desc": "Inflige des DGT de feu équivalents à #1[i]% de l'ATQ de Himeko • Nova à tous les ennemis et obtient #2[i] point d'Énergie primordiale. La limite de points d'Énergie primordiale est de #3[i].",
+        "params": [
+            [0.16, 1, 3],
+            [0.176, 1, 3],
+            [0.192, 1, 3],
+            [0.208, 1, 3],
+            [0.224, 1, 3],
+            [0.24, 1, 3],
+            [0.26, 1, 3],
+            [0.28, 1, 3],
+            [0.3, 1, 3],
+            [0.32, 1, 3],
+            [0.336, 1, 3],
+            [0.352, 1, 3],
+            [0.368, 1, 3],
+            [0.384, 1, 3],
+            [0.4, 1, 3]
+        ],
+        "icon": "icon/skill/1510_basic_atk2.png"
+    },
+    "151009": {
+        "id": "151009",
+        "name": "Impulsion d'annihilation orbitale",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Ultime",
+        "effect": "AoEAttack",
+        "effect_text": "ZdE",
+        "simple_desc": "Consomme 1 point d'Énergie primordiale pour infliger des DGT de feu mineurs à tous les ennemis. Lorsque l'Énergie primordiale actuelle est supérieure à 1 point, pour chaque 1 point d'Énergie primordiale consommé, inflige 1 instance de DGT de feu mineurs à un ennemi aléatoire.",
+        "desc": "Consomme 1 point d'Énergie primordiale pour infliger des DGT de feu équivalents à #1[i]% de l'ATQ de Himeko • Nova à tous les ennemis. Lorsque l'Énergie primordiale actuelle est supérieure à 1 point, pour chaque #2[i] point d'Énergie primordiale consommé, inflige 1 instance supplémentaire de DGT de feu équivalents à #3[i]% de l'ATQ de Himeko • Nova à un ennemi aléatoire.",
+        "params": [
+            [0.1, 1, 0.15],
+            [0.11, 1, 0.165],
+            [0.12, 1, 0.18],
+            [0.13, 1, 0.195],
+            [0.14, 1, 0.21],
+            [0.15, 1, 0.225],
+            [0.1625, 1, 0.2437],
+            [0.175, 1, 0.2625],
+            [0.1875, 1, 0.2812],
+            [0.2, 1, 0.3],
+            [0.21, 1, 0.315],
+            [0.22, 1, 0.33],
+            [0.23, 1, 0.345],
+            [0.24, 1, 0.36],
+            [0.25, 1, 0.375]
+        ],
+        "icon": "icon/skill/1510_skill2.png"
+    },
+    "151014": {
+        "id": "151014",
+        "name": "Nous aussi, nous poursuivons les étoiles",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Ultime",
+        "effect": "AoEAttack",
+        "effect_text": "ZdE",
+        "simple_desc": "Inflige 0 instances de DGT. Chaque instance inflige des DGT de feu à un ennemi aléatoire.",
+        "desc": "Inflige #2[i] instances de DGT. Chaque instance inflige des DGT de feu à un ennemi aléatoire.",
+        "params": [
+            [3, 0.4],
+            [3, 0.44],
+            [3, 0.48],
+            [3, 0.52],
+            [3, 0.56],
+            [3, 0.6],
+            [3, 0.65],
+            [3, 0.7],
+            [3, 0.75],
+            [3, 0.8],
+            [3, 0.84],
+            [3, 0.88],
+            [3, 0.92],
+            [3, 0.96],
+            [3, 1]
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151022": {
+        "id": "151022",
+        "name": "Explorer à tes côtés",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Assist",
+        "type_text": "Compétence de soutien",
+        "effect": "AoEAttack",
+        "effect_text": "ZdE",
+        "simple_desc": "Inflige des DGT de feu mineurs à tous les ennemis, et des DGT de feu mineurs à 3 ennemis aléatoires. Lorsque cette capacité est utilisée par Himeko • Nova, inflige des DGT de feu mineurs à tous les ennemis, et des DGT de feu mineurs à 4 ennemis aléatoires. Si cette capacité est utilisée par un personnage des Compagnons pionniers autre que Himeko • Nova, elle obtient l'un des effets spéciaux.",
+        "desc": "Inflige des DGT de feu équivalents à #1[i]% de l'ATQ de Himeko • Nova à tous les ennemis, et inflige #2[i] instances de DGT supplémentaires. Chaque instance inflige des DGT de feu équivalents à #3[i]% de l'ATQ de Himeko • Nova à un ennemi aléatoire. Lorsque cette capacité est utilisée par Himeko • Nova, inflige des DGT de feu équivalents à #4[i]% de l'ATQ de Himeko • Nova à tous les ennemis, et inflige #5[i] instances de DGT supplémentaires. Chaque instance inflige des DGT de feu équivalents à #6[i]% de l'ATQ de Himeko • Nova à un ennemi aléatoire.\nSi cette capacité est utilisée par un personnage des Compagnons pionniers autre que Himeko • Nova, Himeko • Nova obtient l'un des effets spéciaux selon l'utilisateur.\nLa compétence de soutien supplémentaire lancée par tous les effets spéciaux peut être activée jusqu'à #8[i] fois par combat, et le compteur d'activations est réinitialisé après l'ultime de Himeko • Nova.",
+        "params": [
+            [0.8, 3, 0.12, 1, 4, 0.18, 4, 2],
+            [0.88, 3, 0.132, 1.1, 4, 0.194, 4, 2],
+            [0.96, 3, 0.144, 1.2, 4, 0.208, 4, 2],
+            [1.04, 3, 0.156, 1.3, 4, 0.222, 4, 2],
+            [1.12, 3, 0.168, 1.4, 4, 0.236, 4, 2],
+            [1.2, 3, 0.18, 1.5, 4, 0.25, 4, 2],
+            [1.3, 3, 0.195, 1.625, 4, 0.2675, 4, 2],
+            [1.4, 3, 0.21, 1.75, 4, 0.285, 4, 2],
+            [1.5, 3, 0.225, 1.875, 4, 0.3025, 4, 2],
+            [1.6, 3, 0.24, 2, 4, 0.32, 4, 2],
+            [1.68, 3, 0.252, 2.1, 4, 0.334, 4, 2],
+            [1.76, 3, 0.264, 2.2, 4, 0.348, 4, 2],
+            [1.84, 3, 0.276, 2.3, 4, 0.362, 4, 2],
+            [1.92, 3, 0.288, 2.4, 4, 0.376, 4, 2],
+            [2, 3, 0.3, 2.5, 4, 0.39, 4, 2]
+        ],
+        "icon": "icon/skill/1510_assist01.png"
+    },
+    "151025": {
+        "id": "151025",
+        "name": "Protocole de compagnon : Verdict",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Assist",
+        "type_text": "Compétence de soutien",
+        "effect": "AoEAttack",
+        "effect_text": "ZdE",
+        "simple_desc": "Entre dans l'état Protocole de compagnon : Verdict. Augmente les DGT infligés par Himeko • Nova, et augmente davantage les DGT d'ultime qu'elle inflige. Après 2 utilisations actives de l'ultime des coéquipiers de Himeko • Nova, elle lance immédiatement 1 compétence de soutien contre les ennemis.",
+        "desc": "Entre dans l'état Protocole de compagnon : Verdict. Les DGT infligés par Himeko • Nova augmentent de #8[i]%, et ses DGT d'ultime augmentent de #10[i]% supplémentaires. Après #9[i] utilisations actives de l'ultime des coéquipiers de Himeko • Nova, elle lance immédiatement 1 compétence de soutien contre les ennemis sans coût.",
+        "params": [
+            [0.8, 3, 0.12, 1, 4, 0.18, 4, 0.5, 2, 0.5],
+            [0.88, 3, 0.132, 1.1, 4, 0.194, 4, 0.55, 2, 0.55],
+            [0.96, 3, 0.144, 1.2, 4, 0.208, 4, 0.6, 2, 0.6],
+            [1.04, 3, 0.156, 1.3, 4, 0.222, 4, 0.65, 2, 0.65],
+            [1.12, 3, 0.168, 1.4, 4, 0.236, 4, 0.7, 2, 0.7],
+            [1.2, 3, 0.18, 1.5, 4, 0.25, 4, 0.75, 2, 0.75],
+            [1.3, 3, 0.195, 1.625, 4, 0.2675, 4, 0.8125, 2, 0.8125],
+            [1.4, 3, 0.21, 1.75, 4, 0.285, 4, 0.875, 2, 0.875],
+            [1.5, 3, 0.225, 1.875, 4, 0.3025, 4, 0.9375, 2, 0.9375],
+            [1.6, 3, 0.24, 2, 4, 0.32, 4, 1, 2, 1],
+            [1.68, 3, 0.252, 2.1, 4, 0.334, 4, 1.05, 2, 1.05],
+            [1.76, 3, 0.264, 2.2, 4, 0.348, 4, 1.1, 2, 1.1],
+            [1.84, 3, 0.276, 2.3, 4, 0.362, 4, 1.15, 2, 1.15],
+            [1.92, 3, 0.288, 2.4, 4, 0.376, 4, 1.2, 2, 1.2],
+            [2, 3, 0.3, 2.5, 4, 0.39, 4, 1.25, 2, 1.25]
+        ],
+        "icon": "icon/skill/1510_assist02.png"
+    },
+    "151026": {
+        "id": "151026",
+        "name": "Protocole de compagnon : Anéantissement",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Assist",
+        "type_text": "Compétence de soutien",
+        "effect": "AoEAttack",
+        "effect_text": "ZdE",
+        "simple_desc": "Entre dans l'état Protocole de compagnon : Anéantissement. Augmente les DGT critiques de tous les alliés et augmente davantage les DGT critiques infligés par les compétences. Obtient 1 point de charge pour chaque cible ennemie frappée par un allié. Lorsque la charge atteint 9 points, consomme toute la charge, et Himeko • Nova lance immédiatement 1 compétence de soutien contre les ennemis.",
+        "desc": "Entre dans l'état Protocole de compagnon : Anéantissement. Augmente les DGT critiques de tous les alliés de #8[i]%, et augmente les DGT critiques infligés par les compétences de #10[i]% supplémentaires. Obtient 1 point de charge pour chaque cible ennemie frappée par un allié. Lorsque la charge atteint #9[i] points, consomme toute la charge et Himeko • Nova lance immédiatement 1 compétence de soutien contre les ennemis sans coût. Cette instance de compétence de soutien ne peut pas générer de charge.",
+        "params": [
+            [0.8, 3, 0.12, 1, 4, 0.18, 4, 0.5, 9, 0.5],
+            [0.88, 3, 0.132, 1.1, 4, 0.194, 4, 0.55, 9, 0.55],
+            [0.96, 3, 0.144, 1.2, 4, 0.208, 4, 0.6, 9, 0.6],
+            [1.04, 3, 0.156, 1.3, 4, 0.222, 4, 0.65, 9, 0.65],
+            [1.12, 3, 0.168, 1.4, 4, 0.236, 4, 0.7, 9, 0.7],
+            [1.2, 3, 0.18, 1.5, 4, 0.25, 4, 0.75, 9, 0.75],
+            [1.3, 3, 0.195, 1.625, 4, 0.2675, 4, 0.8125, 9, 0.8125],
+            [1.4, 3, 0.21, 1.75, 4, 0.285, 4, 0.875, 9, 0.875],
+            [1.5, 3, 0.225, 1.875, 4, 0.3025, 4, 0.9375, 9, 0.9375],
+            [1.6, 3, 0.24, 2, 4, 0.32, 4, 1, 9, 1],
+            [1.68, 3, 0.252, 2.1, 4, 0.334, 4, 1.05, 9, 1.05],
+            [1.76, 3, 0.264, 2.2, 4, 0.348, 4, 1.1, 9, 1.1],
+            [1.84, 3, 0.276, 2.3, 4, 0.362, 4, 1.15, 9, 1.15],
+            [1.92, 3, 0.288, 2.4, 4, 0.376, 4, 1.2, 9, 1.2],
+            [2, 3, 0.3, 2.5, 4, 0.39, 4, 1.25, 9, 1.25]
+        ],
+        "icon": "icon/skill/1510_assist03.png"
+    },
+    "151201": {
+        "id": "151201",
+        "name": "Ton de la brise marine",
+        "max_level": 10,
+        "element": "Wind",
+        "type": "Normal",
+        "type_text": "ATQ normale",
+        "effect": "SingleAttack",
+        "effect_text": "Cible unique",
+        "simple_desc": "Inflige des DGT de vent mineurs à un ennemi unique.",
+        "desc": "Inflige des DGT de vent équivalents à #1[i]% des PV max de Robin • Estivaria à un ennemi unique.",
+        "params": [
+            [0.25],
+            [0.3],
+            [0.35],
+            [0.4],
+            [0.45],
+            [0.5],
+            [0.55],
+            [0.6],
+            [0.65],
+            [0.7]
+        ],
+        "icon": "icon/skill/1512_basic_atk.png"
+    },
+    "151202": {
+        "id": "151202",
+        "name": "Âme inondée de soleil",
+        "max_level": 15,
+        "element": "",
+        "type": "BPSkill",
+        "type_text": "Compétence",
+        "effect": "Summon",
+        "effect_text": "Invocation",
+        "simple_desc": "Invoque le mnémesprit Bassie des Gazouilleurs. Si un Gazouilleur est déjà sur le champ de bataille, restaure les PV des Gazouilleurs et obtient des points d'entrain.",
+        "desc": "Invoque le mnémesprit Bassie des Gazouilleurs. Si n'importe quel Gazouilleur est déjà sur le champ de bataille, restaure ses PV à hauteur de #1[i]% des PV max des Gazouilleurs et obtient #2[i] points d'entrain.",
+        "params": [
+            [0.5, 6],
+            [0.55, 6],
+            [0.6, 6],
+            [0.65, 6],
+            [0.7, 6],
+            [0.75, 6],
+            [0.8125, 6],
+            [0.875, 6],
+            [0.9375, 6],
+            [1, 6],
+            [1.05, 6],
+            [1.1, 6],
+            [1.15, 6],
+            [1.2, 6],
+            [1.25, 6]
+        ],
+        "icon": "icon/skill/1512_skill.png"
+    },
+    "151203": {
+        "id": "151203",
+        "name": "Immersion d'une rhapsodie bleue",
+        "max_level": 15,
+        "element": "",
+        "type": "Ultra",
+        "type_text": "Ultime",
+        "effect": "Support",
+        "effect_text": "Soutien",
+        "simple_desc": "Avance l'action d'un personnage allié désigné (à l'exception de Robin • Estivaria), lui régénère des points d'énergie et lui applique Invité d'honneur. Lorsque le personnage avec Invité d'honneur ou son mnémesprit attaque, accorde de l'entrain supplémentaire à Robin • Estivaria, mais ne peut avancer l'action des autres cibles alliées.",
+        "desc": "Avance l'action d'un personnage allié désigné de #1[i]% (à l'exception de Robin • Estivaria), lui régénère une quantité d'énergie fixe équivalente à #3[f1]% de son énergie max et lui accorde ensuite l'effet Invité d'honneur. Lorsque le personnage avec Invité d'honneur ou son mnémesprit attaque, accorde #2[i] points d'entrain supplémentaires à Robin • Estivaria mais ne peut pas avancer l'action d'autres cibles alliées. Cet effet dure 2 tours, et la durée diminue de 1 tour au début de chaque tour de l'Invité d'honneur.",
+        "params": [
+            [1, 2, 0.12, 0],
+            [1, 2, 0.128, 0],
+            [1, 2, 0.136, 0],
+            [1, 2, 0.144, 0],
+            [1, 2, 0.152, 0],
+            [1, 2, 0.16, 0],
+            [1, 2, 0.17, 0],
+            [1, 2, 0.18, 0],
+            [1, 2, 0.19, 0],
+            [1, 2, 0.2, 0],
+            [1, 2, 0.208, 0],
+            [1, 2, 0.216, 0],
+            [1, 2, 0.224, 0],
+            [1, 2, 0.232, 0],
+            [1, 2, 0.24, 0]
+        ],
+        "icon": "icon/skill/1512_ultimate.png"
+    },
+    "151204": {
+        "id": "151204",
+        "name": "Survol des cieux",
+        "max_level": 15,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "Enhance",
+        "effect_text": "Renforcement",
+        "simple_desc": "Lorsqu'une cible alliée attaque, prodigue des soins ou accorde un bouclier, Robin • Estivaria gagne des points d'entrain. Lorsque l'entrain atteint un certain nombre de points, invoque respectivement Battrie et Paddie des Gazouilleurs. Après l'entrée en scène de tous les membres des Gazouilleurs, Robin • Estivaria et les Gazouilleurs entrent dans l'état Liesse et déploient une zone. Lorsque les cibles alliées à l'intérieur de la zone infligent des DGT, elles ignorent une partie de la DÉF des cibles ennemies.\nDans l'état Liesse, Robin • Estivaria et les Gazouilleurs sont immunisés contre les malus de contrôle. D'autre part, Robin • Estivaria ne commence pas son tour avant que l'état Liesse ne prenne fin.",
+        "desc": "Les mnémesprits Gazouilleurs bénéficient de PV max initiaux équivalents à #1[i]% des PV max de Robin • Estivaria et d'une VIT initiale équivalente à #2[i]% de la VIT de Robin • Estivaria. Lorsqu'une cible alliée utilise une attaque, ou la première fois qu'elle accorde un soin ou un bouclier durant le tour de n'importe quelle cible, Robin • Estivaria gagne 1 point d'entrain, jusqu'à un maximum de #5[i] points. Lorsque le membre Bassie des Gazouilleurs se trouve sur le champ de bataille, si l'entrain de Robin • Estivaria est d'au moins #6[i] points, invoque immédiatement le membre Battrie des Gazouilleurs, et si l'entrain est d'au moins #7[i] points, invoque immédiatement le membre Paddie des Gazouilleurs. Lorsque tous les membres des Gazouilleurs sont sur scène, dissipe tous les malus de contrôle dont Robin • Estivaria et les Gazouilleurs sont affectés, puis ils entrent dans l'état Liesse et déploient une zone. Lorsque les cibles alliées à l'intérieur de la zone infligent des DGT, elles ignorent (#8[f1]% + points d'entrain × #9[f1]%) de la DÉF des ennemis.\nTant qu'ils se trouvent dans l'état Liesse, Robin • Estivaria et les Gazouilleurs sont immunisés contre les malus de contrôle, et Robin • Estivaria ne commence pas son tour avant que l'état Liesse ne prenne fin.",
+        "params": [
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.105, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.11, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.115, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.12, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.125, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1313, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1375, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1437, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.15, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.155, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.16, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.165, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.17, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.175, 0.005]
+        ],
+        "icon": "icon/skill/1512_talent.png"
+    },
+    "151206": {
+        "id": "151206",
+        "name": "Attaque",
+        "max_level": 1,
+        "element": "Wind",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après l'entrée en combat.",
+        "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après l'entrée en combat.",
+        "params": [],
+        "icon": "icon/skill/1512_basic_atk.png"
+    },
+    "151207": {
+        "id": "151207",
+        "name": "Notre union est une mélodie",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Technique",
+        "effect": "Enhance",
+        "effect_text": "Renforcement",
+        "simple_desc": "Une fois le combat engagé, avance l'action, gagne immédiatement des points d'entrain et augmente les DGT infligés par tous les alliés.",
+        "desc": "Au début du combat suivant l'utilisation de la technique, avance l'action de #3[i]%, gagne immédiatement #1[i] points d'entrain et augmente les DGT infligés par tous les alliés de #2[i]% pendant 2 tours.",
+        "params": [
+            [6, 0.3, 0.2]
+        ],
+        "icon": "icon/skill/1512_technique.png"
+    },
+    "151301": {
+        "id": "151301",
+        "name": "Torrent droit au cœur",
+        "max_level": 10,
+        "element": "Quantum",
+        "type": "Normal",
+        "type_text": "ATQ normale",
+        "effect": "SingleAttack",
+        "effect_text": "Cible unique",
+        "simple_desc": "Inflige des DGT quantiques mineurs à un ennemi désigné.",
+        "desc": "Inflige des DGT quantiques équivalents à #1[i]% de l'ATQ d'Aventurine • Croisette à un ennemi désigné.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1513_basic_atk.png"
+    },
+    "151302": {
+        "id": "151302",
+        "name": "Exécution des sables ardents",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Compétence",
+        "effect": "AoEAttack",
+        "effect_text": "ZdE",
+        "simple_desc": "Inflige des DGT quantiques à tous les ennemis, et gagne du Panache ainsi que de la Ferveur.",
+        "desc": "Inflige des DGT quantiques équivalents à #1[i]% de l'ATQ d'Aventurine • Croisette à tous les ennemis, et gagne #2[i] points de Panache ainsi que #3[i] points de Ferveur.",
+        "params": [
+            [1.2, 4, 4],
+            [1.32, 4, 4],
+            [1.44, 4, 4],
+            [1.56, 4, 4],
+            [1.68, 4, 4],
+            [1.8, 4, 4],
+            [1.95, 4, 4],
+            [2.1, 4, 4],
+            [2.25, 4, 4],
+            [2.4, 4, 4],
+            [2.52, 4, 4],
+            [2.64, 4, 4],
+            [2.76, 4, 4],
+            [2.88, 4, 4],
+            [3, 4, 4]
+        ],
+        "icon": "icon/skill/1513_skill.png"
+    },
+    "151303": {
+        "id": "151303",
+        "name": "Vague de la victoire",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Ultra",
+        "type_text": "Ultime",
+        "effect": "AoEAttack",
+        "effect_text": "ZdE",
+        "simple_desc": "Inflige des DGT quantiques massifs à tous les ennemis, gagne du Panache et de la Ferveur, et augmente la VIT.",
+        "desc": "Inflige des DGT quantiques équivalents à #1[i]% de l'ATQ d'Aventurine • Croisette à tous les ennemis, et gagne #3[i] points de Panache ainsi que #2[i] points de Ferveur. Augmente la VIT de cette unité de #4[i]% pendant #5[i] tours.",
+        "params": [
+            [2.4, 8, 6, 0.12, 4],
+            [2.56, 8, 6, 0.138, 4],
+            [2.72, 8, 6, 0.156, 4],
+            [2.88, 8, 6, 0.174, 4],
+            [3.04, 8, 6, 0.192, 4],
+            [3.2, 8, 6, 0.21, 4],
+            [3.4, 8, 6, 0.2325, 4],
+            [3.6, 8, 6, 0.255, 4],
+            [3.8, 8, 6, 0.2775, 4],
+            [4, 8, 6, 0.3, 4],
+            [4.16, 8, 6, 0.318, 4],
+            [4.32, 8, 6, 0.336, 4],
+            [4.48, 8, 6, 0.354, 4],
+            [4.64, 8, 6, 0.372, 4],
+            [4.8, 8, 6, 0.39, 4]
+        ],
+        "icon": "icon/skill/1513_ultimate.png"
+    },
+    "151304": {
+        "id": "151304",
+        "name": "Un pari au son des abysses",
+        "max_level": 15,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "Enhance",
+        "effect_text": "Renforcement",
+        "simple_desc": "La durée du Banger absolu d'Aventurine • Croisette augmente de 1 tour. Après l'attaque d'un coéquipier, Aventurine • Croisette gagne de la Ferveur et du Panache.\nLorsque la Ferveur atteint une certaine valeur, Aventurine • Croisette utilise immédiatement À la santé d'un bel été 1 fois, avec une quantité fixe de Panache comptabilisée, puis renforce la comicompétence qu'il lance lors du prochain Moment d'Aha en Au pari d'un bel été.\nLorsqu'Aventurine • Croisette bénéficie de Banger absolu, sa compétence et son ultime infligent des comidégâts quantiques supplémentaires à tous les ennemis.",
+        "desc": "La durée du Banger absolu d'Aventurine • Croisette augmente de 1 tour. Après l'attaque d'un coéquipier, Aventurine • Croisette gagne #7[i] point de Ferveur et #6[i] point de Panache. La limite de Ferveur est de #4[i].\nLorsque la Ferveur atteint #1[i], Aventurine • Croisette utilise À la santé d'un bel été 1 fois avec un nombre fixe de #5[i] points de Panache comptabilisé. Après cette utilisation d'À la santé d'un bel été, renforce la prochaine comicompétence lancée par cette unité lors du Moment d'Aha en Au pari d'un bel été.\nLorsqu'Aventurine • Croisette bénéficie de Banger absolu, sa compétence inflige #2[i]% de comidégâts quantiques supplémentaires à tous les ennemis, et son ultime inflige #3[i]% de comidégâts quantiques supplémentaires à tous les ennemis.",
+        "params": [
+            [10, 0.2, 0.36, 30, 20, 1, 1],
+            [10, 0.22, 0.396, 30, 20, 1, 1],
+            [10, 0.24, 0.432, 30, 20, 1, 1],
+            [10, 0.26, 0.468, 30, 20, 1, 1],
+            [10, 0.28, 0.504, 30, 20, 1, 1],
+            [10, 0.3, 0.54, 30, 20, 1, 1],
+            [10, 0.325, 0.585, 30, 20, 1, 1],
+            [10, 0.35, 0.63, 30, 20, 1, 1],
+            [10, 0.375, 0.675, 30, 20, 1, 1],
+            [10, 0.4, 0.72, 30, 20, 1, 1],
+            [10, 0.42, 0.756, 30, 20, 1, 1],
+            [10, 0.44, 0.792, 30, 20, 1, 1],
+            [10, 0.46, 0.828, 30, 20, 1, 1],
+            [10, 0.48, 0.864, 30, 20, 1, 1],
+            [10, 0.5, 0.9, 30, 20, 1, 1]
+        ],
+        "icon": "icon/skill/1513_talent.png"
+    },
+    "151306": {
+        "id": "151306",
+        "name": "Attaque",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après l'entrée en combat.",
+        "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après l'entrée en combat.",
+        "params": [],
+        "icon": "icon/skill/1513_basic_atk.png"
+    },
+    "151307": {
+        "id": "151307",
+        "name": "Trouble en eaux calmes",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "Maze",
+        "type_text": "Technique",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Avance rapidement sur une distance définie et attaque les ennemis au contact. Lors de l'entrée en combat après avoir attaqué un ennemi, inflige des DGT quantiques mineurs à tous les ennemis et obtient de la Ferveur ainsi que du Banger absolu. Aucun point de technique n'est consommé si aucun ennemi n'est touché.",
+        "desc": "Avance rapidement sur une distance définie, ce qui attaque tous les ennemis au contact et bloque toutes les attaques ennemies. Lors de l'entrée en combat après avoir activement attaqué un ennemi, Aventurine • Croisette inflige des DGT quantiques équivalents à #1[i]% de son ATQ à tous les ennemis, et gagne #2[i] points de Ferveur ainsi que #3[i] points de Banger absolu. Aucun point de technique n'est consommé si aucun ennemi n'est touché.",
+        "params": [
+            [1, 2, 20]
+        ],
+        "icon": "icon/skill/1513_technique.png"
+    },
+    "151320": {
+        "id": "151320",
+        "name": "À la santé d'un bel été",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "ElationDamage",
+        "type_text": "Comicompétence",
+        "effect": "AoEAttack",
+        "effect_text": "ZdE",
+        "simple_desc": "Inflige des comidégâts quantiques à tous les ennemis, puis inflige des comidégâts quantiques mineurs supplémentaires à un ennemi aléatoire, rebondissant un total de 10 fois.",
+        "desc": "Inflige #1[i]% de comidégâts quantiques à tous les ennemis, puis inflige #2[i] instances de DGT supplémentaires. Chaque instance inflige #3[f1]% de comidégâts quantiques à un ennemi aléatoire.",
+        "params": [
+            [0.3, 10, 0.09],
+            [0.33, 10, 0.099],
+            [0.36, 10, 0.108],
+            [0.39, 10, 0.117],
+            [0.42, 10, 0.126],
+            [0.45, 10, 0.135],
+            [0.4875, 10, 0.1462],
+            [0.525, 10, 0.1575],
+            [0.5625, 10, 0.1688],
+            [0.6, 10, 0.18],
+            [0.63, 10, 0.189],
+            [0.66, 10, 0.198],
+            [0.69, 10, 0.207],
+            [0.72, 10, 0.216],
+            [0.75, 10, 0.225]
+        ],
+        "icon": "icon/skill/1513_elation.png"
+    },
+    "151321": {
+        "id": "151321",
+        "name": "Au pari d'un bel été",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "ElationDamage",
+        "type_text": "Comicompétence",
+        "effect": "AoEAttack",
+        "effect_text": "ZdE",
+        "simple_desc": "Inflige des comidégâts quantiques à tous les ennemis, puis inflige des comidégâts quantiques mineurs à un ennemi aléatoire, rebondissant un total de 10 fois. D'autre part, consomme toute la Ferveur. Pour chaque point de Ferveur consommé, inflige 1 instance de comidégâts quantiques mineurs à un ennemi aléatoire.",
+        "desc": "Inflige #1[i]% de comidégâts quantiques à tous les ennemis, puis inflige #3[i] instances de DGT supplémentaires. Chaque instance inflige #4[f1]% de comidégâts quantiques à un ennemi aléatoire. Consomme toute la Ferveur après utilisation. Pour chaque point de Ferveur consommé, inflige une instance de #2[f1]% de comidégâts quantiques supplémentaires à un ennemi aléatoire.",
+        "params": [
+            [0.3, 0.105, 10, 0.09],
+            [0.33, 0.1155, 10, 0.099],
+            [0.36, 0.126, 10, 0.108],
+            [0.39, 0.1365, 10, 0.117],
+            [0.42, 0.147, 10, 0.126],
+            [0.45, 0.1575, 10, 0.135],
+            [0.4875, 0.1706, 10, 0.1462],
+            [0.525, 0.1837, 10, 0.1575],
+            [0.5625, 0.1969, 10, 0.1688],
+            [0.6, 0.21, 10, 0.18],
+            [0.63, 0.2205, 10, 0.189],
+            [0.66, 0.231, 10, 0.198],
+            [0.69, 0.2415, 10, 0.207],
+            [0.72, 0.252, 10, 0.216],
+            [0.75, 0.2625, 10, 0.225]
+        ],
+        "icon": "icon/skill/1513_elation02.png"
     },
     "800101": {
         "id": "800101",
@@ -13640,7 +14720,7 @@
             [5.1],
             [5.25]
         ],
-        "icon": "icon/skill/8001_ultimate.png"
+        "icon": "icon/skill/8001_basic_atk2.png"
     },
     "800109": {
         "id": "800109",
@@ -13670,7 +14750,7 @@
             [3.06, 1.836],
             [3.15, 1.89]
         ],
-        "icon": "icon/skill/8001_ultimate.png"
+        "icon": "icon/skill/8001_skill2.png"
     },
     "800201": {
         "id": "800201",
@@ -13845,7 +14925,7 @@
             [5.1],
             [5.25]
         ],
-        "icon": "icon/skill/8002_ultimate.png"
+        "icon": "icon/skill/8002_basic_atk2.png"
     },
     "800209": {
         "id": "800209",
@@ -13875,7 +14955,7 @@
             [3.06, 1.836],
             [3.15, 1.89]
         ],
-        "icon": "icon/skill/8002_ultimate.png"
+        "icon": "icon/skill/8002_skill2.png"
     },
     "800301": {
         "id": "800301",
@@ -14045,7 +15125,7 @@
             [1.6875, 0.675],
             [1.8, 0.72]
         ],
-        "icon": "icon/skill/8003_basic_atk.png"
+        "icon": "icon/skill/8003_basic_atk2.png"
     },
     "800401": {
         "id": "800401",
@@ -14215,7 +15295,7 @@
             [1.6875, 0.675],
             [1.8, 0.72]
         ],
-        "icon": "icon/skill/8004_basic_atk.png"
+        "icon": "icon/skill/8004_basic_atk2.png"
     },
     "800501": {
         "id": "800501",
@@ -14675,7 +15755,7 @@
             [1.56, 1.56, 0.1],
             [1.68, 1.68, 0.1]
         ],
-        "icon": "icon/skill/8007_basic_atk.png"
+        "icon": "icon/skill/8007_basic_atk2.png"
     },
     "800709": {
         "id": "800709",
@@ -14859,7 +15939,7 @@
             [1.56, 1.56, 0.1],
             [1.68, 1.68, 0.1]
         ],
-        "icon": "icon/skill/8008_basic_atk.png"
+        "icon": "icon/skill/8008_basic_atk2.png"
     },
     "800809": {
         "id": "800809",
@@ -15002,7 +16082,7 @@
         "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "params": [],
-        "icon": "icon/skill/8009_basic_atk.png"
+        "icon": "icon/skill/8009_technique2.png"
     },
     "800907": {
         "id": "800907",
@@ -15048,7 +16128,7 @@
             [8, 0.24, 0.72],
             [8, 0.25, 0.75]
         ],
-        "icon": null
+        "icon": "icon/skill/8009_elation.png"
     },
     "801001": {
         "id": "801001",
@@ -15177,7 +16257,7 @@
         "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "params": [],
-        "icon": "icon/skill/8010_basic_atk.png"
+        "icon": "icon/skill/8010_technique2.png"
     },
     "801007": {
         "id": "801007",
@@ -15223,7 +16303,7 @@
             [8, 0.24, 0.72],
             [8, 0.25, 0.75]
         ],
-        "icon": null
+        "icon": "icon/skill/8010_elation.png"
     },
     "1100401": {
         "id": "1100401",
@@ -15248,7 +16328,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1004_basic_atk.png"
+        "icon": "icon/skill/11004_basic_atk.png"
     },
     "1100402": {
         "id": "1100402",
@@ -15278,7 +16358,7 @@
             [0.864, 0.79, 0.1, 2],
             [0.9, 0.8, 0.1, 2]
         ],
-        "icon": "icon/skill/1004_skill.png"
+        "icon": "icon/skill/11004_skill.png"
     },
     "1100403": {
         "id": "1100403",
@@ -15308,7 +16388,7 @@
             [1.74, 0.144, 1, 0.1, 0.04, 8, 2],
             [1.8, 0.15, 1, 0.1, 0.04, 8, 2]
         ],
-        "icon": "icon/skill/1004_ultimate.png"
+        "icon": "icon/skill/11004_ultimate.png"
     },
     "1100404": {
         "id": "1100404",
@@ -15338,7 +16418,7 @@
             [1.2, 0.4, 0.05],
             [1.25, 0.4, 0.05]
         ],
-        "icon": "icon/skill/1004_talent.png"
+        "icon": "icon/skill/11004_talent.png"
     },
     "1100406": {
         "id": "1100406",
@@ -15352,7 +16432,7 @@
         "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "params": [],
-        "icon": "icon/skill/1004_basic_atk.png"
+        "icon": "icon/skill/11004_basic_atk.png"
     },
     "1100407": {
         "id": "1100407",
@@ -15368,7 +16448,7 @@
         "params": [
             [1, 0.2, 0.1, 15, 0.5]
         ],
-        "icon": "icon/skill/1004_technique.png"
+        "icon": "icon/skill/11004_technique.png"
     },
     "1100501": {
         "id": "1100501",
@@ -15393,7 +16473,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1005_basic_atk.png"
+        "icon": "icon/skill/11005_basic_atk.png"
     },
     "1100502": {
         "id": "1100502",
@@ -15423,7 +16503,7 @@
             [1.92, 0.81, 0.72, 0.54],
             [2, 0.825, 0.75, 0.55]
         ],
-        "icon": "icon/skill/1005_skill.png"
+        "icon": "icon/skill/11005_skill.png"
     },
     "1100503": {
         "id": "1100503",
@@ -15453,7 +16533,7 @@
             [0.928, 1, 2, 3.4655, 1.28],
             [0.96, 1, 2, 3.6069, 1.3]
         ],
-        "icon": "icon/skill/1005_ultimate.png"
+        "icon": "icon/skill/11005_ultimate.png"
     },
     "1100504": {
         "id": "1100504",
@@ -15483,7 +16563,7 @@
             [1.792, 1, 2, 1, 2],
             [1.89, 1, 2, 1, 2]
         ],
-        "icon": "icon/skill/1005_talent.png"
+        "icon": "icon/skill/11005_talent.png"
     },
     "1100506": {
         "id": "1100506",
@@ -15497,7 +16577,7 @@
         "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "params": [],
-        "icon": "icon/skill/1005_basic_atk.png"
+        "icon": "icon/skill/11005_basic_atk.png"
     },
     "1100507": {
         "id": "1100507",
@@ -15513,7 +16593,7 @@
         "params": [
             [1, 2, 0.5]
         ],
-        "icon": "icon/skill/1005_technique.png"
+        "icon": "icon/skill/11005_technique.png"
     },
     "1100601": {
         "id": "1100601",
@@ -15538,7 +16618,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1006_basic_atk.png"
+        "icon": "icon/skill/11006_basic_atk.png"
     },
     "1100602": {
         "id": "1100602",
@@ -15568,7 +16648,7 @@
             [2.352, 1.36, 3, 0.2, 1, 0.14, 2],
             [2.45, 1.4, 3, 0.2, 1, 0.1425, 2]
         ],
-        "icon": "icon/skill/1006_skill.png"
+        "icon": "icon/skill/11006_skill.png"
     },
     "1100603": {
         "id": "1100603",
@@ -15598,7 +16678,7 @@
             [4.408, 1.36, 0.486, 3],
             [4.56, 1.4, 0.495, 3]
         ],
-        "icon": "icon/skill/1006_ultimate.png"
+        "icon": "icon/skill/11006_ultimate.png"
     },
     "1100604": {
         "id": "1100604",
@@ -15628,7 +16708,7 @@
             [0.12, 0.144, 0.072, 1.16, 3],
             [0.125, 0.15, 0.075, 1.2, 3]
         ],
-        "icon": "icon/skill/1006_talent.png"
+        "icon": "icon/skill/11006_talent.png"
     },
     "1100606": {
         "id": "1100606",
@@ -15642,7 +16722,7 @@
         "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "params": [],
-        "icon": "icon/skill/1006_basic_atk.png"
+        "icon": "icon/skill/11006_basic_atk.png"
     },
     "1100607": {
         "id": "1100607",
@@ -15658,7 +16738,7 @@
         "params": [
             [0.8]
         ],
-        "icon": "icon/skill/1006_technique.png"
+        "icon": "icon/skill/11006_technique.png"
     },
     "1110201": {
         "id": "1110201",
@@ -15683,7 +16763,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1102_basic_atk.png"
+        "icon": "icon/skill/11102_basic_atk.png"
     },
     "1110202": {
         "id": "1110202",
@@ -15713,7 +16793,7 @@
             [4.32, 0.25, 3, 0.5],
             [4.5, 0.25, 3, 0.5]
         ],
-        "icon": "icon/skill/1102_skill.png"
+        "icon": "icon/skill/11102_skill.png"
     },
     "1110203": {
         "id": "1110203",
@@ -15743,7 +16823,7 @@
             [8.64],
             [9]
         ],
-        "icon": "icon/skill/1102_ultimate.png"
+        "icon": "icon/skill/11102_ultimate.png"
     },
     "1110204": {
         "id": "1110204",
@@ -15773,7 +16853,7 @@
             [0.96, 3],
             [1, 3]
         ],
-        "icon": "icon/skill/1102_talent.png"
+        "icon": "icon/skill/11102_talent.png"
     },
     "1110206": {
         "id": "1110206",
@@ -15787,7 +16867,7 @@
         "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "params": [],
-        "icon": "icon/skill/1102_basic_atk.png"
+        "icon": "icon/skill/11102_basic_atk.png"
     },
     "1110207": {
         "id": "1110207",
@@ -15803,7 +16883,7 @@
         "params": [
             [20]
         ],
-        "icon": "icon/skill/1102_technique.png"
+        "icon": "icon/skill/11102_technique.png"
     },
     "1120501": {
         "id": "1120501",
@@ -15828,7 +16908,7 @@
             [0.65],
             [0.7]
         ],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/11205_basic_atk.png"
     },
     "1120502": {
         "id": "1120502",
@@ -15858,7 +16938,7 @@
             [0.3, 3, 1, 0.512, 10],
             [0.3, 3, 1, 0.54, 10]
         ],
-        "icon": "icon/skill/1205_skill.png"
+        "icon": "icon/skill/11205_skill.png"
     },
     "1120503": {
         "id": "1120503",
@@ -15888,7 +16968,7 @@
             [1.74, 1.16, 0.696, 0.58, 1.392, 0.696, 0.9],
             [1.8, 1.2, 0.72, 0.6, 1.44, 0.72, 0.9]
         ],
-        "icon": "icon/skill/1205_ultimate.png"
+        "icon": "icon/skill/11205_ultimate.png"
     },
     "1120504": {
         "id": "1120504",
@@ -15918,7 +16998,7 @@
             [3, 1.56, 0.25, 1.56],
             [3, 1.625, 0.25, 1.625]
         ],
-        "icon": "icon/skill/1205_talent.png"
+        "icon": "icon/skill/11205_talent.png"
     },
     "1120506": {
         "id": "1120506",
@@ -15932,7 +17012,7 @@
         "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "params": [],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/11205_basic_atk.png"
     },
     "1120507": {
         "id": "1120507",
@@ -15948,7 +17028,7 @@
         "params": [
             [0.4, 0.2]
         ],
-        "icon": "icon/skill/1205_technique.png"
+        "icon": "icon/skill/11205_technique.png"
     },
     "1120508": {
         "id": "1120508",
@@ -15973,7 +17053,7 @@
             [0.1, 1.69, 0.676, 1.69, 0.52],
             [0.1, 1.82, 0.728, 1.82, 0.56]
         ],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/11205_basic_atk2.png"
     },
     "1121201": {
         "id": "1121201",
@@ -15998,7 +17078,7 @@
             [0.65],
             [0.7]
         ],
-        "icon": "icon/skill/1212_basic_atk.png"
+        "icon": "icon/skill/11212_basic_atk.png"
     },
     "1121202": {
         "id": "1121202",
@@ -16028,7 +17108,7 @@
             [1.8, 1],
             [1.875, 1]
         ],
-        "icon": "icon/skill/1212_skill.png"
+        "icon": "icon/skill/11212_skill.png"
     },
     "1121203": {
         "id": "1121203",
@@ -16058,7 +17138,7 @@
             [2.16, 1, 1.08, 1],
             [2.25, 1, 1.125, 1]
         ],
-        "icon": "icon/skill/1212_ultimate.png"
+        "icon": "icon/skill/11212_ultimate.png"
     },
     "1121204": {
         "id": "1121204",
@@ -16088,7 +17168,7 @@
             [0.3, 0.05, 0.528, 5, 2, 1, 0.54, 20],
             [0.3, 0.05, 0.55, 5, 2, 1, 0.55, 20]
         ],
-        "icon": "icon/skill/1212_talent.png"
+        "icon": "icon/skill/11212_talent.png"
     },
     "1121206": {
         "id": "1121206",
@@ -16102,7 +17182,7 @@
         "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "params": [],
-        "icon": "icon/skill/1212_basic_atk.png"
+        "icon": "icon/skill/11212_basic_atk.png"
     },
     "1121207": {
         "id": "1121207",
@@ -16118,7 +17198,7 @@
         "params": [
             [1, 1, 20, 1, 0.8, 15]
         ],
-        "icon": "icon/skill/1212_technique.png"
+        "icon": "icon/skill/11212_technique.png"
     },
     "1121209": {
         "id": "1121209",
@@ -16148,7 +17228,7 @@
             [1.8, 1, 0.9],
             [1.875, 1, 0.9375]
         ],
-        "icon": "icon/skill/1212_skill.png"
+        "icon": "icon/skill/11212_skill2.png"
     },
     "1121701": {
         "id": "1121701",
@@ -16173,7 +17253,7 @@
             [0.65],
             [0.7]
         ],
-        "icon": "icon/skill/1217_basic_atk.png"
+        "icon": "icon/skill/11217_basic_atk.png"
     },
     "1121702": {
         "id": "1121702",
@@ -16203,7 +17283,7 @@
             [0.272, 784, 0.2176, 627.2, 1],
             [0.28, 820, 0.224, 656, 1]
         ],
-        "icon": "icon/skill/1217_skill.png"
+        "icon": "icon/skill/11217_skill.png"
     },
     "1121703": {
         "id": "1121703",
@@ -16233,7 +17313,7 @@
             [0.22, 0.464, 2],
             [0.225, 0.48, 2]
         ],
-        "icon": "icon/skill/1217_ultimate.png"
+        "icon": "icon/skill/11217_ultimate.png"
     },
     "1121704": {
         "id": "1121704",
@@ -16263,7 +17343,7 @@
             [3, 1, 0.051, 0, 147, 0.5, 6],
             [3, 1, 0.0525, 0, 153.75, 0.5, 6]
         ],
-        "icon": "icon/skill/1217_talent.png"
+        "icon": "icon/skill/11217_talent.png"
     },
     "1121706": {
         "id": "1121706",
@@ -16277,7 +17357,7 @@
         "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "params": [],
-        "icon": "icon/skill/1217_basic_atk.png"
+        "icon": "icon/skill/11217_basic_atk.png"
     },
     "1121707": {
         "id": "1121707",
@@ -16293,7 +17373,7 @@
         "params": [
             [1, 0.25, 2, 10]
         ],
-        "icon": "icon/skill/1217_technique.png"
+        "icon": "icon/skill/11217_technique.png"
     },
     "1130601": {
         "id": "1130601",
@@ -16318,7 +17398,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1306_basic_atk.png"
+        "icon": "icon/skill/11306_basic_atk.png"
     },
     "1130602": {
         "id": "1130602",
@@ -16348,7 +17428,7 @@
             [0.288, 0.522, 2, 0.5],
             [0.3, 0.54, 2, 0.5]
         ],
-        "icon": "icon/skill/1306_skill.png"
+        "icon": "icon/skill/11306_skill.png"
     },
     "1130603": {
         "id": "1130603",
@@ -16378,7 +17458,7 @@
             [2, 6, 0.0696, 3, 10],
             [2, 6, 0.072, 3, 10]
         ],
-        "icon": "icon/skill/1306_ultimate.png"
+        "icon": "icon/skill/11306_ultimate.png"
     },
     "1130604": {
         "id": "1130604",
@@ -16408,7 +17488,7 @@
             [2, 0.048, 2, 3],
             [2, 0.05, 2, 3]
         ],
-        "icon": "icon/skill/1306_talent.png"
+        "icon": "icon/skill/11306_talent.png"
     },
     "1130606": {
         "id": "1130606",
@@ -16422,7 +17502,7 @@
         "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "params": [],
-        "icon": "icon/skill/1306_basic_atk.png"
+        "icon": "icon/skill/11306_basic_atk.png"
     },
     "1130607": {
         "id": "1130607",
@@ -16438,7 +17518,7 @@
         "params": [
             [3, 20]
         ],
-        "icon": "icon/skill/1306_technique.png"
+        "icon": "icon/skill/11306_technique.png"
     },
     "1130701": {
         "id": "1130701",
@@ -16463,7 +17543,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1307_basic_atk.png"
+        "icon": "icon/skill/11307_basic_atk.png"
     },
     "1130702": {
         "id": "1130702",
@@ -16493,7 +17573,7 @@
             [1.08, 3, 1, 0.232],
             [1.125, 3, 1, 0.238]
         ],
-        "icon": "icon/skill/1307_skill.png"
+        "icon": "icon/skill/11307_skill.png"
     },
     "1130703": {
         "id": "1130703",
@@ -16523,7 +17603,7 @@
             [1.392, 2, 0.29, 0.5],
             [1.44, 2, 0.3, 0.5]
         ],
-        "icon": "icon/skill/1307_ultimate.png"
+        "icon": "icon/skill/11307_ultimate.png"
     },
     "1130704": {
         "id": "1130704",
@@ -16553,7 +17633,7 @@
             [2.88, 0.71, 0.144, 0.144, 2.16, 0, 0.2, 50],
             [3, 0.725, 0.15, 0.15, 2.25, 0, 0.2, 50]
         ],
-        "icon": "icon/skill/1307_talent.png"
+        "icon": "icon/skill/11307_talent.png"
     },
     "1130706": {
         "id": "1130706",
@@ -16567,7 +17647,7 @@
         "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "params": [],
-        "icon": "icon/skill/1307_basic_atk.png"
+        "icon": "icon/skill/11307_basic_atk.png"
     },
     "1130707": {
         "id": "1130707",
@@ -16583,7 +17663,7 @@
         "params": [
             [1.5, 0.5]
         ],
-        "icon": "icon/skill/1307_technique.png"
+        "icon": "icon/skill/11307_technique.png"
     },
     "1131001": {
         "id": "1131001",
@@ -16608,7 +17688,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/11310_basic_atk.png"
     },
     "1131002": {
         "id": "1131002",
@@ -16638,7 +17718,7 @@
             [2.4, 0.4, 0.64, 0.25],
             [2.5, 0.4, 0.65, 0.25]
         ],
-        "icon": "icon/skill/1310_skill.png"
+        "icon": "icon/skill/11310_skill.png"
     },
     "1131003": {
         "id": "1131003",
@@ -16668,7 +17748,7 @@
             [0.24, 0.5, 72, 70],
             [0.25, 0.5, 75, 70]
         ],
-        "icon": "icon/skill/1310_ultimate.png"
+        "icon": "icon/skill/11310_ultimate.png"
     },
     "1131004": {
         "id": "1131004",
@@ -16698,7 +17778,7 @@
             [0.48, 0.5, 0.2, 0.38],
             [0.5, 0.5, 0.2, 0.4]
         ],
-        "icon": "icon/skill/1310_talent.png"
+        "icon": "icon/skill/11310_talent.png"
     },
     "1131006": {
         "id": "1131006",
@@ -16712,7 +17792,7 @@
         "simple_desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "desc": "Attaque un ennemi et réduit sa robustesse du type correspondant après être entré en combat.",
         "params": [],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/11310_basic_atk2.png"
     },
     "1131007": {
         "id": "1131007",
@@ -16728,7 +17808,7 @@
         "params": [
             [5, 2, 2]
         ],
-        "icon": "icon/skill/1310_technique.png"
+        "icon": "icon/skill/11310_technique.png"
     },
     "1131008": {
         "id": "1131008",
@@ -16753,7 +17833,7 @@
             [2.6, 0.2],
             [2.8, 0.2]
         ],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/11310_basic_atk2.png"
     },
     "1131009": {
         "id": "1131009",
@@ -16783,7 +17863,7 @@
             [2.4, 1.2, 0, 0, 0.2, 0.1, 3.6, 0],
             [2.5, 1.25, 0, 0, 0.2, 0.1, 3.6, 0]
         ],
-        "icon": "icon/skill/1310_skill.png"
+        "icon": "icon/skill/11310_skill2.png"
     },
     "1140201": {
         "id": "1140201",
@@ -16808,7 +17888,7 @@
             [1.43, 0.858, 1],
             [1.54, 0.924, 1]
         ],
-        "icon": "icon/skill/1402_memosprite_skill.png"
+        "icon": "icon/skill/1402_memosprite_skill1.png"
     },
     "1140203": {
         "id": "1140203",
@@ -16908,7 +17988,7 @@
             [0.52],
             [0.56]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill1.png"
     },
     "1140702": {
         "id": "1140702",
@@ -16933,7 +18013,7 @@
             [0.25, 0.312, 0.364, 0.442, 0.25],
             [0.25, 0.336, 0.392, 0.476, 0.25]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill2.png"
     },
     "1140703": {
         "id": "1140703",
@@ -17008,7 +18088,7 @@
             [0.52, 6, 0.078, 1040],
             [0.56, 6, 0.084, 1120]
         ],
-        "icon": "icon/skill/1407_memosprite_talent.png"
+        "icon": "icon/skill/1407_memosprite_skill4.png"
     },
     "1140710": {
         "id": "1140710",
@@ -17033,7 +18113,7 @@
             [0.25],
             [0.25]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill2.png"
     },
     "1140711": {
         "id": "1140711",
@@ -17058,7 +18138,7 @@
             [0.25],
             [0.25]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill2.png"
     },
     "1140712": {
         "id": "1140712",
@@ -17083,7 +18163,7 @@
             [0.52, 6, 0.078, 1040],
             [0.56, 6, 0.084, 1120]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill4.png"
     },
     "1140901": {
         "id": "1140901",
@@ -17297,7 +18377,7 @@
             [0.156, 0.078, 16],
             [0.168, 0.084, 16]
         ],
-        "icon": "icon/skill/1413_memosprite_skill.png"
+        "icon": "icon/skill/1413_memosprite_skill2.png"
     },
     "1141501": {
         "id": "1141501",
@@ -17322,7 +18402,7 @@
             [0.78, 12],
             [0.84, 12]
         ],
-        "icon": "icon/skill/1415_memosprite_skill.png"
+        "icon": "icon/skill/1415_memosprite_skill2.png"
     },
     "1141502": {
         "id": "1141502",
@@ -17738,6 +18818,106 @@
         ],
         "icon": "icon/skill/1415_memosprite_skill.png"
     },
+    "1151201": {
+        "id": "1151201",
+        "name": "Quatuor gazouillant",
+        "max_level": 10,
+        "element": "Wind",
+        "type": "MemospriteSkill",
+        "type_text": "Compétence du mnémesprit",
+        "effect": "AoEAttack",
+        "effect_text": "ZdE",
+        "simple_desc": "Inflige des DGT de vent massifs à tous les ennemis.",
+        "desc": "Inflige à tous les ennemis des DGT de vent équivalents à #2[f1]% des PV max des Gazouilleurs.",
+        "params": [
+            [0, 0.75],
+            [0, 0.9],
+            [0, 1.05],
+            [0, 1.2],
+            [0, 1.35],
+            [0, 1.5],
+            [0, 1.65],
+            [0, 1.8],
+            [0, 1.95],
+            [0, 2.1]
+        ],
+        "icon": "icon/skill/1512_memosprite_skill.png"
+    },
+    "1151203": {
+        "id": "1151203",
+        "name": "Harmonie virevoltante",
+        "max_level": 10,
+        "element": "",
+        "type": "MemospriteTalent",
+        "type_text": "Talent du mnémesprit",
+        "effect": "Support",
+        "effect_text": "Soutien",
+        "simple_desc": "Dans l'état Liesse, augmente les DGT que Robin • Estivaria et cette unité infligent. Les Gazouilleurs utilisent la compétence du mnémesprit au début de leur tour. Lorsque les points d'entrain atteignent 0, les Gazouilleurs disparaissent, ce qui dissipe l'état Liesse de Robin • Estivaria. Lorsque des Gazouilleurs sont sur le champ de bataille, les DGT subis par tous les ennemis augmentent en fonction du nombre de membres.",
+        "desc": "Dans l'état Liesse, les Gazouilleurs ainsi qu'un compte à rebours apparaissent dans l'ordre d'action, ce qui augmente les DGT infligés par Robin • Estivaria et eux-mêmes de #1[i]% + points d'entrain × #2[f1]%. Au début du tour des Gazouilleurs, ils utilisent la compétence du mnémesprit. La VIT initiale du compte à rebours est de #9[i]. Au début du tour du compte à rebours, #10[i]% des points d'entrain actuels sont déduits (#6[i] points minimum). Lorsque les points d'entrain atteignent 0, les Gazouilleurs disparaissent et Robin • Estivaria quitte l'état Liesse. Tant que les Gazouilleurs sont sur le champ de bataille, les DGT subis par tous les ennemis augmentent respectivement de #3[f1]%/#4[f1]%/#5[f1]% en fonction du nombre de membres présents.",
+        "params": [
+            [0.3, 0.01, 0.04, 0.06, 0.08, 12, 0, 0, 140, 0.5],
+            [0.36, 0.012, 0.048, 0.072, 0.096, 12, 0, 0, 140, 0.5],
+            [0.42, 0.014, 0.056, 0.084, 0.112, 12, 0, 0, 140, 0.5],
+            [0.48, 0.016, 0.064, 0.096, 0.128, 12, 0, 0, 140, 0.5],
+            [0.54, 0.018, 0.072, 0.108, 0.144, 12, 0, 0, 140, 0.5],
+            [0.6, 0.02, 0.08, 0.12, 0.16, 12, 0, 0, 140, 0.5],
+            [0.66, 0.022, 0.088, 0.132, 0.176, 12, 0, 0, 140, 0.5],
+            [0.72, 0.024, 0.096, 0.144, 0.192, 12, 0, 0, 140, 0.5],
+            [0.78, 0.026, 0.104, 0.156, 0.208, 12, 0, 0, 140, 0.5],
+            [0.84, 0.028, 0.112, 0.168, 0.224, 12, 0, 0, 140, 0.5]
+        ],
+        "icon": "icon/skill/1512_memosprite_talent.png"
+    },
+    "1151205": {
+        "id": "1151205",
+        "name": "Au cœur des battements de la mer",
+        "max_level": 10,
+        "element": "",
+        "type": "MemospriteTalent",
+        "type_text": "Talent du mnémesprit",
+        "effect": "Support",
+        "effect_text": "Soutien",
+        "simple_desc": "Robin • Estivaria régénère des points d'énergie lors de l'invocation.",
+        "desc": "Lorsqu'un Gazouilleur est invoqué, Robin • Estivaria régénère #1[i] points d'énergie.",
+        "params": [
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20]
+        ],
+        "icon": "icon/skill/1512_memosprite_talent.png"
+    },
+    "1151206": {
+        "id": "1151206",
+        "name": "Chevauchée du vent nocturne estival",
+        "max_level": 10,
+        "element": "",
+        "type": "MemospriteTalent",
+        "type_text": "Talent du mnémesprit",
+        "effect": "Support",
+        "effect_text": "Soutien",
+        "simple_desc": "Avance l'action de Robin • Estivaria lors de la disparition.",
+        "desc": "Lorsqu'un Gazouilleur disparaît, avance l'action de Robin • Estivaria de #1[i]%.",
+        "params": [
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5]
+        ],
+        "icon": "icon/skill/1512_memosprite_talent.png"
+    },
     "1800701": {
         "id": "1800701",
         "name": "Du balai les méchants !",
@@ -17761,7 +18941,7 @@
             [0.468, 4, 1.17],
             [0.504, 4, 1.26]
         ],
-        "icon": "icon/skill/8007_memosprite_skill.png"
+        "icon": "icon/skill/8007_memosprite_skill1.png"
     },
     "1800703": {
         "id": "1800703",
@@ -17861,6 +19041,6 @@
             [0.34, 3, 1],
             [0.36, 3, 1]
         ],
-        "icon": "icon/skill/8007_memosprite_skill.png"
+        "icon": "icon/skill/8007_memosprite_skill2.png"
     }
 }

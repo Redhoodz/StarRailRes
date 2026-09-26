@@ -865,38 +865,74 @@
     },
     "263": {
         "id": "263",
-        "name": "",
-        "type": "",
+        "name": "신은 불행 때문에 눈물을 흘릴까?",
+        "type": "비화",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "264": {
         "id": "264",
-        "name": "",
-        "type": "",
+        "name": "신은 무의미함 때문에 눈물을 흘릴까?",
+        "type": "비화",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "265": {
         "id": "265",
-        "name": "",
-        "type": "",
+        "name": "신은 시간 때문에 눈물을 흘릴까?",
+        "type": "비화",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "266": {
         "id": "266",
-        "name": "",
-        "type": "",
+        "name": "신은 지루함 때문에 눈물을 흘릴까?",
+        "type": "비화",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "267": {
         "id": "267",
-        "name": "",
-        "type": "",
+        "name": "신은 향수 때문에 눈물을 흘릴까?",
+        "type": "비화",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "268": {
         "id": "268",
-        "name": "",
-        "type": "",
+        "name": "신은 자아 때문에 눈물을 흘릴까?",
+        "type": "비화",
+        "image": "image/simulated_event/RoguePicEventTourn_03.png"
+    },
+    "269": {
+        "id": "269",
+        "name": "신은 살아있음 때문에 눈물을 흘릴까?",
+        "type": "비화",
+        "image": "image/simulated_event/RoguePicEventTourn_03.png"
+    },
+    "270": {
+        "id": "270",
+        "name": "신은 창조물 때문에 눈물을 흘릴까?",
+        "type": "비화",
+        "image": "image/simulated_event/RoguePicEventTourn_03.png"
+    },
+    "271": {
+        "id": "271",
+        "name": "신은 운명 때문에 눈물을 흘릴까?",
+        "type": "비화",
+        "image": "image/simulated_event/RoguePicEventTourn_03.png"
+    },
+    "272": {
+        "id": "272",
+        "name": "신은 타락 때문에 눈물을 흘릴까?",
+        "type": "비화",
+        "image": "image/simulated_event/RoguePicEventTourn_03.png"
+    },
+    "273": {
+        "id": "273",
+        "name": "신은 그림자 때문에 눈물을 흘릴까?",
+        "type": "비화",
+        "image": "image/simulated_event/RoguePicEventTourn_03.png"
+    },
+    "274": {
+        "id": "274",
+        "name": "신은 우리 때문에 눈물을 흘릴까?",
+        "type": "비화",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "398": {
@@ -2977,74 +3013,134 @@
     },
     "700103": {
         "id": "700103",
-        "name": "",
-        "type": "",
+        "name": "도시 미관 관리 (구역)",
+        "type": "주조",
         "image": "image/simulated_event/PicRogueEvent_46.png"
     },
     "700108": {
         "id": "700108",
-        "name": "",
-        "type": "",
+        "name": "도시 미관 관리 (타워트 카드)",
+        "type": "주조",
         "image": "image/simulated_event/PicRogueEvent_46.png"
     },
     "727801": {
         "id": "727801",
-        "name": "",
-        "type": "",
+        "name": "숙적 (1)",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_12.png"
     },
     "727802": {
         "id": "727802",
-        "name": "",
-        "type": "",
+        "name": "숙적 (2)",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_12.png"
     },
     "727803": {
         "id": "727803",
-        "name": "",
-        "type": "",
+        "name": "숙적 (3)",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_12.png"
     },
     "727901": {
         "id": "727901",
-        "name": "",
-        "type": "",
+        "name": "술집 음료",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_44.png"
     },
     "728001": {
         "id": "728001",
-        "name": "",
-        "type": "",
+        "name": "휴가철 상인",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_46.png"
     },
     "728101": {
         "id": "728101",
-        "name": "",
-        "type": "",
+        "name": "신비한 링크",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_45.png"
     },
     "728201": {
         "id": "728201",
-        "name": "",
-        "type": "",
+        "name": "환월 아래 (초토)",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_47.png"
     },
     "728202": {
         "id": "728202",
-        "name": "",
-        "type": "",
+        "name": "환월 아래 (그림 속)",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_47.png"
     },
     "728203": {
         "id": "728203",
-        "name": "",
-        "type": "",
+        "name": "환월 아래 (현대)",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_47.png"
     },
     "728301": {
         "id": "728301",
-        "name": "",
-        "type": "",
+        "name": "유머, 막 출고된",
+        "type": "사건",
         "image": "image/simulated_event/PicRogueEvent_2.png"
+    },
+    "728401": {
+        "id": "728401",
+        "name": "항로 계획",
+        "type": "사건",
+        "image": "image/simulated_event/PicRogueEvent_40.png"
+    },
+    "728501": {
+        "id": "728501",
+        "name": "먹이 주기 시즌",
+        "type": "사건",
+        "image": "image/simulated_event/PicRogueEvent_27.png"
+    },
+    "728601": {
+        "id": "728601",
+        "name": "신비한 링크 (2)",
+        "type": "사건",
+        "image": "image/simulated_event/PicRogueEvent_45.png"
+    },
+    "728701": {
+        "id": "728701",
+        "name": "가짜 보안관",
+        "type": "사건",
+        "image": "image/simulated_event/PicRogueEvent_44.png"
+    },
+    "728801": {
+        "id": "728801",
+        "name": "아, 달콤한 복수 (1)",
+        "type": "사건",
+        "image": "image/simulated_event/PicRogueEvent_46.png"
+    },
+    "728802": {
+        "id": "728802",
+        "name": "아, 달콤한 복수 (2)",
+        "type": "사건",
+        "image": "image/simulated_event/PicRogueEvent_46.png"
+    },
+    "728901": {
+        "id": "728901",
+        "name": "동화 나라",
+        "type": "사건",
+        "image": "image/simulated_event/PicRogueEvent_47.png"
+    },
+    "729001": {
+        "id": "729001",
+        "name": "하늘 정복 (1)",
+        "type": "사건",
+        "image": "image/simulated_event/PicRogueEvent_41.png"
+    },
+    "729002": {
+        "id": "729002",
+        "name": "하늘 정복 (2)",
+        "type": "사건",
+        "image": "image/simulated_event/PicRogueEvent_41.png"
+    },
+    "729003": {
+        "id": "729003",
+        "name": "하늘 정복 (3)",
+        "type": "사건",
+        "image": "image/simulated_event/PicRogueEvent_41.png"
     }
 }

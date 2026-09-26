@@ -801,7 +801,7 @@
             { "id": "11004", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank1.png"
+        "icon": "icon/skill/11004_rank1.png"
     },
     "1100402": {
         "id": "1100402",
@@ -812,7 +812,7 @@
             { "id": "11004", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank2.png"
+        "icon": "icon/skill/11004_rank2.png"
     },
     "1100403": {
         "id": "1100403",
@@ -826,7 +826,7 @@
             { "id": "1100402", "num": 2 },
             { "id": "1100401", "num": 1 }
         ],
-        "icon": "icon/skill/1100_skill.png"
+        "icon": "icon/skill/11004_skill.png"
     },
     "1100404": {
         "id": "1100404",
@@ -837,7 +837,7 @@
             { "id": "11004", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank4.png"
+        "icon": "icon/skill/11004_rank4.png"
     },
     "1100405": {
         "id": "1100405",
@@ -851,7 +851,7 @@
             { "id": "1100403", "num": 2 },
             { "id": "1100404", "num": 2 }
         ],
-        "icon": "icon/skill/1100_ultimate.png"
+        "icon": "icon/skill/11004_ultimate.png"
     },
     "1100406": {
         "id": "1100406",
@@ -862,7 +862,7 @@
             { "id": "11004", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank6.png"
+        "icon": "icon/skill/11004_rank6.png"
     },
     "1100501": {
         "id": "1100501",
@@ -873,7 +873,7 @@
             { "id": "11005", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank1.png"
+        "icon": "icon/skill/11005_rank1.png"
     },
     "1100502": {
         "id": "1100502",
@@ -884,7 +884,7 @@
             { "id": "11005", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank2.png"
+        "icon": "icon/skill/11005_rank2.png"
     },
     "1100503": {
         "id": "1100503",
@@ -898,7 +898,7 @@
             { "id": "1100502", "num": 2 },
             { "id": "1100501", "num": 1 }
         ],
-        "icon": "icon/skill/1100_skill.png"
+        "icon": "icon/skill/11005_skill.png"
     },
     "1100504": {
         "id": "1100504",
@@ -909,7 +909,7 @@
             { "id": "11005", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank4.png"
+        "icon": "icon/skill/11005_rank4.png"
     },
     "1100505": {
         "id": "1100505",
@@ -923,7 +923,7 @@
             { "id": "1100503", "num": 2 },
             { "id": "1100504", "num": 2 }
         ],
-        "icon": "icon/skill/1100_ultimate.png"
+        "icon": "icon/skill/11005_ultimate.png"
     },
     "1100506": {
         "id": "1100506",
@@ -934,7 +934,7 @@
             { "id": "11005", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank6.png"
+        "icon": "icon/skill/11005_rank6.png"
     },
     "1100601": {
         "id": "1100601",
@@ -945,7 +945,7 @@
             { "id": "11006", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank1.png"
+        "icon": "icon/skill/11006_rank1.png"
     },
     "1100602": {
         "id": "1100602",
@@ -956,7 +956,7 @@
             { "id": "11006", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank2.png"
+        "icon": "icon/skill/11006_rank2.png"
     },
     "1100603": {
         "id": "1100603",
@@ -970,7 +970,7 @@
             { "id": "1100602", "num": 2 },
             { "id": "1100604", "num": 2 }
         ],
-        "icon": "icon/skill/1100_skill.png"
+        "icon": "icon/skill/11006_skill.png"
     },
     "1100604": {
         "id": "1100604",
@@ -981,7 +981,7 @@
             { "id": "11006", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank4.png"
+        "icon": "icon/skill/11006_rank4.png"
     },
     "1100605": {
         "id": "1100605",
@@ -995,7 +995,7 @@
             { "id": "1100603", "num": 2 },
             { "id": "1100601", "num": 1 }
         ],
-        "icon": "icon/skill/1100_ultimate.png"
+        "icon": "icon/skill/11006_ultimate.png"
     },
     "1100606": {
         "id": "1100606",
@@ -1006,7 +1006,7 @@
             { "id": "11006", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank6.png"
+        "icon": "icon/skill/11006_rank6.png"
     },
     "110101": {
         "id": "110101",
@@ -1738,7 +1738,7 @@
             { "id": "11102", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1110_rank1.png"
+        "icon": "icon/skill/11102_rank1.png"
     },
     "1110202": {
         "id": "1110202",
@@ -1749,7 +1749,7 @@
             { "id": "11102", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1110_rank2.png"
+        "icon": "icon/skill/11102_rank2.png"
     },
     "1110203": {
         "id": "1110203",
@@ -1763,7 +1763,7 @@
             { "id": "1110202", "num": 2 },
             { "id": "1110204", "num": 2 }
         ],
-        "icon": "icon/skill/1110_skill.png"
+        "icon": "icon/skill/11102_skill.png"
     },
     "1110204": {
         "id": "1110204",
@@ -1774,7 +1774,7 @@
             { "id": "11102", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1110_rank4.png"
+        "icon": "icon/skill/11102_rank4.png"
     },
     "1110205": {
         "id": "1110205",
@@ -1788,7 +1788,7 @@
             { "id": "1110203", "num": 2 },
             { "id": "1110201", "num": 1 }
         ],
-        "icon": "icon/skill/1110_ultimate.png"
+        "icon": "icon/skill/11102_ultimate.png"
     },
     "1110206": {
         "id": "1110206",
@@ -1799,7 +1799,7 @@
             { "id": "11102", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1110_rank6.png"
+        "icon": "icon/skill/11102_rank6.png"
     },
     "111101": {
         "id": "111101",
@@ -1955,7 +1955,7 @@
             { "id": "11205", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1120_rank1.png"
+        "icon": "icon/skill/11205_rank1.png"
     },
     "1120502": {
         "id": "1120502",
@@ -1966,7 +1966,7 @@
             { "id": "11205", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1120_rank2.png"
+        "icon": "icon/skill/11205_rank2.png"
     },
     "1120503": {
         "id": "1120503",
@@ -1980,7 +1980,7 @@
             { "id": "1120503", "num": 2 },
             { "id": "1120504", "num": 2 }
         ],
-        "icon": "icon/skill/1120_ultimate.png"
+        "icon": "icon/skill/11205_ultimate.png"
     },
     "1120504": {
         "id": "1120504",
@@ -1991,7 +1991,7 @@
             { "id": "11205", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1120_rank4.png"
+        "icon": "icon/skill/11205_rank4.png"
     },
     "1120505": {
         "id": "1120505",
@@ -2006,7 +2006,7 @@
             { "id": "1120501", "num": 1 },
             { "id": "1120508", "num": 1 }
         ],
-        "icon": "icon/skill/1120_skill.png"
+        "icon": "icon/skill/11205_skill.png"
     },
     "1120506": {
         "id": "1120506",
@@ -2017,7 +2017,7 @@
             { "id": "11205", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1120_rank6.png"
+        "icon": "icon/skill/11205_rank6.png"
     },
     "1121201": {
         "id": "1121201",
@@ -2028,7 +2028,7 @@
             { "id": "11212", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank1.png"
+        "icon": "icon/skill/11212_rank1.png"
     },
     "1121202": {
         "id": "1121202",
@@ -2039,7 +2039,7 @@
             { "id": "11212", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank2.png"
+        "icon": "icon/skill/11212_rank2.png"
     },
     "1121203": {
         "id": "1121203",
@@ -2053,7 +2053,7 @@
             { "id": "1121203", "num": 2 },
             { "id": "1121204", "num": 2 }
         ],
-        "icon": "icon/skill/1121_ultimate.png"
+        "icon": "icon/skill/11212_ultimate.png"
     },
     "1121204": {
         "id": "1121204",
@@ -2064,7 +2064,7 @@
             { "id": "11212", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank4.png"
+        "icon": "icon/skill/11212_rank4.png"
     },
     "1121205": {
         "id": "1121205",
@@ -2079,7 +2079,7 @@
             { "id": "1121201", "num": 1 },
             { "id": "1121209", "num": 2 }
         ],
-        "icon": "icon/skill/1121_skill.png"
+        "icon": "icon/skill/11212_skill.png"
     },
     "1121206": {
         "id": "1121206",
@@ -2090,7 +2090,7 @@
             { "id": "11212", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank6.png"
+        "icon": "icon/skill/11212_rank6.png"
     },
     "1121701": {
         "id": "1121701",
@@ -2101,7 +2101,7 @@
             { "id": "11217", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank1.png"
+        "icon": "icon/skill/11217_rank1.png"
     },
     "1121702": {
         "id": "1121702",
@@ -2112,7 +2112,7 @@
             { "id": "11217", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank2.png"
+        "icon": "icon/skill/11217_rank2.png"
     },
     "1121703": {
         "id": "1121703",
@@ -2126,7 +2126,7 @@
             { "id": "1121703", "num": 2 },
             { "id": "1121704", "num": 2 }
         ],
-        "icon": "icon/skill/1121_ultimate.png"
+        "icon": "icon/skill/11217_ultimate.png"
     },
     "1121704": {
         "id": "1121704",
@@ -2137,7 +2137,7 @@
             { "id": "11217", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank4.png"
+        "icon": "icon/skill/11217_rank4.png"
     },
     "1121705": {
         "id": "1121705",
@@ -2151,7 +2151,7 @@
             { "id": "1121702", "num": 2 },
             { "id": "1121701", "num": 1 }
         ],
-        "icon": "icon/skill/1121_skill.png"
+        "icon": "icon/skill/11217_skill.png"
     },
     "1121706": {
         "id": "1121706",
@@ -2162,7 +2162,7 @@
             { "id": "11217", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank6.png"
+        "icon": "icon/skill/11217_rank6.png"
     },
     "1130601": {
         "id": "1130601",
@@ -2173,7 +2173,7 @@
             { "id": "11306", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank1.png"
+        "icon": "icon/skill/11306_rank1.png"
     },
     "1130602": {
         "id": "1130602",
@@ -2184,7 +2184,7 @@
             { "id": "11306", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank2.png"
+        "icon": "icon/skill/11306_rank2.png"
     },
     "1130603": {
         "id": "1130603",
@@ -2198,7 +2198,7 @@
             { "id": "1130602", "num": 2 },
             { "id": "1130601", "num": 1 }
         ],
-        "icon": "icon/skill/1130_skill.png"
+        "icon": "icon/skill/11306_skill.png"
     },
     "1130604": {
         "id": "1130604",
@@ -2209,7 +2209,7 @@
             { "id": "11306", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank4.png"
+        "icon": "icon/skill/11306_rank4.png"
     },
     "1130605": {
         "id": "1130605",
@@ -2223,7 +2223,7 @@
             { "id": "1130603", "num": 2 },
             { "id": "1130604", "num": 2 }
         ],
-        "icon": "icon/skill/1130_ultimate.png"
+        "icon": "icon/skill/11306_ultimate.png"
     },
     "1130606": {
         "id": "1130606",
@@ -2234,7 +2234,7 @@
             { "id": "11306", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank6.png"
+        "icon": "icon/skill/11306_rank6.png"
     },
     "1130701": {
         "id": "1130701",
@@ -2245,7 +2245,7 @@
             { "id": "11307", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank1.png"
+        "icon": "icon/skill/11307_rank1.png"
     },
     "1130702": {
         "id": "1130702",
@@ -2256,7 +2256,7 @@
             { "id": "11307", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank2.png"
+        "icon": "icon/skill/11307_rank2.png"
     },
     "1130703": {
         "id": "1130703",
@@ -2270,7 +2270,7 @@
             { "id": "1130702", "num": 2 },
             { "id": "1130704", "num": 2 }
         ],
-        "icon": "icon/skill/1130_skill.png"
+        "icon": "icon/skill/11307_skill.png"
     },
     "1130704": {
         "id": "1130704",
@@ -2281,7 +2281,7 @@
             { "id": "11307", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank4.png"
+        "icon": "icon/skill/11307_rank4.png"
     },
     "1130705": {
         "id": "1130705",
@@ -2295,7 +2295,7 @@
             { "id": "1130703", "num": 2 },
             { "id": "1130701", "num": 1 }
         ],
-        "icon": "icon/skill/1130_ultimate.png"
+        "icon": "icon/skill/11307_ultimate.png"
     },
     "1130706": {
         "id": "1130706",
@@ -2306,7 +2306,7 @@
             { "id": "11307", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank6.png"
+        "icon": "icon/skill/11307_rank6.png"
     },
     "1131001": {
         "id": "1131001",
@@ -2317,7 +2317,7 @@
             { "id": "11310", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1131_rank1.png"
+        "icon": "icon/skill/11310_rank1.png"
     },
     "1131002": {
         "id": "1131002",
@@ -2328,7 +2328,7 @@
             { "id": "11310", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1131_rank2.png"
+        "icon": "icon/skill/11310_rank2.png"
     },
     "1131003": {
         "id": "1131003",
@@ -2344,7 +2344,7 @@
             { "id": "1131009", "num": 2 },
             { "id": "1131008", "num": 1 }
         ],
-        "icon": "icon/skill/1131_skill.png"
+        "icon": "icon/skill/11310_skill.png"
     },
     "1131004": {
         "id": "1131004",
@@ -2355,7 +2355,7 @@
             { "id": "11310", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1131_rank4.png"
+        "icon": "icon/skill/11310_rank4.png"
     },
     "1131005": {
         "id": "1131005",
@@ -2369,7 +2369,7 @@
             { "id": "1131003", "num": 2 },
             { "id": "1131004", "num": 2 }
         ],
-        "icon": "icon/skill/1131_ultimate.png"
+        "icon": "icon/skill/11310_ultimate.png"
     },
     "1131006": {
         "id": "1131006",
@@ -2380,7 +2380,7 @@
             { "id": "11310", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1131_rank6.png"
+        "icon": "icon/skill/11310_rank6.png"
     },
     "120101": {
         "id": "120101",
@@ -6721,6 +6721,383 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1507_rank6.png"
+    },
+    "150801": {
+        "id": "150801",
+        "name": "Zelretch's Apprentice",
+        "rank": 1,
+        "desc": "If one instance of the Enhanced Skill consumes 30 or more \"Gem Energy,\" Rin Tohsaka gains \"Shadow Gem\" equal to the amount of \"Gem Energy\" consumed.\nWhile holding \"Shadow Gem,\" enhances Skill to \"Second Magic Experiment.\" The Enhanced Skill consumes all \"Shadow Gem,\" does not trigger the effect that converts Skill Points into \"Gem Energy,\" and does not consume \"Gem Energy.\"",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank1.png"
+    },
+    "150802": {
+        "id": "150802",
+        "name": "Dimensional Traveler",
+        "rank": 2,
+        "desc": "Rin Tohsaka's Skill DMG dealt increases by 30%. While Rin Tohsaka is on the field, Skill DMG dealt by all allies becomes 130% of the original DMG.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank2.png"
+    },
+    "150803": {
+        "id": "150803",
+        "name": "Holy Grail War: Victory Memorial",
+        "rank": 3,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150802", "num": 2 },
+            { "id": "150801", "num": 1 },
+            { "id": "150809", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_skill.png"
+    },
+    "150804": {
+        "id": "150804",
+        "name": "Red Devil: Triple Speed",
+        "rank": 4,
+        "desc": "When the CRIT DMG boost effect from the Talent \"Gem Magecraft\" applies to Rin Tohsaka, the effect can stack, up to 2 time(s).",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank4.png"
+    },
+    "150805": {
+        "id": "150805",
+        "name": "Goddess of Venus's Favor",
+        "rank": 5,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150803", "num": 2 },
+            { "id": "150804", "num": 2 },
+            { "id": "150805", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_ultimate.png"
+    },
+    "150806": {
+        "id": "150806",
+        "name": "Nailed It This Time!",
+        "rank": 6,
+        "desc": "Rin Tohsaka's All-Type RES PEN increases by 20%. When using Ultimate, gains 24 \"Gem Energy\" and 1 extra turn.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank6.png"
+    },
+    "150901": {
+        "id": "150901",
+        "name": "He Who Saw the Deep",
+        "rank": 1,
+        "desc": "When Gilgamesh holds \"King's Acknowledgement,\" its DEF-ignoring effect also applies to other teammates, and \"King's Acknowledgement\" additionally increases Gilgamesh's ATK by 60%. When using Skill, additionally regenerates a fixed 40 Energy.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank1.png"
+    },
+    "150902": {
+        "id": "150902",
+        "name": "Wisdom That Encompassed All",
+        "rank": 2,
+        "desc": "When entering combat, Gilgamesh gains 5 \"Interest.\" When using Ultimate, additionally gains 5 \"Interest.\" The DMG multiplier of the Skill \"Gate of Babylon\" against the primary target increases by 100%, and its DMG multiplier against adjacent targets increases by 50%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank2.png"
+    },
+    "150903": {
+        "id": "150903",
+        "name": "Journey That Spanned Far",
+        "rank": 3,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150902", "num": 2 },
+            { "id": "150901", "num": 1 }
+        ],
+        "icon": "icon/skill/1509_skill.png"
+    },
+    "150904": {
+        "id": "150904",
+        "name": "King Who Bowed to None",
+        "rank": 4,
+        "desc": "Gilgamesh's Energy Regeneration Rate increases by 20%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank4.png"
+    },
+    "150905": {
+        "id": "150905",
+        "name": "Sword That Parted Gods from Man",
+        "rank": 5,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150903", "num": 2 },
+            { "id": "150904", "num": 2 },
+            { "id": "150905", "num": 2 }
+        ],
+        "icon": "icon/skill/1509_ultimate.png"
+    },
+    "150906": {
+        "id": "150906",
+        "name": "Soul That Bore Friendship",
+        "rank": 6,
+        "desc": "Increases the bounce DMG multiplier of the Ultimate \"Enuma Elish\" by 80%. While Gilgamesh is on the field, increases ally characters' All-Type RES PEN by 20%. When a teammate uses Ultimate, Gilgamesh gains 1 point of \"Golden Rule,\" up to a total of 3 points. When this unit uses Ultimate, consumes all \"Golden Rule\" points, and each point of \"Golden Rule\" consumed increases the CRIT DMG for the Ultimate DMG dealt by 100%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank6.png"
+    },
+    "151001": {
+        "id": "151001",
+        "name": "That Which We Stride Is the Trailblaze",
+        "rank": 1,
+        "desc": "The number of extra Assist Skill uses from Talent additionally increases by 1. While in the \"Companion Protocol: Verdict\" state, reduces the number of Ultimate uses required to launch Assist Skill by 1. While in the \"Companion Protocol: Decimation\" state, reduces the Charge required to launch Assist Skill by 3. When Himeko • Nova launches Assist Skill, the number of extra DMG instances increases by 1.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank1.png"
+    },
+    "151002": {
+        "id": "151002",
+        "name": "The Colors We Never Strike",
+        "rank": 2,
+        "desc": "The cap of Himeko • Nova's Assist Skill uses increases to 2, and the DMG dealt by Ultimate and Assist Skill becomes 130% of their original DMG. During the \"Navigator's Semaphore\" state, at the start of each turn, additionally recovers 1 use of Assist Skill immediately. When a non-Trailblaze Companions character uses Assist Skill, the Trace \"Hark! The Express's Pulse Roars\" now also grants them 1 extra turn.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank2.png"
+    },
+    "151003": {
+        "id": "151003",
+        "name": "We Who Are Starborn Muse Starward",
+        "rank": 3,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151003", "num": 2 },
+            { "id": "151001", "num": 1 },
+            { "id": "151008", "num": 2 },
+            { "id": "151009", "num": 2 },
+            { "id": "151014", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151004": {
+        "id": "151004",
+        "name": "Let No Skyward Hand Stay Unheld",
+        "rank": 4,
+        "desc": "When using Assist Skill via the Talent \"Of Fire and Far Faring,\" the All-Type RES PEN boost now applies to all allies. And when Himeko • Nova gains this effect, her All-Type RES PEN additionally increases by 10%.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank4.png"
+    },
+    "151005": {
+        "id": "151005",
+        "name": "To Cross the Cosmos and Beyond",
+        "rank": 5,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151002", "num": 2 },
+            { "id": "151004", "num": 2 },
+            { "id": "151022", "num": 2 },
+            { "id": "151025", "num": 2 },
+            { "id": "151026", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_skill.png"
+    },
+    "151006": {
+        "id": "151006",
+        "name": "Ours Is the Oath to Sail Starward",
+        "rank": 6,
+        "desc": "Himeko • Nova's Fire RES PEN increases by 20%. The cap of \"Source Energy\" increases to 6. When an ally uses or launches Assist Skill, DMG dealt by Assist Skill increases by 75%, and Himeko • Nova gains 1 \"Source Energy.\" When launching \"Hyperluminal Particle Beam\" during Ultimate, additionally gains 1 \"Source Energy\". When launching \"Orbital Annihilation Pulse,\" if the current \"Source Energy\" is 6 or more, additionally deals 1 instance of Fire DMG to all enemies, equal to 160% of Himeko • Nova's ATK.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank6.png"
+    },
+    "151201": {
+        "id": "151201",
+        "name": "Stray Bird of Summer",
+        "rank": 1,
+        "desc": "\"Summer Songbirds\" will keep a tally of 100% of the non-True DMG dealt by ally targets. When using the Memosprite Skill, additionally deals True DMG to the enemy target with the highest HP, equal to (11% + current Vibes × 0.1%) of the total tally. Then, clears 50% of the tally.",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1512_rank1.png"
+    },
+    "151202": {
+        "id": "151202",
+        "name": "A Heart of Still Water",
+        "rank": 2,
+        "desc": "Ally targets' All-Type RES PEN increases by 18%. The upper limit of Robin • Summeretto's Vibes increases by 20. The first time an ally target uses an ability during any target's turn to cause Robin • Summeretto to gain Vibes, she gains an additional 2 points.",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1512_rank2.png"
+    },
+    "151203": {
+        "id": "151203",
+        "name": "Echoes Left Along the Way",
+        "rank": 3,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.\nMemosprite Talent Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151202", "num": 2 },
+            { "id": "151204", "num": 2 },
+            { "id": "1151203", "num": 1 },
+            { "id": "1151205", "num": 1 },
+            { "id": "1151206", "num": 1 }
+        ],
+        "icon": "icon/skill/1512_skill.png"
+    },
+    "151204": {
+        "id": "151204",
+        "name": "Her Variation on the Theme",
+        "rank": 4,
+        "desc": "Upon entering the \"Fever\" state, immediately gains 12 Vibes, and increases the SPD of \"Summer Songbirds\" by an amount equal to (20% + current Vibes × 0.5%).",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1512_rank4.png"
+    },
+    "151205": {
+        "id": "151205",
+        "name": "To Chase the Dawn Anew",
+        "rank": 5,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.\nMemosprite Skill Lv. +1, up to a maximum of Lv. 10.",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151203", "num": 2 },
+            { "id": "151201", "num": 1 },
+            { "id": "1151201", "num": 1 }
+        ],
+        "icon": "icon/skill/1512_ultimate.png"
+    },
+    "151206": {
+        "id": "151206",
+        "name": "A Song Yet Unnamed",
+        "rank": 6,
+        "desc": "Increases the Memosprite Skill's DMG multiplier by 100% of its original value. While in the \"Fever\" state, Robin • Summeretto can store her Ultimate up to 2 times. After entering the \"Fever\" state for the first time in this battle or when the the \"Fever\" countdown's turn starts, regenerates a fixed 140 Energy.",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1512_rank6.png"
+    },
+    "151301": {
+        "id": "151301",
+        "name": "A Holiday on the Line",
+        "rank": 1,
+        "desc": "Increases All-Type RES PEN by 24%.\nTalent gets enhanced: When \"Fervor\" reaches 10/20/30 points, immediately uses \"Cheers! To Summer's Blaze.\"",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1513_rank1.png"
+    },
+    "151302": {
+        "id": "151302",
+        "name": "Idle as the Turning Tide",
+        "rank": 2,
+        "desc": "Increases the upper limit of \"Fervor\" to 50 points. \"Fervor\" reaching 40/50 points can also trigger the Talent to use \"Cheers! To Summer's Blaze.\" After using Elation Skill, additionally gains 4 \"Fervor.\"",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1513_rank2.png"
+    },
+    "151303": {
+        "id": "151303",
+        "name": "A Rendezvous Served Chilled",
+        "rank": 3,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151302", "num": 2 },
+            { "id": "151304", "num": 2 },
+            { "id": "151320", "num": 1 },
+            { "id": "151321", "num": 1 }
+        ],
+        "icon": "icon/skill/1513_skill.png"
+    },
+    "151304": {
+        "id": "151304",
+        "name": "Sunlight Runs No Tab",
+        "rank": 4,
+        "desc": "When Aventurine • Waveflair uses Skill, enables the DMG dealt by all allies to ignore 18% of enemy targets' DEF, lasting for 3 turn(s).",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1513_rank4.png"
+    },
+    "151305": {
+        "id": "151305",
+        "name": "Into the Eye of the Jackpot",
+        "rank": 5,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151303", "num": 2 },
+            { "id": "151301", "num": 1 },
+            { "id": "151320", "num": 1 },
+            { "id": "151321", "num": 1 }
+        ],
+        "icon": "icon/skill/1513_ultimate.png"
+    },
+    "151306": {
+        "id": "151306",
+        "name": "The Past in Fast Lane",
+        "rank": 6,
+        "desc": "Elation DMG dealt by Aventurine • Waveflair merrymakes by 25%. After Aventurine • Waveflair uses his Elation Skill 2 time(s), all subsequent Elation Skills used become \"All In! To Summer's Blaze.\" And when using the Elation Skill \"All In! To Summer's Blaze\" to additionally deal DMG outside of Aha Instant, it no longer consumes \"Fervor.\"",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1513_rank6.png"
     },
     "800101": {
         "id": "800101",

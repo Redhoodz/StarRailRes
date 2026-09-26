@@ -307,7 +307,7 @@
         "id": "4030101",
         "series_id": "3",
         "title": "Mi hogar está en las estrellas",
-        "desc": "Comienza un viaje por la galaxia infinita.",
+        "desc": "Comienza un viaje por el cosmos infinito.",
         "hide_desc": "※¡Felicidades! ¡Embarcaste en el Expreso Astral!",
         "hide": false
     },
@@ -1661,6 +1661,182 @@
         "title": "Una broma que cae en el vacío",
         "desc": "Explicar un chiste es lo peor que se puede hacer.",
         "hide_desc": "※Presencia la revelación del verdadero rostro de Asat Pramad.",
+        "hide": false
+    },
+    "4035401": {
+        "id": "4035401",
+        "series_id": "3",
+        "title": "Ciudad de criaturas fantásticas",
+        "desc": "Sé testigo de cómo el futuro de Planarcadia cae en la oscuridad del apocalipsis.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035402": {
+        "id": "4035402",
+        "series_id": "3",
+        "title": "Metro 1999",
+        "desc": "Reúnete con tus compañeros en la estación Perdido.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035403": {
+        "id": "4035403",
+        "series_id": "3",
+        "title": "El punto de partida llamado Himeko",
+        "desc": "Todo comienza aquí...",
+        "hide_desc": "※Sé testigo del punto de partida del viaje de Himeko.",
+        "hide": false
+    },
+    "4035404": {
+        "id": "4035404",
+        "series_id": "3",
+        "title": "Ondas gravitacionales eternas",
+        "desc": "Trazar caminos es un viaje más allá de la gravedad.",
+        "hide_desc": "※Transmite la información sobre Asat Pramad a la tripulación del Expreso Astral.",
+        "hide": false
+    },
+    "4035405": {
+        "id": "4035405",
+        "series_id": "3",
+        "title": "Autorretrato titulado \"trazar caminos\"",
+        "desc": "Si disfrutas del viaje, tu paso por este mundo no habrá sido en vano.",
+        "hide_desc": "※Completa el desafío de Asat Pramad para revelar la verdad.",
+        "hide": false
+    },
+    "4035406": {
+        "id": "4035406",
+        "series_id": "3",
+        "title": "Todos los colores unidos",
+        "desc": "El Rey de la Sabiduría abre los ojos, todas las apariencias son ilusorias.",
+        "hide_desc": "※Descubre las innumerables encarnaciones de Asat Pramad.",
+        "hide": false
+    },
+    "4035407": {
+        "id": "4035407",
+        "series_id": "3",
+        "title": "Silencio",
+        "desc": "El silencio es el final de todas las cosas.",
+        "hide_desc": "※La cabeza en el suelo mira fijamente a su yo derrotado y, de repente, tiene ganas de reír.",
+        "hide": false
+    },
+    "4035408": {
+        "id": "4035408",
+        "series_id": "3",
+        "title": "Guerra del Santo Grial Fabularia, ¿caso cerrado?",
+        "desc": "Si eres mi Servant, entonces tienes que ser {F#la}{M#el} más fuerte.",
+        "hide_desc": "※Observa a Rin Tohsaka regresar a las estrellas.",
+        "hide": false
+    },
+    "4035409": {
+        "id": "4035409",
+        "series_id": "3",
+        "title": "Guerra del Santo Grial Fabularia, caso cerrado",
+        "desc": "\"Nacemos como humanos, caminamos como humanos hasta la muerte y saboreamos toda la Exultación del mundo\".",
+        "hide_desc": "※Sé testigo del final de la Guerra del Santo Grial Fabularia.",
+        "hide": false
+    },
+    "4035410": {
+        "id": "4035410",
+        "series_id": "3",
+        "title": "Tesoro del Rey, sabiduría del pueblo",
+        "desc": "\"Tengo un plan maestro\".",
+        "hide_desc": "※Conviértete en {F#cofundadora}{M#cofundador} de la Fundación del Patrimonio Cultural de Uruk.",
+        "hide": false
+    },
+    "4035411": {
+        "id": "4035411",
+        "series_id": "3",
+        "title": "Las jóvenes que caminan por la larga noche",
+        "desc": "\"Por favor, sigue brillando siempre, siempre, siempre\".",
+        "hide_desc": "※Obtén la energía mágica de las hermanas que personifican al Titán de la Muerte.",
+        "hide": false
+    },
+    "4035412": {
+        "id": "4035412",
+        "series_id": "3",
+        "title": "Las jóvenes que superan a la estrella matutina",
+        "desc": "\"Entonces, es una promesa...\".",
+        "hide_desc": "※Reconcíliate con Ishtar.",
+        "hide": false
+    },
+    "4035413": {
+        "id": "4035413",
+        "series_id": "3",
+        "title": "Jóvenes como estrellas matutinas",
+        "desc": "\"Aunque contemos con la bendición de nuestros dioses, tenemos que trazar nuestros caminos con nuestras propias manos\".",
+        "hide_desc": "※Establece un contrato con Rin Tohsaka.",
+        "hide": false
+    },
+    "4035501": {
+        "id": "4035501",
+        "series_id": "3",
+        "title": "{F#La más rica}{M#El más rico} de Astrópolis",
+        "desc": "Primero, completa un objetivo pequeño.",
+        "hide_desc": "※En un estado de ira extrema, una persona puede gastar 8800 millones de créditos en un solo día.",
+        "hide": false
+    },
+    "4035502": {
+        "id": "4035502",
+        "series_id": "3",
+        "title": "Habitación trasera",
+        "desc": "Si por accidente te sales de la realidad en el lugar equivocado...",
+        "hide_desc": "※Cae en la sala de edición: una habitación de la que no tienes permitido salir hasta terminar de editar la película.",
+        "hide": false
+    },
+    "4035503": {
+        "id": "4035503",
+        "series_id": "3",
+        "title": "1 vs. 2000 millones",
+        "desc": "¡La última oportunidad para una gran remontada!",
+        "hide_desc": "※Robin acepta el desafío, sus oponentes serán los 2000 millones de seguidores de Avegrande.",
+        "hide": false
+    },
+    "4035504": {
+        "id": "4035504",
+        "series_id": "3",
+        "title": "Largas vacaciones",
+        "desc": "O todos son campeones, o nadie lo es.",
+        "hide_desc": "※Ganen el desafío y compren un seguro a un precio astronómico para el Expreso Astral.",
+        "hide": false
+    },
+    "4035505": {
+        "id": "4035505",
+        "series_id": "3",
+        "title": "Salto a Astrópolis",
+        "desc": "¡Expreso Astral, en marcha!",
+        "hide_desc": "※Salta a Astrópolis.",
+        "hide": false
+    },
+    "4035506": {
+        "id": "4035506",
+        "series_id": "3",
+        "title": "¡Reimpresión!",
+        "desc": "Estés donde estés, ¡no olvides conseguir el mejor titular!",
+        "hide_desc": "※Establece una sucursal del Semanario Pachi en Astrópolis.",
+        "hide": false
+    },
+    "4035507": {
+        "id": "4035507",
+        "series_id": "3",
+        "title": "{F#La}{M#El} Trazacaminos no tira los dados",
+        "desc": "Deberían sentirse afortunados de que {F#la piloto interina}{M#el piloto interino} no tire el dado.",
+        "hide_desc": "※Muestra a todos el dado de Asat Pramad y luego guárdalo de forma compasiva.",
+        "hide": false
+    },
+    "4035508": {
+        "id": "4035508",
+        "series_id": "3",
+        "title": "Segunda entrada al cuadro",
+        "desc": "El Ámbar baja la mirada y el mundo del cuadro reaparece.",
+        "hide_desc": "※Tras mil años, Planarcadia es sellada una vez más.",
+        "hide": false
+    },
+    "4035509": {
+        "id": "4035509",
+        "series_id": "3",
+        "title": "¡Aha! ¿Aha?",
+        "desc": "¡¿Y tú quién eres?!",
+        "hide_desc": "※Quería relacionarme con ustedes como una persona normal... Ahora pongo las cartas sobre la mesa.",
         "hide": false
     },
     "4040101": {
@@ -3723,7 +3899,7 @@
         "id": "4045012",
         "series_id": "4",
         "title": "{F#La}{M#El} Trazacaminos volad{F#ora}{M#or}",
-        "desc": "Controla {F#a la}{M#al} Trazacaminos en Salto bidimensional y permanece en el aire durante 8 s o más.",
+        "desc": "Controla al duende trazacaminos en Salto bidimensional y permanece en el aire durante 8 s o más.",
         "hide_desc": "",
         "hide": false
     },
@@ -4372,6 +4548,278 @@
         "series_id": "4",
         "title": "Variación de la arcadia: el niño de nieve",
         "desc": "Toca una melodía extraña y encuentra a la misteriosa criatura oculta en el Hotel Retiro Pictovado.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045401": {
+        "id": "4045401",
+        "series_id": "4",
+        "title": "Gran millonario",
+        "desc": "Abre 400 tesoros en Planarcadia.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045402": {
+        "id": "4045402",
+        "series_id": "4",
+        "title": "Adiós, Rayosaurio",
+        "desc": "Ahuyenta temporalmente al Rayosaurio durante la \"Hora del salto\" de la Capital Demoníaca.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045403": {
+        "id": "4045403",
+        "series_id": "4",
+        "title": "Llámenme aislante",
+        "desc": "Supera la \"Hora del salto\" de la Capital Demoníaca siendo alcanzad{F#a}{M#o} por un rayo menos de 20 veces.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045404": {
+        "id": "4045404",
+        "series_id": "4",
+        "title": "Puente hacia las estrellas",
+        "desc": "Construye un puente en el «¡Salto bidimensional!» de la Cuna de la estrella caída.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045405": {
+        "id": "4045405",
+        "series_id": "4",
+        "title": "Primer libro ilustrado",
+        "desc": "Empuña el pincel que traza la historia en la Cuna de la estrella caída.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045406": {
+        "id": "4045406",
+        "series_id": "4",
+        "title": "Vida resplandeciente",
+        "desc": "Dibuja tu pasado en la Cuna de la estrella caída.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045407": {
+        "id": "4045407",
+        "series_id": "4",
+        "title": "Genealogía de la arcadia",
+        "desc": "Reúne el contenido recién descubierto de las «Crónicas de la Grasa Flotante» durante las anomalías de Manamar y la Capital Demoníaca, y completa todos los elementos de recolección en \"Búsqueda del origen de la Grasa Flotante: Rotación bidimensional\".",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045408": {
+        "id": "4045408",
+        "series_id": "4",
+        "title": "Mapache en la luna",
+        "desc": "Usa el ¡Salto bidimensional! para volar desde la torre de televisión de la Capital Demoníaca al interior de la fabuluna.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045409": {
+        "id": "4045409",
+        "series_id": "4",
+        "title": "Enfermedad de la luna",
+        "desc": "Derrota al Reflejo de la Luna Demoníaca en ¡Salto bidimensional!",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045410": {
+        "id": "4045410",
+        "series_id": "4",
+        "title": "Variación de la arcadia: estrellas parpadeantes",
+        "desc": "Toca una melodía extraña y encuentra a la misteriosa criatura oculta en la Cuna de la estrella caída.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045411": {
+        "id": "4045411",
+        "series_id": "4",
+        "title": "Variación de la Arcadia: la luna de la princesa",
+        "desc": "Toca una melodía extraña y encuentra a la misteriosa criatura oculta en la Capital Demoníaca.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045412": {
+        "id": "4045412",
+        "series_id": "4",
+        "title": "He pasado media vida a la deriva sin hallar a un líder sabio",
+        "desc": "Derrota al espíritu flotante super-super-supergrande en el ¡Salto bidimensional! de Cuna de la estrella caída.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045413": {
+        "id": "4045413",
+        "series_id": "4",
+        "title": "El reinado de los carroñeros",
+        "desc": "Recupera 1 pieza de chatarra en el ¡Salto bidimensional! de la Capital Demoníaca del Apocalipsis.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045501": {
+        "id": "4045501",
+        "series_id": "4",
+        "title": "Estelarian y la ciudad de las mil estrellas",
+        "desc": "Abre 70 tesoros en Astrópolis.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045502": {
+        "id": "4045502",
+        "series_id": "4",
+        "title": "Huellas del Ámbar",
+        "desc": "Sé testigo de tus huellas conservadas en el continuo espacio-tiempo.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045503": {
+        "id": "4045503",
+        "series_id": "4",
+        "title": "Si te vas de casa, aprende a cocinar",
+        "desc": "Entra en el libro fabulario replicado de Arita y obtén la página oculta.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045504": {
+        "id": "4045504",
+        "series_id": "4",
+        "title": "Canción de una amistad de verano",
+        "desc": "Completa la \"Hora del salto\" en Astrópolis.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045505": {
+        "id": "4045505",
+        "series_id": "4",
+        "title": "El cielo y la mazmorra del ritmo",
+        "desc": "Consigue todas las notas musicales en la \"Hora del salto\" en Astrópolis.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045506": {
+        "id": "4045506",
+        "series_id": "4",
+        "title": "Variación de la arcadia: Fábrica de nubes",
+        "desc": "Toca una melodía extraña y encuentra a la misteriosa criatura oculta en el distrito central de Astrópolis.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045507": {
+        "id": "4045507",
+        "series_id": "4",
+        "title": "Variación de la arcadia: El zorro y las uvas",
+        "desc": "Toca una melodía extraña y encuentra a la misteriosa criatura oculta en la Torre Guía.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045508": {
+        "id": "4045508",
+        "series_id": "4",
+        "title": "Héroe de luz, rotando miles de estrellas.",
+        "desc": "Consigue un total de 180 eterae dorados en Planarcadia y Astrópolis.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045509": {
+        "id": "4045509",
+        "series_id": "4",
+        "title": "¿L-lo liberaste?",
+        "desc": "Patea el balón de vóley playa al mar y no podrás recuperarlo nunca más.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045510": {
+        "id": "4045510",
+        "series_id": "4",
+        "title": "Abordaje",
+        "desc": "Toca 6 o más esferas de propulsión de forma consecutiva en Salto bidimensional.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045511": {
+        "id": "4045511",
+        "series_id": "4",
+        "title": "Puño cohete",
+        "desc": "Lanza a los monstruos por los aires con la habilidad de propulsión mejorada en Salto bidimensional.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045512": {
+        "id": "4045512",
+        "series_id": "4",
+        "title": "Limpieza estelar",
+        "desc": "Usa la habilidad de propulsión para destruir módulos frágiles en Salto bidimensional.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045513": {
+        "id": "4045513",
+        "series_id": "4",
+        "title": "Un arduo viaje hacia el cubículo",
+        "desc": "Sube al transbordador por primera vez para llegar a la Torre Guía desde Astrópolis.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045514": {
+        "id": "4045514",
+        "series_id": "4",
+        "title": "Entrada",
+        "desc": "Atraviesa el pasadizo secreto de las estaciones de trabajo circulares para llegar a la habitación trasera misteriosa.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045515": {
+        "id": "4045515",
+        "series_id": "4",
+        "title": "Donde el corazón halla la paz",
+        "desc": "Sé testigo del trágico final de una persona atrapada en la habitación trasera.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045516": {
+        "id": "4045516",
+        "series_id": "4",
+        "title": "Flexible pero resistente",
+        "desc": "Salta de un lado a otro entre dos esferas de propulsión durante más de 6 s en Salto bidimensional.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045517": {
+        "id": "4045517",
+        "series_id": "4",
+        "title": "Cadete espacial",
+        "desc": "En Salto bidimensional, impúlsate para lanzar por los aires a 5 o más fabuespines y espectros, pero sin tocar el suelo mientras.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045518": {
+        "id": "4045518",
+        "series_id": "4",
+        "title": "Hoy volví a ganar sin usar un ██emon...",
+        "desc": "Completa el entrenamiento de propulsión en Salto bidimensional sin mantener pulsado para impulsarte.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045519": {
+        "id": "4045519",
+        "series_id": "4",
+        "title": "Evade al asesino",
+        "desc": "En ¡Salto bidimensional!, usa la habilidad de propulsión para interrumpir el impulso de la esfera de propulsión y regresa a la esfera de propulsión original.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045520": {
+        "id": "4045520",
+        "series_id": "4",
+        "title": "Sombra más allá del tiempo",
+        "desc": "Consigue el primer puesto en la Carrera de sombras de Salto bidimensional en Astrópolis.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045521": {
+        "id": "4045521",
+        "series_id": "4",
+        "title": "{F#Campeona}{M#Campeón} de vuelo",
+        "desc": "Completa el Gran Premio de vuelo acrobático de Astrópolis en Salto bidimensional.",
         "hide_desc": "",
         "hide": false
     },
@@ -5715,7 +6163,7 @@
         "id": "4052913",
         "series_id": "5",
         "title": "Falta un jugador",
-        "desc": "Coloca 3 bocadillos de la suerte en la misma zona.",
+        "desc": "Coloca 3 Pastelitos de la suerte en la misma zona.",
         "hide_desc": "",
         "hide": true
     },
@@ -5874,7 +6322,7 @@
     "4053015": {
         "id": "4053015",
         "series_id": "5",
-        "title": "Corazón palpitante",
+        "title": "Corazón latiente",
         "desc": "En los sueños, hasta las emociones son tangibles.",
         "hide_desc": "※Reúne 1 engranaje de emociones.",
         "hide": false
@@ -9386,7 +9834,7 @@
     "4055023": {
         "id": "4055023",
         "series_id": "5",
-        "title": "Introducción al psicoanálisis",
+        "title": "Introducción general al psicoanálisis",
         "desc": "Descubre el extraño evento tras las cortinas de la clínica.",
         "hide_desc": "",
         "hide": false
@@ -9892,6 +10340,286 @@
         "series_id": "5",
         "title": "Dominio de todos los modelos",
         "desc": "Gana una partida con cada avión en «Batalla de aviones pixelados».",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055401": {
+        "id": "4055401",
+        "series_id": "5",
+        "title": "La mejor prueba de amor",
+        "desc": "Presencia el reencuentro predestinado de dos transeúntes en la esquina de una calle.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055402": {
+        "id": "4055402",
+        "series_id": "5",
+        "title": "Rapsodia del delirio apocalíptico",
+        "desc": "En la Capital Demoníaca del Apocalipsis, atrapa a un gato negro que se escapó del trabajo.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055403": {
+        "id": "4055403",
+        "series_id": "5",
+        "title": "¡En marcha, Explorador Interestelar!",
+        "desc": "Apoya el plan de salida del capitán Zumzum.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055404": {
+        "id": "4055404",
+        "series_id": "5",
+        "title": "¿De verdad es necesario tomar esta foto?",
+        "desc": "Utiliza el Gatomatón de forma rápida y decisiva en la Capital Demoníaca asediada por Tempestanimbos, y haz frente a los retumbantes truenos celestiales.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055405": {
+        "id": "4055405",
+        "series_id": "5",
+        "title": "No soy popular... No te culpo",
+        "desc": "Ayuda al eterae recluido en la Capital Demoníaca.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055406": {
+        "id": "4055406",
+        "series_id": "5",
+        "title": "Escuadrón del Rayo",
+        "desc": "Completa una fantástica interpretación con el Rayosaurio en la Capital Demoníaca.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055407": {
+        "id": "4055407",
+        "series_id": "5",
+        "title": "El comienzo de la leyenda",
+        "desc": "Supera todas las etapas en «Experto del ladrillo anticorrupción».",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055408": {
+        "id": "4055408",
+        "series_id": "5",
+        "title": "Conquista del infinito",
+        "desc": "Supera la etapa del modo infinito en «Experto del ladrillo anticorrupción».",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055409": {
+        "id": "4055409",
+        "series_id": "5",
+        "title": "Más allá del muro negro",
+        "desc": "Consigue 4 estrellas en todas las etapas de «Experto del ladrillo anticorrupción».",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055410": {
+        "id": "4055410",
+        "series_id": "5",
+        "title": "Maestr{F#a}{M#o} de la programación",
+        "desc": "Usa una habilidad 40 veces en una misma partida de «Experto del ladrillo anticorrupción».",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055411": {
+        "id": "4055411",
+        "series_id": "5",
+        "title": "Expert{F#a}{M#o} en programación",
+        "desc": "Usa una habilidad 20 veces en una misma partida de «Experto del ladrillo anticorrupción».",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055412": {
+        "id": "4055412",
+        "series_id": "5",
+        "title": "¡Ja, ja! ¡Ja, ja, ja! ¡Ja, ja, ja, ja, ja!",
+        "desc": "Usa a Gilgamesh en la Guerra del Santo Grial Fabularia y juega 10 cartas de Tesoro del Rey de una sola vez.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055413": {
+        "id": "4055413",
+        "series_id": "5",
+        "title": "{F#La}{M#El} Trazacaminos más {F#conmovedora}{M#conmovedor} de todo el universo",
+        "desc": "Usa {F#a la}{M#al} Trazacaminos en la Guerra del Santo Grial Fabularia y juega 8 cartas de ¡Ataque de Aha! en un mismo turno aliado.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055414": {
+        "id": "4055414",
+        "series_id": "5",
+        "title": "Unlimited Blade Works pirata",
+        "desc": "Usa a Archer en la Guerra del Santo Grial Fabularia y genera 4 cartas de proyección en un mismo turno aliado.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055415": {
+        "id": "4055415",
+        "series_id": "5",
+        "title": "Espada de la victoria astral de doble muerte",
+        "desc": "Usa a Saber en la Guerra del Santo Grial Fabularia y lanza su habilidad definitiva 2 veces en un mismo turno aliado.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055416": {
+        "id": "4055416",
+        "series_id": "5",
+        "title": "Oh, mortales, que anhelan encadenar a los dioses",
+        "desc": "Sube a la quimera al nivel máximo en la Guerra del Santo Grial Fabularia.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055417": {
+        "id": "4055417",
+        "series_id": "5",
+        "title": "Muerte a los desleales",
+        "desc": "En la Guerra del Santo Grial Fabularia, elimina a 1 enemigo usando Rule Breaker.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055418": {
+        "id": "4055418",
+        "series_id": "5",
+        "title": "Ah, lo bloqueé todo",
+        "desc": "Juega Rho Aias en la Guerra del Santo Grial Fabularia.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055501": {
+        "id": "4055501",
+        "series_id": "5",
+        "title": "A ti y a mí nos gustan los durianes",
+        "desc": "Observa el peculiar directo de ventas en la playa de Astrópolis.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055502": {
+        "id": "4055502",
+        "series_id": "5",
+        "title": "No temas no hallar amigos en el camino",
+        "desc": "Reúnete con cuatro viejos conocidos en Astrópolis.",
+        "hide_desc": "※Velite, Mingxi, Tamila, Popott... ¿Aún los recuerdas?",
+        "hide": false
+    },
+    "4055503": {
+        "id": "4055503",
+        "series_id": "5",
+        "title": "¿Quién en el mundo no te conoce?",
+        "desc": "Habla con Buhoberto y Carmela.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055504": {
+        "id": "4055504",
+        "series_id": "5",
+        "title": "Fama temprana",
+        "desc": "Si tuvieras la oportunidad de convertirte en una superestrella, ¿cuánto estarías dispuest{F#a}{M#o} a sacrificar?",
+        "hide_desc": "※Sé testigo del nacimiento de una nueva estrella de la pantalla grande.",
+        "hide": false
+    },
+    "4055505": {
+        "id": "4055505",
+        "series_id": "5",
+        "title": "Bienvenid{F#a}{M#o} al mundo de los muertos vivientes",
+        "desc": "Trabajar, morir y seguir trabajando.",
+        "hide_desc": "※Sé testigo de la relación de amor y odio entre Skott y un viejo amigo.",
+        "hide": false
+    },
+    "4055506": {
+        "id": "4055506",
+        "series_id": "5",
+        "title": "Solo un detective",
+        "desc": "El barro puede moldear ídolos, y la hipocresía también puede forjar la justicia.",
+        "hide_desc": "※Resuelve el misterio de la desaparición de Bob XV.",
+        "hide": false
+    },
+    "4055507": {
+        "id": "4055507",
+        "series_id": "5",
+        "title": "Por los hermosos días que siempre se repiten",
+        "desc": "Deja que la historia del espectro y el detective se desarrolle de forma natural.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055508": {
+        "id": "4055508",
+        "series_id": "5",
+        "title": "Amor, amor y más amor",
+        "desc": "Elige al Rey Rompecorazotrón como el nuevo detective despeinado.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055509": {
+        "id": "4055509",
+        "series_id": "5",
+        "title": "Las caudalosas aguas del cosmos fluyen hacia el este",
+        "desc": "Busca venganza por la traición de los espectros y divide su mundo en tres partes.",
+        "hide_desc": "",
+        "hide": true
+    },
+    "4055510": {
+        "id": "4055510",
+        "series_id": "5",
+        "title": "La leyenda de los héroes gaviota",
+        "desc": "Destruye cualquier castillo de arena.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055511": {
+        "id": "4055511",
+        "series_id": "5",
+        "title": "Presentación de una persona en la vida cotidiana",
+        "desc": "Lee cualquier credencial de personaje.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055512": {
+        "id": "4055512",
+        "series_id": "5",
+        "title": "¡Resulta que sí!",
+        "desc": "¿Ves? Yo, Buhoberto, no te estoy engañando, ¿verdad? Ja, ja, ja... Por cierto, la visita ya terminó. ¿Puedes... devolverme el dinero? ¿Cómo que el sistema no lo permite?",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055513": {
+        "id": "4055513",
+        "series_id": "5",
+        "title": "Por fin sé quién está comprando",
+        "desc": "Obtén cualquier recuerdo cultural típico de Astrópolis.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055514": {
+        "id": "4055514",
+        "series_id": "5",
+        "title": "Copa del cosmos: Volautos de carreras",
+        "desc": "Gana el título de {F#campeona}{M#campeón} de la Copa del cosmos en Superando límites: Supercarrera veloz.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055515": {
+        "id": "4055515",
+        "series_id": "5",
+        "title": "Cuatro ruedas y un gato",
+        "desc": "Investiga y desarrolla 9 veces en Superando límites: Supercarrera veloz.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055516": {
+        "id": "4055516",
+        "series_id": "5",
+        "title": "Simulador de choques",
+        "desc": "Manda por los aires a un total de 20 vehículos rivales en Superando límites: Supercarrera veloz.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055517": {
+        "id": "4055517",
+        "series_id": "5",
+        "title": "As del volante de Astrópolis",
+        "desc": "Rompe el récord de la pista en cualquier desafío de carrera rápida de Superando límites: Supercarrera veloz.",
         "hide_desc": "",
         "hide": false
     },
@@ -10546,7 +11274,7 @@
     "4071012": {
         "id": "4071012",
         "series_id": "7",
-        "title": "Mano divina",
+        "title": "Mano celestial",
         "desc": "Usa una técnica y derrota a todos los enemigos al entrar en combate.",
         "hide_desc": "",
         "hide": false
@@ -10571,7 +11299,7 @@
         "id": "4071015",
         "series_id": "7",
         "title": "Instinto de supervivencia",
-        "desc": "Gana una batalla cuando los 4 aliados tengan un porcentaje de PV igual o inferior al 5%",
+        "desc": "Gana una batalla cuando los 4 aliados tengan un porcentaje de PV igual o inferior al 5%.",
         "hide_desc": "",
         "hide": false
     },
@@ -12555,7 +13283,7 @@
         "id": "4075203",
         "series_id": "7",
         "title": "El top 500 de micromecenazgo",
-        "desc": "En una sola batalla, la cantidad total de ¡Bien hecho! que obtiene Evanescia de otros compañeros de equipo mediante el talento Juventud: primavera eterna supera 500",
+        "desc": "En una sola batalla, la cantidad total de ¡Bien hecho! que obtiene Evanescia de otros compañeros de equipo mediante el talento Juventud: primavera eterna supera 500.",
         "hide_desc": "",
         "hide": true
     },
@@ -12654,6 +13382,142 @@
         "desc": "Usa al personaje aliado Mortenax Blade para lanzar Forja de uno, olvido de todos 6 veces durante una sola activación de Ira inconmensurable.",
         "hide_desc": "",
         "hide": true
+    },
+    "4075401": {
+        "id": "4075401",
+        "series_id": "7",
+        "title": "Pelosete más allá del cielo",
+        "desc": "En una misma batalla, 3 personajes de Camaradas trazacaminos (excepto Himeko Nova) usan la habilidad de apoyo.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075402": {
+        "id": "4075402",
+        "series_id": "7",
+        "title": "Té de la tarde",
+        "desc": "Himeko Nova lanza la habilidad definitiva en su turno n.º 4.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075403": {
+        "id": "4075403",
+        "series_id": "7",
+        "title": "Compañeros de viaje",
+        "desc": "En una sola batalla, Himeko Nova activa la línea de voz especial de 4 personajes de Camaradas trazacaminos con su habilidad definitiva.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075404": {
+        "id": "4075404",
+        "series_id": "7",
+        "title": "Dos tercios son dioses",
+        "desc": "Al ganar la batalla, el porcentaje de PV de Gilgamesh está entre el 64% y el 68%.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075405": {
+        "id": "4075405",
+        "series_id": "7",
+        "title": "Reservas de Fantasma Noble suficientes",
+        "desc": "Gilgamesh alcanza a 5 o más enemigos al lanzar su técnica.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075406": {
+        "id": "4075406",
+        "series_id": "7",
+        "title": "Separar el cielo de la tierra es algo lógico",
+        "desc": "Gilgamesh es el primer personaje del equipo en lanzar la habilidad definitiva.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075407": {
+        "id": "4075407",
+        "series_id": "7",
+        "title": "Presupuesto excedido",
+        "desc": "En una sola batalla, Rin Tohsaka consume más de 100 pts. de Energía de gema.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075408": {
+        "id": "4075408",
+        "series_id": "7",
+        "title": "Regla de oro (falsa)",
+        "desc": "Usa al personaje aliado Rin Tohsaka para recoger 8 monedas de oro de una sola vez.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075409": {
+        "id": "4075409",
+        "series_id": "7",
+        "title": "Cuando los tiempos son malos, hasta los héroes luchan por la libertad",
+        "desc": "Gana una batalla con un equipo que incluya tanto a Rin Tohsaka como a Archer, y en la que Archer sea derrotado 3 o más veces.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075410": {
+        "id": "4075410",
+        "series_id": "7",
+        "title": "Gran coro de la agonía",
+        "desc": "En la batalla contra Académico de la Comedia, haz que 4 o más Académicos de la Comedia lancen Telón final al mismo tiempo.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075411": {
+        "id": "4075411",
+        "series_id": "7",
+        "title": "Expert{F#a}{M#o} en desactivación de bombas",
+        "desc": "En la batalla contra Asat Pramad, haz que no haya ningún Meme explosivo que se pueda detonar cuando Asat Pramad lance Fiesta de memes para detonarlos.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075412": {
+        "id": "4075412",
+        "series_id": "7",
+        "title": "Aprender sobre la marcha",
+        "desc": "En la batalla contra Asat Pramad, usa la barrera obtenida en Partida que marca el destino para resistir el daño de Empieza el juego.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075501": {
+        "id": "4075501",
+        "series_id": "7",
+        "title": "¡Mejor no lo digas!",
+        "desc": "En el combate contra Faro, ataca para disipar su estado Purga del mal.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075502": {
+        "id": "4075502",
+        "series_id": "7",
+        "title": "POV: Mi hermano no quiere cantar en el karaoke",
+        "desc": "En una sola batalla, usa Trinos de verano del personaje aliado Robin Estival para infligir el golpe final al Gran Septimus, \"Coro Armonioso\".",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075503": {
+        "id": "4075503",
+        "series_id": "7",
+        "title": "LLEGÓ EL MOMENTO",
+        "desc": "En una sola batalla, el Bullicio de Robin Estival alcanza el límite máximo.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075504": {
+        "id": "4075504",
+        "series_id": "7",
+        "title": "Verano invencible",
+        "desc": "En una sola batalla, Aventurino Oleaje lanza ¡Todo al tórrido estío! cuando Fervor alcanza el límite máximo.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075505": {
+        "id": "4075505",
+        "series_id": "7",
+        "title": "POV: Te encuentras con un oponente en una fiesta, pero no quieres armar un escándalo",
+        "desc": "En una sola batalla, Aventurino Oleaje inflige el golpe final a Cánido Burbujeante de la Compañía Teatral de Terrores al lanzar ¡Brindis por el tórrido estío! o ¡Todo al tórrido estío!",
+        "hide_desc": "",
+        "hide": false
     },
     "4080101": {
         "id": "4080101",
@@ -13260,6 +14124,22 @@
         "series_id": "8",
         "title": "¿Quieres hacer un muñeco de nieve?",
         "desc": "Queda congelad{F#a}{M#o} en un bloque de hielo en Salto bidimensional.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4085401": {
+        "id": "4085401",
+        "series_id": "8",
+        "title": "Tribulación fallida",
+        "desc": "Recibe el impacto de un rayo 1 vez en la Capital Demoníaca del Apocalipsis.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4085402": {
+        "id": "4085402",
+        "series_id": "8",
+        "title": "No más rápido que la luz",
+        "desc": "Recibe el impacto de un rayo 1 vez en el ¡Salto bidimensional! de la Capital Demoníaca del Apocalipsis.",
         "hide_desc": "",
         "hide": false
     },
@@ -14363,7 +15243,7 @@
         "id": "4092940",
         "series_id": "9",
         "title": "Reflejo evasivo",
-        "desc": "Esquiva todos los rayos láser durante 6 ciclos consecutivos en el desafío Evasión de rayos láser del Universo Simulado: Oro y maquinaria.",
+        "desc": "Esquiva todos los rayos láser durante 6 ciclos consecutivos en el Desafío de evasión de rayos láser del Universo Simulado: Oro y maquinaria.",
         "hide_desc": "",
         "hide": true
     },

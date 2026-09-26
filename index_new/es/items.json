@@ -494,9 +494,7 @@
         "icon": "icon/item/281.png",
         "come_from": [
             "Obteniendo 2 veces el mismo personaje de 5 estrellas con sus fragmentos de Eidolon al máximo",
-            "Obteniendo 2 veces el mismo personaje de 5 estrellas con sus fragmentos de Eidolon al máximo",
-            "Acompañantes estelares",
-            "Acompañantes estelares (ya recogido en este periodo)"
+            "Obteniendo 2 veces el mismo personaje de 5 estrellas con sus fragmentos de Eidolon al máximo"
         ]
     },
     "282": {
@@ -1327,6 +1325,51 @@
     "11507": {
         "id": "11507",
         "name": "Eidolon de Mortenax Blade",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11508": {
+        "id": "11508",
+        "name": "Eidolon de Rin Tohsaka",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11509": {
+        "id": "11509",
+        "name": "Eidolon de Gilgamesh",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11510": {
+        "id": "11510",
+        "name": "Eidolon de Himeko Nova",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11512": {
+        "id": "11512",
+        "name": "Eidolon de Robin Estival",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11513": {
+        "id": "11513",
+        "name": "Eidolon de Aventurino Oleaje",
         "type": "Material",
         "sub_type": "Eidolon",
         "rarity": 5,
@@ -3891,6 +3934,84 @@
             "Máquina sintetizadora multiusos - Síntesis de artefactos"
         ]
     },
+    "83271": {
+        "id": "83271",
+        "name": "Punto de partida de la estrella caída",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71058.png",
+        "come_from": []
+    },
+    "83272": {
+        "id": "83272",
+        "name": "Punto de partida de la estrella caída",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71058.png",
+        "come_from": []
+    },
+    "83273": {
+        "id": "83273",
+        "name": "Punto de partida de la estrella caída",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71058.png",
+        "come_from": []
+    },
+    "83274": {
+        "id": "83274",
+        "name": "Punto de partida de la estrella caída",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71058.png",
+        "come_from": [
+            "Universo Diferenciado: Extracción de ornamentos",
+            "Máquina sintetizadora multiusos - Síntesis de artefactos"
+        ]
+    },
+    "83281": {
+        "id": "83281",
+        "name": "Instituto de Ciencias de la Vida Cósmica",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71059.png",
+        "come_from": []
+    },
+    "83282": {
+        "id": "83282",
+        "name": "Instituto de Ciencias de la Vida Cósmica",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71059.png",
+        "come_from": []
+    },
+    "83283": {
+        "id": "83283",
+        "name": "Instituto de Ciencias de la Vida Cósmica",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71059.png",
+        "come_from": []
+    },
+    "83284": {
+        "id": "83284",
+        "name": "Instituto de Ciencias de la Vida Cósmica",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71059.png",
+        "come_from": [
+            "Universo Diferenciado: Extracción de ornamentos",
+            "Máquina sintetizadora multiusos - Síntesis de artefactos"
+        ]
+    },
     "89001": {
         "id": "89001",
         "name": "Ornamento",
@@ -5174,6 +5295,15 @@
         "icon": "icon/item/110508.png",
         "come_from": ["Ecos de la guerra en Ruinas del Tiempo, Orilla de los Recuerdos Enterrados"]
     },
+    "110509": {
+        "id": "110509",
+        "name": "Esperanza del falso iluminado",
+        "type": "Material",
+        "sub_type": "WeeklyMonsterDrop",
+        "rarity": 4,
+        "icon": "icon/item/110509.png",
+        "come_from": ["Ecos de la guerra en Capital Demoníaca de las Fauces Desoladoras"]
+    },
     "110610": {
         "id": "110610",
         "name": "Lágrima de los raíles",
@@ -5776,7 +5906,12 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/120006.png",
-        "come_from": ["Explorando Planarcadia", "De misiones trazacaminos", "De misiones de aventuras"]
+        "come_from": [
+            "Explorando Planarcadia",
+            "De misiones trazacaminos",
+            "De misiones de aventuras",
+            "Se obtiene al explorar Astrópolis."
+        ]
     },
     "121000": {
         "id": "121000",
@@ -5850,6 +5985,15 @@
         "icon": "icon/item/121007.png",
         "come_from": []
     },
+    "121008": {
+        "id": "121008",
+        "name": "Champán de celebración",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/121008.png",
+        "come_from": []
+    },
     "122000": {
         "id": "122000",
         "name": "Ficha Aideen",
@@ -5884,6 +6028,15 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/295534.png",
+        "come_from": []
+    },
+    "122004": {
+        "id": "122004",
+        "name": "Medalla por superación en tiempo límite de Arbitraje atípico",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/295536.png",
         "come_from": []
     },
     "123000": {
@@ -10654,6 +10807,204 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "140613": {
+        "id": "140613",
+        "name": "Libro ilustrado «Viaje hacia las estrellas»",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140614": {
+        "id": "140614",
+        "name": "Libro ilustrado «Viaje hacia las estrellas»",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140615": {
+        "id": "140615",
+        "name": "Videojuego que no tiene absolutamente nada que ver con la Guerra del Santo Grial",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/1054406.png",
+        "come_from": []
+    },
+    "140616": {
+        "id": "140616",
+        "name": "Libro ilustrado «Viaje hacia las estrellas»",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140617": {
+        "id": "140617",
+        "name": "Libro ilustrado «Viaje hacia las estrellas»",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140618": {
+        "id": "140618",
+        "name": "Libro ilustrado «Viaje hacia las estrellas»",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140619": {
+        "id": "140619",
+        "name": "Libro ilustrado «Viaje hacia las estrellas»",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140620": {
+        "id": "140620",
+        "name": "Libro ilustrado «Viaje hacia las estrellas»",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140621": {
+        "id": "140621",
+        "name": "Libro ilustrado «Viaje hacia las estrellas»",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140622": {
+        "id": "140622",
+        "name": "Libro ilustrado «Viaje hacia las estrellas»",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140623": {
+        "id": "140623",
+        "name": "Libro ilustrado «Viaje hacia las estrellas»",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140624": {
+        "id": "140624",
+        "name": "Libro ilustrado «Viaje hacia las estrellas»",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140625": {
+        "id": "140625",
+        "name": "Libro ilustrado «Viaje hacia las estrellas»",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140626": {
+        "id": "140626",
+        "name": "Libro ilustrado «Viaje hacia las estrellas»",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140627": {
+        "id": "140627",
+        "name": "Libro ilustrado «Viaje hacia las estrellas»",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140628": {
+        "id": "140628",
+        "name": "Libro ilustrado «Viaje hacia las estrellas»",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140629": {
+        "id": "140629",
+        "name": "Libro ilustrado «Viaje hacia las estrellas»",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140630": {
+        "id": "140630",
+        "name": "Pata redonda del duende trazacaminos (derecha)",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140630.png",
+        "come_from": []
+    },
+    "140631": {
+        "id": "140631",
+        "name": "El secreto de una ciudad",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140212.png",
+        "come_from": []
+    },
+    "140632": {
+        "id": "140632",
+        "name": "El secreto de una ciudad",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140212.png",
+        "come_from": []
+    },
+    "140633": {
+        "id": "140633",
+        "name": "El secreto de una ciudad",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140212.png",
+        "come_from": []
+    },
+    "140634": {
+        "id": "140634",
+        "name": "Estrella de la velocidad: Trofeo de campeón absoluto",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140634.png",
         "come_from": []
     },
     "149957": {
@@ -21623,6 +21974,627 @@
         "icon": "icon/item/190021.png",
         "come_from": []
     },
+    "192107": {
+        "id": "192107",
+        "name": "Buenas noches, querido Rayosaurio",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192108": {
+        "id": "192108",
+        "name": "Diario de un oportunista",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192109": {
+        "id": "192109",
+        "name": "Aviso de evacuación de emergencia",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192110": {
+        "id": "192110",
+        "name": "Blog del fin del mundo",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192111": {
+        "id": "192111",
+        "name": "Manifiesto por la libertad de los mecatrones",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192113": {
+        "id": "192113",
+        "name": "Fundamentos de la magia: tan simple que hasta un tigre lo entendería",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192114": {
+        "id": "192114",
+        "name": "Fundamentos de la magia: tan simple que hasta un tigre lo entendería",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192115": {
+        "id": "192115",
+        "name": "Crónicas de la Grasa Flotante: fragmento",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192116": {
+        "id": "192116",
+        "name": "Crónicas de la Grasa Flotante: Capítulo del Mono",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192117": {
+        "id": "192117",
+        "name": "Crónicas de la Grasa Flotante: Capítulo del Conejo",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192118": {
+        "id": "192118",
+        "name": "Informe de investigación del Departamento de Recursos Humanos",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192119": {
+        "id": "192119",
+        "name": "Informe de investigación del Departamento de Activos Intangibles",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192120": {
+        "id": "192120",
+        "name": "Nota de Rin",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192121": {
+        "id": "192121",
+        "name": "Carta a Himeko",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192122": {
+        "id": "192122",
+        "name": "Lista de compras",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192123": {
+        "id": "192123",
+        "name": "Plan de reconstrucción del gigante trazaestrellas de Pegana",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192124": {
+        "id": "192124",
+        "name": "Experimentos con café",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192125": {
+        "id": "192125",
+        "name": "Que la Imagiesencia te acompañe",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192126": {
+        "id": "192126",
+        "name": "Quién iluminó Astrópolis: Capítulo de Arita",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192127": {
+        "id": "192127",
+        "name": "Mensaje de felicitación por la nueva era",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192128": {
+        "id": "192128",
+        "name": "Sobre la necesidad de plumas, alas y sentido del humor",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192129": {
+        "id": "192129",
+        "name": "Rangos y privilegios: La pirámide social de Astrópolis",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192130": {
+        "id": "192130",
+        "name": "Contrato de empleo del más allá",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192131": {
+        "id": "192131",
+        "name": "Carta de anuncio de subasta",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192132": {
+        "id": "192132",
+        "name": "Semanario de trabajos temporales de Astrópolis",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192133": {
+        "id": "192133",
+        "name": "Página de guía comunitaria de la isla Floralia",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192134": {
+        "id": "192134",
+        "name": "Aviso de optimización de elenco protagónico",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192135": {
+        "id": "192135",
+        "name": "Receta secreta de la superestrella",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192136": {
+        "id": "192136",
+        "name": "Más de quince minutos de fama",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192137": {
+        "id": "192137",
+        "name": "Notas de observación de la nube de oro disperso",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192138": {
+        "id": "192138",
+        "name": "Sanciones por infringir la línea roja",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192139": {
+        "id": "192139",
+        "name": "Estudio de la competencia de los Plañideros",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192140": {
+        "id": "192140",
+        "name": "Boletín de futuros creativos",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192141": {
+        "id": "192141",
+        "name": "Un día en la Torre Guía",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192142": {
+        "id": "192142",
+        "name": "Etiqueta social vespertina",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192143": {
+        "id": "192143",
+        "name": "Lista de grupos de interés de los empleados (extracto)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192144": {
+        "id": "192144",
+        "name": "Notas breves sobre la estructura departamental de la Corporación que hasta Siete de Marzo puede entender",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192145": {
+        "id": "192145",
+        "name": "Notas breves sobre la estructura departamental de la Corporación que hasta Siete de Marzo puede entender",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192146": {
+        "id": "192146",
+        "name": "Petición por el bienestar de los espectros",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192147": {
+        "id": "192147",
+        "name": "Documentos dejados por Bob (Lado A)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192148": {
+        "id": "192148",
+        "name": "Documentos dejados por Bob (Lado B)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192149": {
+        "id": "192149",
+        "name": "Póster de \"Las aventuras de Sacrobuabó 18: la guerra de los buabuabós\".",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192150": {
+        "id": "192150",
+        "name": "Permiso de conducir de esquife a motor",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192151": {
+        "id": "192151",
+        "name": "Acuerdo de cooperación comercial del desafío del gran despilfarro",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192152": {
+        "id": "192152",
+        "name": "Acuerdo de cooperación comercial del desafío del gran despilfarro",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192153": {
+        "id": "192153",
+        "name": "Restaurante Patas Arriba: Menú de delicias de verano",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192154": {
+        "id": "192154",
+        "name": "Guía de estilo de Astrópolis (edición 314)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192155": {
+        "id": "192155",
+        "name": "Antes de la línea de meta",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192156": {
+        "id": "192156",
+        "name": "Análisis de datos del buzón de sugerencias",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192157": {
+        "id": "192157",
+        "name": "Lista de artículos de la Selección exclusiva de Avegrande: colección privada",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192158": {
+        "id": "192158",
+        "name": "Credencial de personaje: Noen Simmes",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192159": {
+        "id": "192159",
+        "name": "Credencial de personaje: Chica Ámbar VIII",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192160": {
+        "id": "192160",
+        "name": "Credencial de personaje: Señora Hauss",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192161": {
+        "id": "192161",
+        "name": "Credencial de personaje: Piolotte",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192162": {
+        "id": "192162",
+        "name": "Credencial de personaje: Kenneth, el independiente",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192163": {
+        "id": "192163",
+        "name": "Credencial de personaje: Kumāsito",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192164": {
+        "id": "192164",
+        "name": "Credencial de personaje: Habla",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192165": {
+        "id": "192165",
+        "name": "Credencial de personaje: Feng Barkonov",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192166": {
+        "id": "192166",
+        "name": "Credencial de personaje: Buhoberto",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192167": {
+        "id": "192167",
+        "name": "Credencial de personaje: Carmela",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192168": {
+        "id": "192168",
+        "name": "Invitación al desafío de Avegrande",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192169": {
+        "id": "192169",
+        "name": "Bajo la luz de Faro",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192170": {
+        "id": "192170",
+        "name": "Registro de calibración de héroe",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192171": {
+        "id": "192171",
+        "name": "Proceso de solicitud de la licencia de chistes malos",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192172": {
+        "id": "192172",
+        "name": "Aire pausado: la habitación trasera",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192173": {
+        "id": "192173",
+        "name": "Crónicas de la Grasa Flotante: Capítulo del Mono (XXIX)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192174": {
+        "id": "192174",
+        "name": "Crónicas de la Grasa Flotante: Capítulo del Zorro (XII)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192175": {
+        "id": "192175",
+        "name": "Crónicas que para nada son de la Grasa Flotante",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192176": {
+        "id": "192176",
+        "name": "Invitación para comer en el Restaurante Patas Arriba",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
     "210001": {
         "id": "210001",
         "name": "La aurora del desastre",
@@ -23660,6 +24632,276 @@
     "210476": {
         "id": "210476",
         "name": "Artista original",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210477": {
+        "id": "210477",
+        "name": "En las fauces de la bestia",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210478": {
+        "id": "210478",
+        "name": "Breve respiro",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210479": {
+        "id": "210479",
+        "name": "Tarde de la proporción áurea",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210480": {
+        "id": "210480",
+        "name": "Plano de lo inexistente",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210481": {
+        "id": "210481",
+        "name": "Viejos sueños a la intemperie",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210482": {
+        "id": "210482",
+        "name": "Mirada al azul profundo",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210483": {
+        "id": "210483",
+        "name": "Cuna de la estrella caída",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210484": {
+        "id": "210484",
+        "name": "Ruinas ficticias",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210485": {
+        "id": "210485",
+        "name": "Escalada atronadora",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210486": {
+        "id": "210486",
+        "name": "Saṃvartasthāyi",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210487": {
+        "id": "210487",
+        "name": "Regreso a la extinción",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210488": {
+        "id": "210488",
+        "name": "Próxima parada",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210489": {
+        "id": "210489",
+        "name": "Ondas relajantes",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210490": {
+        "id": "210490",
+        "name": "Dedos danzantes",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210491": {
+        "id": "210491",
+        "name": "Ritmo acelerado",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210493": {
+        "id": "210493",
+        "name": "Sin preocupaciones",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210494": {
+        "id": "210494",
+        "name": "Festín frenético de la Capital Demoníaca",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210495": {
+        "id": "210495",
+        "name": "Artillería pesada",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210496": {
+        "id": "210496",
+        "name": "Tutorial para principiantes",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210497": {
+        "id": "210497",
+        "name": "Sobre las olas",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210498": {
+        "id": "210498",
+        "name": "Convocatoria interestelar",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210499": {
+        "id": "210499",
+        "name": "Ese instante de luz suspendida",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210500": {
+        "id": "210500",
+        "name": "¡Arde, vida!",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210501": {
+        "id": "210501",
+        "name": "Olas para todos",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210502": {
+        "id": "210502",
+        "name": "Ventana indiscreta",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210503": {
+        "id": "210503",
+        "name": "Susurros",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210504": {
+        "id": "210504",
+        "name": "Silencio",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210505": {
+        "id": "210505",
+        "name": "Sobrecarga sensorial",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210506": {
+        "id": "210506",
+        "name": "Calma chicha",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210507": {
+        "id": "210507",
+        "name": "Solo queda seguir el viento",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -26386,6 +27628,15 @@
         "icon": "icon/item/226004.png",
         "come_from": []
     },
+    "226005": {
+        "id": "226005",
+        "name": "Torre de Arbitraje atípico",
+        "type": "Usable",
+        "sub_type": "HeadIconFrame",
+        "rarity": 5,
+        "icon": "icon/item/226003.png",
+        "come_from": []
+    },
     "227001": {
         "id": "227001",
         "name": "Laureola {F#de la}{M#del} salvado{F#ra}{M#r}",
@@ -26412,6 +27663,15 @@
         "rarity": 5,
         "icon": "icon/item/227003.png",
         "come_from": ["Evento «Ensoñación exquisita» anterior"]
+    },
+    "227004": {
+        "id": "227004",
+        "name": "¡Ay, mira arriba!",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227004.png",
+        "come_from": ["Paquete Imoji iluminado", "En la tienda Artículos de moda"]
     },
     "227005": {
         "id": "227005",
@@ -26493,6 +27753,15 @@
         "rarity": 5,
         "icon": "icon/item/227015.png",
         "come_from": []
+    },
+    "227016": {
+        "id": "227016",
+        "name": "Cosplay de Ligus",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227016.png",
+        "come_from": ["En la tienda de Regalo estelar"]
     },
     "229001": {
         "id": "229001",
@@ -27495,7 +28764,7 @@
     },
     "250500": {
         "id": "250500",
-        "name": "",
+        "name": "General: vandalismo",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27504,7 +28773,7 @@
     },
     "250501": {
         "id": "250501",
-        "name": "",
+        "name": "Zona: olvido",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27513,7 +28782,7 @@
     },
     "250502": {
         "id": "250502",
-        "name": "",
+        "name": "Zona: emoción",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27522,7 +28791,7 @@
     },
     "250503": {
         "id": "250503",
-        "name": "",
+        "name": "General: imitación",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27531,7 +28800,7 @@
     },
     "250504": {
         "id": "250504",
-        "name": "",
+        "name": "Zona: creación",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27540,7 +28809,7 @@
     },
     "250505": {
         "id": "250505",
-        "name": "",
+        "name": "Zona: ello",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27549,7 +28818,7 @@
     },
     "250506": {
         "id": "250506",
-        "name": "",
+        "name": "General: restricción",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27558,7 +28827,7 @@
     },
     "250507": {
         "id": "250507",
-        "name": "",
+        "name": "Zona: intuición",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27567,7 +28836,7 @@
     },
     "250508": {
         "id": "250508",
-        "name": "",
+        "name": "General: percepción",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27576,7 +28845,7 @@
     },
     "250509": {
         "id": "250509",
-        "name": "",
+        "name": "General: inspiración",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27585,7 +28854,7 @@
     },
     "250510": {
         "id": "250510",
-        "name": "",
+        "name": "Zona: clasificación",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27594,7 +28863,7 @@
     },
     "250511": {
         "id": "250511",
-        "name": "",
+        "name": "General: confirmación",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27603,7 +28872,7 @@
     },
     "250512": {
         "id": "250512",
-        "name": "",
+        "name": "Zona: asociación",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27612,7 +28881,7 @@
     },
     "250513": {
         "id": "250513",
-        "name": "",
+        "name": "Baliza: imaginación",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27630,7 +28899,7 @@
     },
     "250515": {
         "id": "250515",
-        "name": "",
+        "name": "Zona: experiencia",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27639,7 +28908,7 @@
     },
     "250516": {
         "id": "250516",
-        "name": "",
+        "name": "General: dialéctica",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27648,7 +28917,7 @@
     },
     "250517": {
         "id": "250517",
-        "name": "",
+        "name": "General: partida",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27657,7 +28926,7 @@
     },
     "250518": {
         "id": "250518",
-        "name": "",
+        "name": "Baliza: abstracción",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27684,7 +28953,7 @@
     },
     "250521": {
         "id": "250521",
-        "name": "",
+        "name": "General: sensibilidad",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27693,7 +28962,7 @@
     },
     "250522": {
         "id": "250522",
-        "name": "",
+        "name": "Conocimiento: evidencia",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27702,7 +28971,7 @@
     },
     "250523": {
         "id": "250523",
-        "name": "",
+        "name": "General: deducción",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27711,7 +28980,7 @@
     },
     "250524": {
         "id": "250524",
-        "name": "",
+        "name": "General: difusión",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27720,7 +28989,7 @@
     },
     "250525": {
         "id": "250525",
-        "name": "",
+        "name": "Conocimiento: principio",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27729,7 +28998,7 @@
     },
     "250526": {
         "id": "250526",
-        "name": "",
+        "name": "Conocimiento: reflexión",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27756,7 +29025,7 @@
     },
     "250529": {
         "id": "250529",
-        "name": "",
+        "name": "Conocimiento: progresión aritmética",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27765,7 +29034,7 @@
     },
     "250530": {
         "id": "250530",
-        "name": "",
+        "name": "Conocimiento: proteccionismo",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27774,7 +29043,7 @@
     },
     "250531": {
         "id": "250531",
-        "name": "",
+        "name": "General: aritmética",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27783,7 +29052,7 @@
     },
     "250532": {
         "id": "250532",
-        "name": "",
+        "name": "General: explosión exponencial",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27792,7 +29061,7 @@
     },
     "250533": {
         "id": "250533",
-        "name": "",
+        "name": "Conocimiento: preventa",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27801,7 +29070,7 @@
     },
     "250534": {
         "id": "250534",
-        "name": "",
+        "name": "Conocimiento: apuesta",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27819,7 +29088,7 @@
     },
     "250536": {
         "id": "250536",
-        "name": "",
+        "name": "Zona: desafío",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27828,7 +29097,7 @@
     },
     "250537": {
         "id": "250537",
-        "name": "",
+        "name": "Zona: coste",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27837,7 +29106,7 @@
     },
     "250538": {
         "id": "250538",
-        "name": "",
+        "name": "General: aroma",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27846,7 +29115,7 @@
     },
     "250539": {
         "id": "250539",
-        "name": "",
+        "name": "General: justicia",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27855,7 +29124,7 @@
     },
     "250540": {
         "id": "250540",
-        "name": "",
+        "name": "Conocimiento: límite",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27864,7 +29133,7 @@
     },
     "250541": {
         "id": "250541",
-        "name": "",
+        "name": "Baliza: intimidad",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27873,7 +29142,7 @@
     },
     "250542": {
         "id": "250542",
-        "name": "",
+        "name": "Baliza: presa",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27900,7 +29169,7 @@
     },
     "250545": {
         "id": "250545",
-        "name": "",
+        "name": "General: observación",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27909,7 +29178,7 @@
     },
     "250546": {
         "id": "250546",
-        "name": "",
+        "name": "Conocimiento: fantasía",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27918,7 +29187,7 @@
     },
     "250547": {
         "id": "250547",
-        "name": "",
+        "name": "Baliza: sin límites",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27945,7 +29214,7 @@
     },
     "250550": {
         "id": "250550",
-        "name": "",
+        "name": "General: tendencias aventureras",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27954,7 +29223,7 @@
     },
     "250551": {
         "id": "250551",
-        "name": "",
+        "name": "Baliza: sustitución",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27963,7 +29232,7 @@
     },
     "250552": {
         "id": "250552",
-        "name": "",
+        "name": "Zona: venta",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27972,7 +29241,7 @@
     },
     "250553": {
         "id": "250553",
-        "name": "",
+        "name": "Baliza: geometría",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27990,7 +29259,7 @@
     },
     "250555": {
         "id": "250555",
-        "name": "",
+        "name": "Baliza: baraja",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27999,7 +29268,7 @@
     },
     "250556": {
         "id": "250556",
-        "name": "",
+        "name": "Conocimiento: mano ganadora",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -28008,7 +29277,7 @@
     },
     "250557": {
         "id": "250557",
-        "name": "",
+        "name": "General: peón",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -28035,7 +29304,7 @@
     },
     "250560": {
         "id": "250560",
-        "name": "",
+        "name": "Heterogeneidad: doble cara",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -28044,7 +29313,7 @@
     },
     "250561": {
         "id": "250561",
-        "name": "",
+        "name": "Heterogeneidad: remodelación",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -28053,7 +29322,7 @@
     },
     "250562": {
         "id": "250562",
-        "name": "",
+        "name": "Heterogeneidad: consumismo",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28062,7 +29331,7 @@
     },
     "250563": {
         "id": "250563",
-        "name": "",
+        "name": "Heterogeneidad: interés",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -28071,7 +29340,7 @@
     },
     "250564": {
         "id": "250564",
-        "name": "",
+        "name": "Heterogeneidad: alienación",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -28080,7 +29349,7 @@
     },
     "250565": {
         "id": "250565",
-        "name": "",
+        "name": "Heterogeneidad: tesoro",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -28089,7 +29358,7 @@
     },
     "250566": {
         "id": "250566",
-        "name": "",
+        "name": "Heterogeneidad: inflación",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -28098,7 +29367,7 @@
     },
     "250567": {
         "id": "250567",
-        "name": "",
+        "name": "General: comercio de tiempo",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -28116,7 +29385,7 @@
     },
     "250569": {
         "id": "250569",
-        "name": "",
+        "name": "General: duda",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -28125,7 +29394,7 @@
     },
     "250570": {
         "id": "250570",
-        "name": "",
+        "name": "General: sin dimensión",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -28134,7 +29403,7 @@
     },
     "250571": {
         "id": "250571",
-        "name": "",
+        "name": "General: incoloro",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -28143,7 +29412,7 @@
     },
     "250572": {
         "id": "250572",
-        "name": "",
+        "name": "Conocimiento: curva",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28152,7 +29421,7 @@
     },
     "250573": {
         "id": "250573",
-        "name": "",
+        "name": "General: entropía",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28179,7 +29448,7 @@
     },
     "250576": {
         "id": "250576",
-        "name": "",
+        "name": "Conocimiento: sustracción",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -28188,7 +29457,7 @@
     },
     "250577": {
         "id": "250577",
-        "name": "",
+        "name": "General: topología",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -28197,7 +29466,7 @@
     },
     "250578": {
         "id": "250578",
-        "name": "",
+        "name": "Conocimiento: trascendencia",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -28206,7 +29475,7 @@
     },
     "250579": {
         "id": "250579",
-        "name": "",
+        "name": "Bonificación general: escudo",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28215,7 +29484,7 @@
     },
     "250580": {
         "id": "250580",
-        "name": "",
+        "name": "Bonificación general: fragilidad",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28224,7 +29493,7 @@
     },
     "250581": {
         "id": "250581",
-        "name": "",
+        "name": "Bonificación general: detonación",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28233,7 +29502,7 @@
     },
     "250582": {
         "id": "250582",
-        "name": "",
+        "name": "Bonificación general: preferencia",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28242,7 +29511,7 @@
     },
     "250583": {
         "id": "250583",
-        "name": "",
+        "name": "Bonificación general: agilidad",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28251,7 +29520,7 @@
     },
     "250584": {
         "id": "250584",
-        "name": "",
+        "name": "Bonificación general: línea de fondo",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28260,7 +29529,7 @@
     },
     "250585": {
         "id": "250585",
-        "name": "",
+        "name": "Bonificación general: venganza",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28269,7 +29538,7 @@
     },
     "250586": {
         "id": "250586",
-        "name": "",
+        "name": "Bonificación general: rejuvenecimiento",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28278,7 +29547,7 @@
     },
     "250587": {
         "id": "250587",
-        "name": "",
+        "name": "Bonificación general: iniciativa",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28287,7 +29556,7 @@
     },
     "250588": {
         "id": "250588",
-        "name": "",
+        "name": "Bonificación general: inversión",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28296,7 +29565,7 @@
     },
     "250589": {
         "id": "250589",
-        "name": "",
+        "name": "Bonificación general: martirio",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28305,7 +29574,7 @@
     },
     "250590": {
         "id": "250590",
-        "name": "",
+        "name": "Bonificación general: ley",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28314,7 +29583,7 @@
     },
     "250591": {
         "id": "250591",
-        "name": "",
+        "name": "Bonificación general: regla",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28323,7 +29592,7 @@
     },
     "250592": {
         "id": "250592",
-        "name": "",
+        "name": "Bonificación general: caja secreta",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -28341,7 +29610,7 @@
     },
     "250594": {
         "id": "250594",
-        "name": "",
+        "name": "General: escucha",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -28350,7 +29619,7 @@
     },
     "250595": {
         "id": "250595",
-        "name": "",
+        "name": "General: borrado",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -28359,7 +29628,7 @@
     },
     "250596": {
         "id": "250596",
-        "name": "",
+        "name": "Zona: social",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -28628,6 +29897,15 @@
         "rarity": 5,
         "icon": "icon/item/251004.png",
         "come_from": []
+    },
+    "251005": {
+        "id": "251005",
+        "name": "Imoji de cinco expresiones",
+        "type": "Pet",
+        "sub_type": "NormalPet",
+        "rarity": 5,
+        "icon": "icon/item/251005.png",
+        "come_from": ["En la tienda de Regalo estelar"]
     },
     "252000": {
         "id": "252000",
@@ -30319,7 +31597,7 @@
         "sub_type": "PersonalCard",
         "rarity": 4,
         "icon": "icon/item/253002.png",
-        "come_from": []
+        "come_from": ["En la tienda de Regalo estelar"]
     },
     "253003": {
         "id": "253003",
@@ -30328,7 +31606,7 @@
         "sub_type": "PersonalCard",
         "rarity": 4,
         "icon": "icon/item/253003.png",
-        "come_from": []
+        "come_from": ["En la tienda de Regalo estelar"]
     },
     "253004": {
         "id": "253004",
@@ -30338,6 +31616,15 @@
         "rarity": 5,
         "icon": "icon/item/253004.png",
         "come_from": ["En la tienda Artículos de moda"]
+    },
+    "253005": {
+        "id": "253005",
+        "name": "Sobrevolar",
+        "type": "Usable",
+        "sub_type": "PersonalCard",
+        "rarity": 4,
+        "icon": "icon/item/253005.png",
+        "come_from": ["En la tienda de Regalo estelar"]
     },
     "254000": {
         "id": "254000",
@@ -30372,7 +31659,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260013.png",
+        "icon": "icon/item/260001.png",
         "come_from": []
     },
     "260002": {
@@ -30381,7 +31668,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260014.png",
+        "icon": "icon/item/260002.png",
         "come_from": []
     },
     "260003": {
@@ -30390,7 +31677,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260015.png",
+        "icon": "icon/item/260003.png",
         "come_from": []
     },
     "260004": {
@@ -30399,7 +31686,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260016.png",
+        "icon": "icon/item/260004.png",
         "come_from": []
     },
     "260005": {
@@ -30408,7 +31695,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260017.png",
+        "icon": "icon/item/260005.png",
         "come_from": []
     },
     "260006": {
@@ -30417,7 +31704,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260018.png",
+        "icon": "icon/item/260006.png",
         "come_from": []
     },
     "260007": {
@@ -30426,7 +31713,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260019.png",
+        "icon": "icon/item/260007.png",
         "come_from": []
     },
     "260008": {
@@ -30435,7 +31722,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260020.png",
+        "icon": "icon/item/260008.png",
         "come_from": []
     },
     "260009": {
@@ -30444,7 +31731,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260021.png",
+        "icon": "icon/item/260009.png",
         "come_from": []
     },
     "260010": {
@@ -30453,7 +31740,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260022.png",
+        "icon": "icon/item/260010.png",
         "come_from": []
     },
     "260011": {
@@ -30462,7 +31749,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260023.png",
+        "icon": "icon/item/260011.png",
         "come_from": []
     },
     "260012": {
@@ -30471,7 +31758,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260024.png",
+        "icon": "icon/item/260012.png",
         "come_from": []
     },
     "260013": {
@@ -32664,6 +33951,15 @@
         "icon": "icon/item/300057.png",
         "come_from": []
     },
+    "300058": {
+        "id": "300058",
+        "name": "Carta enviada a través de las estrellas",
+        "type": "Usable",
+        "sub_type": "Gift",
+        "rarity": 4,
+        "icon": "icon/item/300058.png",
+        "come_from": []
+    },
     "300101": {
         "id": "300101",
         "name": "Pase de suministros del Expreso",
@@ -32844,6 +34140,15 @@
         "icon": "icon/item/309001.png",
         "come_from": []
     },
+    "309012": {
+        "id": "309012",
+        "name": "Paquete Regalo Fate",
+        "type": "Usable",
+        "sub_type": "ForceOpitonalGift",
+        "rarity": 5,
+        "icon": "icon/item/309012.png",
+        "come_from": []
+    },
     "310001": {
         "id": "310001",
         "name": "Herta - Contrato de apoyo a los Trazacaminos",
@@ -32954,7 +34259,7 @@
     },
     "310014": {
         "id": "310014",
-        "name": "Paquete \"Cosmos exprés\"",
+        "name": "Paquete Cosmos exprés",
         "type": "Usable",
         "sub_type": "Gift",
         "rarity": 5,
@@ -32999,7 +34304,7 @@
     },
     "312001": {
         "id": "312001",
-        "name": "Paquete de regalo: \"Tocado de moda\"",
+        "name": "Paquete Tocado de moda",
         "type": "Usable",
         "sub_type": "PlatformBoundGift",
         "rarity": 5,
@@ -33699,6 +35004,15 @@
         "icon": "icon/item/402037.png",
         "come_from": ["Máquina sintetizadora multiusos"]
     },
+    "402038": {
+        "id": "402038",
+        "name": "Sukiyaki de frijol mungo",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/402038.png",
+        "come_from": ["Máquina sintetizadora multiusos", "Sabor extraño"]
+    },
     "403001": {
         "id": "403001",
         "name": "Brazo cinético desechable",
@@ -33842,6 +35156,15 @@
         "rarity": 4,
         "icon": "icon/item/403016.png",
         "come_from": ["Máquina sintetizadora multiusos", "Tienda de conveniencia ∞11"]
+    },
+    "403017": {
+        "id": "403017",
+        "name": "Salto del Señor del Ámbar",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 4,
+        "icon": "icon/item/403017.png",
+        "come_from": ["Máquina sintetizadora multiusos", "Sabor extraño"]
     },
     "404004": {
         "id": "404004",
@@ -34536,6 +35859,15 @@
         "icon": "icon/item/406037.png",
         "come_from": []
     },
+    "406038": {
+        "id": "406038",
+        "name": "Receta: Sukiyaki de frijol mungo",
+        "type": "Usable",
+        "sub_type": "Formula",
+        "rarity": 3,
+        "icon": "icon/item/404001.png",
+        "come_from": []
+    },
     "407001": {
         "id": "407001",
         "name": "Receta: Brazo cinético desechable",
@@ -34674,6 +36006,15 @@
     "407016": {
         "id": "407016",
         "name": "Receta: Bobina de acero",
+        "type": "Usable",
+        "sub_type": "Formula",
+        "rarity": 4,
+        "icon": "icon/item/404001.png",
+        "come_from": []
+    },
+    "407017": {
+        "id": "407017",
+        "name": "Receta: Salto del Señor del Ámbar",
         "type": "Usable",
         "sub_type": "Formula",
         "rarity": 4,
@@ -35247,6 +36588,60 @@
         "icon": "icon/item/408448.png",
         "come_from": ["Tienda de conveniencia ∞11"]
     },
+    "408449": {
+        "id": "408449",
+        "name": "Salchicha asada con extra de sodio",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408449.png",
+        "come_from": ["Bob Gruñón"]
+    },
+    "408450": {
+        "id": "408450",
+        "name": "Filete invencible",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408450.png",
+        "come_from": ["Bob Gruñón"]
+    },
+    "408451": {
+        "id": "408451",
+        "name": "Helado de tres sabores oceánico",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408451.png",
+        "come_from": ["Puesto de refresco móvil"]
+    },
+    "408452": {
+        "id": "408452",
+        "name": "Figura articulada de Faro",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408452.png",
+        "come_from": ["Casa de los héroes de Manjia"]
+    },
+    "408453": {
+        "id": "408453",
+        "name": "Globo de Eón",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408453.png",
+        "come_from": ["Casa de los héroes de Manjia"]
+    },
+    "408454": {
+        "id": "408454",
+        "name": "Maqueta 1:1 del agujereador",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408454.png",
+        "come_from": ["Guerra de Hook"]
+    },
     "408601": {
         "id": "408601",
         "name": "Salchicha de Belobog",
@@ -35634,6 +37029,24 @@
         "icon": "icon/item/408643.png",
         "come_from": ["Tienda de la Escuela Grafía"]
     },
+    "408644": {
+        "id": "408644",
+        "name": "Traje de baño",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408644.png",
+        "come_from": ["Granjeabots"]
+    },
+    "408645": {
+        "id": "408645",
+        "name": "Tabla de surf aeropropulsada",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408645.png",
+        "come_from": ["Granjeabots"]
+    },
     "408801": {
         "id": "408801",
         "name": "Cono Dulces Sueños (tres sabores)",
@@ -35723,5 +37136,14 @@
         "rarity": 5,
         "icon": "icon/item/408906.png",
         "come_from": ["Se obtiene al mejorar los éxitos de ventas de la Agencia Pachicom"]
+    },
+    "408907": {
+        "id": "408907",
+        "name": "Sonda inductiva",
+        "type": "Usable",
+        "sub_type": "FindChest",
+        "rarity": 5,
+        "icon": "icon/item/408907.png",
+        "come_from": ["Se obtiene al mejorar los pachibeneficios"]
     }
 }

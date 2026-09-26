@@ -1472,7 +1472,7 @@
             [1.95, 2, 1.95, 2.86],
             [2.1, 2, 2.1, 3.08]
         ],
-        "icon": "icon/skill/1014_basic_atk.png"
+        "icon": "icon/skill/1014_basic_atk2.png"
     },
     "101501": {
         "id": "101501",
@@ -1630,7 +1630,7 @@
         "simple_desc": "Sai do estado de \"Conexão de Circuito\" e encerra a rodada.",
         "desc": "Sai do estado de \"Conexão de Circuito\" e encerra a rodada.",
         "params": [],
-        "icon": "icon/skill/1015_skill.png"
+        "icon": "icon/skill/1015_common_skip.png"
     },
     "110101": {
         "id": "110101",
@@ -2965,7 +2965,7 @@
             [3.36, 1, 2, 0.78, 0.96],
             [3.5, 1, 2, 0.8125, 1]
         ],
-        "icon": "icon/skill/1109_skill.png"
+        "icon": "icon/skill/1109_skill2.png"
     },
     "111001": {
         "id": "111001",
@@ -3280,7 +3280,7 @@
             [0.26, 1.04],
             [0.28, 1.12]
         ],
-        "icon": "icon/skill/1111_basic_atk.png"
+        "icon": "icon/skill/1111_basic_atk2.png"
     },
     "111201": {
         "id": "111201",
@@ -3595,7 +3595,7 @@
             [3.12, 1.3],
             [3.36, 1.4]
         ],
-        "icon": "icon/skill/1201_basic_atk.png"
+        "icon": "icon/skill/1201_basic_atk2.png"
     },
     "120201": {
         "id": "120201",
@@ -4198,7 +4198,7 @@
             [0.1, 0.52, 0.208, 1.3, 0.52],
             [0.1, 0.56, 0.224, 1.4, 0.56]
         ],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/1205_basic_atk2.png"
     },
     "120601": {
         "id": "120601",
@@ -5243,7 +5243,7 @@
             [3, 1, 1.5],
             [3.125, 1, 1.5625]
         ],
-        "icon": "icon/skill/1212_skill.png"
+        "icon": "icon/skill/1212_skill2.png"
     },
     "121301": {
         "id": "121301",
@@ -5413,7 +5413,7 @@
             [3.38],
             [3.64]
         ],
-        "icon": "icon/skill/1213_basic_atk.png"
+        "icon": "icon/skill/1213_basic_atk2.png"
     },
     "121309": {
         "id": "121309",
@@ -5427,7 +5427,7 @@
         "simple_desc": "Cancelar Aprimoramento",
         "desc": "Cancelar Aprimoramento",
         "params": [],
-        "icon": "icon/skill/1213_skill.png"
+        "icon": "icon/skill/1213_common_return.png"
     },
     "121310": {
         "id": "121310",
@@ -5452,7 +5452,7 @@
             [4.94, 0.78],
             [5.32, 0.84]
         ],
-        "icon": "icon/skill/1213_basic_atk.png"
+        "icon": "icon/skill/1213_basic_atk3.png"
     },
     "121312": {
         "id": "121312",
@@ -5477,7 +5477,7 @@
             [6.5, 2.34],
             [7, 2.52]
         ],
-        "icon": "icon/skill/1213_basic_atk.png"
+        "icon": "icon/skill/1213_basic_atk4.png"
     },
     "121401": {
         "id": "121401",
@@ -6230,7 +6230,7 @@
             [0.696, 0.36],
             [0.72, 0.375]
         ],
-        "icon": "icon/skill/1220_ultimate.png"
+        "icon": "icon/skill/1220_ultimate_on2.png"
     },
     "122009": {
         "id": "122009",
@@ -6260,7 +6260,7 @@
             [0.696, 0.36],
             [0.72, 0.375]
         ],
-        "icon": "icon/skill/1220_ultimate.png"
+        "icon": "icon/skill/1220_ultimate_on3.png"
     },
     "122014": {
         "id": "122014",
@@ -6895,7 +6895,7 @@
             [1.04, 0.6, 3, 3],
             [1.12, 0.6, 3, 3]
         ],
-        "icon": "icon/skill/1224_basic_atk.png"
+        "icon": "icon/skill/1224_basic_atk2.png"
     },
     "122501": {
         "id": "122501",
@@ -7065,7 +7065,7 @@
             [1.3, 0.65],
             [1.4, 0.7]
         ],
-        "icon": "icon/skill/1225_basic_atk.png"
+        "icon": "icon/skill/1225_basic_atk2.png"
     },
     "130101": {
         "id": "130101",
@@ -7235,7 +7235,7 @@
             [3.25, 0.18, 2],
             [3.5, 0.19, 2]
         ],
-        "icon": "icon/skill/1301_basic_atk.png"
+        "icon": "icon/skill/1301_basic_atk2.png"
     },
     "130201": {
         "id": "130201",
@@ -7410,7 +7410,7 @@
             [3.248, 6, 1.102, 180],
             [3.36, 6, 1.14, 180]
         ],
-        "icon": "icon/skill/1302_ultimate.png"
+        "icon": "icon/skill/1302_ultimate2.png"
     },
     "130301": {
         "id": "130301",
@@ -8674,7 +8674,7 @@
         "simple_desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do inimigo-alvo do Tipo correspondente.",
         "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do inimigo-alvo do Tipo correspondente.",
         "params": [],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/1310_basic_atk2.png"
     },
     "131007": {
         "id": "131007",
@@ -8715,7 +8715,7 @@
             [2.6, 0.2],
             [2.8, 0.2]
         ],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/1310_basic_atk2.png"
     },
     "131009": {
         "id": "131009",
@@ -8745,7 +8745,7 @@
             [2.4, 1.2, 0.25, 2, 0.2, 0.1, 3.6],
             [2.5, 1.25, 0.25, 2, 0.2, 0.1, 3.6]
         ],
-        "icon": "icon/skill/1310_skill.png"
+        "icon": "icon/skill/1310_skill2.png"
     },
     "131201": {
         "id": "131201",
@@ -9309,7 +9309,7 @@
         "simple_desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
         "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
         "params": [],
-        "icon": "icon/skill/1315_basic_atk.png"
+        "icon": "icon/skill/1315_maze_normal.png"
     },
     "131507": {
         "id": "131507",
@@ -9350,7 +9350,7 @@
             [2.86],
             [3.08]
         ],
-        "icon": "icon/skill/1315_basic_atk.png"
+        "icon": "icon/skill/1315_basic_atk2.png"
     },
     "131701": {
         "id": "131701",
@@ -9520,7 +9520,7 @@
             [1.24, 0.62, 1.24, 0.5],
             [1.32, 0.66, 1.32, 0.5]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "131710": {
         "id": "131710",
@@ -9545,7 +9545,7 @@
             [1.24, 0.62],
             [1.32, 0.66]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "131712": {
         "id": "131712",
@@ -9570,7 +9570,7 @@
             [1.24],
             [1.32]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "131714": {
         "id": "131714",
@@ -9651,7 +9651,7 @@
             [1.24, 0.62, 1.24, 0.5],
             [1.32, 0.66, 1.32, 0.5]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "132101": {
         "id": "132101",
@@ -9971,7 +9971,7 @@
             [0.96, 1, 0.48],
             [1, 1, 0.5]
         ],
-        "icon": "icon/skill/1401_skill.png"
+        "icon": "icon/skill/1401_skill2.png"
     },
     "140201": {
         "id": "140201",
@@ -10141,7 +10141,7 @@
             [2.6, 1.17, 2.6, 1.17],
             [2.8, 1.26, 2.8, 1.26]
         ],
-        "icon": "icon/skill/1402_basic_atk.png"
+        "icon": "icon/skill/1402_basic_atk2.png"
     },
     "140209": {
         "id": "140209",
@@ -10521,7 +10521,7 @@
             [3.36, 2.016, 150],
             [3.5, 2.1, 150]
         ],
-        "icon": "icon/skill/1404_skill.png"
+        "icon": "icon/skill/1404_skill2.png"
     },
     "140501": {
         "id": "140501",
@@ -10986,7 +10986,7 @@
             [0.4, 0.36, 0.6],
             [0.4, 0.375, 0.625]
         ],
-        "icon": "icon/skill/1407_skill.png"
+        "icon": "icon/skill/1407_skill2.png"
     },
     "140801": {
         "id": "140801",
@@ -11186,7 +11186,7 @@
             [3.25, 0.975, 2],
             [3.5, 1.05, 2]
         ],
-        "icon": "icon/skill/1408_basic_atk.png"
+        "icon": "icon/skill/1408_basic_atk2.png"
     },
     "140809": {
         "id": "140809",
@@ -11216,7 +11216,7 @@
             [0.48, 0.75, 4, 0.36, 0.2],
             [0.5, 0.75, 4, 0.375, 0.2]
         ],
-        "icon": "icon/skill/1408_skill.png"
+        "icon": "icon/skill/1408_skill2.png"
     },
     "140811": {
         "id": "140811",
@@ -11246,7 +11246,7 @@
             [5.4, 0.54, 4, 4, 14.04],
             [5.625, 0.5625, 4, 4, 14.625]
         ],
-        "icon": "icon/skill/1408_skill.png"
+        "icon": "icon/skill/1408_skill3.png"
     },
     "140901": {
         "id": "140901",
@@ -11665,7 +11665,7 @@
         "simple_desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do inimigo-alvo do Tipo correspondente.",
         "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do inimigo-alvo do Tipo correspondente.",
         "params": [],
-        "icon": "icon/skill/1412_basic_atk.png"
+        "icon": "icon/skill/1412_technique2.png"
     },
     "141207": {
         "id": "141207",
@@ -12169,7 +12169,7 @@
             [0.39, 3, 0.39],
             [0.42, 3, 0.42]
         ],
-        "icon": "icon/skill/1415_basic_atk.png"
+        "icon": "icon/skill/1415_basic_atk2.png"
     },
     "141514": {
         "id": "141514",
@@ -12199,7 +12199,7 @@
             [12],
             [12]
         ],
-        "icon": "icon/skill/1415_ultimate.png"
+        "icon": "icon/skill/1415_ultimate2.png"
     },
     "141519": {
         "id": "141519",
@@ -12383,7 +12383,7 @@
             [1.3, 0.65],
             [1.4, 0.7]
         ],
-        "icon": "icon/skill/1501_basic_atk.png"
+        "icon": "icon/skill/1501_basic_atk2.png"
     },
     "150109": {
         "id": "150109",
@@ -12413,7 +12413,7 @@
             [2, 1, 2, 0.24, 0.12],
             [2, 1, 2, 0.25, 0.125]
         ],
-        "icon": "icon/skill/1501_skill.png"
+        "icon": "icon/skill/1501_skill2.png"
     },
     "150110": {
         "id": "150110",
@@ -12438,7 +12438,7 @@
             [1.3, 0.65],
             [1.4, 0.7]
         ],
-        "icon": "icon/skill/1501_basic_atk.png"
+        "icon": "icon/skill/1501_basic_atk2.png"
     },
     "150120": {
         "id": "150120",
@@ -12468,7 +12468,7 @@
             [0.3, 0.6, 20, 2],
             [0.3125, 0.625, 20, 2]
         ],
-        "icon": null
+        "icon": "icon/skill/1501_elation.png"
     },
     "150201": {
         "id": "150201",
@@ -12643,7 +12643,7 @@
             [1, 1.2, 0.16, 3, 5, 0.24],
             [1, 1.25, 0.16, 3, 5, 0.25]
         ],
-        "icon": null
+        "icon": "icon/skill/1502_elation.png"
     },
     "150401": {
         "id": "150401",
@@ -12963,7 +12963,7 @@
             [5, 1.32],
             [5, 1.375]
         ],
-        "icon": null
+        "icon": "icon/skill/1505_elation.png"
     },
     "150601": {
         "id": "150601",
@@ -13133,7 +13133,7 @@
             [3.12, 0, 100, 1.3, 3, 60, 2, 0.15],
             [3.36, 0, 100, 1.4, 3, 60, 2, 0.15]
         ],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate0.png"
     },
     "150610": {
         "id": "150610",
@@ -13147,7 +13147,7 @@
         "simple_desc": "Causa Dano de Euforia Imaginário massivo a todos os inimigos, dividido igualmente entre eles. E causa Dano Verdadeiro ao alvo com os maiores PV com base no Dano total causado.",
         "desc": "Causa Dano de Euforia Imaginário massivo a todos os inimigos, dividido igualmente entre eles. E causa Dano Verdadeiro ao alvo com os maiores PV com base no Dano total causado.",
         "params": [],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate1.png"
     },
     "150612": {
         "id": "150612",
@@ -13161,7 +13161,7 @@
         "simple_desc": "Causa Dano de Euforia Imaginário massivo a todos os inimigos, dividido igualmente entre eles. E recupera Pontos de Perícia.",
         "desc": "Causa Dano de Euforia Imaginário massivo a todos os inimigos, dividido igualmente entre eles. E recupera Pontos de Perícia.",
         "params": [],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate2.png"
     },
     "150618": {
         "id": "150618",
@@ -13175,7 +13175,7 @@
         "simple_desc": "Causa Dano de Euforia Imaginário massivo a todos os inimigos, dividido igualmente entre eles. E ganha \"piada\".",
         "desc": "Causa Dano de Euforia Imaginário massivo a todos os inimigos, dividido igualmente entre eles. E ganha \"piada\".",
         "params": [],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate3.png"
     },
     "150620": {
         "id": "150620",
@@ -13205,7 +13205,7 @@
             [15],
             [15]
         ],
-        "icon": null
+        "icon": "icon/skill/1506_elation.png"
     },
     "150621": {
         "id": "150621",
@@ -13235,7 +13235,7 @@
             [1.08, 6],
             [1.125, 6]
         ],
-        "icon": null
+        "icon": "icon/skill/1506_elation02.png"
     },
     "150701": {
         "id": "150701",
@@ -13272,7 +13272,7 @@
         "effect": "AoEAttack",
         "effect_text": "Área",
         "simple_desc": "Consome PV e causa Dano de Fogo a todos os inimigos. Depois, causa Dano de Fogo leve a inimigos únicos, ricocheteando 4 vez(es).",
-        "desc": "Consome PV em um valor igual a #4[i]% dos PV máximos de Mortenax Blade e causa Dano de Fogo em um valor igual a #1[f1]% dos PV máximos de Mortenax Blade a todos os inimigos, e causa adicionalmente #2[i] instância(s) de Dano, com cada instância causando Dano de Fogo em um valor igual a #3[f1]% dos PV máximos de Mortenax Blade a um inimigo aleatório.\nSe os PV atuais forem insuficientes, os PV atuais de Mortenax Blade serão reduzidos a 1 ao usar a Perícia.\nQuando não estiver no estado de \"Fúria Infinita\" ou quando os PV atuais forem iguais ou inferiores a 1, Mortenax Blade não pode usar sua Perícia.\nUsar a Perícia não consome Pontos de Perícia.",
+        "desc": "Consome PV em um valor igual a #4[f1]% dos PV máximos de Mortenax Blade e causa Dano de Fogo em um valor igual a #1[i]% dos PV máximos de Mortenax Blade a todos os inimigos, e causa adicionalmente #2[i] instância(s) de Dano, com cada instância causando Dano de Fogo em um valor igual a #3[f1]% dos PV máximos de Mortenax Blade a um inimigo aleatório.\nSe os PV atuais forem insuficientes, os PV atuais de Mortenax Blade serão reduzidos a 1 ao usar a Perícia.\nQuando não estiver no estado de \"Fúria Infinita\" ou quando os PV atuais forem iguais ou inferiores a 1, Mortenax Blade não pode usar sua Perícia.\nUsar a Perícia não consome Pontos de Perícia.",
         "params": [
             [0.36, 4, 0.12, 0.1],
             [0.396, 4, 0.132, 0.1],
@@ -13301,7 +13301,7 @@
         "type_text": "Perícia Suprema",
         "effect": "Enhance",
         "effect_text": "Aprimoramento",
-        "simple_desc": "Inflige \"Abraço das Chamas Malditas\" em todos os inimigos, fazendo com que os alvos reduzam sua DEF e aumentem o Dano que recebem. Depois, consome os PV dessa unidade para ativar um Campo. Enquanto o Campo estiver ativo, esta unidade entra no estado de \"Fúria Infinita\", aumentando a Chance de CRIT e o Dano CRIT, aprimorando o ATQ Básico, desbloqueando a Perícia e ganhando uma nova Perícia Suprema, durando até o contador terminar.\nQuando Mortenax Blade recebe um golpe fatal, o Campo é dissipado.",
+        "simple_desc": "Inflige \"Abraço das Chamas Malditas\" em todos os inimigos, fazendo com que a DEF dos alvos seja reduzida e o Dano sofrido por eles aumente. Depois, consome os PV dessa unidade para ativar um Campo. Enquanto o Campo estiver ativo, esta unidade entra no estado de \"Fúria Infinita\", aumentando a Chance de CRIT e o Dano CRIT, aprimorando o ATQ Básico, desbloqueando a Perícia e ganhando uma nova Perícia Suprema, durando até o contador terminar.\nQuando Mortenax Blade recebe um golpe fatal, o Campo é dissipado.",
         "desc": "Inflige \"Abraço das Chamas Malditas\" em todos os inimigos. Os inimigos-alvo no estado de \"Abraço das Chamas Malditas\" têm sua DEF reduzida em #7[f1]% e o Dano recebido aumentado em #4[f1]%, durando por #8[i] rodada(s). Depois, consome PV em um valor igual a #1[i]% dos PV máximos de Mortenax Blade para implantar um Campo. Enquanto o Campo estiver ativo, Mortenax Blade entra no estado de \"Fúria Infinita\".\nDurante o estado de \"Fúria Infinita\", a Chance de CRIT aumenta em #2[i]%, o Dano CRIT aumenta em #3[f1]%, o ATQ Básico é aprimorado, a Perícia é desbloqueada e uma nova Perícia Suprema, \"Tenax Per Ignem\", é obtida. Ao receber um golpe fatal, essa unidade não será derrubada, mas o Campo será dissipado, sairá do estado de \"Fúria Infinita\" e restaurará PV em um valor igual a #6[i]% dos PV máximos dessa unidade.\nAo ganhar o estado de \"Fúria Infinita\", uma contagem regressiva correspondente aparece na Ordem de Ação. A contagem regressiva tem uma VEL fixa de #5[i]. No início da rodada da contagem regressiva, dissipa o Campo e sai do estado de \"Fúria Infinita\".\nSe os PV atuais forem insuficientes, os PV atuais de Mortenax Blade serão reduzidos a 1 ao usar essa habilidade.",
         "params": [
             [0.2, 0.2, 0.3, 0.3, 70, 0.5, 0.2, 2],
@@ -13405,7 +13405,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1507_basic_atk.png"
+        "icon": "icon/skill/1507_basic_atk2.png"
     },
     "150709": {
         "id": "150709",
@@ -13465,7 +13465,1087 @@
             [4.06],
             [4.2]
         ],
-        "icon": "icon/skill/1507_ultimate.png"
+        "icon": "icon/skill/1507_ultimate2.png"
+    },
+    "150801": {
+        "id": "150801",
+        "name": "Bajiquan",
+        "max_level": 10,
+        "element": "Quantum",
+        "type": "Normal",
+        "type_text": "ATQ Básico",
+        "effect": "SingleAttack",
+        "effect_text": "Alvo Único",
+        "simple_desc": "Causa Dano Quântico leve a um inimigo designado.",
+        "desc": "Causa Dano Quântico igual a #1[i]% do ATQ de Rin Tohsaka a um inimigo designado.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1508_basic_atk.png"
+    },
+    "150802": {
+        "id": "150802",
+        "name": "Espada de Joias Zelretch",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Perícia",
+        "effect": "SingleAttack",
+        "effect_text": "Alvo Único",
+        "simple_desc": "Causa Dano Quântico a um inimigo designado.",
+        "desc": "Causa Dano Quântico igual a #1[i]% do ATQ de Rin Tohsaka a um inimigo designado.",
+        "params": [
+            [0.9],
+            [0.99],
+            [1.08],
+            [1.17],
+            [1.26],
+            [1.35],
+            [1.4625],
+            [1.575],
+            [1.6875],
+            [1.8],
+            [1.89],
+            [1.98],
+            [2.07],
+            [2.16],
+            [2.25]
+        ],
+        "icon": "icon/skill/1508_skill.png"
+    },
+    "150803": {
+        "id": "150803",
+        "name": "An Gal Ta Ki Gal Šè",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Ultra",
+        "type_text": "Perícia Suprema",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Causa Dano Quântico massivo a um inimigo-alvo designado e Dano Quântico a outros inimigos-alvo. Quando usada, aumenta o Dano sofrido por todos os inimigos e recupera Ponto(s) de Perícia para os aliados.",
+        "desc": "Causa Dano Quântico em um valor igual a #1[i]% do ATQ de Rin Tohsaka a um inimigo designado e Dano Quântico em um valor igual a #2[i]% do ATQ de Rin Tohsaka aos demais inimigos-alvo. Ao ser usada, recupera #4[i] Ponto(s) de Perícia para os aliados e aumenta o Dano recebido por todos os inimigos em #5[i]% por #6[i] rodada(s).",
+        "params": [
+            [3, 1, 12, 1, 0.1, 3],
+            [3.3, 1.1, 12, 1, 0.11, 3],
+            [3.6, 1.2, 12, 1, 0.12, 3],
+            [3.9, 1.3, 12, 1, 0.13, 3],
+            [4.2, 1.4, 12, 1, 0.14, 3],
+            [4.5, 1.5, 12, 1, 0.15, 3],
+            [4.875, 1.625, 12, 1, 0.1625, 3],
+            [5.25, 1.75, 12, 1, 0.175, 3],
+            [5.625, 1.875, 12, 1, 0.1875, 3],
+            [6, 2, 12, 1, 0.2, 3],
+            [6.3, 2.1, 12, 1, 0.21, 3],
+            [6.6, 2.2, 12, 1, 0.22, 3],
+            [6.9, 2.3, 12, 1, 0.23, 3],
+            [7.2, 2.4, 12, 1, 0.24, 3],
+            [7.5, 2.5, 12, 1, 0.25, 3]
+        ],
+        "icon": "icon/skill/1508_ultimate.png"
+    },
+    "150804": {
+        "id": "150804",
+        "name": "Taumaturgia de Gemas",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Talent",
+        "type_text": "Talento",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Ao entrar em combate, ganha 20 \"Energia de Gema\". Quando um aliado-alvo consome ou recupera Pontos de Perícia, aumenta o Dano CRIT dele e concede \"Energia de Gema\" a Rin Tohsaka. Se Rin Tohsaka possuir 15 ou mais \"Energia de Gema\", ou se os Pontos de Perícia atuais forem 7 ou mais, sua Perícia é aprimorada em \"Experimento de Segunda Magia\".",
+        "desc": "Ao entrar em combate, ganha #1[i] ponto(s) de \"Energia de Gema\". Quando um aliado-alvo consome ou recupera Pontos de Perícia, o Dano CRIT dele aumenta em #3[i]% por #2[i] rodada(s). Para cada 1 Ponto de Perícia consumido ou recuperado, Rin Tohsaka ganha 1 ponto de \"Energia de Gema\". Se Rin Tohsaka possuir #5[i] ou mais pontos de \"Energia de Gema\", ou se os Pontos de Perícia atuais forem iguais a #4[i] ou mais, sua Perícia é aprimorada para \"Experimento de Segunda Magia\".",
+        "params": [
+            [20, 2, 0.35, 7, 15, 999],
+            [20, 2, 0.385, 7, 15, 999],
+            [20, 2, 0.42, 7, 15, 999],
+            [20, 2, 0.455, 7, 15, 999],
+            [20, 2, 0.49, 7, 15, 999],
+            [20, 2, 0.525, 7, 15, 999],
+            [20, 2, 0.5687, 7, 15, 999],
+            [20, 2, 0.6125, 7, 15, 999],
+            [20, 2, 0.6562, 7, 15, 999],
+            [20, 2, 0.7, 7, 15, 999],
+            [20, 2, 0.735, 7, 15, 999],
+            [20, 2, 0.77, 7, 15, 999],
+            [20, 2, 0.805, 7, 15, 999],
+            [20, 2, 0.84, 7, 15, 999],
+            [20, 2, 0.875, 7, 15, 999]
+        ],
+        "icon": "icon/skill/1508_talent.png"
+    },
+    "150805": {
+        "id": "150805",
+        "name": "Estilo Livre Tohsaka",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Talent",
+        "type_text": "Talento",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Após Archer usar a Perícia \"Caladbolg II: Espada Espiral Falsa\" para atacar, se os Pontos de Perícia forem 3 ou menos, ou se \"Caladbolg II: Espada Espiral Falsa\" tiver sido usada ativamente 5 vezes durante o estado atual de \"Conexão de Circuito\", e o Ataque Extra Conjunto de \"Estilo Tohsaka Livre\" ainda não tiver sido ativado, Rin Tohsaka e Archer desferem um Ataque Extra Conjunto contra todos os inimigos, causando Dano Quântico massivo e recuperando Ponto(s) de Perícia para os aliados. Este Ataque Extra Conjunto só pode ser ativado uma vez. A contagem de ativação é redefinida quando Rin Tohsaka encerra sua rodada.",
+        "desc": "Após Archer usar a Perícia \"Caladbolg II: Espada Espiral Falsa\" para atacar, se os Pontos de Perícia forem #3[i] ou menos, ou se \"Caladbolg II: Espada Espiral Falsa\" tiver sido usada ativamente 5 vezes durante o estado atual de \"Conexão de Circuito\", e o Ataque Extra Conjunto de \"Estilo Tohsaka Livre\" não tiver sido ativado, Rin Tohsaka e Archer realizam um Ataque Extra Conjunto contra todos os inimigos, causando Dano Quântico igual a #1[i]% do ATQ de Rin Tohsaka e #4[i]% do ATQ de Archer, respectivamente, e recuperando #2[i] Ponto(s) de Perícia para os aliados. Este Ataque Extra Conjunto só pode ser ativado uma vez. A contagem de ativação é redefinida quando a rodada de Rin Tohsaka termina.",
+        "params": [
+            [1.5, 4, 3, 1.5],
+            [1.65, 4, 3, 1.65],
+            [1.8, 4, 3, 1.8],
+            [1.95, 4, 3, 1.95],
+            [2.1, 4, 3, 2.1],
+            [2.25, 4, 3, 2.25],
+            [2.4375, 4, 3, 2.4375],
+            [2.625, 4, 3, 2.625],
+            [2.8125, 4, 3, 2.8125],
+            [3, 4, 3, 3],
+            [3.15, 4, 3, 3.15],
+            [3.3, 4, 3, 3.3],
+            [3.45, 4, 3, 3.45],
+            [3.6, 4, 3, 3.6],
+            [3.75, 4, 3, 3.75]
+        ],
+        "icon": "icon/skill/1508_talent.png"
+    },
+    "150806": {
+        "id": "150806",
+        "name": "Ataque",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Ataca um inimigo e, após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
+        "desc": "Ataca um inimigo e, após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
+        "params": [],
+        "icon": "icon/skill/1508_technique2.png"
+    },
+    "150807": {
+        "id": "150807",
+        "name": "Conversão de Carga",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Técnica",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Após usar a Técnica, ganha 10 ponto(s) de \"Energia de Gema\" no início do próximo combate.",
+        "desc": "Após usar a Técnica, ganha #1[i] de \"Energia de Gema\" no início da próxima batalha.",
+        "params": [
+            [10, 2, 2]
+        ],
+        "icon": "icon/skill/1508_technique.png"
+    },
+    "150809": {
+        "id": "150809",
+        "name": "Experimento de Segunda Magia",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Perícia",
+        "effect": "Bounce",
+        "effect_text": "Rebote",
+        "simple_desc": "Causa Dano Quântico leve a todos os inimigos. Em seguida, consome \"Energia de Gema\" para causar Dano Quântico leve adicional a inimigos-alvo únicos aleatórios um certo número de vezes. Ao usar essa habilidade, se os Pontos de Perícia atuais forem maiores que 2, consome Pontos de Perícia até restar 2, e para cada ponto consumido, ganha imediatamente 2 \"Energia de Gema\".",
+        "desc": "Causa Dano Quântico em um valor igual a #1[i]% do ATQ de Rin Tohsaka a todos os inimigos. Em seguida, consome #2[i] \"Energia de Gema\" para causar Dano Quântico adicional em um valor igual a #3[i]% do ATQ de Rin Tohsaka a um inimigo-alvo aleatório. Isso se repete até que a \"Energia de Gema\" seja inferior a #2[i] ou não haja inimigos-alvo com PV atuais maiores que 0. Pode se repetir até #6[i] ciclo(s). Ao usar esta habilidade, se os Pontos de Perícia atuais forem maiores que #4[i], consome Pontos de Perícia até restar #4[i], ganhando imediatamente #5[i] \"Energia de Gema\" para cada Ponto de Perícia consumido.",
+        "params": [
+            [0.45, 3, 0.45, 2, 2, 33, 0, 1],
+            [0.495, 3, 0.495, 2, 2, 33, 0, 1],
+            [0.54, 3, 0.54, 2, 2, 33, 0, 1],
+            [0.585, 3, 0.585, 2, 2, 33, 0, 1],
+            [0.63, 3, 0.63, 2, 2, 33, 0, 1],
+            [0.675, 3, 0.675, 2, 2, 33, 0, 1],
+            [0.7312, 3, 0.7312, 2, 2, 33, 0, 1],
+            [0.7875, 3, 0.7875, 2, 2, 33, 0, 1],
+            [0.8438, 3, 0.8438, 2, 2, 33, 0, 1],
+            [0.9, 3, 0.9, 2, 2, 33, 0, 1],
+            [0.945, 3, 0.945, 2, 2, 33, 0, 1],
+            [0.99, 3, 0.99, 2, 2, 33, 0, 1],
+            [1.035, 3, 1.035, 2, 2, 33, 0, 1],
+            [1.08, 3, 1.08, 2, 2, 33, 0, 1],
+            [1.125, 3, 1.125, 2, 2, 33, 0, 1]
+        ],
+        "icon": "icon/skill/1508_skill2.png"
+    },
+    "150901": {
+        "id": "150901",
+        "name": "Golpe Sem Convicção",
+        "max_level": 10,
+        "element": "Thunder",
+        "type": "Normal",
+        "type_text": "ATQ Básico",
+        "effect": "SingleAttack",
+        "effect_text": "Alvo Único",
+        "simple_desc": "Causa Dano de Raio leve a um único inimigo.",
+        "desc": "Causa Dano de Raio igual a #1[i]% do ATQ de Gilgamesh a um inimigo designado.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1509_basic_atk.png"
+    },
+    "150902": {
+        "id": "150902",
+        "name": "Portão da Babilônia",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "BPSkill",
+        "type_text": "Perícia",
+        "effect": "Blast",
+        "effect_text": "Explosão",
+        "simple_desc": "Ganha \"Reconhecimento do Rei\", permitindo que esta unidade ignore parte da DEF do alvo ao causar Dano. Causa Dano de Raio a um inimigo e Dano de Raio a alvos adjacentes.",
+        "desc": "Ganha \"Reconhecimento do Rei\", permitindo que esta unidade ignore #5[i]% da DEF do alvo ao causar Dano, por #6[i] rodada(s).\nCausa Dano de Raio igual a #1[i]% do ATQ de Gilgamesh a um inimigo designado e Dano de Raio igual a #2[i]% do ATQ de Gilgamesh a alvos adjacentes.",
+        "params": [
+            [1.4, 0.7, 0.1, 10, 0.15, 3, 2],
+            [1.54, 0.77, 0.11, 10, 0.165, 3, 2],
+            [1.68, 0.84, 0.12, 10, 0.18, 3, 2],
+            [1.82, 0.91, 0.13, 10, 0.195, 3, 2],
+            [1.96, 0.98, 0.14, 10, 0.21, 3, 2],
+            [2.1, 1.05, 0.15, 10, 0.225, 3, 2],
+            [2.275, 1.1375, 0.1625, 10, 0.2437, 3, 2],
+            [2.45, 1.225, 0.175, 10, 0.2625, 3, 2],
+            [2.625, 1.3125, 0.1875, 10, 0.2812, 3, 2],
+            [2.8, 1.4, 0.2, 10, 0.3, 3, 2],
+            [2.94, 1.47, 0.21, 10, 0.315, 3, 2],
+            [3.08, 1.54, 0.22, 10, 0.33, 3, 2],
+            [3.22, 1.61, 0.23, 10, 0.345, 3, 2],
+            [3.36, 1.68, 0.24, 10, 0.36, 3, 2],
+            [3.5, 1.75, 0.25, 10, 0.375, 3, 2]
+        ],
+        "icon": "icon/skill/1509_skill.png"
+    },
+    "150903": {
+        "id": "150903",
+        "name": "Enuma Elish",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "Ultra",
+        "type_text": "Perícia Suprema",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Causa Dano de Raio massivo a todos os inimigos. Adicionalmente, causa Dano de Raio leve a inimigos aleatórios, ricocheteando 10 vez(es).",
+        "desc": "Causa Dano de Raio em um valor igual a #1[i]% do ATQ de Gilgamesh a todos os inimigos, e causa adicionalmente #3[i] instância(s) de Dano, com cada instância causando Dano de Raio em um valor igual a #2[i]% do ATQ de Gilgamesh a um inimigo aleatório.",
+        "params": [
+            [2, 0.5, 10],
+            [2.2, 0.55, 10],
+            [2.4, 0.6, 10],
+            [2.6, 0.65, 10],
+            [2.8, 0.7, 10],
+            [3, 0.75, 10],
+            [3.25, 0.8125, 10],
+            [3.5, 0.875, 10],
+            [3.75, 0.9375, 10],
+            [4, 1, 10],
+            [4.2, 1.05, 10],
+            [4.4, 1.1, 10],
+            [4.6, 1.15, 10],
+            [4.8, 1.2, 10],
+            [5, 1.25, 10]
+        ],
+        "icon": "icon/skill/1509_ultimate.png"
+    },
+    "150904": {
+        "id": "150904",
+        "name": "\"Divirta-me ao Máximo\"",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "Talent",
+        "type_text": "Talento",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Quando um aliado de equipe usa a Perícia Suprema, Gilgamesh ganha \"Fardo do Rei\", que aumenta o Dano de Perícia Suprema causado por esta unidade.\nInicialmente, usa o ATQ Básico automaticamente no início da rodada desta unidade. Quando outro aliado-alvo age, Gilgamesh ganha 1 ponto de \"Interesse\". Para cada ponto de \"Interesse\" em posse, aumenta a VEL desta unidade.\nQuando \"Interesse\" atinge 10 pela primeira vez, entra no estado de \"Interesse Despertado!\". Nesse estado, só pode usar a Perícia, durante toda a batalha. Após usar a Perícia, os pontos de \"Interesse\" desta unidade são zerados.",
+        "desc": "Quando um companheiro de equipe usa a Perícia Suprema, Gilgamesh ganha \"Fardo do Rei\", que aumenta o Dano de Perícia Suprema causado por esta unidade em #3[i]%, durando por #1[i] rodada(s).\nInicialmente, usa o ATQ Básico automaticamente no início da rodada desta unidade. Quando outro aliado-alvo age, Gilgamesh ganha 1 ponto de \"Interesse\". Para cada ponto de \"Interesse\" em posse, aumenta a VEL desta unidade em #4[i]%.\nQuando \"Interesse\" atinge #2[i] pela primeira vez, entra no estado de \"Interesse Despertado!\". Nesse estado, só pode usar a Perícia, durando por toda a batalha. Após usar a Perícia, os pontos de \"Interesse\" desta unidade são zerados.",
+        "params": [
+            [3, 10, 0.2, 0.1],
+            [3, 10, 0.22, 0.1],
+            [3, 10, 0.24, 0.1],
+            [3, 10, 0.26, 0.1],
+            [3, 10, 0.28, 0.1],
+            [3, 10, 0.3, 0.1],
+            [3, 10, 0.325, 0.1],
+            [3, 10, 0.35, 0.1],
+            [3, 10, 0.375, 0.1],
+            [3, 10, 0.4, 0.1],
+            [3, 10, 0.42, 0.1],
+            [3, 10, 0.44, 0.1],
+            [3, 10, 0.46, 0.1],
+            [3, 10, 0.48, 0.1],
+            [3, 10, 0.5, 0.1]
+        ],
+        "icon": "icon/skill/1509_talent.png"
+    },
+    "150905": {
+        "id": "150905",
+        "name": "\"Eu Lhe Concedo Permissão Para Atacar\"",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "Talent",
+        "type_text": "Talento",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Quando Gilgamesh ou Saber atacam, a contagem de ataques aumenta. Após qualquer unidade atacar, se a contagem de ataques atingir 8, Gilgamesh e Saber desferem um Ataque Extra Conjunto, causando Dano de Raio massivo e Dano de Vento massivo a todos os inimigos. Gilgamesh obtém 3 ponto(s) de \"Interesse\". Saber regenera Energia e aumenta adicionalmente o Dano da próxima Perícia Suprema dela.",
+        "desc": "Quando Gilgamesh ou Saber atacam, a contagem de ataques aumenta em 1. Após qualquer unidade atacar, se a contagem de ataques atingir #5[i], Gilgamesh e Saber desferem um Ataque Extra Conjunto, causando Dano de Raio igual a #1[i]% do ATQ de Gilgamesh e Dano de Vento igual a #2[i]% do ATQ de Saber a todos os inimigos, respectivamente. Em seguida, Gilgamesh ganha #3[i] \"Interesse\", Saber recupera #4[i] de Energia fixo e, na próxima vez que ela usar a Perícia Suprema, o Dano causado se torna #6[i]% do Dano original.\nApós usar o Ataque Extra Conjunto, a contagem de ataques é reiniciada.",
+        "params": [
+            [2, 3, 3, 120, 8, 1.2],
+            [2.2, 3.3, 3, 120, 8, 1.28],
+            [2.4, 3.6, 3, 120, 8, 1.36],
+            [2.6, 3.9, 3, 120, 8, 1.44],
+            [2.8, 4.2, 3, 120, 8, 1.52],
+            [3, 4.5, 3, 120, 8, 1.6],
+            [3.25, 4.875, 3, 120, 8, 1.7],
+            [3.5, 5.25, 3, 120, 8, 1.8],
+            [3.75, 5.625, 3, 120, 8, 1.9],
+            [4, 6, 3, 120, 8, 2],
+            [4.2, 6.3, 3, 120, 8, 2.08],
+            [4.4, 6.6, 3, 120, 8, 2.16],
+            [4.6, 6.9, 3, 120, 8, 2.24],
+            [4.8, 7.2, 3, 120, 8, 2.32],
+            [5, 7.5, 3, 120, 8, 2.4]
+        ],
+        "icon": "icon/skill/1509_talent.png"
+    },
+    "150906": {
+        "id": "150906",
+        "name": "Ataque",
+        "max_level": 1,
+        "element": "Thunder",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Ataca um inimigo e, após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
+        "desc": "Ataca um inimigo e, após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
+        "params": [],
+        "icon": "icon/skill/1509_basic_atk.png"
+    },
+    "150907": {
+        "id": "150907",
+        "name": "Enkidu",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Técnica",
+        "effect": "Impair",
+        "effect_text": "Incapacitação",
+        "simple_desc": "Cria uma Dimensão Especial. Os inimigos na Dimensão Especial entram no estado de \"Permissão do Rei\" e interrompem todas as suas ações.\nAtacar um inimigo no estado de \"Permissão do Rei\" faz com que todos os inimigos no estado de \"Permissão do Rei\" entrem em combate simultaneamente. Após entrar em combate, causa Dano de Raio a todos os inimigos e imediatamente ganha 3 ponto(s) de \"Interesse\".",
+        "desc": "Ao usar a Técnica, cria 1 Dimensão Especial com duração de #1[i] segundo(s). Os inimigos na Dimensão Especial entram no estado \"Permissão do Rei\". Inimigos no estado \"Permissão do Rei\" cessam todas as ações.\nAo entrar em combate atacando ativamente um inimigo no estado \"Permissão do Rei\", faz com que todos os inimigos no estado \"Permissão do Rei\" entrem em combate, e causa Dano de Raio equivalente a #2[i]% do ATQ de Gilgamesh a todos os inimigos ao entrar em combate. Gilgamesh também ganha imediatamente #3[i] \"Interesse\". Apenas 1 Efeito de Dimensão criado por aliados pode existir ao mesmo tempo.",
+        "params": [
+            [10, 2, 3]
+        ],
+        "icon": "icon/skill/1509_technique.png"
+    },
+    "150909": {
+        "id": "150909",
+        "name": "Golpe Sem Convicção",
+        "max_level": 10,
+        "element": "Thunder",
+        "type": "BPSkill",
+        "type_text": "Perícia",
+        "effect": "SingleAttack",
+        "effect_text": "Alvo Único",
+        "simple_desc": "",
+        "desc": "",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1509_basic_atk.png"
+    },
+    "151001": {
+        "id": "151001",
+        "name": "Acenda a Primeira Estrela-Guia",
+        "max_level": 10,
+        "element": "Fire",
+        "type": "Normal",
+        "type_text": "ATQ Básico",
+        "effect": "SingleAttack",
+        "effect_text": "Alvo Único",
+        "simple_desc": "Causa Dano de Fogo leve a um inimigo.",
+        "desc": "Causa Dano de Fogo igual a #1[i]% do ATQ de Himeko - Nova a um único inimigo.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1510_basic_atk.png"
+    },
+    "151002": {
+        "id": "151002",
+        "name": "Erga o Archote que Guia o Caminho",
+        "max_level": 15,
+        "element": "",
+        "type": "BPSkill",
+        "type_text": "Perícia",
+        "effect": "Support",
+        "effect_text": "Suporte",
+        "simple_desc": "Após usar a Perícia, recupera imediatamente todos os usos de Perícia de Assistência. Himeko - Nova ganha \"Semáforo da Navegadora\". Quando Himeko - Nova possui \"Semáforo da Navegadora\", o Dano causado aumenta. No início de cada rodada, recupera imediatamente 1 uso de Perícia de Assistência.",
+        "desc": "Após usar a Perícia, recupera imediatamente todos os usos da Perícia de Assistência. Himeko - Nova obtém \"Semáforo da Navegadora\", durando por #2[i] rodada(s). Essa duração é reduzida em 1 no início de cada rodada de Himeko - Nova. Quando Himeko - Nova possui \"Semáforo da Navegadora\", o Dano causado por todos os aliados aumenta em #1[i]%. No início de cada rodada, recupera imediatamente 1 uso da Perícia de Assistência.",
+        "params": [
+            [0.1, 3],
+            [0.11, 3],
+            [0.12, 3],
+            [0.13, 3],
+            [0.14, 3],
+            [0.15, 3],
+            [0.1625, 3],
+            [0.175, 3],
+            [0.1875, 3],
+            [0.2, 3],
+            [0.21, 3],
+            [0.22, 3],
+            [0.23, 3],
+            [0.24, 3],
+            [0.25, 3]
+        ],
+        "icon": "icon/skill/1510_skill.png"
+    },
+    "151003": {
+        "id": "151003",
+        "name": "Nós, Também Trilhamos as Estrelas",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Perícia Suprema",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Durante a Perícia Suprema, pode utilizar \"Feixe de Partículas Hiperluminal\" ou \"Pulso de Aniquilação Orbital\" contra todos os inimigos. No final, causa Dano de Fogo a 3 inimigos únicos aleatórios.",
+        "desc": "Assume o controle do Desbravestrelas imediatamente. O Desbravestrelas pode lançar \"Feixe de Partículas Hiperluminal\" contra inimigos 6 vezes, ou consumir \"Energia Fonte\" para lançar \"Pulso de Aniquilação Orbital\", causando Dano de Fogo de até #9[i]% do ATQ de Himeko - Nova a um inimigo designado, e Dano de Fogo de até #10[i]% do ATQ de Himeko - Nova aos outros alvos.\nQuando os usos do \"Feixe de Partículas Hiperluminal\" forem exauridos, usa automaticamente \"Pulso de Aniquilação Orbital\", seguido do Golpe Final, causando #6[i] instância(s) de Dano, com cada instância causando Dano de Fogo igual a #7[i]% do ATQ de Himeko - Nova a um inimigo aleatório.\nQuando o \"Feixe de Partículas Hiperluminal\" ou o \"Pulso de Aniquilação Orbital\" causa Dano fatal a todos os inimigos em campo, ou quando os PV dos inimigos não podem mais ser reduzidos, utiliza imediatamente o Golpe Final.",
+        "params": [
+            [0.16, 1, 0.1, 1, 0.15, 3, 0.4, 3, 3.81, 1.26],
+            [0.176, 1, 0.11, 1, 0.165, 3, 0.44, 3, 4.191, 1.386],
+            [0.192, 1, 0.12, 1, 0.18, 3, 0.48, 3, 4.572, 1.512],
+            [0.208, 1, 0.13, 1, 0.195, 3, 0.52, 3, 4.953, 1.638],
+            [0.224, 1, 0.14, 1, 0.21, 3, 0.56, 3, 5.334, 1.764],
+            [0.24, 1, 0.15, 1, 0.225, 3, 0.6, 3, 5.715, 1.89],
+            [0.26, 1, 0.1625, 1, 0.2437, 3, 0.65, 3, 6.1913, 2.0475],
+            [0.28, 1, 0.175, 1, 0.2625, 3, 0.7, 3, 6.6675, 2.205],
+            [0.3, 1, 0.1875, 1, 0.2812, 3, 0.75, 3, 7.1437, 2.3625],
+            [0.32, 1, 0.2, 1, 0.3, 3, 0.8, 3, 7.62, 2.52],
+            [0.336, 1, 0.21, 1, 0.315, 3, 0.84, 3, 8.001, 2.646],
+            [0.352, 1, 0.22, 1, 0.33, 3, 0.88, 3, 8.382, 2.772],
+            [0.368, 1, 0.23, 1, 0.345, 3, 0.92, 3, 8.763, 2.898],
+            [0.384, 1, 0.24, 1, 0.36, 3, 0.96, 3, 9.144, 3.024],
+            [0.4, 1, 0.25, 1, 0.375, 3, 1, 3, 9.525, 3.15]
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151004": {
+        "id": "151004",
+        "name": "Rumo à Expedição Ardente",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Talent",
+        "type_text": "Talento",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Quando Himeko - Nova está em campo, implanta um Território, concedendo a todos os personagens aliados a Perícia de Assistência. Quando um personagem aliado usa a Perícia de Assistência, Himeko - Nova recebe aumento de PEN de RES a Todos os Tipos e aumento de Dano CRIT. Ao atacar, ignora Tipos de Fraqueza para reduzir a Tenacidade.\nQuando personagens aliados que não sejam Himeko - Nova usam a Perícia de Assistência, regenera Energia para eles.",
+        "desc": "Enquanto Himeko - Nova estiver em campo, implanta imediatamente o Território \"Horizonte do Desbravestrelas\", convocando o \"Desbravestrelas\" para o campo e concedendo a todos os personagens aliados 1 uso de Perícia de Assistência. Os personagens aliados podem usar a Perícia de Assistência para chamar o \"Desbravestrelas\" para atacar os inimigos.\nUsar a Perícia de Assistência é considerado como se Himeko - Nova tivesse usado sua Perícia. Himeko - Nova ganha #2[i]% de aumento de PEN de RES a Todos os Tipos e #1[i]% de aumento de Dano CRIT. Ao atacar, pode ignorar os Tipos de Fraqueza para reduzir a Tenacidade dos inimigos. Ao aplicar Quebra de Fraqueza, ativa o efeito de Quebra de Fraqueza de Fogo.\nQuando personagens aliados diferentes de Himeko - Nova usam a Perícia de Assistência, eles regeneram #3[i] de Energia.",
+        "params": [
+            [0.4, 0.1, 4],
+            [0.44, 0.11, 4],
+            [0.48, 0.12, 4],
+            [0.52, 0.13, 4],
+            [0.56, 0.14, 4],
+            [0.6, 0.15, 4],
+            [0.65, 0.1625, 4],
+            [0.7, 0.175, 4],
+            [0.75, 0.1875, 4],
+            [0.8, 0.2, 4],
+            [0.84, 0.21, 4],
+            [0.88, 0.22, 4],
+            [0.92, 0.23, 4],
+            [0.96, 0.24, 4],
+            [1, 0.25, 4]
+        ],
+        "icon": "icon/skill/1510_talent.png"
+    },
+    "151006": {
+        "id": "151006",
+        "name": "Ataque",
+        "max_level": 1,
+        "element": "Fire",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Ataca um inimigo e, após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
+        "desc": "Ataca um inimigo e, após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
+        "params": [],
+        "icon": "icon/skill/1510_basic_atk.png"
+    },
+    "151007": {
+        "id": "151007",
+        "name": "Cruzeiro da Cartógrafa Estelar",
+        "max_level": 1,
+        "element": "Fire",
+        "type": "Maze",
+        "type_text": "Técnica",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Aumenta os Pontos de Técnica máximos em 3. Após usar a Técnica ativamente, entra no estado de \"Cruzeiro\" e consome 2 Pontos de Técnica para atacar todos os inimigos dentro de um determinado alcance. Após entrar em combate, usa a Perícia 1 vez no início de cada onda.\nAo atacar um inimigo Normal, ele é derrotado imediatamente sem entrar em combate. Nenhum Ponto de Técnica é consumido se nenhum inimigo for atingido.",
+        "desc": "Quando Himeko - Nova estiver na equipe, os Pontos de Técnica máximos aumentam em 3.\nApós usar a Técnica, ela entra no estado de \"Cruzeiro\", que dura por #1[i] segundos. Usar a Técnica ativamente consome 2 Pontos de Técnica e ataca imediatamente todos os inimigos dentro de um certo alcance. Após entrar em combate, usa imediatamente a Perícia 1 vez no início de cada onda.\nAo atacar um inimigo Normal, ele é derrotado imediatamente sem entrar em combate. Nenhum Ponto de Técnica é consumido se nenhum inimigo for atingido.",
+        "params": [
+            [30]
+        ],
+        "icon": "icon/skill/1510_technique.png"
+    },
+    "151008": {
+        "id": "151008",
+        "name": "Feixe de Partículas Hiperluminal",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Perícia Suprema",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Causa Dano de Fogo leve a todos os inimigos. Obtém 1 ponto(s) de \"Energia Fonte\". É possível acumular até 3 ponto(s) de \"Energia Fonte\".",
+        "desc": "Causa Dano de Fogo em um valor igual a #1[i]% do ATQ de Himeko - Nova a todos os inimigos e obtém #2[i] ponto(s) de \"Energia Fonte\". É possível acumular até #3[i] ponto(s) de \"Energia Fonte\".",
+        "params": [
+            [0.16, 1, 3],
+            [0.176, 1, 3],
+            [0.192, 1, 3],
+            [0.208, 1, 3],
+            [0.224, 1, 3],
+            [0.24, 1, 3],
+            [0.26, 1, 3],
+            [0.28, 1, 3],
+            [0.3, 1, 3],
+            [0.32, 1, 3],
+            [0.336, 1, 3],
+            [0.352, 1, 3],
+            [0.368, 1, 3],
+            [0.384, 1, 3],
+            [0.4, 1, 3]
+        ],
+        "icon": "icon/skill/1510_basic_atk2.png"
+    },
+    "151009": {
+        "id": "151009",
+        "name": "Pulso de Aniquilação Orbital",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Perícia Suprema",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Consome 1 ponto de \"Energia Fonte\" para causar Dano de Fogo leve a todos os inimigos. Quando a quantidade atual de \"Energia Fonte\" for superior a 1, para cada 1 ponto(s) de \"Energia Fonte\" consumido(s), causa 1 instância de Dano de Fogo leve a um inimigo aleatório.",
+        "desc": "Consome 1 ponto de \"Energia Fonte\" para causar Dano de Fogo em um valor igual a #1[i]% do ATQ de Himeko - Nova a todos os inimigos. Quando a quantidade atual de \"Energia Fonte\" for superior a 1, para cada #2[i] ponto(s) de \"Energia Fonte\" consumido(s), causa adicionalmente 1 instância de Dano de Fogo em um valor igual a #3[i]% do ATQ de Himeko - Nova a um inimigo aleatório.",
+        "params": [
+            [0.1, 1, 0.15],
+            [0.11, 1, 0.165],
+            [0.12, 1, 0.18],
+            [0.13, 1, 0.195],
+            [0.14, 1, 0.21],
+            [0.15, 1, 0.225],
+            [0.1625, 1, 0.2437],
+            [0.175, 1, 0.2625],
+            [0.1875, 1, 0.2812],
+            [0.2, 1, 0.3],
+            [0.21, 1, 0.315],
+            [0.22, 1, 0.33],
+            [0.23, 1, 0.345],
+            [0.24, 1, 0.36],
+            [0.25, 1, 0.375]
+        ],
+        "icon": "icon/skill/1510_skill2.png"
+    },
+    "151014": {
+        "id": "151014",
+        "name": "Nós, Também Trilhamos as Estrelas",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Perícia Suprema",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Causa 0 instância(s) de Dano, cada uma causando Dano de Fogo a um inimigo aleatório.",
+        "desc": "Causa #2[i] instância(s) de Dano, cada uma causando Dano de Fogo a um inimigo aleatório.",
+        "params": [
+            [3, 0.4],
+            [3, 0.44],
+            [3, 0.48],
+            [3, 0.52],
+            [3, 0.56],
+            [3, 0.6],
+            [3, 0.65],
+            [3, 0.7],
+            [3, 0.75],
+            [3, 0.8],
+            [3, 0.84],
+            [3, 0.88],
+            [3, 0.92],
+            [3, 0.96],
+            [3, 1]
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151022": {
+        "id": "151022",
+        "name": "Desbravamento, Ao Seu Lado",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Assist",
+        "type_text": "Perícia de Assistência",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Causa Dano de Fogo leve a todos os inimigos e Dano de Fogo leve a 3 inimigos aleatórios. Quando usada por Himeko - Nova, causa Dano de Fogo leve a todos os inimigos e Dano de Fogo leve a 4 inimigos aleatórios. Se usada por um personagem Companheiro de Desbravamento que não seja Himeko - Nova, Himeko - Nova obtém 1 dos Efeitos Especiais.",
+        "desc": "Causa Dano de Fogo igual a #1[i]% do ATQ de Himeko - Nova a todos os inimigos e causa adicionalmente #2[i] instâncias de Dano, com cada instância causando Dano de Fogo igual a #3[i]% do ATQ de Himeko - Nova a um inimigo aleatório. Quando usada por Himeko - Nova, causa Dano de Fogo igual a #4[i]% do ATQ de Himeko - Nova a todos os inimigos e causa adicionalmente #5[i] instâncias de Dano, com cada instância causando Dano de Fogo igual a #6[i]% do ATQ de Himeko - Nova a um inimigo aleatório.\nSe usada por um personagem Companheiro de Desbravamento que não seja Himeko - Nova, Himeko - Nova ganhará adicionalmente 1 dos Efeitos Especiais dependendo do usuário.\nA Perícia de Assistência extra ativada por todos os Efeitos Especiais pode ser ativada até #8[i] vez(es) por batalha, e a contagem de ativação é reiniciada após Himeko - Nova usar sua Perícia Suprema.",
+        "params": [
+            [0.8, 3, 0.12, 1, 4, 0.18, 4, 2],
+            [0.88, 3, 0.132, 1.1, 4, 0.194, 4, 2],
+            [0.96, 3, 0.144, 1.2, 4, 0.208, 4, 2],
+            [1.04, 3, 0.156, 1.3, 4, 0.222, 4, 2],
+            [1.12, 3, 0.168, 1.4, 4, 0.236, 4, 2],
+            [1.2, 3, 0.18, 1.5, 4, 0.25, 4, 2],
+            [1.3, 3, 0.195, 1.625, 4, 0.2675, 4, 2],
+            [1.4, 3, 0.21, 1.75, 4, 0.285, 4, 2],
+            [1.5, 3, 0.225, 1.875, 4, 0.3025, 4, 2],
+            [1.6, 3, 0.24, 2, 4, 0.32, 4, 2],
+            [1.68, 3, 0.252, 2.1, 4, 0.334, 4, 2],
+            [1.76, 3, 0.264, 2.2, 4, 0.348, 4, 2],
+            [1.84, 3, 0.276, 2.3, 4, 0.362, 4, 2],
+            [1.92, 3, 0.288, 2.4, 4, 0.376, 4, 2],
+            [2, 3, 0.3, 2.5, 4, 0.39, 4, 2]
+        ],
+        "icon": "icon/skill/1510_assist01.png"
+    },
+    "151025": {
+        "id": "151025",
+        "name": "Protocolo de Companhia: Veredito",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Assist",
+        "type_text": "Perícia de Assistência",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Entra no estado de \"Protocolo de Companhia: Veredito\". Aumenta o Dano causado por Himeko - Nova e aumenta adicionalmente o Dano de Perícia Suprema causado por ela. Após os companheiros de equipe de Himeko - Nova usarem ativamente a Perícia Suprema 2 vez(es), Himeko - Nova usa imediatamente 1 Perícia de Assistência contra o inimigo.",
+        "desc": "Entra no estado de \"Protocolo de Companhia: Veredito\". Aumenta o Dano causado por Himeko - Nova em #8[i]%, e aumenta adicionalmente o Dano de Perícia Suprema causado por ela em #10[i]%. Após os aliados de Himeko - Nova usarem ativamente a Perícia Suprema #9[i] vez(es), Himeko - Nova utiliza imediatamente 1 Perícia de Assistência contra o inimigo sem custo.",
+        "params": [
+            [0.8, 3, 0.12, 1, 4, 0.18, 4, 0.5, 2, 0.5],
+            [0.88, 3, 0.132, 1.1, 4, 0.194, 4, 0.55, 2, 0.55],
+            [0.96, 3, 0.144, 1.2, 4, 0.208, 4, 0.6, 2, 0.6],
+            [1.04, 3, 0.156, 1.3, 4, 0.222, 4, 0.65, 2, 0.65],
+            [1.12, 3, 0.168, 1.4, 4, 0.236, 4, 0.7, 2, 0.7],
+            [1.2, 3, 0.18, 1.5, 4, 0.25, 4, 0.75, 2, 0.75],
+            [1.3, 3, 0.195, 1.625, 4, 0.2675, 4, 0.8125, 2, 0.8125],
+            [1.4, 3, 0.21, 1.75, 4, 0.285, 4, 0.875, 2, 0.875],
+            [1.5, 3, 0.225, 1.875, 4, 0.3025, 4, 0.9375, 2, 0.9375],
+            [1.6, 3, 0.24, 2, 4, 0.32, 4, 1, 2, 1],
+            [1.68, 3, 0.252, 2.1, 4, 0.334, 4, 1.05, 2, 1.05],
+            [1.76, 3, 0.264, 2.2, 4, 0.348, 4, 1.1, 2, 1.1],
+            [1.84, 3, 0.276, 2.3, 4, 0.362, 4, 1.15, 2, 1.15],
+            [1.92, 3, 0.288, 2.4, 4, 0.376, 4, 1.2, 2, 1.2],
+            [2, 3, 0.3, 2.5, 4, 0.39, 4, 1.25, 2, 1.25]
+        ],
+        "icon": "icon/skill/1510_assist02.png"
+    },
+    "151026": {
+        "id": "151026",
+        "name": "Protocolo de Companhia: Dizimação",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Assist",
+        "type_text": "Perícia de Assistência",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Entra no estado de \"Protocolo de Companhia: Dizimação\". Aumenta o Dano CRIT de todos os aliados e aumenta adicionalmente o Dano CRIT causado por Perícia. Para cada inimigo-alvo atingido pelos aliados, ganha 1 Carga. Quando a Carga atingir 9, consome toda a Carga e Himeko - Nova desfere imediatamente 1 Perícia de Assistência contra os inimigos.",
+        "desc": "Entra no estado de \"Protocolo de Companhia: Dizimação\". Aumenta o Dano CRIT de todos os aliados em #8[i]%, e adicionalmente aumenta o Dano CRIT causado por Perícia em #10[i]%. Para cada 1 inimigo-alvo atingido pelos aliados, ganha 1 Carga. Quando a Carga atingir #9[i], consome toda a Carga, e Himeko - Nova utiliza imediatamente 1 Perícia de Assistência contra os inimigos sem custo. Esta instância da Perícia de Assistência não pode conceder Carga.",
+        "params": [
+            [0.8, 3, 0.12, 1, 4, 0.18, 4, 0.5, 9, 0.5],
+            [0.88, 3, 0.132, 1.1, 4, 0.194, 4, 0.55, 9, 0.55],
+            [0.96, 3, 0.144, 1.2, 4, 0.208, 4, 0.6, 9, 0.6],
+            [1.04, 3, 0.156, 1.3, 4, 0.222, 4, 0.65, 9, 0.65],
+            [1.12, 3, 0.168, 1.4, 4, 0.236, 4, 0.7, 9, 0.7],
+            [1.2, 3, 0.18, 1.5, 4, 0.25, 4, 0.75, 9, 0.75],
+            [1.3, 3, 0.195, 1.625, 4, 0.2675, 4, 0.8125, 9, 0.8125],
+            [1.4, 3, 0.21, 1.75, 4, 0.285, 4, 0.875, 9, 0.875],
+            [1.5, 3, 0.225, 1.875, 4, 0.3025, 4, 0.9375, 9, 0.9375],
+            [1.6, 3, 0.24, 2, 4, 0.32, 4, 1, 9, 1],
+            [1.68, 3, 0.252, 2.1, 4, 0.334, 4, 1.05, 9, 1.05],
+            [1.76, 3, 0.264, 2.2, 4, 0.348, 4, 1.1, 9, 1.1],
+            [1.84, 3, 0.276, 2.3, 4, 0.362, 4, 1.15, 9, 1.15],
+            [1.92, 3, 0.288, 2.4, 4, 0.376, 4, 1.2, 9, 1.2],
+            [2, 3, 0.3, 2.5, 4, 0.39, 4, 1.25, 9, 1.25]
+        ],
+        "icon": "icon/skill/1510_assist03.png"
+    },
+    "151201": {
+        "id": "151201",
+        "name": "O Mar Canta no Meu Tom",
+        "max_level": 10,
+        "element": "Wind",
+        "type": "Normal",
+        "type_text": "ATQ Básico",
+        "effect": "SingleAttack",
+        "effect_text": "Alvo Único",
+        "simple_desc": "Causa Dano de Vento leve a um único inimigo.",
+        "desc": "Causa Dano de Vento igual a #1[i]% dos PV máximos de Robin - Summeretto a um inimigo.",
+        "params": [
+            [0.25],
+            [0.3],
+            [0.35],
+            [0.4],
+            [0.45],
+            [0.5],
+            [0.55],
+            [0.6],
+            [0.65],
+            [0.7]
+        ],
+        "icon": "icon/skill/1512_basic_atk.png"
+    },
+    "151202": {
+        "id": "151202",
+        "name": "O Verão Toca a Alma",
+        "max_level": 15,
+        "element": "",
+        "type": "BPSkill",
+        "type_text": "Perícia",
+        "effect": "Summon",
+        "effect_text": "Invocar",
+        "simple_desc": "Invoca o Memoespírito Gravi dos \"Pássaros de Verão\". Se \"Pássaros de Verão\" já estiverem em campo, restaura os PV de \"Pássaros de Verão\" e obtém ponto(s) de \"Vibrações\".",
+        "desc": "Invoca o Memoespírito Gravi dos \"Pássaros de Verão\". Se algum dos \"Pássaros de Verão\" já estiver no campo, restaura seus PV em um valor igual a #1[i]% dos PV máximos dos \"Pássaros de Verão\" e ganha #2[i] ponto(s) de \"Vibrações\".",
+        "params": [
+            [0.5, 6],
+            [0.55, 6],
+            [0.6, 6],
+            [0.65, 6],
+            [0.7, 6],
+            [0.75, 6],
+            [0.8125, 6],
+            [0.875, 6],
+            [0.9375, 6],
+            [1, 6],
+            [1.05, 6],
+            [1.1, 6],
+            [1.15, 6],
+            [1.2, 6],
+            [1.25, 6]
+        ],
+        "icon": "icon/skill/1512_skill.png"
+    },
+    "151203": {
+        "id": "151203",
+        "name": "Imersão na Rapsódia Azul",
+        "max_level": 15,
+        "element": "",
+        "type": "Ultra",
+        "type_text": "Perícia Suprema",
+        "effect": "Support",
+        "effect_text": "Suporte",
+        "simple_desc": "Avança Adiante a ação de um aliado designado (excluindo Robin - Summeretto) e regenera Energia. Em seguida, concede a ele o efeito \"Convidado Especial\". Quando esse personagem ou sua invocação ataca, eles também concedem \"Vibrações\" à Robin - Summeretto, mas não podem conceder o efeito de Avanço Adiante a outros aliados.",
+        "desc": "Avança Adiante a ação de um personagem aliado designado (exceto Robin - Summeretto) em #1[i]% e regenera uma quantidade fixa de Energia igual a #3[f1]% da Energia Máxima desse personagem. Em seguida, concede a ele o efeito de \"Convidado Especial\". Quando o personagem com \"Convidado Especial\" ou sua invocação atacar, eles concedem adicionalmente #2[i] ponto(s) de \"Vibrações\" a Robin - Summeretto, mas não podem fazer com que outros aliados-alvo recebam o efeito de Avançar Adiante a ação. Isso dura 2 rodada(s), e sua duração é reduzida em 1 no início da rodada desse personagem.",
+        "params": [
+            [1, 2, 0.12, 0],
+            [1, 2, 0.128, 0],
+            [1, 2, 0.136, 0],
+            [1, 2, 0.144, 0],
+            [1, 2, 0.152, 0],
+            [1, 2, 0.16, 0],
+            [1, 2, 0.17, 0],
+            [1, 2, 0.18, 0],
+            [1, 2, 0.19, 0],
+            [1, 2, 0.2, 0],
+            [1, 2, 0.208, 0],
+            [1, 2, 0.216, 0],
+            [1, 2, 0.224, 0],
+            [1, 2, 0.232, 0],
+            [1, 2, 0.24, 0]
+        ],
+        "icon": "icon/skill/1512_ultimate.png"
+    },
+    "151204": {
+        "id": "151204",
+        "name": "Asas Irrefreáveis",
+        "max_level": 15,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Talento",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Quando um aliado-alvo usa um ataque, fornece Cura ou fornece um Escudo, Robin - Summeretto ganha \"Vibrações\". Quando os pontos de \"Vibrações\" atingem um determinado valor, invoca respectivamente Batera e Midi dos \"Pássaros de Verão\". Após todos os \"Pássaros de Verão\" subirem ao palco, Robin - Summeretto e os \"Pássaros de Verão\" entram no estado de \"Agitação\" e implantam um Campo. Dentro do Campo, quando aliados-alvo causam Dano, eles ignoram uma parte da DEF dos inimigos-alvo.\nEnquanto estiverem no estado de \"Agitação\", Robin - Summeretto e os \"Pássaros de Verão\" são imunes às penalidades de Controle Negativo. Robin - Summeretto não iniciará sua rodada até que o estado de \"Agitação\" termine.",
+        "desc": "O Memoespírito \"Pássaros de Verão\" tem PV máximos iniciais iguais a #1[i]% dos PV máximos de Robin - Summeretto e VEL inicial igual a #2[i]% da VEL de Robin - Summeretto. Quando um aliado-alvo ataca ou, pela primeira vez durante a rodada de qualquer alvo, fornece Cura ou fornece um Escudo, Robin - Summeretto ganha 1 ponto de \"Vibrações\", até um máximo de #5[i]. Enquanto Gravi dos \"Pássaros de Verão\" estiver em campo, se os pontos de \"Vibrações\" de Robin - Summeretto forem iguais a #6[i] ou mais, invoca imediatamente Batera dos \"Pássaros de Verão\", e se os pontos de \"Vibrações\" forem iguais #7[i] ou mais, invoca imediatamente Midi dos \"Pássaros de Verão\". Quando todos os \"Pássaros de Verão\" tiverem subido ao palco, dissipa todas as penalidades de Controle Negativo infligidas sobre Robin - Summeretto e sobre os \"Pássaros de Verão\", entra no estado de \"Agitação\" e cria um Campo. Quando aliados-alvo causam Dano dentro do Campo, eles ignoram uma porcentagem da DEF dos inimigos-alvo igual a (#8[f1]% + \"Vibrações\" × #9[f1]%).\nEnquanto estiverem no estado de \"Agitação\", Robin - Summeretto e os \"Pássaros de Verão\" são imunes a penalidades de Controle Negativo. Robin - Summeretto não iniciará sua rodada até que o estado de \"Agitação\" termine.",
+        "params": [
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.105, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.11, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.115, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.12, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.125, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1313, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1375, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1437, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.15, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.155, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.16, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.165, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.17, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.175, 0.005]
+        ],
+        "icon": "icon/skill/1512_talent.png"
+    },
+    "151206": {
+        "id": "151206",
+        "name": "Ataque",
+        "max_level": 1,
+        "element": "Wind",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Ataca um inimigo e, após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
+        "desc": "Ataca um inimigo e, após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
+        "params": [],
+        "icon": "icon/skill/1512_basic_atk.png"
+    },
+    "151207": {
+        "id": "151207",
+        "name": "Nós Somos a Melodia",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Técnica",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Ao entrar em combate, Avança Adiante a ação, ganha \"Vibrações\" imediatamente e aumenta o Dano causado por todos os aliados.",
+        "desc": "Após usar a Técnica, no início do próximo combate, Avança Adiante a ação em #3[i]%, ganha imediatamente #1[i] ponto(s) de \"Vibrações\" e concede a todos os aliados um Bônus de Dano causado de #2[i]% por 2 rodada(s).",
+        "params": [
+            [6, 0.3, 0.2]
+        ],
+        "icon": "icon/skill/1512_technique.png"
+    },
+    "151301": {
+        "id": "151301",
+        "name": "Tempestade Certeira",
+        "max_level": 10,
+        "element": "Quantum",
+        "type": "Normal",
+        "type_text": "ATQ Básico",
+        "effect": "SingleAttack",
+        "effect_text": "Alvo Único",
+        "simple_desc": "Causa Dano Quântico leve a um inimigo designado.",
+        "desc": "Causa Dano Quântico igual a #1[i]% do ATQ de Aventurine - Veraneio a um inimigo designado.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1513_basic_atk.png"
+    },
+    "151302": {
+        "id": "151302",
+        "name": "Golpe das Areias Ferventes",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Perícia",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Causa Dano Quântico a todos os inimigos, obtém \"Piada\" e \"Fervor\".",
+        "desc": "Causa Dano Quântico igual a #1[i]% do ATQ de Aventurine - Veraneio a todos os inimigos e ganha #2[i] ponto(s) de \"Piada\" e #3[i] ponto(s) de \"Fervor\".",
+        "params": [
+            [1.2, 4, 4],
+            [1.32, 4, 4],
+            [1.44, 4, 4],
+            [1.56, 4, 4],
+            [1.68, 4, 4],
+            [1.8, 4, 4],
+            [1.95, 4, 4],
+            [2.1, 4, 4],
+            [2.25, 4, 4],
+            [2.4, 4, 4],
+            [2.52, 4, 4],
+            [2.64, 4, 4],
+            [2.76, 4, 4],
+            [2.88, 4, 4],
+            [3, 4, 4]
+        ],
+        "icon": "icon/skill/1513_skill.png"
+    },
+    "151303": {
+        "id": "151303",
+        "name": "Vitória Sobre as Ondas",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Ultra",
+        "type_text": "Perícia Suprema",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Causa Dano Quântico massivo a todos os inimigos, obtém \"Piada\" e \"Fervor\", e aumenta a VEL.",
+        "desc": "Causa Dano Quântico igual a #1[i]% do ATQ de Aventurine - Veraneio a todos os inimigos. Ganha #3[i] ponto(s) de \"Piada\" e #2[i] ponto(s) de \"Fervor\". Aumenta a VEL desta unidade em #4[i]% por #5[i] rodada(s).",
+        "params": [
+            [2.4, 8, 6, 0.12, 4],
+            [2.56, 8, 6, 0.138, 4],
+            [2.72, 8, 6, 0.156, 4],
+            [2.88, 8, 6, 0.174, 4],
+            [3.04, 8, 6, 0.192, 4],
+            [3.2, 8, 6, 0.21, 4],
+            [3.4, 8, 6, 0.2325, 4],
+            [3.6, 8, 6, 0.255, 4],
+            [3.8, 8, 6, 0.2775, 4],
+            [4, 8, 6, 0.3, 4],
+            [4.16, 8, 6, 0.318, 4],
+            [4.32, 8, 6, 0.336, 4],
+            [4.48, 8, 6, 0.354, 4],
+            [4.64, 8, 6, 0.372, 4],
+            [4.8, 8, 6, 0.39, 4]
+        ],
+        "icon": "icon/skill/1513_ultimate.png"
+    },
+    "151304": {
+        "id": "151304",
+        "name": "Aposta com o Eco Abissal",
+        "max_level": 15,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Talento",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "A duração de \"Mandou Bem\" de Aventurine - Veraneio aumenta em 1 rodada. Após um aliado atacar, Aventurine - Veraneio ganha \"Fervor\" e \"Piada\".\nQuando \"Fervor\" atinge um determinado valor, Aventurine - Veraneio usa imediatamente \"Um Brinde ao Calor do Verão!\" 1 vez, levando em conta uma quantidade fixa de pontos de \"Piada\", e aprimora a próxima Perícia da Euforia usada no Instante Aha para \"O Verão é Maravilhoso\".\nQuando Aventurine - Veraneio possui \"Mandou Bem\", a Perícia e a Perícia Suprema dele causam adicionalmente Dano de Euforia Quântico a todos os inimigos.",
+        "desc": "A duração de \"Mandou Bem\" de Aventurine - Veraneio aumenta em 1 rodada. Após um aliado atacar, Aventurine - Veraneio ganha #7[i] ponto(s) de \"Fervor\" e #6[i] ponto(s) de \"Piada\". O limite máximo de \"Fervor\" é #4[i] pontos.\nQuando \"Fervor\" atinge #1[i] pontos, Aventurine - Veraneio usa \"Um Brinde ao Calor do Verão!\" 1 vez, levando em conta #5[i] ponto(s) de \"Piada\" fixo(s). Após esse uso, a próxima Perícia da Euforia usada por esta unidade no Instante Aha é aprimorada para \"O Verão é Maravilhoso\".\nEnquanto Aventurine - Veraneio tiver \"Mandou Bem\", a Perícia dele causa adicionalmente #2[i]% de Dano de Euforia Quântico a todos os inimigos, e a Perícia Suprema dele causa adicionalmente #3[i]% de Dano de Euforia Quântico a todos os inimigos.",
+        "params": [
+            [10, 0.2, 0.36, 30, 20, 1, 1],
+            [10, 0.22, 0.396, 30, 20, 1, 1],
+            [10, 0.24, 0.432, 30, 20, 1, 1],
+            [10, 0.26, 0.468, 30, 20, 1, 1],
+            [10, 0.28, 0.504, 30, 20, 1, 1],
+            [10, 0.3, 0.54, 30, 20, 1, 1],
+            [10, 0.325, 0.585, 30, 20, 1, 1],
+            [10, 0.35, 0.63, 30, 20, 1, 1],
+            [10, 0.375, 0.675, 30, 20, 1, 1],
+            [10, 0.4, 0.72, 30, 20, 1, 1],
+            [10, 0.42, 0.756, 30, 20, 1, 1],
+            [10, 0.44, 0.792, 30, 20, 1, 1],
+            [10, 0.46, 0.828, 30, 20, 1, 1],
+            [10, 0.48, 0.864, 30, 20, 1, 1],
+            [10, 0.5, 0.9, 30, 20, 1, 1]
+        ],
+        "icon": "icon/skill/1513_talent.png"
+    },
+    "151306": {
+        "id": "151306",
+        "name": "Ataque",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Ataca um inimigo e, após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
+        "desc": "Ataca um inimigo e, após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
+        "params": [],
+        "icon": "icon/skill/1513_basic_atk.png"
+    },
+    "151307": {
+        "id": "151307",
+        "name": "Ondas em Águas Tranquilas",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "Maze",
+        "type_text": "Técnica",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Avança rapidamente por uma distância definida e ataca os inimigos contra os quais fizer contato. Após entrar em combate ao atacar inimigos, causa Dano Quântico leve a todos os inimigos e obtém \"Fervor\" e \"Mandou Bem\". Os Pontos de Técnica não são consumidos se nenhum inimigo for atingido.",
+        "desc": "Avança rapidamente por uma distância definida, atacando todos os inimigos no caminho contra os quais fizer contato e bloqueando todos os ataques recebidos. Após entrar em combate ao atacar inimigos ativamente, Aventurine - Veraneio causa Dano Quântico igual a #1[i]% do seu ATQ a todos os inimigos, e obtém #2[i] ponto(s) de \"Fervor\" e #3[i] ponto(s) de \"Mandou Bem\". Os Pontos de Técnica não são consumidos se nenhum inimigo for atingido.",
+        "params": [
+            [1, 2, 20]
+        ],
+        "icon": "icon/skill/1513_technique.png"
+    },
+    "151320": {
+        "id": "151320",
+        "name": "Um Brinde ao Calor do Verão!",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "ElationDamage",
+        "type_text": "Perícia da Euforia",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Causa Dano de Euforia Quântico a todos os inimigos e, adicionalmente, causa Dano de Euforia Quântico leve a um inimigo aleatório, ricocheteando um total de 10 vezes.",
+        "desc": "Causa #1[i]% de Dano de Euforia Quântico a todos os inimigos e, adicionalmente, causa #2[i] instância(s) de Dano, com cada instância causando #3[f1]% de Dano de Euforia Quântico a um inimigo aleatório.",
+        "params": [
+            [0.3, 10, 0.09],
+            [0.33, 10, 0.099],
+            [0.36, 10, 0.108],
+            [0.39, 10, 0.117],
+            [0.42, 10, 0.126],
+            [0.45, 10, 0.135],
+            [0.4875, 10, 0.1462],
+            [0.525, 10, 0.1575],
+            [0.5625, 10, 0.1688],
+            [0.6, 10, 0.18],
+            [0.63, 10, 0.189],
+            [0.66, 10, 0.198],
+            [0.69, 10, 0.207],
+            [0.72, 10, 0.216],
+            [0.75, 10, 0.225]
+        ],
+        "icon": "icon/skill/1513_elation.png"
+    },
+    "151321": {
+        "id": "151321",
+        "name": "O Verão é Maravilhoso",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "ElationDamage",
+        "type_text": "Perícia da Euforia",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Causa Dano de Euforia Quântico a todos os inimigos e, adicionalmente, causa Dano de Euforia Quântico leve a um inimigo aleatório, ricocheteando um total de 10 vezes. Ao mesmo tempo, consome todo o \"Fervor\". Para cada 1 ponto de \"Fervor\" consumido, causa 1 instância de Dano de Euforia Quântico leve a um inimigo aleatório.",
+        "desc": "Causa #1[i]% de Dano de Euforia Quântico a todos os inimigos e, adicionalmente, causa #3[i] instâncias de Dano, com cada instância causando #4[f1]% de Dano de Euforia Quântico a um inimigo aleatório. Consome todo o \"Fervor\" ao ser usado. Para cada 1 ponto de \"Fervor\" consumido, causa adicionalmente 1 instância de#2[f1]% de Dano de Euforia Quântico a um inimigo aleatório.",
+        "params": [
+            [0.3, 0.105, 10, 0.09],
+            [0.33, 0.1155, 10, 0.099],
+            [0.36, 0.126, 10, 0.108],
+            [0.39, 0.1365, 10, 0.117],
+            [0.42, 0.147, 10, 0.126],
+            [0.45, 0.1575, 10, 0.135],
+            [0.4875, 0.1706, 10, 0.1462],
+            [0.525, 0.1837, 10, 0.1575],
+            [0.5625, 0.1969, 10, 0.1688],
+            [0.6, 0.21, 10, 0.18],
+            [0.63, 0.2205, 10, 0.189],
+            [0.66, 0.231, 10, 0.198],
+            [0.69, 0.2415, 10, 0.207],
+            [0.72, 0.252, 10, 0.216],
+            [0.75, 0.2625, 10, 0.225]
+        ],
+        "icon": "icon/skill/1513_elation02.png"
     },
     "800101": {
         "id": "800101",
@@ -13640,7 +14720,7 @@
             [5.1],
             [5.25]
         ],
-        "icon": "icon/skill/8001_ultimate.png"
+        "icon": "icon/skill/8001_basic_atk2.png"
     },
     "800109": {
         "id": "800109",
@@ -13670,7 +14750,7 @@
             [3.06, 1.836],
             [3.15, 1.89]
         ],
-        "icon": "icon/skill/8001_ultimate.png"
+        "icon": "icon/skill/8001_skill2.png"
     },
     "800201": {
         "id": "800201",
@@ -13845,7 +14925,7 @@
             [5.1],
             [5.25]
         ],
-        "icon": "icon/skill/8002_ultimate.png"
+        "icon": "icon/skill/8002_basic_atk2.png"
     },
     "800209": {
         "id": "800209",
@@ -13875,7 +14955,7 @@
             [3.06, 1.836],
             [3.15, 1.89]
         ],
-        "icon": "icon/skill/8002_ultimate.png"
+        "icon": "icon/skill/8002_skill2.png"
     },
     "800301": {
         "id": "800301",
@@ -14045,7 +15125,7 @@
             [1.6875, 0.675],
             [1.8, 0.72]
         ],
-        "icon": "icon/skill/8003_basic_atk.png"
+        "icon": "icon/skill/8003_basic_atk2.png"
     },
     "800401": {
         "id": "800401",
@@ -14215,7 +15295,7 @@
             [1.6875, 0.675],
             [1.8, 0.72]
         ],
-        "icon": "icon/skill/8004_basic_atk.png"
+        "icon": "icon/skill/8004_basic_atk2.png"
     },
     "800501": {
         "id": "800501",
@@ -14675,7 +15755,7 @@
             [1.56, 1.56, 0.1],
             [1.68, 1.68, 0.1]
         ],
-        "icon": "icon/skill/8007_basic_atk.png"
+        "icon": "icon/skill/8007_basic_atk2.png"
     },
     "800709": {
         "id": "800709",
@@ -14859,7 +15939,7 @@
             [1.56, 1.56, 0.1],
             [1.68, 1.68, 0.1]
         ],
-        "icon": "icon/skill/8008_basic_atk.png"
+        "icon": "icon/skill/8008_basic_atk2.png"
     },
     "800809": {
         "id": "800809",
@@ -15002,7 +16082,7 @@
         "simple_desc": "Ataca um inimigo, e após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
         "desc": "Ataca um inimigo, e após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
         "params": [],
-        "icon": "icon/skill/8009_basic_atk.png"
+        "icon": "icon/skill/8009_technique2.png"
     },
     "800907": {
         "id": "800907",
@@ -15048,7 +16128,7 @@
             [8, 0.24, 0.72],
             [8, 0.25, 0.75]
         ],
-        "icon": null
+        "icon": "icon/skill/8009_elation.png"
     },
     "801001": {
         "id": "801001",
@@ -15177,7 +16257,7 @@
         "simple_desc": "Ataca um inimigo, e após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
         "desc": "Ataca um inimigo, e após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
         "params": [],
-        "icon": "icon/skill/8010_basic_atk.png"
+        "icon": "icon/skill/8010_technique2.png"
     },
     "801007": {
         "id": "801007",
@@ -15223,7 +16303,7 @@
             [8, 0.24, 0.72],
             [8, 0.25, 0.75]
         ],
-        "icon": null
+        "icon": "icon/skill/8010_elation.png"
     },
     "1100401": {
         "id": "1100401",
@@ -15248,7 +16328,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1004_basic_atk.png"
+        "icon": "icon/skill/11004_basic_atk.png"
     },
     "1100402": {
         "id": "1100402",
@@ -15278,7 +16358,7 @@
             [0.864, 0.79, 0.1, 2],
             [0.9, 0.8, 0.1, 2]
         ],
-        "icon": "icon/skill/1004_skill.png"
+        "icon": "icon/skill/11004_skill.png"
     },
     "1100403": {
         "id": "1100403",
@@ -15308,7 +16388,7 @@
             [1.74, 0.144, 1, 0.1, 0.04, 8, 2],
             [1.8, 0.15, 1, 0.1, 0.04, 8, 2]
         ],
-        "icon": "icon/skill/1004_ultimate.png"
+        "icon": "icon/skill/11004_ultimate.png"
     },
     "1100404": {
         "id": "1100404",
@@ -15338,7 +16418,7 @@
             [1.2, 0.4, 0.05],
             [1.25, 0.4, 0.05]
         ],
-        "icon": "icon/skill/1004_talent.png"
+        "icon": "icon/skill/11004_talent.png"
     },
     "1100406": {
         "id": "1100406",
@@ -15352,7 +16432,7 @@
         "simple_desc": "Ataca um inimigo, e após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
         "desc": "Ataca um inimigo, e após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
         "params": [],
-        "icon": "icon/skill/1004_basic_atk.png"
+        "icon": "icon/skill/11004_basic_atk.png"
     },
     "1100407": {
         "id": "1100407",
@@ -15368,7 +16448,7 @@
         "params": [
             [1, 0.2, 0.1, 15, 0.5]
         ],
-        "icon": "icon/skill/1004_technique.png"
+        "icon": "icon/skill/11004_technique.png"
     },
     "1100501": {
         "id": "1100501",
@@ -15393,7 +16473,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1005_basic_atk.png"
+        "icon": "icon/skill/11005_basic_atk.png"
     },
     "1100502": {
         "id": "1100502",
@@ -15423,7 +16503,7 @@
             [1.92, 0.81, 0.72, 0.54],
             [2, 0.825, 0.75, 0.55]
         ],
-        "icon": "icon/skill/1005_skill.png"
+        "icon": "icon/skill/11005_skill.png"
     },
     "1100503": {
         "id": "1100503",
@@ -15453,7 +16533,7 @@
             [0.928, 1, 2, 3.4655, 1.28],
             [0.96, 1, 2, 3.6069, 1.3]
         ],
-        "icon": "icon/skill/1005_ultimate.png"
+        "icon": "icon/skill/11005_ultimate.png"
     },
     "1100504": {
         "id": "1100504",
@@ -15483,7 +16563,7 @@
             [1.792, 1, 2, 1, 2],
             [1.89, 1, 2, 1, 2]
         ],
-        "icon": "icon/skill/1005_talent.png"
+        "icon": "icon/skill/11005_talent.png"
     },
     "1100506": {
         "id": "1100506",
@@ -15497,7 +16577,7 @@
         "simple_desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do inimigo-alvo do Tipo correspondente.",
         "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do inimigo-alvo do Tipo correspondente.",
         "params": [],
-        "icon": "icon/skill/1005_basic_atk.png"
+        "icon": "icon/skill/11005_basic_atk.png"
     },
     "1100507": {
         "id": "1100507",
@@ -15513,7 +16593,7 @@
         "params": [
             [1, 2, 0.5]
         ],
-        "icon": "icon/skill/1005_technique.png"
+        "icon": "icon/skill/11005_technique.png"
     },
     "1100601": {
         "id": "1100601",
@@ -15538,7 +16618,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1006_basic_atk.png"
+        "icon": "icon/skill/11006_basic_atk.png"
     },
     "1100602": {
         "id": "1100602",
@@ -15568,7 +16648,7 @@
             [2.352, 1.36, 3, 0.2, 1, 0.14, 2],
             [2.45, 1.4, 3, 0.2, 1, 0.1425, 2]
         ],
-        "icon": "icon/skill/1006_skill.png"
+        "icon": "icon/skill/11006_skill.png"
     },
     "1100603": {
         "id": "1100603",
@@ -15598,7 +16678,7 @@
             [4.408, 1.36, 0.486, 3],
             [4.56, 1.4, 0.495, 3]
         ],
-        "icon": "icon/skill/1006_ultimate.png"
+        "icon": "icon/skill/11006_ultimate.png"
     },
     "1100604": {
         "id": "1100604",
@@ -15628,7 +16708,7 @@
             [0.12, 0.144, 0.072, 1.16, 3],
             [0.125, 0.15, 0.075, 1.2, 3]
         ],
-        "icon": "icon/skill/1006_talent.png"
+        "icon": "icon/skill/11006_talent.png"
     },
     "1100606": {
         "id": "1100606",
@@ -15642,7 +16722,7 @@
         "simple_desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do inimigo-alvo do Tipo correspondente.",
         "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do inimigo-alvo do Tipo correspondente.",
         "params": [],
-        "icon": "icon/skill/1006_basic_atk.png"
+        "icon": "icon/skill/11006_basic_atk.png"
     },
     "1100607": {
         "id": "1100607",
@@ -15658,7 +16738,7 @@
         "params": [
             [0.8]
         ],
-        "icon": "icon/skill/1006_technique.png"
+        "icon": "icon/skill/11006_technique.png"
     },
     "1110201": {
         "id": "1110201",
@@ -15683,7 +16763,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1102_basic_atk.png"
+        "icon": "icon/skill/11102_basic_atk.png"
     },
     "1110202": {
         "id": "1110202",
@@ -15713,7 +16793,7 @@
             [4.32, 0.25, 3, 0.5],
             [4.5, 0.25, 3, 0.5]
         ],
-        "icon": "icon/skill/1102_skill.png"
+        "icon": "icon/skill/11102_skill.png"
     },
     "1110203": {
         "id": "1110203",
@@ -15743,7 +16823,7 @@
             [8.64],
             [9]
         ],
-        "icon": "icon/skill/1102_ultimate.png"
+        "icon": "icon/skill/11102_ultimate.png"
     },
     "1110204": {
         "id": "1110204",
@@ -15773,7 +16853,7 @@
             [0.96, 3],
             [1, 3]
         ],
-        "icon": "icon/skill/1102_talent.png"
+        "icon": "icon/skill/11102_talent.png"
     },
     "1110206": {
         "id": "1110206",
@@ -15787,7 +16867,7 @@
         "simple_desc": "Ataca um inimigo, e após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
         "desc": "Ataca um inimigo, e após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
         "params": [],
-        "icon": "icon/skill/1102_basic_atk.png"
+        "icon": "icon/skill/11102_basic_atk.png"
     },
     "1110207": {
         "id": "1110207",
@@ -15803,7 +16883,7 @@
         "params": [
             [20]
         ],
-        "icon": "icon/skill/1102_technique.png"
+        "icon": "icon/skill/11102_technique.png"
     },
     "1120501": {
         "id": "1120501",
@@ -15828,7 +16908,7 @@
             [0.65],
             [0.7]
         ],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/11205_basic_atk.png"
     },
     "1120502": {
         "id": "1120502",
@@ -15858,7 +16938,7 @@
             [0.3, 3, 1, 0.512, 10],
             [0.3, 3, 1, 0.54, 10]
         ],
-        "icon": "icon/skill/1205_skill.png"
+        "icon": "icon/skill/11205_skill.png"
     },
     "1120503": {
         "id": "1120503",
@@ -15888,7 +16968,7 @@
             [1.74, 1.16, 0.696, 0.58, 1.392, 0.696, 0.9],
             [1.8, 1.2, 0.72, 0.6, 1.44, 0.72, 0.9]
         ],
-        "icon": "icon/skill/1205_ultimate.png"
+        "icon": "icon/skill/11205_ultimate.png"
     },
     "1120504": {
         "id": "1120504",
@@ -15918,7 +16998,7 @@
             [3, 1.56, 0.25, 1.56],
             [3, 1.625, 0.25, 1.625]
         ],
-        "icon": "icon/skill/1205_talent.png"
+        "icon": "icon/skill/11205_talent.png"
     },
     "1120506": {
         "id": "1120506",
@@ -15932,7 +17012,7 @@
         "simple_desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do inimigo-alvo do Tipo correspondente.",
         "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do inimigo-alvo do Tipo correspondente.",
         "params": [],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/11205_basic_atk.png"
     },
     "1120507": {
         "id": "1120507",
@@ -15948,7 +17028,7 @@
         "params": [
             [0.4, 0.2]
         ],
-        "icon": "icon/skill/1205_technique.png"
+        "icon": "icon/skill/11205_technique.png"
     },
     "1120508": {
         "id": "1120508",
@@ -15973,7 +17053,7 @@
             [0.1, 1.69, 0.676, 1.69, 0.52],
             [0.1, 1.82, 0.728, 1.82, 0.56]
         ],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/11205_basic_atk2.png"
     },
     "1121201": {
         "id": "1121201",
@@ -15998,7 +17078,7 @@
             [0.65],
             [0.7]
         ],
-        "icon": "icon/skill/1212_basic_atk.png"
+        "icon": "icon/skill/11212_basic_atk.png"
     },
     "1121202": {
         "id": "1121202",
@@ -16028,7 +17108,7 @@
             [1.8, 1],
             [1.875, 1]
         ],
-        "icon": "icon/skill/1212_skill.png"
+        "icon": "icon/skill/11212_skill.png"
     },
     "1121203": {
         "id": "1121203",
@@ -16058,7 +17138,7 @@
             [2.16, 1, 1.08, 1],
             [2.25, 1, 1.125, 1]
         ],
-        "icon": "icon/skill/1212_ultimate.png"
+        "icon": "icon/skill/11212_ultimate.png"
     },
     "1121204": {
         "id": "1121204",
@@ -16088,7 +17168,7 @@
             [0.3, 0.05, 0.528, 5, 2, 1, 0.54, 20],
             [0.3, 0.05, 0.55, 5, 2, 1, 0.55, 20]
         ],
-        "icon": "icon/skill/1212_talent.png"
+        "icon": "icon/skill/11212_talent.png"
     },
     "1121206": {
         "id": "1121206",
@@ -16102,7 +17182,7 @@
         "simple_desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do inimigo-alvo do Tipo correspondente.",
         "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do inimigo-alvo do Tipo correspondente.",
         "params": [],
-        "icon": "icon/skill/1212_basic_atk.png"
+        "icon": "icon/skill/11212_basic_atk.png"
     },
     "1121207": {
         "id": "1121207",
@@ -16118,7 +17198,7 @@
         "params": [
             [1, 1, 20, 1, 0.8, 15]
         ],
-        "icon": "icon/skill/1212_technique.png"
+        "icon": "icon/skill/11212_technique.png"
     },
     "1121209": {
         "id": "1121209",
@@ -16148,7 +17228,7 @@
             [1.8, 1, 0.9],
             [1.875, 1, 0.9375]
         ],
-        "icon": "icon/skill/1212_skill.png"
+        "icon": "icon/skill/11212_skill2.png"
     },
     "1121701": {
         "id": "1121701",
@@ -16173,7 +17253,7 @@
             [0.65],
             [0.7]
         ],
-        "icon": "icon/skill/1217_basic_atk.png"
+        "icon": "icon/skill/11217_basic_atk.png"
     },
     "1121702": {
         "id": "1121702",
@@ -16203,7 +17283,7 @@
             [0.272, 784, 0.2176, 627.2, 1],
             [0.28, 820, 0.224, 656, 1]
         ],
-        "icon": "icon/skill/1217_skill.png"
+        "icon": "icon/skill/11217_skill.png"
     },
     "1121703": {
         "id": "1121703",
@@ -16233,7 +17313,7 @@
             [0.22, 0.464, 2],
             [0.225, 0.48, 2]
         ],
-        "icon": "icon/skill/1217_ultimate.png"
+        "icon": "icon/skill/11217_ultimate.png"
     },
     "1121704": {
         "id": "1121704",
@@ -16263,7 +17343,7 @@
             [3, 1, 0.051, 0, 147, 0.5, 6],
             [3, 1, 0.0525, 0, 153.75, 0.5, 6]
         ],
-        "icon": "icon/skill/1217_talent.png"
+        "icon": "icon/skill/11217_talent.png"
     },
     "1121706": {
         "id": "1121706",
@@ -16277,7 +17357,7 @@
         "simple_desc": "Ataca um inimigo, e após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
         "desc": "Ataca um inimigo, e após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
         "params": [],
-        "icon": "icon/skill/1217_basic_atk.png"
+        "icon": "icon/skill/11217_basic_atk.png"
     },
     "1121707": {
         "id": "1121707",
@@ -16293,7 +17373,7 @@
         "params": [
             [1, 0.25, 2, 10]
         ],
-        "icon": "icon/skill/1217_technique.png"
+        "icon": "icon/skill/11217_technique.png"
     },
     "1130601": {
         "id": "1130601",
@@ -16318,7 +17398,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1306_basic_atk.png"
+        "icon": "icon/skill/11306_basic_atk.png"
     },
     "1130602": {
         "id": "1130602",
@@ -16348,7 +17428,7 @@
             [0.288, 0.522, 2, 0.5],
             [0.3, 0.54, 2, 0.5]
         ],
-        "icon": "icon/skill/1306_skill.png"
+        "icon": "icon/skill/11306_skill.png"
     },
     "1130603": {
         "id": "1130603",
@@ -16378,7 +17458,7 @@
             [2, 6, 0.0696, 3, 10],
             [2, 6, 0.072, 3, 10]
         ],
-        "icon": "icon/skill/1306_ultimate.png"
+        "icon": "icon/skill/11306_ultimate.png"
     },
     "1130604": {
         "id": "1130604",
@@ -16408,7 +17488,7 @@
             [2, 0.048, 2, 3],
             [2, 0.05, 2, 3]
         ],
-        "icon": "icon/skill/1306_talent.png"
+        "icon": "icon/skill/11306_talent.png"
     },
     "1130606": {
         "id": "1130606",
@@ -16422,7 +17502,7 @@
         "simple_desc": "Ataca um inimigo, e após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
         "desc": "Ataca um inimigo, e após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
         "params": [],
-        "icon": "icon/skill/1306_basic_atk.png"
+        "icon": "icon/skill/11306_basic_atk.png"
     },
     "1130607": {
         "id": "1130607",
@@ -16438,7 +17518,7 @@
         "params": [
             [3, 20]
         ],
-        "icon": "icon/skill/1306_technique.png"
+        "icon": "icon/skill/11306_technique.png"
     },
     "1130701": {
         "id": "1130701",
@@ -16463,7 +17543,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1307_basic_atk.png"
+        "icon": "icon/skill/11307_basic_atk.png"
     },
     "1130702": {
         "id": "1130702",
@@ -16493,7 +17573,7 @@
             [1.08, 3, 1, 0.232],
             [1.125, 3, 1, 0.238]
         ],
-        "icon": "icon/skill/1307_skill.png"
+        "icon": "icon/skill/11307_skill.png"
     },
     "1130703": {
         "id": "1130703",
@@ -16523,7 +17603,7 @@
             [1.392, 2, 0.29, 0.5],
             [1.44, 2, 0.3, 0.5]
         ],
-        "icon": "icon/skill/1307_ultimate.png"
+        "icon": "icon/skill/11307_ultimate.png"
     },
     "1130704": {
         "id": "1130704",
@@ -16553,7 +17633,7 @@
             [2.88, 0.71, 0.144, 0.144, 2.16, 0, 0.2, 50],
             [3, 0.725, 0.15, 0.15, 2.25, 0, 0.2, 50]
         ],
-        "icon": "icon/skill/1307_talent.png"
+        "icon": "icon/skill/11307_talent.png"
     },
     "1130706": {
         "id": "1130706",
@@ -16567,7 +17647,7 @@
         "simple_desc": "Ataca um inimigo, e após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
         "desc": "Ataca um inimigo, e após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
         "params": [],
-        "icon": "icon/skill/1307_basic_atk.png"
+        "icon": "icon/skill/11307_basic_atk.png"
     },
     "1130707": {
         "id": "1130707",
@@ -16583,7 +17663,7 @@
         "params": [
             [1.5, 0.5]
         ],
-        "icon": "icon/skill/1307_technique.png"
+        "icon": "icon/skill/11307_technique.png"
     },
     "1131001": {
         "id": "1131001",
@@ -16608,7 +17688,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/11310_basic_atk.png"
     },
     "1131002": {
         "id": "1131002",
@@ -16638,7 +17718,7 @@
             [2.4, 0.4, 0.64, 0.25],
             [2.5, 0.4, 0.65, 0.25]
         ],
-        "icon": "icon/skill/1310_skill.png"
+        "icon": "icon/skill/11310_skill.png"
     },
     "1131003": {
         "id": "1131003",
@@ -16668,7 +17748,7 @@
             [0.24, 0.5, 72, 70],
             [0.25, 0.5, 75, 70]
         ],
-        "icon": "icon/skill/1310_ultimate.png"
+        "icon": "icon/skill/11310_ultimate.png"
     },
     "1131004": {
         "id": "1131004",
@@ -16698,7 +17778,7 @@
             [0.48, 0.5, 0.2, 0.38],
             [0.5, 0.5, 0.2, 0.4]
         ],
-        "icon": "icon/skill/1310_talent.png"
+        "icon": "icon/skill/11310_talent.png"
     },
     "1131006": {
         "id": "1131006",
@@ -16712,7 +17792,7 @@
         "simple_desc": "Ataca um inimigo, e após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
         "desc": "Ataca um inimigo, e após entrar em combate, reduz a Tenacidade dele do Tipo correspondente.",
         "params": [],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/11310_basic_atk2.png"
     },
     "1131007": {
         "id": "1131007",
@@ -16728,7 +17808,7 @@
         "params": [
             [5, 2, 2]
         ],
-        "icon": "icon/skill/1310_technique.png"
+        "icon": "icon/skill/11310_technique.png"
     },
     "1131008": {
         "id": "1131008",
@@ -16753,7 +17833,7 @@
             [2.6, 0.2],
             [2.8, 0.2]
         ],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/11310_basic_atk2.png"
     },
     "1131009": {
         "id": "1131009",
@@ -16783,7 +17863,7 @@
             [2.4, 1.2, 0, 0, 0.2, 0.1, 3.6, 0],
             [2.5, 1.25, 0, 0, 0.2, 0.1, 3.6, 0]
         ],
-        "icon": "icon/skill/1310_skill.png"
+        "icon": "icon/skill/11310_skill2.png"
     },
     "1140201": {
         "id": "1140201",
@@ -16808,7 +17888,7 @@
             [1.43, 0.858, 1],
             [1.54, 0.924, 1]
         ],
-        "icon": "icon/skill/1402_memosprite_skill.png"
+        "icon": "icon/skill/1402_memosprite_skill1.png"
     },
     "1140203": {
         "id": "1140203",
@@ -16908,7 +17988,7 @@
             [0.52],
             [0.56]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill1.png"
     },
     "1140702": {
         "id": "1140702",
@@ -16933,7 +18013,7 @@
             [0.25, 0.312, 0.364, 0.442, 0.25],
             [0.25, 0.336, 0.392, 0.476, 0.25]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill2.png"
     },
     "1140703": {
         "id": "1140703",
@@ -17008,7 +18088,7 @@
             [0.52, 6, 0.078, 1040],
             [0.56, 6, 0.084, 1120]
         ],
-        "icon": "icon/skill/1407_memosprite_talent.png"
+        "icon": "icon/skill/1407_memosprite_skill4.png"
     },
     "1140710": {
         "id": "1140710",
@@ -17033,7 +18113,7 @@
             [0.25],
             [0.25]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill2.png"
     },
     "1140711": {
         "id": "1140711",
@@ -17058,7 +18138,7 @@
             [0.25],
             [0.25]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill2.png"
     },
     "1140712": {
         "id": "1140712",
@@ -17083,7 +18163,7 @@
             [0.52, 6, 0.078, 1040],
             [0.56, 6, 0.084, 1120]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill4.png"
     },
     "1140901": {
         "id": "1140901",
@@ -17297,7 +18377,7 @@
             [0.156, 0.078, 16],
             [0.168, 0.084, 16]
         ],
-        "icon": "icon/skill/1413_memosprite_skill.png"
+        "icon": "icon/skill/1413_memosprite_skill2.png"
     },
     "1141501": {
         "id": "1141501",
@@ -17322,7 +18402,7 @@
             [0.78, 12],
             [0.84, 12]
         ],
-        "icon": "icon/skill/1415_memosprite_skill.png"
+        "icon": "icon/skill/1415_memosprite_skill2.png"
     },
     "1141502": {
         "id": "1141502",
@@ -17738,6 +18818,106 @@
         ],
         "icon": "icon/skill/1415_memosprite_skill.png"
     },
+    "1151201": {
+        "id": "1151201",
+        "name": "Quarteto Chilreante",
+        "max_level": 10,
+        "element": "Wind",
+        "type": "MemospriteSkill",
+        "type_text": "Perícia do Memoespírito",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Causa Dano de Vento massivo a todos os inimigos.",
+        "desc": "Causa Dano de Vento igual a #2[f1]% dos PV máximos dos \"Pássaros de Verão\" a todos os inimigos.",
+        "params": [
+            [0, 0.75],
+            [0, 0.9],
+            [0, 1.05],
+            [0, 1.2],
+            [0, 1.35],
+            [0, 1.5],
+            [0, 1.65],
+            [0, 1.8],
+            [0, 1.95],
+            [0, 2.1]
+        ],
+        "icon": "icon/skill/1512_memosprite_skill.png"
+    },
+    "1151203": {
+        "id": "1151203",
+        "name": "Um Gorjeio de Asas",
+        "max_level": 10,
+        "element": "",
+        "type": "MemospriteTalent",
+        "type_text": "Talento do Memoespírito",
+        "effect": "Support",
+        "effect_text": "Suporte",
+        "simple_desc": "Enquanto estiver no estado de \"Agitação\", o Dano causado por Robin - Summeretto e pelos \"Pássaros de Verão\" aumenta. Os \"Pássaros de Verão\" usam a Perícia de Memoespírito no início de sua rodada. Quando as \"Vibrações\" chegam a 0, os \"Pássaros de Verão\" desaparecem, fazendo Robin - Summeretto sair do estado de \"Agitação\". Enquanto os \"Pássaros de Verão\" estiverem em campo, aumenta o Dano recebido por todos os inimigos com base no número de membros.",
+        "desc": "Enquanto estiver no estado de \"Agitação\", os \"Pássaros de Verão\" e uma contagem regressiva aparecerão na Ordem de Ação, aumentando o Dano causado por Robin - Summeretto e por eles mesmos em uma quantidade igual a (#1[i]% + \"Vibrações\" × #2[f1]%). Quando a rodada dos \"Pássaros de Verão\" começa, eles usam a Perícia de Memoespírito. A contagem regressiva tem VEL inicial de #9[i]. Quando a rodada deles começa, #10[i]% dos pontos de \"Vibrações\" atuais (no mínimo #6[i] pontos) serão deduzidos. Quando os pontos de \"Vibrações\" chegarem a 0, os \"Pássaros de Verão\" desaparecem e Robin - Summeretto sai do estado de \"Agitação\". Enquanto os \"Pássaros de Verão\" estiverem em campo, aumenta o Dano recebido por todos os inimigos em #3[f1]%/#4[f1]%/#5[f1]% respectivamente, com base no número de membros presentes.",
+        "params": [
+            [0.3, 0.01, 0.04, 0.06, 0.08, 12, 0, 0, 140, 0.5],
+            [0.36, 0.012, 0.048, 0.072, 0.096, 12, 0, 0, 140, 0.5],
+            [0.42, 0.014, 0.056, 0.084, 0.112, 12, 0, 0, 140, 0.5],
+            [0.48, 0.016, 0.064, 0.096, 0.128, 12, 0, 0, 140, 0.5],
+            [0.54, 0.018, 0.072, 0.108, 0.144, 12, 0, 0, 140, 0.5],
+            [0.6, 0.02, 0.08, 0.12, 0.16, 12, 0, 0, 140, 0.5],
+            [0.66, 0.022, 0.088, 0.132, 0.176, 12, 0, 0, 140, 0.5],
+            [0.72, 0.024, 0.096, 0.144, 0.192, 12, 0, 0, 140, 0.5],
+            [0.78, 0.026, 0.104, 0.156, 0.208, 12, 0, 0, 140, 0.5],
+            [0.84, 0.028, 0.112, 0.168, 0.224, 12, 0, 0, 140, 0.5]
+        ],
+        "icon": "icon/skill/1512_memosprite_talent.png"
+    },
+    "1151205": {
+        "id": "1151205",
+        "name": "Perto do Batimento do Mar",
+        "max_level": 10,
+        "element": "",
+        "type": "MemospriteTalent",
+        "type_text": "Talento do Memoespírito",
+        "effect": "Support",
+        "effect_text": "Suporte",
+        "simple_desc": "Ao ser invocado, regenera Energia para Robin - Summeretto.",
+        "desc": "Quando os \"Pássaros de Verão\" são invocados, regenera #1[i] de Energia para Robin - Summeretto.",
+        "params": [
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20]
+        ],
+        "icon": "icon/skill/1512_memosprite_talent.png"
+    },
+    "1151206": {
+        "id": "1151206",
+        "name": "Cavalgando o Vento Noturno do Verão",
+        "max_level": 10,
+        "element": "",
+        "type": "MemospriteTalent",
+        "type_text": "Talento do Memoespírito",
+        "effect": "Support",
+        "effect_text": "Suporte",
+        "simple_desc": "Ao desaparecer, Avança Adiante a ação de Robin - Summeretto.",
+        "desc": "Quando \"Pássaros de Verão\" desaparecem, Avança Adiante a ação de Robin - Summeretto em #1[i]%.",
+        "params": [
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5]
+        ],
+        "icon": "icon/skill/1512_memosprite_talent.png"
+    },
     "1800701": {
         "id": "1800701",
         "name": "Malvadões! Treta!",
@@ -17761,7 +18941,7 @@
             [0.468, 4, 1.17],
             [0.504, 4, 1.26]
         ],
-        "icon": "icon/skill/8007_memosprite_skill.png"
+        "icon": "icon/skill/8007_memosprite_skill1.png"
     },
     "1800703": {
         "id": "1800703",
@@ -17861,6 +19041,6 @@
             [0.34, 3, 1],
             [0.36, 3, 1]
         ],
-        "icon": "icon/skill/8007_memosprite_skill.png"
+        "icon": "icon/skill/8007_memosprite_skill2.png"
     }
 }

@@ -801,7 +801,7 @@
             { "id": "11004", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank1.png"
+        "icon": "icon/skill/11004_rank1.png"
     },
     "1100402": {
         "id": "1100402",
@@ -812,7 +812,7 @@
             { "id": "11004", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank2.png"
+        "icon": "icon/skill/11004_rank2.png"
     },
     "1100403": {
         "id": "1100403",
@@ -826,7 +826,7 @@
             { "id": "1100402", "num": 2 },
             { "id": "1100401", "num": 1 }
         ],
-        "icon": "icon/skill/1100_skill.png"
+        "icon": "icon/skill/11004_skill.png"
     },
     "1100404": {
         "id": "1100404",
@@ -837,7 +837,7 @@
             { "id": "11004", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank4.png"
+        "icon": "icon/skill/11004_rank4.png"
     },
     "1100405": {
         "id": "1100405",
@@ -851,7 +851,7 @@
             { "id": "1100403", "num": 2 },
             { "id": "1100404", "num": 2 }
         ],
-        "icon": "icon/skill/1100_ultimate.png"
+        "icon": "icon/skill/11004_ultimate.png"
     },
     "1100406": {
         "id": "1100406",
@@ -862,7 +862,7 @@
             { "id": "11004", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank6.png"
+        "icon": "icon/skill/11004_rank6.png"
     },
     "1100501": {
         "id": "1100501",
@@ -873,7 +873,7 @@
             { "id": "11005", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank1.png"
+        "icon": "icon/skill/11005_rank1.png"
     },
     "1100502": {
         "id": "1100502",
@@ -884,7 +884,7 @@
             { "id": "11005", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank2.png"
+        "icon": "icon/skill/11005_rank2.png"
     },
     "1100503": {
         "id": "1100503",
@@ -898,7 +898,7 @@
             { "id": "1100502", "num": 2 },
             { "id": "1100501", "num": 1 }
         ],
-        "icon": "icon/skill/1100_skill.png"
+        "icon": "icon/skill/11005_skill.png"
     },
     "1100504": {
         "id": "1100504",
@@ -909,7 +909,7 @@
             { "id": "11005", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank4.png"
+        "icon": "icon/skill/11005_rank4.png"
     },
     "1100505": {
         "id": "1100505",
@@ -923,7 +923,7 @@
             { "id": "1100503", "num": 2 },
             { "id": "1100504", "num": 2 }
         ],
-        "icon": "icon/skill/1100_ultimate.png"
+        "icon": "icon/skill/11005_ultimate.png"
     },
     "1100506": {
         "id": "1100506",
@@ -934,7 +934,7 @@
             { "id": "11005", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank6.png"
+        "icon": "icon/skill/11005_rank6.png"
     },
     "1100601": {
         "id": "1100601",
@@ -945,7 +945,7 @@
             { "id": "11006", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank1.png"
+        "icon": "icon/skill/11006_rank1.png"
     },
     "1100602": {
         "id": "1100602",
@@ -956,7 +956,7 @@
             { "id": "11006", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank2.png"
+        "icon": "icon/skill/11006_rank2.png"
     },
     "1100603": {
         "id": "1100603",
@@ -970,7 +970,7 @@
             { "id": "1100602", "num": 2 },
             { "id": "1100604", "num": 2 }
         ],
-        "icon": "icon/skill/1100_skill.png"
+        "icon": "icon/skill/11006_skill.png"
     },
     "1100604": {
         "id": "1100604",
@@ -981,7 +981,7 @@
             { "id": "11006", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank4.png"
+        "icon": "icon/skill/11006_rank4.png"
     },
     "1100605": {
         "id": "1100605",
@@ -995,7 +995,7 @@
             { "id": "1100603", "num": 2 },
             { "id": "1100601", "num": 1 }
         ],
-        "icon": "icon/skill/1100_ultimate.png"
+        "icon": "icon/skill/11006_ultimate.png"
     },
     "1100606": {
         "id": "1100606",
@@ -1006,7 +1006,7 @@
             { "id": "11006", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank6.png"
+        "icon": "icon/skill/11006_rank6.png"
     },
     "110101": {
         "id": "110101",
@@ -1738,7 +1738,7 @@
             { "id": "11102", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1110_rank1.png"
+        "icon": "icon/skill/11102_rank1.png"
     },
     "1110202": {
         "id": "1110202",
@@ -1749,7 +1749,7 @@
             { "id": "11102", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1110_rank2.png"
+        "icon": "icon/skill/11102_rank2.png"
     },
     "1110203": {
         "id": "1110203",
@@ -1763,7 +1763,7 @@
             { "id": "1110202", "num": 2 },
             { "id": "1110204", "num": 2 }
         ],
-        "icon": "icon/skill/1110_skill.png"
+        "icon": "icon/skill/11102_skill.png"
     },
     "1110204": {
         "id": "1110204",
@@ -1774,7 +1774,7 @@
             { "id": "11102", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1110_rank4.png"
+        "icon": "icon/skill/11102_rank4.png"
     },
     "1110205": {
         "id": "1110205",
@@ -1788,7 +1788,7 @@
             { "id": "1110203", "num": 2 },
             { "id": "1110201", "num": 1 }
         ],
-        "icon": "icon/skill/1110_ultimate.png"
+        "icon": "icon/skill/11102_ultimate.png"
     },
     "1110206": {
         "id": "1110206",
@@ -1799,7 +1799,7 @@
             { "id": "11102", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1110_rank6.png"
+        "icon": "icon/skill/11102_rank6.png"
     },
     "111101": {
         "id": "111101",
@@ -1955,7 +1955,7 @@
             { "id": "11205", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1120_rank1.png"
+        "icon": "icon/skill/11205_rank1.png"
     },
     "1120502": {
         "id": "1120502",
@@ -1966,7 +1966,7 @@
             { "id": "11205", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1120_rank2.png"
+        "icon": "icon/skill/11205_rank2.png"
     },
     "1120503": {
         "id": "1120503",
@@ -1980,7 +1980,7 @@
             { "id": "1120503", "num": 2 },
             { "id": "1120504", "num": 2 }
         ],
-        "icon": "icon/skill/1120_ultimate.png"
+        "icon": "icon/skill/11205_ultimate.png"
     },
     "1120504": {
         "id": "1120504",
@@ -1991,7 +1991,7 @@
             { "id": "11205", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1120_rank4.png"
+        "icon": "icon/skill/11205_rank4.png"
     },
     "1120505": {
         "id": "1120505",
@@ -2006,7 +2006,7 @@
             { "id": "1120501", "num": 1 },
             { "id": "1120508", "num": 1 }
         ],
-        "icon": "icon/skill/1120_skill.png"
+        "icon": "icon/skill/11205_skill.png"
     },
     "1120506": {
         "id": "1120506",
@@ -2017,7 +2017,7 @@
             { "id": "11205", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1120_rank6.png"
+        "icon": "icon/skill/11205_rank6.png"
     },
     "1121201": {
         "id": "1121201",
@@ -2028,7 +2028,7 @@
             { "id": "11212", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank1.png"
+        "icon": "icon/skill/11212_rank1.png"
     },
     "1121202": {
         "id": "1121202",
@@ -2039,7 +2039,7 @@
             { "id": "11212", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank2.png"
+        "icon": "icon/skill/11212_rank2.png"
     },
     "1121203": {
         "id": "1121203",
@@ -2053,7 +2053,7 @@
             { "id": "1121203", "num": 2 },
             { "id": "1121204", "num": 2 }
         ],
-        "icon": "icon/skill/1121_ultimate.png"
+        "icon": "icon/skill/11212_ultimate.png"
     },
     "1121204": {
         "id": "1121204",
@@ -2064,7 +2064,7 @@
             { "id": "11212", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank4.png"
+        "icon": "icon/skill/11212_rank4.png"
     },
     "1121205": {
         "id": "1121205",
@@ -2079,7 +2079,7 @@
             { "id": "1121201", "num": 1 },
             { "id": "1121209", "num": 2 }
         ],
-        "icon": "icon/skill/1121_skill.png"
+        "icon": "icon/skill/11212_skill.png"
     },
     "1121206": {
         "id": "1121206",
@@ -2090,7 +2090,7 @@
             { "id": "11212", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank6.png"
+        "icon": "icon/skill/11212_rank6.png"
     },
     "1121701": {
         "id": "1121701",
@@ -2101,7 +2101,7 @@
             { "id": "11217", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank1.png"
+        "icon": "icon/skill/11217_rank1.png"
     },
     "1121702": {
         "id": "1121702",
@@ -2112,7 +2112,7 @@
             { "id": "11217", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank2.png"
+        "icon": "icon/skill/11217_rank2.png"
     },
     "1121703": {
         "id": "1121703",
@@ -2126,7 +2126,7 @@
             { "id": "1121703", "num": 2 },
             { "id": "1121704", "num": 2 }
         ],
-        "icon": "icon/skill/1121_ultimate.png"
+        "icon": "icon/skill/11217_ultimate.png"
     },
     "1121704": {
         "id": "1121704",
@@ -2137,7 +2137,7 @@
             { "id": "11217", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank4.png"
+        "icon": "icon/skill/11217_rank4.png"
     },
     "1121705": {
         "id": "1121705",
@@ -2151,7 +2151,7 @@
             { "id": "1121702", "num": 2 },
             { "id": "1121701", "num": 1 }
         ],
-        "icon": "icon/skill/1121_skill.png"
+        "icon": "icon/skill/11217_skill.png"
     },
     "1121706": {
         "id": "1121706",
@@ -2162,7 +2162,7 @@
             { "id": "11217", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank6.png"
+        "icon": "icon/skill/11217_rank6.png"
     },
     "1130601": {
         "id": "1130601",
@@ -2173,7 +2173,7 @@
             { "id": "11306", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank1.png"
+        "icon": "icon/skill/11306_rank1.png"
     },
     "1130602": {
         "id": "1130602",
@@ -2184,7 +2184,7 @@
             { "id": "11306", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank2.png"
+        "icon": "icon/skill/11306_rank2.png"
     },
     "1130603": {
         "id": "1130603",
@@ -2198,7 +2198,7 @@
             { "id": "1130602", "num": 2 },
             { "id": "1130601", "num": 1 }
         ],
-        "icon": "icon/skill/1130_skill.png"
+        "icon": "icon/skill/11306_skill.png"
     },
     "1130604": {
         "id": "1130604",
@@ -2209,7 +2209,7 @@
             { "id": "11306", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank4.png"
+        "icon": "icon/skill/11306_rank4.png"
     },
     "1130605": {
         "id": "1130605",
@@ -2223,7 +2223,7 @@
             { "id": "1130603", "num": 2 },
             { "id": "1130604", "num": 2 }
         ],
-        "icon": "icon/skill/1130_ultimate.png"
+        "icon": "icon/skill/11306_ultimate.png"
     },
     "1130606": {
         "id": "1130606",
@@ -2234,7 +2234,7 @@
             { "id": "11306", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank6.png"
+        "icon": "icon/skill/11306_rank6.png"
     },
     "1130701": {
         "id": "1130701",
@@ -2245,7 +2245,7 @@
             { "id": "11307", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank1.png"
+        "icon": "icon/skill/11307_rank1.png"
     },
     "1130702": {
         "id": "1130702",
@@ -2256,7 +2256,7 @@
             { "id": "11307", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank2.png"
+        "icon": "icon/skill/11307_rank2.png"
     },
     "1130703": {
         "id": "1130703",
@@ -2270,7 +2270,7 @@
             { "id": "1130702", "num": 2 },
             { "id": "1130704", "num": 2 }
         ],
-        "icon": "icon/skill/1130_skill.png"
+        "icon": "icon/skill/11307_skill.png"
     },
     "1130704": {
         "id": "1130704",
@@ -2281,7 +2281,7 @@
             { "id": "11307", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank4.png"
+        "icon": "icon/skill/11307_rank4.png"
     },
     "1130705": {
         "id": "1130705",
@@ -2295,7 +2295,7 @@
             { "id": "1130703", "num": 2 },
             { "id": "1130701", "num": 1 }
         ],
-        "icon": "icon/skill/1130_ultimate.png"
+        "icon": "icon/skill/11307_ultimate.png"
     },
     "1130706": {
         "id": "1130706",
@@ -2306,7 +2306,7 @@
             { "id": "11307", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank6.png"
+        "icon": "icon/skill/11307_rank6.png"
     },
     "1131001": {
         "id": "1131001",
@@ -2317,7 +2317,7 @@
             { "id": "11310", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1131_rank1.png"
+        "icon": "icon/skill/11310_rank1.png"
     },
     "1131002": {
         "id": "1131002",
@@ -2328,7 +2328,7 @@
             { "id": "11310", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1131_rank2.png"
+        "icon": "icon/skill/11310_rank2.png"
     },
     "1131003": {
         "id": "1131003",
@@ -2344,7 +2344,7 @@
             { "id": "1131009", "num": 2 },
             { "id": "1131008", "num": 1 }
         ],
-        "icon": "icon/skill/1131_skill.png"
+        "icon": "icon/skill/11310_skill.png"
     },
     "1131004": {
         "id": "1131004",
@@ -2355,7 +2355,7 @@
             { "id": "11310", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1131_rank4.png"
+        "icon": "icon/skill/11310_rank4.png"
     },
     "1131005": {
         "id": "1131005",
@@ -2369,7 +2369,7 @@
             { "id": "1131003", "num": 2 },
             { "id": "1131004", "num": 2 }
         ],
-        "icon": "icon/skill/1131_ultimate.png"
+        "icon": "icon/skill/11310_ultimate.png"
     },
     "1131006": {
         "id": "1131006",
@@ -2380,7 +2380,7 @@
             { "id": "11310", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1131_rank6.png"
+        "icon": "icon/skill/11310_rank6.png"
     },
     "120101": {
         "id": "120101",
@@ -6721,6 +6721,383 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1507_rank6.png"
+    },
+    "150801": {
+        "id": "150801",
+        "name": "Học Trò Của Zelretch",
+        "rank": 1,
+        "desc": "Nếu số lượng \"Năng Lượng Bảo Thạch\" tiêu hao trong một lần Chiến Kỹ Cường Hóa lớn hơn hoặc bằng 30 điểm, Rin Tohsaka nhận được \"Bảo Thạch Bóng Tối\" có số lượng bằng với \"Năng Lượng Bảo Thạch\" đã tiêu hao.\nKhi sở hữu \"Bảo Thạch Bóng Tối\", Chiến Kỹ cường hóa thành \"Thí Nghiệm Đệ Nhị Ma Pháp\", Chiến Kỹ Cường Hóa sẽ tiêu hao toàn bộ \"Bảo Thạch Bóng Tối\", không kích hoạt hiệu ứng chuyển hóa Điểm Chiến Kỹ thành \"Năng Lượng Bảo Thạch\" và không tiêu hao \"Năng Lượng Bảo Thạch\".",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank1.png"
+    },
+    "150802": {
+        "id": "150802",
+        "name": "Nhà Du Hành Vị Diện",
+        "rank": 2,
+        "desc": "Sát thương Chiến Kỹ do Rin Tohsaka gây ra tăng 30%. Khi Rin Tohsaka trong trận, sát thương Chiến Kỹ do toàn bộ phe ta gây ra bằng 130% sát thương gốc.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank2.png"
+    },
+    "150803": {
+        "id": "150803",
+        "name": "Cuộc Chiến Chén Thánh: Kỷ Niệm Chiến Thắng",
+        "rank": 3,
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150802", "num": 2 },
+            { "id": "150801", "num": 1 },
+            { "id": "150809", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_skill.png"
+    },
+    "150804": {
+        "id": "150804",
+        "name": "Ác Quỷ Màu Đỏ - Tốc Độ Gấp 3 Lần",
+        "rank": 4,
+        "desc": "Khi hiệu ứng Tăng Sát Thương Bạo Kích của Thiên Phú \"Ma Thuật Bảo Thạch\" có hiệu lực với Rin Tohsaka, hiệu ứng có thể cộng dồn, tối đa cộng dồn 2 tầng.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank4.png"
+    },
+    "150805": {
+        "id": "150805",
+        "name": "Sự Ưu Ái Của Thần Sao Kim",
+        "rank": 5,
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150803", "num": 2 },
+            { "id": "150804", "num": 2 },
+            { "id": "150805", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_ultimate.png"
+    },
+    "150806": {
+        "id": "150806",
+        "name": "Lần Này Không Sơ Suất Nữa!",
+        "rank": 6,
+        "desc": "Xuyên Kháng Toàn Thuộc Tính của Rin Tohsaka tăng 20%. Khi thi triển Tuyệt Kỹ, nhận 24 điểm \"Năng Lượng Bảo Thạch\" và 1 hiệp tăng thêm.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank6.png"
+    },
+    "150901": {
+        "id": "150901",
+        "name": "Người Chứng Kiến Tất Cả",
+        "rank": 1,
+        "desc": "Khi Gilgamesh sở hữu \"Vua Đến Để Công Nhận\", hiệu ứng bỏ qua Phòng Thủ của \"Vua Đến Để Công Nhận\" cũng có hiệu lực với đồng đội khác, đồng thời \"Vua Đến Để Công Nhận\" khiến Tấn Công của Gilgamesh tăng thêm 60%. Khi thi triển Chiến Kỹ sẽ cố định hồi thêm 40 Năng Lượng.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank1.png"
+    },
+    "150902": {
+        "id": "150902",
+        "name": "Trí Tuệ Thấu Hiểu Vạn Vật",
+        "rank": 2,
+        "desc": "Khi Gilgamesh vào chiến đấu nhận 5 điểm \"Hứng Thú\", khi thi triển Tuyệt Kỹ nhận thêm 5 điểm \"Hứng Thú\". Bội Số Sát Thương do Chiến Kỹ \"Kho Báu Đế Vương\" gây ra cho mục tiêu chính tăng 100%, Bội Số Sát Thương gây ra cho mục tiêu lân cận tăng 50%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank2.png"
+    },
+    "150903": {
+        "id": "150903",
+        "name": "Hành Trình Vượt Ngàn Dặm",
+        "rank": 3,
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150902", "num": 2 },
+            { "id": "150901", "num": 1 }
+        ],
+        "icon": "icon/skill/1509_skill.png"
+    },
+    "150904": {
+        "id": "150904",
+        "name": "Vị Vua Duy Ngã Độc Tôn",
+        "rank": 4,
+        "desc": "Hiệu Suất Hồi Năng Lượng của Gilgamesh tăng 20%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank4.png"
+    },
+    "150905": {
+        "id": "150905",
+        "name": "Nhân Thần Quyết Biệt Kiếm",
+        "rank": 5,
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150903", "num": 2 },
+            { "id": "150904", "num": 2 },
+            { "id": "150905", "num": 2 }
+        ],
+        "icon": "icon/skill/1509_ultimate.png"
+    },
+    "150906": {
+        "id": "150906",
+        "name": "Linh Hồn Rèn Giũa Từ Tình Bằng Hữu",
+        "rank": 6,
+        "desc": "Bội Số Sát Thương Nảy Bật của Tuyệt Kỹ \"Enuma Elish\" tăng 80%. Khi Gilgamesh trên sân, khiến Xuyên Kháng Toàn Thuộc Tính của nhân vật phe ta tăng 20%. Khi đồng đội thi triển Tuyệt Kỹ, Gilgamesh nhận 1 điểm \"Quy Luật Vàng\", cộng dồn tối đa 3 điểm. Khi bản thân thi triển Tuyệt Kỹ sẽ tiêu hao toàn bộ \"Quy Luật Vàng\", mỗi khi tiêu hao 1 điểm \"Quy Luật Vàng\" khiến Sát Thương Bạo Kích của Sát Thương Tuyệt Kỹ gây ra tăng 100%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank6.png"
+    },
+    "151001": {
+        "id": "151001",
+        "name": "Thứ Chúng Ta Gọi Là Con Đường, Chính Là Khai Phá",
+        "rank": 1,
+        "desc": "Số lần Thiên Phú phát động thêm hiệu ứng Kỹ Năng Trợ Chiến tăng thêm 1 lần. Trong trạng thái \"Giao Ước Đồng Hành: Phán Quyết\", số lần thi triển Tuyệt Kỹ cần để phát động Kỹ Năng Trợ Chiến giảm 1 lần. Trong trạng thái \"Giao Ước Đồng Hành: Diệt Phá\", Nạp Năng Lượng cần để phát động Kỹ Năng Trợ Chiến giảm 3 điểm. Khi Himeko - Nova phát động Kỹ Năng Trợ Chiến, số lần hiệu ứng gây thêm sát thương tăng 1 lần.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank1.png"
+    },
+    "151002": {
+        "id": "151002",
+        "name": "Ngọn Cờ, Cánh Buồm Không Bao Giờ Hạ Xuống",
+        "rank": 2,
+        "desc": "Giới hạn sử dụng Kỹ Năng Trợ Chiến của Himeko - Nova tăng đến 2 lần, sát thương do Tuyệt Kỹ và Kỹ Năng Trợ Chiến gây ra bằng 130% sát thương gốc. Trong trạng thái \"Cờ Hiệu Dẫn Đường\", khi bắt đầu mỗi hiệp, lập tức hồi phục thêm 1 lần sử dụng Kỹ Năng Trợ Chiến. Hiệu ứng Vết Tích \"Nhịp Đập Của Đội Tàu Đang Rền Vang\" khi nhân vật không phải Đồng Hành Khai Phá sử dụng Kỹ Năng Trợ Chiến, cũng sẽ nhận 1 hiệp tăng thêm.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank2.png"
+    },
+    "151003": {
+        "id": "151003",
+        "name": "Đứa Con Của Tinh Tú, Cũng Đang Suy Tư Về Muôn Vì Sao",
+        "rank": 3,
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151003", "num": 2 },
+            { "id": "151001", "num": 1 },
+            { "id": "151008", "num": 2 },
+            { "id": "151009", "num": 2 },
+            { "id": "151014", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151004": {
+        "id": "151004",
+        "name": "Nắm Lấy Tất Cả Những Bàn Tay Vươn Tới Bầu Trời",
+        "rank": 4,
+        "desc": "Khi sử dụng Kỹ Năng Trợ Chiến của Thiên Phú \"Cùng Bước Vào Cuộc Viễn Chinh Rực Cháy\", hiệu ứng tăng Xuyên Kháng Toàn Thuộc Tính sẽ có hiệu lực với toàn bộ phe ta, khi Himeko - Nova nhận được hiệu ứng này, Xuyên Kháng Toàn Thuộc Tính tăng thêm 10%.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank4.png"
+    },
+    "151005": {
+        "id": "151005",
+        "name": "Băng Qua Toàn Cõi Vũ Trụ",
+        "rank": 5,
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151002", "num": 2 },
+            { "id": "151004", "num": 2 },
+            { "id": "151022", "num": 2 },
+            { "id": "151025", "num": 2 },
+            { "id": "151026", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_skill.png"
+    },
+    "151006": {
+        "id": "151006",
+        "name": "Khắc Ghi, Lời Thề Vươn Tới Những Vì Sao",
+        "rank": 6,
+        "desc": "Xuyên Kháng Hỏa của Himeko - Nova tăng 20%. Giới hạn của \"Nguyên Năng\" tăng đến 6 điểm, khi phe ta sử dụng hoặc phát động Kỹ Năng Trợ Chiến, sát thương do Kỹ Năng Trợ Chiến gây ra tăng 75%, Himeko - Nova nhận 1 điểm \"Nguyên Năng\". Trong thời gian Tuyệt Kỹ, khi phát động \"Chùm Tia Hạt Siêu Tần\" tấn công, nhận thêm 1 điểm \"Nguyên Năng\". Khi phát động \"Xung Mạch Hủy Diệt Quỹ Đạo\", nếu \"Nguyên Năng\" hiện tại lớn hơn hoặc bằng 6 điểm, sẽ gây thêm cho toàn phe địch 1 lần Sát Thương Hỏa bằng 160% Tấn Công của Himeko - Nova.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank6.png"
+    },
+    "151201": {
+        "id": "151201",
+        "name": "Cánh Chim Lạc Đàn Mùa Hạ",
+        "rank": 1,
+        "desc": "\"Nhạc Công Bầu Trời Xanh\" sẽ ghi lại 100% sát thương không phải Sát Thương Chuẩn do mục tiêu phe ta gây ra, khi thi triển Kỹ Năng Linh Hồn Ký Ức sẽ gây thêm Sát Thương Chuẩn cho mục tiêu phe địch có HP cao nhất bằng (11% + số Điểm Sôi Động hiện tại *0.1%) tổng sát thương đã ghi nhận, sau đó xóa 50% giá trị đã ghi nhận.",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1512_rank1.png"
+    },
+    "151202": {
+        "id": "151202",
+        "name": "Tâm Lặng Như Nước Hồ",
+        "rank": 2,
+        "desc": "Xuyên Kháng Toàn Thuộc Tính của mục tiêu phe ta tăng 18%. Giới hạn Điểm Sôi Động của Robin - Summeretto tăng 20 điểm, khi mục tiêu phe ta thi triển kỹ năng lần đầu tiên trong hiệp của mục tiêu bất kỳ khiến Robin - Summeretto nhận Điểm Sôi Động, sẽ nhận thêm 2 điểm.",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1512_rank2.png"
+    },
+    "151203": {
+        "id": "151203",
+        "name": "Thu Nhặt Dư Âm Ven Đường",
+        "rank": 3,
+        "desc": "Cấp Chiến Kỹ +2, tối đa không vượt quá cấp 15; Cấp Thiên Phú +2, tối đa không vượt quá cấp 15; Cấp Thiên Phú Linh Hồn Ký Ức +1, tối đa không vượt quá cấp 10.",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151202", "num": 2 },
+            { "id": "151204", "num": 2 },
+            { "id": "1151203", "num": 1 },
+            { "id": "1151205", "num": 1 },
+            { "id": "1151206", "num": 1 }
+        ],
+        "icon": "icon/skill/1512_skill.png"
+    },
+    "151204": {
+        "id": "151204",
+        "name": "Lắng Nghe Biến Tấu Muôn Sợi Dây Đàn",
+        "rank": 4,
+        "desc": "Khi vào trạng thái \"Fever\", lập tức nhận 12 Điểm Sôi Động, Tốc Độ của \"Nhạc Công Bầu Trời Xanh\" tăng (20% + Điểm Sôi Động hiện tại *0.5%).",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1512_rank4.png"
+    },
+    "151205": {
+        "id": "151205",
+        "name": "Rồi Lại Cùng Nhau Đuổi Theo Bình Minh Mới",
+        "rank": 5,
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10; Cấp Kỹ Năng Linh Hồn Ký Ức +1, tối đa không vượt quá cấp 10.",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151203", "num": 2 },
+            { "id": "151201", "num": 1 },
+            { "id": "1151201", "num": 1 }
+        ],
+        "icon": "icon/skill/1512_ultimate.png"
+    },
+    "151206": {
+        "id": "151206",
+        "name": "Hát Một Bài Hát Chưa Đặt Tên",
+        "rank": 6,
+        "desc": "Bội Số Sát Thương của Kỹ Năng Linh Hồn Ký Ức tăng bằng 100% bội số ban đầu. Khi ở trạng thái \"Fever\", Tuyệt Kỹ của Robin - Summeretto có thể tích lũy tối đa 2 lần, sau lần đầu tiến vào trạng thái \"Fever\" trong trận chiến này hoặc khi bắt đầu hiệp đếm ngược \"Fever\", cố định hồi 140 điểm Năng Lượng.",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1512_rank6.png"
+    },
+    "151301": {
+        "id": "151301",
+        "name": "Kỳ Nghỉ Đặt Cược",
+        "rank": 1,
+        "desc": "Xuyên Kháng Toàn Thuộc Tính tăng 24%.\nThiên Phú được cường hóa: Khi \"Nhiệt Huyết\" đạt 10 điểm/20 điểm/30 điểm, đều sẽ lập tức thi triển \"Nâng Ly! Mừng Một Mùa Hè Rực Cháy\".",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1513_rank1.png"
+    },
+    "151302": {
+        "id": "151302",
+        "name": "Thư Nhàn Như Thủy Triều Lên Xuống",
+        "rank": 2,
+        "desc": "Giới hạn \"Nhiệt Huyết\" tăng đến 50 điểm, khi đạt 40 điểm/50 điểm, cũng sẽ kích hoạt Thiên Phú thi triển \"Nâng Ly! Mừng Một Mùa Hè Rực Cháy\". Sau khi thi triển Kỹ Năng Vui Vẻ nhận thêm 4 điểm \"Nhiệt Huyết\".",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1513_rank2.png"
+    },
+    "151303": {
+        "id": "151303",
+        "name": "Lời Mời Buổi Chiều Ướp Lạnh",
+        "rank": 3,
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15; Cấp Kỹ Năng Vui Vẻ +1, tối đa không quá cấp 15.",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151302", "num": 2 },
+            { "id": "151304", "num": 2 },
+            { "id": "151320", "num": 1 },
+            { "id": "151321", "num": 1 }
+        ],
+        "icon": "icon/skill/1513_skill.png"
+    },
+    "151304": {
+        "id": "151304",
+        "name": "Không Cần Giao Dịch Với Ánh Mặt Trời",
+        "rank": 4,
+        "desc": "Khi Aventurine - Waveflair thi triển Chiến Kỹ, khiến sát thương toàn thể phe ta gây ra bỏ qua 18% Phòng Thủ của mục tiêu phe địch, duy trì 3 hiệp.",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1513_rank4.png"
+    },
+    "151305": {
+        "id": "151305",
+        "name": "Gieo Mình Vào Cơn Bão Độc Đắc",
+        "rank": 5,
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10; Cấp Kỹ Năng Vui Vẻ +1, tối đa không quá cấp 15.",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151303", "num": 2 },
+            { "id": "151301", "num": 1 },
+            { "id": "151320", "num": 1 },
+            { "id": "151321", "num": 1 }
+        ],
+        "icon": "icon/skill/1513_ultimate.png"
+    },
+    "151306": {
+        "id": "151306",
+        "name": "Đổi Quá Khứ Lấy Pha Lướt Gió",
+        "rank": 6,
+        "desc": "Sát Thương Vui Vẻ do Aventurine - Waveflair gây ra tăng Hài Hước 25%. Sau khi Aventurine - Waveflair thi triển 2 lần Kỹ Năng Vui Vẻ, toàn bộ Kỹ Năng Vui Vẻ thi triển sau đó đều là \"All In! Mừng Một Mùa Hè Rực Cháy\", đồng thời khi thi triển Kỹ Năng Vui Vẻ \"All In! Mừng Một Mùa Hè Rực Cháy\" gây thêm sát thương ngoài Thời Khắc Aha sẽ không tiêu hao \"Nhiệt Huyết\" nữa.",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1513_rank6.png"
     },
     "800101": {
         "id": "800101",

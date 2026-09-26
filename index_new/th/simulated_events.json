@@ -259,7 +259,7 @@
     },
     "162": {
         "id": "162",
-        "name": "Elixir Seeker",
+        "name": "ผู้แสวงโอสถ",
         "type": "สมการ",
         "image": "image/simulated_event/RoguePicEventTourn_01.png"
     },
@@ -865,38 +865,74 @@
     },
     "263": {
         "id": "263",
-        "name": "",
-        "type": "",
+        "name": "เทพจักร่ำไห้แด่ความทุกข์หรือไม่?",
+        "type": "ความลับ",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "264": {
         "id": "264",
-        "name": "",
-        "type": "",
+        "name": "เทพจักร่ำไห้แด่ความไร้ค่าหรือไม่?",
+        "type": "ความลับ",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "265": {
         "id": "265",
-        "name": "",
-        "type": "",
+        "name": "เทพจักร่ำไห้แด่เวลาหรือไม่?",
+        "type": "ความลับ",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "266": {
         "id": "266",
-        "name": "",
-        "type": "",
+        "name": "เทพจักร่ำไห้แด่ความน่าเบื่อหรือไม่?",
+        "type": "ความลับ",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "267": {
         "id": "267",
-        "name": "",
-        "type": "",
+        "name": "เทพจักร่ำไห้แด่ความคิดถึงบ้านหรือไม่?",
+        "type": "ความลับ",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "268": {
         "id": "268",
-        "name": "",
-        "type": "",
+        "name": "เทพจักร่ำไห้แด่ตัวตนหรือไม่?",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_03.png"
+    },
+    "269": {
+        "id": "269",
+        "name": "เทพจักร่ำไห้แด่การมีชีวิตหรือไม่?",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_03.png"
+    },
+    "270": {
+        "id": "270",
+        "name": "เทพจักร่ำไห้แด่สิ่งรังสรรค์หรือไม่?",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_03.png"
+    },
+    "271": {
+        "id": "271",
+        "name": "เทพจักร่ำไห้แด่โชคชะตาหรือไม่?",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_03.png"
+    },
+    "272": {
+        "id": "272",
+        "name": "เทพจักร่ำไห้แด่ความเสื่อมทรามหรือไม่?",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_03.png"
+    },
+    "273": {
+        "id": "273",
+        "name": "เทพจักร่ำไห้แด่เงาสะท้อนหรือไม่?",
+        "type": "ความลับ",
+        "image": "image/simulated_event/RoguePicEventTourn_03.png"
+    },
+    "274": {
+        "id": "274",
+        "name": "เทพจักร่ำไห้แด่พวกเราหรือไม่?",
+        "type": "ความลับ",
         "image": "image/simulated_event/RoguePicEventTourn_03.png"
     },
     "398": {
@@ -2977,74 +3013,134 @@
     },
     "700103": {
         "id": "700103",
-        "name": "",
-        "type": "",
+        "name": "รักษาทัศนียภาพเมือง (พื้นที่)",
+        "type": "หลอมสร้าง",
         "image": "image/simulated_event/PicRogueEvent_46.png"
     },
     "700108": {
         "id": "700108",
-        "name": "",
-        "type": "",
+        "name": "รักษาทัศนียภาพเมือง (Tawot Cards)",
+        "type": "หลอมสร้าง",
         "image": "image/simulated_event/PicRogueEvent_46.png"
     },
     "727801": {
         "id": "727801",
-        "name": "",
-        "type": "",
+        "name": "ศัตรูคู่แค้น (1)",
+        "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_12.png"
     },
     "727802": {
         "id": "727802",
-        "name": "",
-        "type": "",
+        "name": "ศัตรูคู่แค้น (2)",
+        "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_12.png"
     },
     "727803": {
         "id": "727803",
-        "name": "",
-        "type": "",
+        "name": "ศัตรูคู่แค้น (3)",
+        "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_12.png"
     },
     "727901": {
         "id": "727901",
-        "name": "",
-        "type": "",
+        "name": "เครื่องดื่มในบาร์",
+        "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_44.png"
     },
     "728001": {
         "id": "728001",
-        "name": "",
-        "type": "",
+        "name": "พ่อค้าวันหยุด",
+        "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_46.png"
     },
     "728101": {
         "id": "728101",
-        "name": "",
-        "type": "",
+        "name": "ลิงก์ลึกลับ",
+        "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_45.png"
     },
     "728201": {
         "id": "728201",
-        "name": "",
-        "type": "",
+        "name": "ใต้จันทร์มายา (เพลิงผลาญ)",
+        "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_47.png"
     },
     "728202": {
         "id": "728202",
-        "name": "",
-        "type": "",
+        "name": "ภายใต้จันทร์มายา (ในภาพวาด)",
+        "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_47.png"
     },
     "728203": {
         "id": "728203",
-        "name": "",
-        "type": "",
+        "name": "ภายใต้จันทร์มายา (สมัยใหม่)",
+        "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_47.png"
     },
     "728301": {
         "id": "728301",
-        "name": "",
-        "type": "",
+        "name": "อารมณ์ขันสดใหม่จากเตา",
+        "type": "อิเวนต์",
         "image": "image/simulated_event/PicRogueEvent_2.png"
+    },
+    "728401": {
+        "id": "728401",
+        "name": "วางแผนเส้นทาง",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_40.png"
+    },
+    "728501": {
+        "id": "728501",
+        "name": "ฤดูป้อนอาหาร",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_27.png"
+    },
+    "728601": {
+        "id": "728601",
+        "name": "ลิงก์ลึกลับ (2)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_45.png"
+    },
+    "728701": {
+        "id": "728701",
+        "name": "ผู้พิทักษ์ความสงบตัวปลอม",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_44.png"
+    },
+    "728801": {
+        "id": "728801",
+        "name": "อ่า การแก้แค้นแสนหวาน (1)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_46.png"
+    },
+    "728802": {
+        "id": "728802",
+        "name": "อ่า การแก้แค้นแสนหวาน (2)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_46.png"
+    },
+    "728901": {
+        "id": "728901",
+        "name": "ดินแดนเทพนิยาย",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_47.png"
+    },
+    "729001": {
+        "id": "729001",
+        "name": "พิชิตน่านฟ้า (1)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_41.png"
+    },
+    "729002": {
+        "id": "729002",
+        "name": "พิชิตน่านฟ้า (2)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_41.png"
+    },
+    "729003": {
+        "id": "729003",
+        "name": "พิชิตน่านฟ้า (3)",
+        "type": "อิเวนต์",
+        "image": "image/simulated_event/PicRogueEvent_41.png"
     }
 }

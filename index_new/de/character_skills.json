@@ -1472,7 +1472,7 @@
             [1.95, 2, 1.95, 2.86],
             [2.1, 2, 2.1, 3.08]
         ],
-        "icon": "icon/skill/1014_basic_atk.png"
+        "icon": "icon/skill/1014_basic_atk2.png"
     },
     "101501": {
         "id": "101501",
@@ -1630,7 +1630,7 @@
         "simple_desc": "Entfernt den Status „Kreisverbindung“ und beendet die Runde.",
         "desc": "Entfernt den Status „Kreisverbindung“ und beendet die Runde.",
         "params": [],
-        "icon": "icon/skill/1015_skill.png"
+        "icon": "icon/skill/1015_common_skip.png"
     },
     "110101": {
         "id": "110101",
@@ -2965,7 +2965,7 @@
             [3.36, 1, 2, 0.78, 0.96],
             [3.5, 1, 2, 0.8125, 1]
         ],
-        "icon": "icon/skill/1109_skill.png"
+        "icon": "icon/skill/1109_skill2.png"
     },
     "111001": {
         "id": "111001",
@@ -3280,7 +3280,7 @@
             [0.26, 1.04],
             [0.28, 1.12]
         ],
-        "icon": "icon/skill/1111_basic_atk.png"
+        "icon": "icon/skill/1111_basic_atk2.png"
     },
     "111201": {
         "id": "111201",
@@ -3595,7 +3595,7 @@
             [3.12, 1.3],
             [3.36, 1.4]
         ],
-        "icon": "icon/skill/1201_basic_atk.png"
+        "icon": "icon/skill/1201_basic_atk2.png"
     },
     "120201": {
         "id": "120201",
@@ -4198,7 +4198,7 @@
             [0.1, 0.52, 0.208, 1.3, 0.52],
             [0.1, 0.56, 0.224, 1.4, 0.56]
         ],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/1205_basic_atk2.png"
     },
     "120601": {
         "id": "120601",
@@ -5243,7 +5243,7 @@
             [3, 1, 1.5],
             [3.125, 1, 1.5625]
         ],
-        "icon": "icon/skill/1212_skill.png"
+        "icon": "icon/skill/1212_skill2.png"
     },
     "121301": {
         "id": "121301",
@@ -5413,7 +5413,7 @@
             [3.38],
             [3.64]
         ],
-        "icon": "icon/skill/1213_basic_atk.png"
+        "icon": "icon/skill/1213_basic_atk2.png"
     },
     "121309": {
         "id": "121309",
@@ -5427,7 +5427,7 @@
         "simple_desc": "Verstärkung abbrechen",
         "desc": "Verstärkung abbrechen",
         "params": [],
-        "icon": "icon/skill/1213_skill.png"
+        "icon": "icon/skill/1213_common_return.png"
     },
     "121310": {
         "id": "121310",
@@ -5452,7 +5452,7 @@
             [4.94, 0.78],
             [5.32, 0.84]
         ],
-        "icon": "icon/skill/1213_basic_atk.png"
+        "icon": "icon/skill/1213_basic_atk3.png"
     },
     "121312": {
         "id": "121312",
@@ -5477,7 +5477,7 @@
             [6.5, 2.34],
             [7, 2.52]
         ],
-        "icon": "icon/skill/1213_basic_atk.png"
+        "icon": "icon/skill/1213_basic_atk4.png"
     },
     "121401": {
         "id": "121401",
@@ -6230,7 +6230,7 @@
             [0.696, 0.36],
             [0.72, 0.375]
         ],
-        "icon": "icon/skill/1220_ultimate.png"
+        "icon": "icon/skill/1220_ultimate_on2.png"
     },
     "122009": {
         "id": "122009",
@@ -6260,7 +6260,7 @@
             [0.696, 0.36],
             [0.72, 0.375]
         ],
-        "icon": "icon/skill/1220_ultimate.png"
+        "icon": "icon/skill/1220_ultimate_on3.png"
     },
     "122014": {
         "id": "122014",
@@ -6895,7 +6895,7 @@
             [1.04, 0.6, 3, 3],
             [1.12, 0.6, 3, 3]
         ],
-        "icon": "icon/skill/1224_basic_atk.png"
+        "icon": "icon/skill/1224_basic_atk2.png"
     },
     "122501": {
         "id": "122501",
@@ -7065,7 +7065,7 @@
             [1.3, 0.65],
             [1.4, 0.7]
         ],
-        "icon": "icon/skill/1225_basic_atk.png"
+        "icon": "icon/skill/1225_basic_atk2.png"
     },
     "130101": {
         "id": "130101",
@@ -7235,7 +7235,7 @@
             [3.25, 0.18, 2],
             [3.5, 0.19, 2]
         ],
-        "icon": "icon/skill/1301_basic_atk.png"
+        "icon": "icon/skill/1301_basic_atk2.png"
     },
     "130201": {
         "id": "130201",
@@ -7410,7 +7410,7 @@
             [3.248, 6, 1.102, 180],
             [3.36, 6, 1.14, 180]
         ],
-        "icon": "icon/skill/1302_ultimate.png"
+        "icon": "icon/skill/1302_ultimate2.png"
     },
     "130301": {
         "id": "130301",
@@ -8674,7 +8674,7 @@
         "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "params": [],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/1310_basic_atk2.png"
     },
     "131007": {
         "id": "131007",
@@ -8715,7 +8715,7 @@
             [2.6, 0.2],
             [2.8, 0.2]
         ],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/1310_basic_atk2.png"
     },
     "131009": {
         "id": "131009",
@@ -8745,7 +8745,7 @@
             [2.4, 1.2, 0.25, 2, 0.2, 0.1, 3.6],
             [2.5, 1.25, 0.25, 2, 0.2, 0.1, 3.6]
         ],
-        "icon": "icon/skill/1310_skill.png"
+        "icon": "icon/skill/1310_skill2.png"
     },
     "131201": {
         "id": "131201",
@@ -9309,7 +9309,7 @@
         "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "params": [],
-        "icon": "icon/skill/1315_basic_atk.png"
+        "icon": "icon/skill/1315_maze_normal.png"
     },
     "131507": {
         "id": "131507",
@@ -9350,7 +9350,7 @@
             [2.86],
             [3.08]
         ],
-        "icon": "icon/skill/1315_basic_atk.png"
+        "icon": "icon/skill/1315_basic_atk2.png"
     },
     "131701": {
         "id": "131701",
@@ -9520,7 +9520,7 @@
             [1.24, 0.62, 1.24, 0.5],
             [1.32, 0.66, 1.32, 0.5]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "131710": {
         "id": "131710",
@@ -9545,7 +9545,7 @@
             [1.24, 0.62],
             [1.32, 0.66]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "131712": {
         "id": "131712",
@@ -9570,7 +9570,7 @@
             [1.24],
             [1.32]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "131714": {
         "id": "131714",
@@ -9651,7 +9651,7 @@
             [1.24, 0.62, 1.24, 0.5],
             [1.32, 0.66, 1.32, 0.5]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "132101": {
         "id": "132101",
@@ -9971,7 +9971,7 @@
             [0.96, 1, 0.48],
             [1, 1, 0.5]
         ],
-        "icon": "icon/skill/1401_skill.png"
+        "icon": "icon/skill/1401_skill2.png"
     },
     "140201": {
         "id": "140201",
@@ -10141,7 +10141,7 @@
             [2.6, 1.17, 2.6, 1.17],
             [2.8, 1.26, 2.8, 1.26]
         ],
-        "icon": "icon/skill/1402_basic_atk.png"
+        "icon": "icon/skill/1402_basic_atk2.png"
     },
     "140209": {
         "id": "140209",
@@ -10521,7 +10521,7 @@
             [3.36, 2.016, 150],
             [3.5, 2.1, 150]
         ],
-        "icon": "icon/skill/1404_skill.png"
+        "icon": "icon/skill/1404_skill2.png"
     },
     "140501": {
         "id": "140501",
@@ -10986,7 +10986,7 @@
             [0.4, 0.36, 0.6],
             [0.4, 0.375, 0.625]
         ],
-        "icon": "icon/skill/1407_skill.png"
+        "icon": "icon/skill/1407_skill2.png"
     },
     "140801": {
         "id": "140801",
@@ -11186,7 +11186,7 @@
             [3.25, 0.975, 2],
             [3.5, 1.05, 2]
         ],
-        "icon": "icon/skill/1408_basic_atk.png"
+        "icon": "icon/skill/1408_basic_atk2.png"
     },
     "140809": {
         "id": "140809",
@@ -11216,7 +11216,7 @@
             [0.48, 0.75, 4, 0.36, 0.2],
             [0.5, 0.75, 4, 0.375, 0.2]
         ],
-        "icon": "icon/skill/1408_skill.png"
+        "icon": "icon/skill/1408_skill2.png"
     },
     "140811": {
         "id": "140811",
@@ -11246,7 +11246,7 @@
             [5.4, 0.54, 4, 4, 14.04],
             [5.625, 0.5625, 4, 4, 14.625]
         ],
-        "icon": "icon/skill/1408_skill.png"
+        "icon": "icon/skill/1408_skill3.png"
     },
     "140901": {
         "id": "140901",
@@ -11665,7 +11665,7 @@
         "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "params": [],
-        "icon": "icon/skill/1412_basic_atk.png"
+        "icon": "icon/skill/1412_technique2.png"
     },
     "141207": {
         "id": "141207",
@@ -12169,7 +12169,7 @@
             [0.39, 3, 0.39],
             [0.42, 3, 0.42]
         ],
-        "icon": "icon/skill/1415_basic_atk.png"
+        "icon": "icon/skill/1415_basic_atk2.png"
     },
     "141514": {
         "id": "141514",
@@ -12199,7 +12199,7 @@
             [12],
             [12]
         ],
-        "icon": "icon/skill/1415_ultimate.png"
+        "icon": "icon/skill/1415_ultimate2.png"
     },
     "141519": {
         "id": "141519",
@@ -12383,7 +12383,7 @@
             [1.3, 0.65],
             [1.4, 0.7]
         ],
-        "icon": "icon/skill/1501_basic_atk.png"
+        "icon": "icon/skill/1501_basic_atk2.png"
     },
     "150109": {
         "id": "150109",
@@ -12413,7 +12413,7 @@
             [2, 1, 2, 0.24, 0.12],
             [2, 1, 2, 0.25, 0.125]
         ],
-        "icon": "icon/skill/1501_skill.png"
+        "icon": "icon/skill/1501_skill2.png"
     },
     "150110": {
         "id": "150110",
@@ -12438,7 +12438,7 @@
             [1.3, 0.65],
             [1.4, 0.7]
         ],
-        "icon": "icon/skill/1501_basic_atk.png"
+        "icon": "icon/skill/1501_basic_atk2.png"
     },
     "150120": {
         "id": "150120",
@@ -12468,7 +12468,7 @@
             [0.3, 0.6, 20, 2],
             [0.3125, 0.625, 20, 2]
         ],
-        "icon": null
+        "icon": "icon/skill/1501_elation.png"
     },
     "150201": {
         "id": "150201",
@@ -12643,7 +12643,7 @@
             [1, 1.2, 0.16, 3, 5, 0.24],
             [1, 1.25, 0.16, 3, 5, 0.25]
         ],
-        "icon": null
+        "icon": "icon/skill/1502_elation.png"
     },
     "150401": {
         "id": "150401",
@@ -12963,7 +12963,7 @@
             [5, 1.32],
             [5, 1.375]
         ],
-        "icon": null
+        "icon": "icon/skill/1505_elation.png"
     },
     "150601": {
         "id": "150601",
@@ -13133,7 +13133,7 @@
             [3.12, 0, 100, 1.3, 3, 60, 2, 0.15],
             [3.36, 0, 100, 1.4, 3, 60, 2, 0.15]
         ],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate0.png"
     },
     "150610": {
         "id": "150610",
@@ -13147,7 +13147,7 @@
         "simple_desc": "Fügt allen Gegnern massiven imaginären Hochgefühl-SCH zu, der gleichmäßig unter allen Gegnern aufgeteilt wird. Fügt dem Ziel mit den höchsten LP basierend auf dem Gesamtschaden Tatsächlichen SCH zu.",
         "desc": "Fügt allen Gegnern massiven imaginären Hochgefühl-SCH zu, der gleichmäßig unter allen Gegnern aufgeteilt wird. Fügt dem Ziel mit den höchsten LP basierend auf dem Gesamtschaden Tatsächlichen SCH zu.",
         "params": [],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate1.png"
     },
     "150612": {
         "id": "150612",
@@ -13161,7 +13161,7 @@
         "simple_desc": "Fügt allen Gegnern massiven imaginären Hochgefühl-SCH zu, der gleichmäßig unter allen Gegnern aufgeteilt wird. Stellt Fertigkeitspunkte wieder her.",
         "desc": "Fügt allen Gegnern massiven imaginären Hochgefühl-SCH zu, der gleichmäßig unter allen Gegnern aufgeteilt wird. Stellt Fertigkeitspunkte wieder her.",
         "params": [],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate2.png"
     },
     "150618": {
         "id": "150618",
@@ -13175,7 +13175,7 @@
         "simple_desc": "Fügt allen Gegnern massiven imaginären Hochgefühl-SCH zu, der gleichmäßig unter allen Gegnern aufgeteilt wird. Erhält Lachpunkte.",
         "desc": "Fügt allen Gegnern massiven imaginären Hochgefühl-SCH zu, der gleichmäßig unter allen Gegnern aufgeteilt wird. Erhält Lachpunkte.",
         "params": [],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate3.png"
     },
     "150620": {
         "id": "150620",
@@ -13205,7 +13205,7 @@
             [15],
             [15]
         ],
-        "icon": null
+        "icon": "icon/skill/1506_elation.png"
     },
     "150621": {
         "id": "150621",
@@ -13235,7 +13235,7 @@
             [1.08, 6],
             [1.125, 6]
         ],
-        "icon": null
+        "icon": "icon/skill/1506_elation02.png"
     },
     "150701": {
         "id": "150701",
@@ -13272,7 +13272,7 @@
         "effect": "AoEAttack",
         "effect_text": "Flächenangriff",
         "simple_desc": "Verbraucht LP und fügt allen Gegnern Feuer-SCH zu. Fügt anschließend einem Gegner geringen Feuer-SCH zu, der 4-mal abprallt.",
-        "desc": "Verbraucht LP in Höhe von #4[i]% der max. LP von Mortenax Blade und fügt allen Gegnern Feuer-SCH in Höhe von #1[f1]% der max. LP von Mortenax Blade zu. Verursacht zusätzlich #2[i]-mal SCH, wobei jedes Mal einem zufälligen Gegner Feuer-SCH in Höhe von #3[f1]% der max. LP von Mortenax Blade zugefügt wird.\nWenn die aktuellen LP nicht ausreichen, werden Mortenax Blades aktuelle LP beim Einsatz der Fertigkeit auf 1 reduziert.\nWenn sich Mortenax Blade nicht im Status „Grenzenloser Zorn“ befindet oder seine aktuellen LP 1 oder weniger betragen, kann er die Fertigkeit nicht einsetzen.\nBeim Einsatz der Fertigkeit werden keine Fertigkeitspunkte verbraucht.",
+        "desc": "Verbraucht LP in Höhe von #4[f1]% der max. LP von Mortenax Blade und fügt allen Gegnern Feuer-SCH in Höhe von #1[i]% der max. LP von Mortenax Blade zu. Verursacht zusätzlich #2[i]-mal SCH, wobei jedes Mal einem zufälligen Gegner Feuer-SCH in Höhe von #3[f1]% der max. LP von Mortenax Blade zugefügt wird.\nWenn die aktuellen LP nicht ausreichen, werden Mortenax Blades aktuelle LP beim Einsatz der Fertigkeit auf 1 reduziert.\nWenn sich Mortenax Blade nicht im Status „Grenzenloser Zorn“ befindet oder seine aktuellen LP 1 oder weniger betragen, kann er die Fertigkeit nicht einsetzen.\nBeim Einsatz der Fertigkeit werden keine Fertigkeitspunkte verbraucht.",
         "params": [
             [0.36, 4, 0.12, 0.1],
             [0.396, 4, 0.132, 0.1],
@@ -13405,7 +13405,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1507_basic_atk.png"
+        "icon": "icon/skill/1507_basic_atk2.png"
     },
     "150709": {
         "id": "150709",
@@ -13465,7 +13465,1087 @@
             [4.06],
             [4.2]
         ],
-        "icon": "icon/skill/1507_ultimate.png"
+        "icon": "icon/skill/1507_ultimate2.png"
+    },
+    "150801": {
+        "id": "150801",
+        "name": "Bajiquan",
+        "max_level": 10,
+        "element": "Quantum",
+        "type": "Normal",
+        "type_text": "Standardangriff",
+        "effect": "SingleAttack",
+        "effect_text": "Einzelangriff",
+        "simple_desc": "Fügt einem anvisierten Gegner geringen Quanten-SCH zu.",
+        "desc": "Fügt einem anvisierten Gegner Quanten-SCH in Höhe von #1[i]% von Rin Tohsakas ANG zu.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1508_basic_atk.png"
+    },
+    "150802": {
+        "id": "150802",
+        "name": "Juwelenschwert Zelretch",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Fertigkeit",
+        "effect": "SingleAttack",
+        "effect_text": "Einzelangriff",
+        "simple_desc": "Fügt einem anvisierten Gegner Quanten-SCH zu.",
+        "desc": "Fügt einem anvisierten Gegner Quanten-SCH in Höhe von #1[i]% von Rin Tohsakas ANG zu.",
+        "params": [
+            [0.9],
+            [0.99],
+            [1.08],
+            [1.17],
+            [1.26],
+            [1.35],
+            [1.4625],
+            [1.575],
+            [1.6875],
+            [1.8],
+            [1.89],
+            [1.98],
+            [2.07],
+            [2.16],
+            [2.25]
+        ],
+        "icon": "icon/skill/1508_skill.png"
+    },
+    "150803": {
+        "id": "150803",
+        "name": "An Gal Ta Ki Gal Šè",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Ultra",
+        "type_text": "Ultimate",
+        "effect": "AoEAttack",
+        "effect_text": "Flächenangriff",
+        "simple_desc": "Fügt einem anvisierten Gegner massiven Quanten-SCH und anderen Gegnern Quanten-SCH zu. Erhöht beim Einsatz den von allen Gegnern erlittenen SCH und stellt für Verbündete Fertigkeitspunkte wieder her.",
+        "desc": "Fügt einem anvisierten Gegner Quanten-SCH in Höhe von #1[i]% von Rin Tohsakas ANG und anderen Gegnern Quanten-SCH in Höhe von #2[i]% von Rin Tohsakas ANG zu. Stellt beim Einsatz #4[i] Fertigkeitspunkt für Verbündete wieder her und erhöht den von allen Gegnern erlittenen SCH für #6[i] Rd. um #5[i]%.",
+        "params": [
+            [3, 1, 12, 1, 0.1, 3],
+            [3.3, 1.1, 12, 1, 0.11, 3],
+            [3.6, 1.2, 12, 1, 0.12, 3],
+            [3.9, 1.3, 12, 1, 0.13, 3],
+            [4.2, 1.4, 12, 1, 0.14, 3],
+            [4.5, 1.5, 12, 1, 0.15, 3],
+            [4.875, 1.625, 12, 1, 0.1625, 3],
+            [5.25, 1.75, 12, 1, 0.175, 3],
+            [5.625, 1.875, 12, 1, 0.1875, 3],
+            [6, 2, 12, 1, 0.2, 3],
+            [6.3, 2.1, 12, 1, 0.21, 3],
+            [6.6, 2.2, 12, 1, 0.22, 3],
+            [6.9, 2.3, 12, 1, 0.23, 3],
+            [7.2, 2.4, 12, 1, 0.24, 3],
+            [7.5, 2.5, 12, 1, 0.25, 3]
+        ],
+        "icon": "icon/skill/1508_ultimate.png"
+    },
+    "150804": {
+        "id": "150804",
+        "name": "Juwelenmagie",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "Enhance",
+        "effect_text": "Verstärkung",
+        "simple_desc": "Erhält beim Kampfeintritt 20 Pkt. Juwelenenergie. Wenn ein Verbündeter Fertigkeitspunkte verbraucht oder wiederherstellt, wird sein KRIT-SCH erhöht und Rin Tohsaka erhält Juwelenenergie. Wenn Rin Tohsaka mindestens 15 Pkt. Juwelenenergie besitzt oder aktuell mindestens 7 Fertigkeitspunkte vorhanden sind, wird ihre Fertigkeit zu „Experiment der Zweiten Magie“ verstärkt.",
+        "desc": "Erhält beim Kampfeintritt #1[i] Pkt. „Juwelenenergie“. Wenn ein Verbündeter Fertigkeitspunkte verbraucht oder wiederherstellt, wird sein KRIT-SCH für #2[i] Rd. um #3[i]% erhöht und Rin Tohsaka erhält für jeden verbrauchten oder wiederhergestellten Fertigkeitspunkt 1 Pkt. Juwelenenergie. Wenn Rin Tohsaka mindestens #5[i] Pkt. Juwelenenergie besitzt oder aktuell mindestens #4[i] Fertigkeitspunkte vorhanden sind, wird ihre Fertigkeit zu „Experiment der Zweiten Magie“ verstärkt.",
+        "params": [
+            [20, 2, 0.35, 7, 15, 999],
+            [20, 2, 0.385, 7, 15, 999],
+            [20, 2, 0.42, 7, 15, 999],
+            [20, 2, 0.455, 7, 15, 999],
+            [20, 2, 0.49, 7, 15, 999],
+            [20, 2, 0.525, 7, 15, 999],
+            [20, 2, 0.5687, 7, 15, 999],
+            [20, 2, 0.6125, 7, 15, 999],
+            [20, 2, 0.6562, 7, 15, 999],
+            [20, 2, 0.7, 7, 15, 999],
+            [20, 2, 0.735, 7, 15, 999],
+            [20, 2, 0.77, 7, 15, 999],
+            [20, 2, 0.805, 7, 15, 999],
+            [20, 2, 0.84, 7, 15, 999],
+            [20, 2, 0.875, 7, 15, 999]
+        ],
+        "icon": "icon/skill/1508_talent.png"
+    },
+    "150805": {
+        "id": "150805",
+        "name": "Freier Tohsaka-Stil",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "AoEAttack",
+        "effect_text": "Flächenangriff",
+        "simple_desc": "Wenn die Anzahl der Fertigkeitspunkte nach dem Angriff von Archer mit der Fertigkeit „Caladbolg II: Falsches Spiralschwert“ 3 oder weniger beträgt oder im aktuellen Status „Kreisverbindung“ bereits 5-mal aktiv Caladbolg II: Falsches Spiralschwert eingesetzt wurde und der Ketten-Folgeangriff von „Freier Tohsaka-Stil“ noch nicht ausgelöst wurde, führen Rin Tohsaka und Archer einen Ketten-Folgeangriff gegen alle Gegner aus, der massiven Quanten-SCH verursacht und Fertigkeitspunkte für Verbündete wiederherstellt. Dieser Ketten-Folgeangriff kann nur 1-mal ausgelöst werden. Am Ende von Rin Tohsakas Runde wird die Auslösungszahl zurückgesetzt.",
+        "desc": "Wenn die Anzahl der Fertigkeitspunkte nach dem Angriff von Archer mit der Fertigkeit „Caladbolg II: Falsches Spiralschwert“ #3[i] oder weniger beträgt oder Caladbolg II: Falsches Spiralschwert im aktuellen Status „Kreisverbindung“ bereits 5-mal aktiv eingesetzt wurde und der Ketten-Folgeangriff von „Freier Tohsaka-Stil“ noch nicht ausgelöst wurde, führen Rin Tohsaka und Archer einen Ketten-Folgeangriff gegen alle Gegner aus. Dieser verursacht Quanten-SCH in Höhe von #1[i]% von Rin Tohsakas ANG sowie #4[i]% von Archers ANG und stellt #2[i] Fertigkeitspunkte für Verbündete wieder her. Dieser Ketten-Folgeangriff kann nur 1-mal ausgelöst werden. Am Ende von Rin Tohsakas Runde wird die Auslösungszahl zurückgesetzt.",
+        "params": [
+            [1.5, 4, 3, 1.5],
+            [1.65, 4, 3, 1.65],
+            [1.8, 4, 3, 1.8],
+            [1.95, 4, 3, 1.95],
+            [2.1, 4, 3, 2.1],
+            [2.25, 4, 3, 2.25],
+            [2.4375, 4, 3, 2.4375],
+            [2.625, 4, 3, 2.625],
+            [2.8125, 4, 3, 2.8125],
+            [3, 4, 3, 3],
+            [3.15, 4, 3, 3.15],
+            [3.3, 4, 3, 3.3],
+            [3.45, 4, 3, 3.45],
+            [3.6, 4, 3, 3.6],
+            [3.75, 4, 3, 3.75]
+        ],
+        "icon": "icon/skill/1508_talent.png"
+    },
+    "150806": {
+        "id": "150806",
+        "name": "Angriff",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+        "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+        "params": [],
+        "icon": "icon/skill/1508_technique2.png"
+    },
+    "150807": {
+        "id": "150807",
+        "name": "Umwandlungsladung",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Technik",
+        "effect": "Enhance",
+        "effect_text": "Verstärkung",
+        "simple_desc": "Erhält nach dem Einsatz der Technik zu Beginn des nächsten Kampfes 10 Pkt. „Juwelenenergie“.",
+        "desc": "Erhält nach dem Einsatz der Technik zu Beginn des nächsten Kampfes #1[i] Pkt. „Juwelenenergie“.",
+        "params": [
+            [10, 2, 2]
+        ],
+        "icon": "icon/skill/1508_technique.png"
+    },
+    "150809": {
+        "id": "150809",
+        "name": "Experiment der Zweiten Magie",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Fertigkeit",
+        "effect": "Bounce",
+        "effect_text": "Abpraller",
+        "simple_desc": "Fügt allen Gegnern geringen Quanten-SCH zu. Verbraucht danach „Juwelenenergie“, um einem zufälligen Gegner zusätzlich mehrmals geringen Quanten-SCH zuzufügen. Wenn beim Einsatz mehr als 2 Fertigkeitspunkte vorhanden sind, werden die Fertigkeitspunkte auf 2 verbraucht. Erhält für jeden verbrauchten Punkt sofort 2 Pkt. Juwelenenergie.",
+        "desc": "Fügt allen Gegnern Quanten-SCH in Höhe von #1[i]% von Rin Tohsakas ANG zu. Verbraucht danach #2[i] Pkt. „Juwelenenergie“, um einem zufälligen Gegner zusätzlich Quanten-SCH in Höhe von #3[i]% von Rin Tohsakas ANG zuzufügen. Dies wird wiederholt, bis die Juwelenenergie unter #2[i] fällt oder keine Gegner mit mehr als 0 aktuellen LP mehr vorhanden sind, bis zu #6[i] Rd. Wenn beim Einsatz mehr als #4[i] Fertigkeitspunkte vorhanden sind, werden die Fertigkeitspunkte auf #4[i] verbraucht. Erhält für jeden verbrauchten Punkt sofort #5[i] Juwelenenergie.",
+        "params": [
+            [0.45, 3, 0.45, 2, 2, 33, 0, 1],
+            [0.495, 3, 0.495, 2, 2, 33, 0, 1],
+            [0.54, 3, 0.54, 2, 2, 33, 0, 1],
+            [0.585, 3, 0.585, 2, 2, 33, 0, 1],
+            [0.63, 3, 0.63, 2, 2, 33, 0, 1],
+            [0.675, 3, 0.675, 2, 2, 33, 0, 1],
+            [0.7312, 3, 0.7312, 2, 2, 33, 0, 1],
+            [0.7875, 3, 0.7875, 2, 2, 33, 0, 1],
+            [0.8438, 3, 0.8438, 2, 2, 33, 0, 1],
+            [0.9, 3, 0.9, 2, 2, 33, 0, 1],
+            [0.945, 3, 0.945, 2, 2, 33, 0, 1],
+            [0.99, 3, 0.99, 2, 2, 33, 0, 1],
+            [1.035, 3, 1.035, 2, 2, 33, 0, 1],
+            [1.08, 3, 1.08, 2, 2, 33, 0, 1],
+            [1.125, 3, 1.125, 2, 2, 33, 0, 1]
+        ],
+        "icon": "icon/skill/1508_skill2.png"
+    },
+    "150901": {
+        "id": "150901",
+        "name": "Halbherziger Schlag",
+        "max_level": 10,
+        "element": "Thunder",
+        "type": "Normal",
+        "type_text": "Standardangriff",
+        "effect": "SingleAttack",
+        "effect_text": "Einzelangriff",
+        "simple_desc": "Fügt einem Gegner geringen Blitz-SCH zu.",
+        "desc": "Fügt einem anvisierten Gegner Blitz-SCH in Höhe von #1[i]% von Gilgameshs ANG zu.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1509_basic_atk.png"
+    },
+    "150902": {
+        "id": "150902",
+        "name": "Gate of Babylon",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "BPSkill",
+        "type_text": "Fertigkeit",
+        "effect": "Blast",
+        "effect_text": "Ausdehnung",
+        "simple_desc": "Erhält „Anerkennung des Königs“, wodurch diese Einheit beim Verursachen von SCH Teil der VTD des Ziels ignoriert. Fügt einem Gegner Blitz-SCH und angrenzenden Einheiten Blitz-SCH zu.",
+        "desc": "Erhält „Anerkennung des Königs“, wodurch diese Einheit beim Verursachen von SCH für #6[i] Rd. #5[i]% der VTD des Ziels ignoriert.\nFügt einem anvisierten Gegner Blitz-SCH in Höhe von #1[i]% von Gilgameshs ANG zu und fügt angrenzenden Einheiten Blitz-SCH in Höhe von #2[i]% von Gilgameshs ANG zu.",
+        "params": [
+            [1.4, 0.7, 0.1, 10, 0.15, 3, 2],
+            [1.54, 0.77, 0.11, 10, 0.165, 3, 2],
+            [1.68, 0.84, 0.12, 10, 0.18, 3, 2],
+            [1.82, 0.91, 0.13, 10, 0.195, 3, 2],
+            [1.96, 0.98, 0.14, 10, 0.21, 3, 2],
+            [2.1, 1.05, 0.15, 10, 0.225, 3, 2],
+            [2.275, 1.1375, 0.1625, 10, 0.2437, 3, 2],
+            [2.45, 1.225, 0.175, 10, 0.2625, 3, 2],
+            [2.625, 1.3125, 0.1875, 10, 0.2812, 3, 2],
+            [2.8, 1.4, 0.2, 10, 0.3, 3, 2],
+            [2.94, 1.47, 0.21, 10, 0.315, 3, 2],
+            [3.08, 1.54, 0.22, 10, 0.33, 3, 2],
+            [3.22, 1.61, 0.23, 10, 0.345, 3, 2],
+            [3.36, 1.68, 0.24, 10, 0.36, 3, 2],
+            [3.5, 1.75, 0.25, 10, 0.375, 3, 2]
+        ],
+        "icon": "icon/skill/1509_skill.png"
+    },
+    "150903": {
+        "id": "150903",
+        "name": "Enuma Elish",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "Ultra",
+        "type_text": "Ultimate",
+        "effect": "AoEAttack",
+        "effect_text": "Flächenangriff",
+        "simple_desc": "Fügt allen Gegnern massiven Blitz-SCH zu. Fügt zusätzlich einem zufälligen Gegner geringen Blitz-SCH zu, der insgesamt 10-mal abprallt.",
+        "desc": "Fügt allen Gegnern Blitz-SCH in Höhe von #1[i]% von Gilgameshs ANG zu. Verursacht zusätzlich #3[i]-mal SCH, wobei jedes Mal einem zufälligen Gegner Blitz-SCH in Höhe von #2[i]% von Gilgameshs ANG zugefügt wird.",
+        "params": [
+            [2, 0.5, 10],
+            [2.2, 0.55, 10],
+            [2.4, 0.6, 10],
+            [2.6, 0.65, 10],
+            [2.8, 0.7, 10],
+            [3, 0.75, 10],
+            [3.25, 0.8125, 10],
+            [3.5, 0.875, 10],
+            [3.75, 0.9375, 10],
+            [4, 1, 10],
+            [4.2, 1.05, 10],
+            [4.4, 1.1, 10],
+            [4.6, 1.15, 10],
+            [4.8, 1.2, 10],
+            [5, 1.25, 10]
+        ],
+        "icon": "icon/skill/1509_ultimate.png"
+    },
+    "150904": {
+        "id": "150904",
+        "name": "„Unterhalte mich nach besten Kräften“",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "Enhance",
+        "effect_text": "Verstärkung",
+        "simple_desc": "Wenn ein Verbündeter seinen Ultimate einsetzt, erhält Gilgamesh „Bürde des Königs“ und erhöht den von dieser Einheit verursachten Ultimate-SCH.\nAnfangs wird zu Beginn der Runde dieser Einheit automatisch der Standardangriff eingesetzt. Wenn ein anderer Verbündeter eine Aktion ausführt, erhält Gilgamesh 1 Pkt. „Begeisterung“. Für jeden Pkt. Begeisterung wird die GES dieser Einheit erhöht.\nWenn Begeisterung zum ersten Mal 10 Pkt. erreicht, tritt Gilgamesh in den Status „Ich bin begeistert!“ ein, in dem er nur seine Fertigkeit einsetzen kann und der für den gesamten Kampf anhält. Nach dem Einsatz der Fertigkeit wird seine Begeisterung zurückgesetzt.",
+        "desc": "Wenn ein Verbündeter seinen Ultimate einsetzt, erhält Gilgamesh „Bürde des Königs“ und erhöht den von dieser Einheit verursachten Ultimate-SCH für #1[i] Rd. um #3[i]%.\nAnfangs wird zu Beginn der Runde dieser Einheit automatisch der Standardangriff eingesetzt. Wenn ein anderer Verbündeter eine Aktion ausführt, erhält Gilgamesh 1 Pkt. „Begeisterung“. Für jeden Pkt. Begeisterung wird die GES dieser Einheit um #4[i]% erhöht.\nWenn Begeisterung zum ersten Mal #2[i] Pkt. erreicht, tritt Gilgamesh in den Status „Ich bin begeistert!“ ein, in dem er nur seine Fertigkeit einsetzen kann und der für den gesamten Kampf anhält. Nach dem Einsatz der Fertigkeit wird seine Begeisterung zurückgesetzt.",
+        "params": [
+            [3, 10, 0.2, 0.1],
+            [3, 10, 0.22, 0.1],
+            [3, 10, 0.24, 0.1],
+            [3, 10, 0.26, 0.1],
+            [3, 10, 0.28, 0.1],
+            [3, 10, 0.3, 0.1],
+            [3, 10, 0.325, 0.1],
+            [3, 10, 0.35, 0.1],
+            [3, 10, 0.375, 0.1],
+            [3, 10, 0.4, 0.1],
+            [3, 10, 0.42, 0.1],
+            [3, 10, 0.44, 0.1],
+            [3, 10, 0.46, 0.1],
+            [3, 10, 0.48, 0.1],
+            [3, 10, 0.5, 0.1]
+        ],
+        "icon": "icon/skill/1509_talent.png"
+    },
+    "150905": {
+        "id": "150905",
+        "name": "„Greife auf mein Geheiß hin an“",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "AoEAttack",
+        "effect_text": "Flächenangriff",
+        "simple_desc": "Wenn Gilgamesh oder Saber angreift, wird der Angriffszähler erhöht. Wenn der Angriffszähler nach dem Angriff einer beliebigen Einheit 8 erreicht, führen Gilgamesh und Saber einen Ketten-Folgeangriff aus, der allen Gegnern massiven Blitz-SCH sowie massiven Wind-SCH zufügt. Gilgamesh erhält 3 Pkt. „Begeisterung“, während Saber Energie wiederherstellt und den SCH des nächsten Ultimates zusätzlich erhöht.",
+        "desc": "Wenn Gilgamesh oder Saber angreift, wird der Angriffszähler um 1 erhöht. Wenn der Angriffszähler nach dem Angriff einer beliebigen Einheit #5[i] erreicht, führen Gilgamesh und Saber einen Ketten-Folgeangriff aus, der allen Gegnern Blitz-SCH in Höhe von #1[i]% von Gilgameshs ANG sowie Wind-SCH in Höhe von #2[i]% von Sabers ANG zufügt. Anschließend erhält Gilgamesh #3[i] Pkt. „Begeisterung“ und Saber stellt eine feste Menge von #4[i] Energie wieder her und bewirkt, dass der verursachte SCH beim nächsten Einsatz ihres Ultimates #6[i]% des ursprünglichen SCH beträgt.\nNach dem Einsatz des Ketten-Folgeangriffs wird der Angriffszähler zurückgesetzt.",
+        "params": [
+            [2, 3, 3, 120, 8, 1.2],
+            [2.2, 3.3, 3, 120, 8, 1.28],
+            [2.4, 3.6, 3, 120, 8, 1.36],
+            [2.6, 3.9, 3, 120, 8, 1.44],
+            [2.8, 4.2, 3, 120, 8, 1.52],
+            [3, 4.5, 3, 120, 8, 1.6],
+            [3.25, 4.875, 3, 120, 8, 1.7],
+            [3.5, 5.25, 3, 120, 8, 1.8],
+            [3.75, 5.625, 3, 120, 8, 1.9],
+            [4, 6, 3, 120, 8, 2],
+            [4.2, 6.3, 3, 120, 8, 2.08],
+            [4.4, 6.6, 3, 120, 8, 2.16],
+            [4.6, 6.9, 3, 120, 8, 2.24],
+            [4.8, 7.2, 3, 120, 8, 2.32],
+            [5, 7.5, 3, 120, 8, 2.4]
+        ],
+        "icon": "icon/skill/1509_talent.png"
+    },
+    "150906": {
+        "id": "150906",
+        "name": "Angriff",
+        "max_level": 1,
+        "element": "Thunder",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+        "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+        "params": [],
+        "icon": "icon/skill/1509_basic_atk.png"
+    },
+    "150907": {
+        "id": "150907",
+        "name": "Enkidu",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Technik",
+        "effect": "Impair",
+        "effect_text": "Beeinträchtigung",
+        "simple_desc": "Erzeugt eine spezielle Dimension. Gegner in dieser Dimension erhalten den Status „Erlaubnis des Königs“ und stellen alle Aktionen ein.\nBeim Angriff auf einen Gegner im Status Erlaubnis des Königs treten alle Gegner im Status Erlaubnis des Königs gleichzeitig in den Kampf ein. Fügt nach Kampfeintritt allen Gegnern Blitz-SCH zu und erhält sofort 3 Pkt. „Begeisterung“.",
+        "desc": "Nach dem Einsatz der Technik wird eine spezielle Dimension erzeugt, die #1[i] Sek. anhält. Gegner in der speziellen Dimension werden in den Status „Erlaubnis des Königs“ versetzt. Gegner im Status Erlaubnis des Königs stellen alle Aktionen ein.\nBei der Einleitung eines Kampfes durch einen aktiven Angriff auf Gegner im Status Erlaubnis des Königs treten alle Gegner in diesem Status gleichzeitig in den Kampf ein. Nach Kampfeintritt wird allen Gegnern Blitz-SCH in Höhe von #2[i]% von Gilgameshs ANG zugefügt und Gilgamesh erhält sofort #3[i] Pkt. „Begeisterung“. Es kann nur eine von Verbündeten erschaffene Dimension zur gleichen Zeit existieren.",
+        "params": [
+            [10, 2, 3]
+        ],
+        "icon": "icon/skill/1509_technique.png"
+    },
+    "150909": {
+        "id": "150909",
+        "name": "Halbherziger Schlag",
+        "max_level": 10,
+        "element": "Thunder",
+        "type": "BPSkill",
+        "type_text": "Fertigkeit",
+        "effect": "SingleAttack",
+        "effect_text": "Einzelangriff",
+        "simple_desc": "",
+        "desc": "",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1509_basic_atk.png"
+    },
+    "151001": {
+        "id": "151001",
+        "name": "Entzünde das Leuchtfeuer der ersten Meile",
+        "max_level": 10,
+        "element": "Fire",
+        "type": "Normal",
+        "type_text": "Standardangriff",
+        "effect": "SingleAttack",
+        "effect_text": "Einzelangriff",
+        "simple_desc": "Fügt einem Gegner geringen Feuer-SCH zu.",
+        "desc": "Fügt einem Gegner Feuer-SCH in Höhe von #1[i]% von Himeko – Novas ANG zu.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1510_basic_atk.png"
+    },
+    "151002": {
+        "id": "151002",
+        "name": "Entfache die Flamme der Wegweisung",
+        "max_level": 15,
+        "element": "",
+        "type": "BPSkill",
+        "type_text": "Fertigkeit",
+        "effect": "Support",
+        "effect_text": "Unterstützung",
+        "simple_desc": "Nach dem Einsatz der Fertigkeit werden sofort alle Verwendungen der Unterstützungsfertigkeit wiederhergestellt und Himeko – Nova erhält „Navigationssignal“. Wenn Himeko – Nova Navigationssignal besitzt, wird der verursachte SCH erhöht. Zu Beginn jeder Runde wird sofort 1 Verwendung der Unterstützungsfertigkeit wiederhergestellt.",
+        "desc": "Nach dem Einsatz der Fertigkeit werden alle Verwendungen der Unterstützungsfertigkeit sofort wiederhergestellt und Himeko – Nova erhält für #2[i] Rd. „Navigationssignal“. Zu Beginn jeder Runde von Himeko – Nova wird die Dauer um 1 Rd. verringert. Wenn Himeko – Nova Navigationssignal besitzt, wird der von allen Verbündeten verursachte SCH um #1[i]% erhöht. Zu Beginn jeder Runde wird sofort 1 Verwendung der Unterstützungsfertigkeit wiederhergestellt.",
+        "params": [
+            [0.1, 3],
+            [0.11, 3],
+            [0.12, 3],
+            [0.13, 3],
+            [0.14, 3],
+            [0.15, 3],
+            [0.1625, 3],
+            [0.175, 3],
+            [0.1875, 3],
+            [0.2, 3],
+            [0.21, 3],
+            [0.22, 3],
+            [0.23, 3],
+            [0.24, 3],
+            [0.25, 3]
+        ],
+        "icon": "icon/skill/1510_skill.png"
+    },
+    "151003": {
+        "id": "151003",
+        "name": "Auch wir sind sternenjagende Giganten",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Ultimate",
+        "effect": "AoEAttack",
+        "effect_text": "Flächenangriff",
+        "simple_desc": "Kann während des Ultimates „Übertakteter Partikelstrahl“ oder „Orbitaler Vernichtungsimpuls“ gegen alle Gegner einsetzen. Fügt am Ende 3 zufälligen einzelnen Gegnern Feuer-SCH zu.",
+        "desc": "Übernimm sofort die Kontrolle über den „Starblazer“. Starblazer verfügt über den „Übertakteter Partikelstrahl“, der 6-mal gegen Gegner eingesetzt werden kann, sowie auch den durch Verbrauch von Quellenergie ausgelösten „Orbitalen Vernichtungsimpuls“, wodurch einem anvisierten Gegner Feuer-SCH in Höhe von bis zu #9[i]% von Himeko – Novas ANG sowie anderen Zielen Feuer-SCH in Höhe von bis zu #10[i]% von Himeko – Novas ANG zugefügt wird.\nWenn die Verwendungen von Übertakteter Partikelstrahl aufgebraucht sind, wird automatisch der Orbitale Vernichtungsimpuls ausgelöst und anschließend der letzte Schlag ausgeführt, der #6[i]-mal SCH verursacht. Jeder Treffer fügt einem zufälligen Gegner Feuer-SCH in Höhe von #7[i]% von Himeko – Novas ANG zu.\nWenn der Einsatz von Übertakteter Partikelstrahl oder Orbitaler Vernichtungsimpuls allen Gegnern auf dem Kampffeld tödlichen SCH zufügt oder die LP der Gegner nicht weiter reduziert werden können, wird sofort der letzte Schlag ausgeführt.",
+        "params": [
+            [0.16, 1, 0.1, 1, 0.15, 3, 0.4, 3, 3.81, 1.26],
+            [0.176, 1, 0.11, 1, 0.165, 3, 0.44, 3, 4.191, 1.386],
+            [0.192, 1, 0.12, 1, 0.18, 3, 0.48, 3, 4.572, 1.512],
+            [0.208, 1, 0.13, 1, 0.195, 3, 0.52, 3, 4.953, 1.638],
+            [0.224, 1, 0.14, 1, 0.21, 3, 0.56, 3, 5.334, 1.764],
+            [0.24, 1, 0.15, 1, 0.225, 3, 0.6, 3, 5.715, 1.89],
+            [0.26, 1, 0.1625, 1, 0.2437, 3, 0.65, 3, 6.1913, 2.0475],
+            [0.28, 1, 0.175, 1, 0.2625, 3, 0.7, 3, 6.6675, 2.205],
+            [0.3, 1, 0.1875, 1, 0.2812, 3, 0.75, 3, 7.1437, 2.3625],
+            [0.32, 1, 0.2, 1, 0.3, 3, 0.8, 3, 7.62, 2.52],
+            [0.336, 1, 0.21, 1, 0.315, 3, 0.84, 3, 8.001, 2.646],
+            [0.352, 1, 0.22, 1, 0.33, 3, 0.88, 3, 8.382, 2.772],
+            [0.368, 1, 0.23, 1, 0.345, 3, 0.92, 3, 8.763, 2.898],
+            [0.384, 1, 0.24, 1, 0.36, 3, 0.96, 3, 9.144, 3.024],
+            [0.4, 1, 0.25, 1, 0.375, 3, 1, 3, 9.525, 3.15]
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151004": {
+        "id": "151004",
+        "name": "Gemeinsam zur brennenden Expedition",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "Enhance",
+        "effect_text": "Verstärkung",
+        "simple_desc": "Solange Himeko – Nova sich auf dem Kampffeld befindet, erschafft sie einen Bereich, wodurch alle verbündeten Figuren eine Unterstützungsfertigkeit erhalten. Wenn eine verbündete Figur die Unterstützungsfertigkeit einsetzt, werden die WDS-DUR aller Typen und der KRIT-SCH von Himeko – Nova erhöht und ihre Angriffe reduzieren den WDS unabhängig vom Schwächetyp.\nWenn eine andere verbündete Figur als Himeko – Nova eine Unterstützungsfertigkeit einsetzt, stellt diese Figur Energie wieder her.",
+        "desc": "Wenn Himeko – Nova sich auf dem Kampffeld befindet, wird sofort der Bereich „Horizont des Starblazers“ erschaffen. Der „Starblazer“ erscheint auf dem Kampffeld und alle verbündeten Figuren erhalten 1 Verwendung der Unterstützungsfertigkeit. Verbündete Figuren können die Unterstützungsfertigkeit einsetzen, um den Starblazer herbeizurufen und Gegner anzugreifen.\nDer Einsatz der Unterstützungsfertigkeit gilt als Einsatz von Himeko – Novas Fertigkeit. Himeko – Nova erhält eine Erhöhung der WDS-DUR aller Typen um #2[i]% sowie eine KRIT-SCH-Erhöhung um #1[i]%. Ihre Angriffe können den WDS von Gegnern unabhängig vom Schwächetyp reduzieren. Beim Schwächebruch wird der Effekt Schwächebruch: Feuer ausgelöst.\nWenn eine verbündete Figur außer Himeko – Nova eine Unterstützungsfertigkeit einsetzt, stellt diese Figur #3[i] Pkt. Energie wieder her.",
+        "params": [
+            [0.4, 0.1, 4],
+            [0.44, 0.11, 4],
+            [0.48, 0.12, 4],
+            [0.52, 0.13, 4],
+            [0.56, 0.14, 4],
+            [0.6, 0.15, 4],
+            [0.65, 0.1625, 4],
+            [0.7, 0.175, 4],
+            [0.75, 0.1875, 4],
+            [0.8, 0.2, 4],
+            [0.84, 0.21, 4],
+            [0.88, 0.22, 4],
+            [0.92, 0.23, 4],
+            [0.96, 0.24, 4],
+            [1, 0.25, 4]
+        ],
+        "icon": "icon/skill/1510_talent.png"
+    },
+    "151006": {
+        "id": "151006",
+        "name": "Angriff",
+        "max_level": 1,
+        "element": "Fire",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+        "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+        "params": [],
+        "icon": "icon/skill/1510_basic_atk.png"
+    },
+    "151007": {
+        "id": "151007",
+        "name": "Sternenexpedition",
+        "max_level": 1,
+        "element": "Fire",
+        "type": "Maze",
+        "type_text": "Technik",
+        "effect": "Enhance",
+        "effect_text": "Verstärkung",
+        "simple_desc": "Erhöht die max. Technikpunkte um 3. Tritt beim aktiven Einsatz in den Status „Reiseflug“ ein und verbraucht 2 Technikpunkte, um alle Gegner in einem bestimmten Bereich anzugreifen. Nach Kampfeintritt wird zu Beginn jeder Kampfwelle 1-mal die Fertigkeit eingesetzt.\nWenn normale Gegner angegriffen werden, werden diese sofort besiegt, ohne in den Kampf einzutreten. Werden keine Gegner getroffen, werden keine Technikpunkte verbraucht.",
+        "desc": "Wenn Himeko – Nova sich im Team befindet, werden die max. Technikpunkte um 3 erhöht.\nTritt nach dem Einsatz der Technik für #1[i] Sek. in den Status „Reiseflug“ ein. Der aktive Einsatz der Technik verbraucht 2 Technikpunkte, um sofort alle Gegner in einem bestimmten Bereich anzugreifen. Nach Kampfeintritt wird zu Beginn jeder Kampfwelle sofort 1-mal die Fertigkeit eingesetzt.\nWenn normale Gegner angegriffen werden, werden diese sofort besiegt, ohne in den Kampf einzutreten. Werden keine Gegner getroffen, werden keine Technikpunkte verbraucht.",
+        "params": [
+            [30]
+        ],
+        "icon": "icon/skill/1510_technique.png"
+    },
+    "151008": {
+        "id": "151008",
+        "name": "Übertakteter Partikelstrahl",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Ultimate",
+        "effect": "AoEAttack",
+        "effect_text": "Flächenangriff",
+        "simple_desc": "Fügt allen Gegnern geringen Feuer-SCH zu. Erhält 1 Pkt. Quellenergie, wobei bis zu 3 Pkt. Quellenergie angesammelt werden können.",
+        "desc": "Fügt allen Gegnern Feuer-SCH in Höhe von #1[i]% von Himeko – Novas ANG zu und gewährt #2[i] Pkt. Quellenergie, wobei bis zu #3[i] Pkt. Quellenergie angesammelt werden können.",
+        "params": [
+            [0.16, 1, 3],
+            [0.176, 1, 3],
+            [0.192, 1, 3],
+            [0.208, 1, 3],
+            [0.224, 1, 3],
+            [0.24, 1, 3],
+            [0.26, 1, 3],
+            [0.28, 1, 3],
+            [0.3, 1, 3],
+            [0.32, 1, 3],
+            [0.336, 1, 3],
+            [0.352, 1, 3],
+            [0.368, 1, 3],
+            [0.384, 1, 3],
+            [0.4, 1, 3]
+        ],
+        "icon": "icon/skill/1510_basic_atk2.png"
+    },
+    "151009": {
+        "id": "151009",
+        "name": "Orbitaler Vernichtungsimpuls",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Ultimate",
+        "effect": "AoEAttack",
+        "effect_text": "Flächenangriff",
+        "simple_desc": "Verbraucht 1 Pkt. Quellenergie, um allen Gegnern geringen Feuer-SCH zuzufügen. Wenn die aktuelle Quellenergie mehr als 1 Pkt. beträgt, wird für jeweils 1 verbrauchte Pkt. Quellenergie einem zufälligen Gegner 1-mal geringer Feuer-SCH zugefügt.",
+        "desc": "Verbraucht 1 Pkt. Quellenergie, um allen Gegnern Feuer-SCH in Höhe von #1[i]% von Himeko – Novas ANG zuzufügen. Wenn die aktuelle Quellenergie mehr als 1 Pkt. beträgt, wird für jeweils #2[i] verbrauchte Pkt. Quellenergie einem zufälligen Gegner zusätzlich 1-mal Feuer-SCH in Höhe von #3[i]% von Himeko – Novas ANG zugefügt.",
+        "params": [
+            [0.1, 1, 0.15],
+            [0.11, 1, 0.165],
+            [0.12, 1, 0.18],
+            [0.13, 1, 0.195],
+            [0.14, 1, 0.21],
+            [0.15, 1, 0.225],
+            [0.1625, 1, 0.2437],
+            [0.175, 1, 0.2625],
+            [0.1875, 1, 0.2812],
+            [0.2, 1, 0.3],
+            [0.21, 1, 0.315],
+            [0.22, 1, 0.33],
+            [0.23, 1, 0.345],
+            [0.24, 1, 0.36],
+            [0.25, 1, 0.375]
+        ],
+        "icon": "icon/skill/1510_skill2.png"
+    },
+    "151014": {
+        "id": "151014",
+        "name": "Auch wir sind sternenjagende Giganten",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Ultimate",
+        "effect": "AoEAttack",
+        "effect_text": "Flächenangriff",
+        "simple_desc": "Verursacht 0-mal SCH, wobei jedes Mal einem zufälligen Gegner Feuer-SCH zugefügt wird.",
+        "desc": "Verursacht #2[i]-mal SCH, wobei jedes Mal einem zufälligen Gegner Feuer-SCH zugefügt wird.",
+        "params": [
+            [3, 0.4],
+            [3, 0.44],
+            [3, 0.48],
+            [3, 0.52],
+            [3, 0.56],
+            [3, 0.6],
+            [3, 0.65],
+            [3, 0.7],
+            [3, 0.75],
+            [3, 0.8],
+            [3, 0.84],
+            [3, 0.88],
+            [3, 0.92],
+            [3, 0.96],
+            [3, 1]
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151022": {
+        "id": "151022",
+        "name": "Trailblaze, an deiner Seite",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Assist",
+        "type_text": "Unterstützungsfertigkeit",
+        "effect": "AoEAttack",
+        "effect_text": "Flächenangriff",
+        "simple_desc": "Fügt allen Gegnern geringen Feuer-SCH und 3 zufälligen einzelnen Gegnern geringen Feuer-SCH zu. Beim Einsatz durch Himeko – Nova fügt sie allen Gegnern geringen Feuer-SCH und 4 zufälligen einzelnen Gegnern geringen Feuer-SCH zu. Wenn der Anwender eine andere Figur der Trailblaze-Gefährten als Himeko – Nova ist, erhält Himeko – Nova 1 der Spezialeffekte.",
+        "desc": "Fügt allen Gegnern Feuer-SCH in Höhe von #1[i]% von Himeko – Novas ANG zu und verursacht zusätzlich #2[i]-mal SCH, wobei jedes Mal einem zufälligen Gegner Feuer-SCH in Höhe von #3[i]% von Himeko – Novas ANG zugefügt wird. Beim Einsatz durch Himeko – Nova wird allen Gegnern Feuer-SCH in Höhe von #4[i]% von Himeko – Novas ANG zugefügt und zusätzlich #5[i]-mal SCH verursacht, wobei jedes Mal einem zufälligen Gegner Feuer-SCH in Höhe von #6[i]% von Himeko – Novas ANG zugefügt wird.\nWenn der Anwender eine andere Figur der Trailblaze-Gefährtenals Himeko – Nova ist, erhält Himeko – Nova je nach Anwender zusätzlich 1 der Spezialeffekte.\nDie durch alle Spezialeffekte ausgelöste zusätzliche Unterstützungsfertigkeit kann pro Kampf bis zu #8[i]-mal ausgelöst werden. Nach dem Einsatz von Himeko – Novas Ultimate wird die Auslösungszahl zurückgesetzt.",
+        "params": [
+            [0.8, 3, 0.12, 1, 4, 0.18, 4, 2],
+            [0.88, 3, 0.132, 1.1, 4, 0.194, 4, 2],
+            [0.96, 3, 0.144, 1.2, 4, 0.208, 4, 2],
+            [1.04, 3, 0.156, 1.3, 4, 0.222, 4, 2],
+            [1.12, 3, 0.168, 1.4, 4, 0.236, 4, 2],
+            [1.2, 3, 0.18, 1.5, 4, 0.25, 4, 2],
+            [1.3, 3, 0.195, 1.625, 4, 0.2675, 4, 2],
+            [1.4, 3, 0.21, 1.75, 4, 0.285, 4, 2],
+            [1.5, 3, 0.225, 1.875, 4, 0.3025, 4, 2],
+            [1.6, 3, 0.24, 2, 4, 0.32, 4, 2],
+            [1.68, 3, 0.252, 2.1, 4, 0.334, 4, 2],
+            [1.76, 3, 0.264, 2.2, 4, 0.348, 4, 2],
+            [1.84, 3, 0.276, 2.3, 4, 0.362, 4, 2],
+            [1.92, 3, 0.288, 2.4, 4, 0.376, 4, 2],
+            [2, 3, 0.3, 2.5, 4, 0.39, 4, 2]
+        ],
+        "icon": "icon/skill/1510_assist01.png"
+    },
+    "151025": {
+        "id": "151025",
+        "name": "Gefährtenprotokoll: Richterspruch",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Assist",
+        "type_text": "Unterstützungsfertigkeit",
+        "effect": "AoEAttack",
+        "effect_text": "Flächenangriff",
+        "simple_desc": "Tritt in den Status „Gefährtenprotokoll: Richterspruch“ ein. Erhöht den von Himeko – Nova verursachten SCH und den verursachten Ultimate-SCH zusätzlich. Nachdem Teammitglieder von Himeko – Nova aktiv 2-mal einen Ultimate eingesetzt haben, setzt Himeko – Nova sofort 1-mal die Unterstützungsfertigkeit gegen die Gegner ein.",
+        "desc": "Tritt in den Status „Gefährtenprotokoll: Richterspruch“ ein. Erhöht den von Himeko – Nova verursachten SCH um #8[i]% und den verursachten Ultimate-SCH zusätzlich um #10[i]%. Nachdem Teammitglieder von Himeko – Nova aktiv #9[i]-mal einen Ultimate eingesetzt haben, setzt Himeko – Nova sofort 1-mal ohne Kosten die Unterstützungsfertigkeit gegen die Gegner ein.",
+        "params": [
+            [0.8, 3, 0.12, 1, 4, 0.18, 4, 0.5, 2, 0.5],
+            [0.88, 3, 0.132, 1.1, 4, 0.194, 4, 0.55, 2, 0.55],
+            [0.96, 3, 0.144, 1.2, 4, 0.208, 4, 0.6, 2, 0.6],
+            [1.04, 3, 0.156, 1.3, 4, 0.222, 4, 0.65, 2, 0.65],
+            [1.12, 3, 0.168, 1.4, 4, 0.236, 4, 0.7, 2, 0.7],
+            [1.2, 3, 0.18, 1.5, 4, 0.25, 4, 0.75, 2, 0.75],
+            [1.3, 3, 0.195, 1.625, 4, 0.2675, 4, 0.8125, 2, 0.8125],
+            [1.4, 3, 0.21, 1.75, 4, 0.285, 4, 0.875, 2, 0.875],
+            [1.5, 3, 0.225, 1.875, 4, 0.3025, 4, 0.9375, 2, 0.9375],
+            [1.6, 3, 0.24, 2, 4, 0.32, 4, 1, 2, 1],
+            [1.68, 3, 0.252, 2.1, 4, 0.334, 4, 1.05, 2, 1.05],
+            [1.76, 3, 0.264, 2.2, 4, 0.348, 4, 1.1, 2, 1.1],
+            [1.84, 3, 0.276, 2.3, 4, 0.362, 4, 1.15, 2, 1.15],
+            [1.92, 3, 0.288, 2.4, 4, 0.376, 4, 1.2, 2, 1.2],
+            [2, 3, 0.3, 2.5, 4, 0.39, 4, 1.25, 2, 1.25]
+        ],
+        "icon": "icon/skill/1510_assist02.png"
+    },
+    "151026": {
+        "id": "151026",
+        "name": "Gefährtenprotokoll: Annihilation",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Assist",
+        "type_text": "Unterstützungsfertigkeit",
+        "effect": "AoEAttack",
+        "effect_text": "Flächenangriff",
+        "simple_desc": "Tritt in den Status „Gefährtenprotokoll: Annihilation“ ein. Erhöht den KRIT-SCH aller Verbündeten und den durch Fertigkeiten verursachten KRIT-SCH zusätzlich. Für jeden von Verbündeten getroffenen Gegner wird 1 Pkt. Aufladung erhalten. Wenn die Aufladung 9 Pkt. erreicht, werden alle Aufladungen verbraucht und Himeko – Nova setzt sofort 1-mal die Unterstützungsfertigkeit gegen die Gegner ein.",
+        "desc": "Tritt in den Status „Gefährtenprotokoll: Annihilation“ ein. Erhöht den KRIT-SCH aller Verbündeten um #8[i]% und den durch Fertigkeiten verursachten KRIT-SCH zusätzlich um #10[i]%. Für jeden von Verbündeten getroffenen Gegner wird 1 Pkt. Aufladung erhalten. Erreicht die Aufladung #9[i] Pkt., werden alle Aufladungen verbraucht und Himeko – Nova setzt sofort 1-mal ohne Kosten die Unterstützungsfertigkeit gegen die Gegner ein. Durch diese Unterstützungsfertigkeit kann keine Aufladung erhalten werden.",
+        "params": [
+            [0.8, 3, 0.12, 1, 4, 0.18, 4, 0.5, 9, 0.5],
+            [0.88, 3, 0.132, 1.1, 4, 0.194, 4, 0.55, 9, 0.55],
+            [0.96, 3, 0.144, 1.2, 4, 0.208, 4, 0.6, 9, 0.6],
+            [1.04, 3, 0.156, 1.3, 4, 0.222, 4, 0.65, 9, 0.65],
+            [1.12, 3, 0.168, 1.4, 4, 0.236, 4, 0.7, 9, 0.7],
+            [1.2, 3, 0.18, 1.5, 4, 0.25, 4, 0.75, 9, 0.75],
+            [1.3, 3, 0.195, 1.625, 4, 0.2675, 4, 0.8125, 9, 0.8125],
+            [1.4, 3, 0.21, 1.75, 4, 0.285, 4, 0.875, 9, 0.875],
+            [1.5, 3, 0.225, 1.875, 4, 0.3025, 4, 0.9375, 9, 0.9375],
+            [1.6, 3, 0.24, 2, 4, 0.32, 4, 1, 9, 1],
+            [1.68, 3, 0.252, 2.1, 4, 0.334, 4, 1.05, 9, 1.05],
+            [1.76, 3, 0.264, 2.2, 4, 0.348, 4, 1.1, 9, 1.1],
+            [1.84, 3, 0.276, 2.3, 4, 0.362, 4, 1.15, 9, 1.15],
+            [1.92, 3, 0.288, 2.4, 4, 0.376, 4, 1.2, 9, 1.2],
+            [2, 3, 0.3, 2.5, 4, 0.39, 4, 1.25, 9, 1.25]
+        ],
+        "icon": "icon/skill/1510_assist03.png"
+    },
+    "151201": {
+        "id": "151201",
+        "name": "Klangwellen stimmen die Meeresbrise",
+        "max_level": 10,
+        "element": "Wind",
+        "type": "Normal",
+        "type_text": "Standardangriff",
+        "effect": "SingleAttack",
+        "effect_text": "Einzelangriff",
+        "simple_desc": "Fügt einem Gegner geringen Wind-SCH zu.",
+        "desc": "Fügt einem Gegner Wind-SCH in Höhe von #1[i]% der max. LP von Robin – Summeretto zu.",
+        "params": [
+            [0.25],
+            [0.3],
+            [0.35],
+            [0.4],
+            [0.45],
+            [0.5],
+            [0.55],
+            [0.6],
+            [0.65],
+            [0.7]
+        ],
+        "icon": "icon/skill/1512_basic_atk.png"
+    },
+    "151202": {
+        "id": "151202",
+        "name": "Hochsommer, der Musiker der Seele",
+        "max_level": 15,
+        "element": "",
+        "type": "BPSkill",
+        "type_text": "Fertigkeit",
+        "effect": "Summon",
+        "effect_text": "Beschwörung",
+        "simple_desc": "Beschwört den Memogeist „Sommer-Singvogel“ Bessie. Wenn sich bereits „Sommer-Singvögel“ auf dem Kampffeld befinden, werden ihre LP wiederhergestellt und Vibes gewährt.",
+        "desc": "Beschwört den Memogeist „Sommer-Singvogel“ Bessie. Wenn sich bereits irgendwelche „Sommer-Singvögel“ auf dem Kampffeld befinden, werden bei ihnen LP in Höhe von #1[i]% ihrer max. LP wiederhergestellt und #2[i] Pkt. Vibes gewährt.",
+        "params": [
+            [0.5, 6],
+            [0.55, 6],
+            [0.6, 6],
+            [0.65, 6],
+            [0.7, 6],
+            [0.75, 6],
+            [0.8125, 6],
+            [0.875, 6],
+            [0.9375, 6],
+            [1, 6],
+            [1.05, 6],
+            [1.1, 6],
+            [1.15, 6],
+            [1.2, 6],
+            [1.25, 6]
+        ],
+        "icon": "icon/skill/1512_skill.png"
+    },
+    "151203": {
+        "id": "151203",
+        "name": "Tauche ein in diese azurblaue Rhapsodie",
+        "max_level": 15,
+        "element": "",
+        "type": "Ultra",
+        "type_text": "Ultimate",
+        "effect": "Support",
+        "effect_text": "Unterstützung",
+        "simple_desc": "Gewährt einer anvisierten verbündeten Figur außer Robin – Summeretto Aktionsvorzug und stellt bei ihr Energie wieder her. Daraufhin erhält die Figur den Effekt „Ehrengast“. Wenn diese Figur und ihre beschworenen Objekte einen Angriff ausführen, erhält Robin – Summeretto zusätzlich Vibes, und sie können anderen Verbündeten keinen Aktionsvorzug gewähren.",
+        "desc": "Gewährt einer anvisierten verbündeten Figur (außer Robin – Summeretto) einen Aktionsvorzug von #1[i]% und stellt eine feste Menge an Energie in Höhe von #3[f1]% der max. Energie wieder her. Daraufhin erhält die Figur den Effekt „Ehrengast“. Wenn die Figur mit Ehrengast und ihre beschworenen Objekte einen Angriff ausführen, erhält Robin – Summeretto zusätzlich #2[i] Pkt. Vibes, und sie können anderen Verbündeten keinen Aktionsvorzug gewähren. Dies hält 2 Rd. lang an und die Dauer verringert sich zu Beginn jeder Runde dieser Figur um 1.",
+        "params": [
+            [1, 2, 0.12, 0],
+            [1, 2, 0.128, 0],
+            [1, 2, 0.136, 0],
+            [1, 2, 0.144, 0],
+            [1, 2, 0.152, 0],
+            [1, 2, 0.16, 0],
+            [1, 2, 0.17, 0],
+            [1, 2, 0.18, 0],
+            [1, 2, 0.19, 0],
+            [1, 2, 0.2, 0],
+            [1, 2, 0.208, 0],
+            [1, 2, 0.216, 0],
+            [1, 2, 0.224, 0],
+            [1, 2, 0.232, 0],
+            [1, 2, 0.24, 0]
+        ],
+        "icon": "icon/skill/1512_ultimate.png"
+    },
+    "151204": {
+        "id": "151204",
+        "name": "Reise durch den grenzenlosen Himmel",
+        "max_level": 15,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "Enhance",
+        "effect_text": "Verstärkung",
+        "simple_desc": "Wenn ein Verbündeter einen Angriff ausführt, einen Heilungseffekt oder Schild gewährt, erhält Robin – Summeretto Vibes. Haben die Vibes einen bestimmten Wert erreicht, werden jeweils der Sommer-Singvogel Drummie und der Sommer-Singvogel Paddie beschworen. Wenn alle „Sommer-Singvögel“ die Bühne betreten haben, treten Robin – Summeretto und die Sommer-Singvögel in den Status „Fever“ ein und erzeugen ein Kraftfeld. Beim Verursachen von SCH durch Verbündete innerhalb des Kraftfelds wird ein Teil der VTD des Gegners ignoriert.\nWährend des Status Fever sind Robin – Summeretto und die Sommer-Singvögel immun gegen Mengenkontrolle-Debuffs. Bis zum Ende des Status Fever tritt Robin – Summeretto nicht in ihre eigene Runde ein.",
+        "desc": "Der Memogeist „Sommer-Singvögel“ besitzt zu Beginn max. LP in Höhe von #1[i]% der max. LP von Robin – Summeretto und eine GES in Höhe von #2[i]% der GES von Robin – Summeretto. Wenn ein Verbündeter einen Angriff ausführt oder während der Runde eines beliebigen Ziels zum ersten Mal einen Heilungseffekt oder Schild gewährt, erhält Robin – Summeretto 1 Pkt. Vibes, bis zu #5[i] Pkt. Wenn sich Sommer-Singvogel Bessie auf dem Kampffeld befindet und Robin – Summerettos Vibes bei #6[i] oder höher liegen, wird sofort Sommer-Singvogel Drummie beschworen. Liegen die Vibes bei #7[i] oder höher, wird sofort Sommer-Singvogel Paddie beschworen. Wenn alle Sommer-Singvögel die Bühne betreten haben, werden alle Mengenkontrolle-Debuffs von Robin – Summeretto und den Sommer-Singvögeln entfernt. Sie treten in den Status „Fever“ ein und erzeugen ein Kraftfeld. Wenn Verbündete innerhalb des Kraftfelds SCH verursachen, ignorieren sie die VTD des Gegners um (#8[f1]% + Vibes × #9[f1]%).\nWährend des Status Fever sind Robin – Summeretto und die Sommer-Singvögel immun gegen Mengenkontrolle-Debuffs. Bis zum Ende des Status Fever tritt Robin – Summeretto nicht in ihre eigene Runde ein.",
+        "params": [
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.105, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.11, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.115, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.12, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.125, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1313, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1375, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1437, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.15, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.155, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.16, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.165, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.17, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.175, 0.005]
+        ],
+        "icon": "icon/skill/1512_talent.png"
+    },
+    "151206": {
+        "id": "151206",
+        "name": "Angriff",
+        "max_level": 1,
+        "element": "Wind",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+        "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+        "params": [],
+        "icon": "icon/skill/1512_basic_atk.png"
+    },
+    "151207": {
+        "id": "151207",
+        "name": "Wir sind unsere eigene Melodie",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Technik",
+        "effect": "Enhance",
+        "effect_text": "Verstärkung",
+        "simple_desc": "Nach Kampfeintritt wird die Aktion vorgezogen. Erhält sofort Vibes und erhöht den von allen Verbündeten verursachten SCH.",
+        "desc": "Nach dem Einsatz der Technik wird die Aktion zu Beginn des nächsten Kampfes um #3[i]% vorgezogen. Erhält sofort #1[i] Pkt. Vibes und erhöht den von allen Verbündeten verursachten SCH für 2 Rd. um #2[i]%.",
+        "params": [
+            [6, 0.3, 0.2]
+        ],
+        "icon": "icon/skill/1512_technique.png"
+    },
+    "151301": {
+        "id": "151301",
+        "name": "Stromschnellen, Volltreffer",
+        "max_level": 10,
+        "element": "Quantum",
+        "type": "Normal",
+        "type_text": "Standardangriff",
+        "effect": "SingleAttack",
+        "effect_text": "Einzelangriff",
+        "simple_desc": "Fügt einem anvisierten Gegner geringen Quanten-SCH zu.",
+        "desc": "Fügt einem anvisierten Gegner Quanten-SCH in Höhe von #1[i]% des ANG von Aventurin – Wellenflair zu.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1513_basic_atk.png"
+    },
+    "151302": {
+        "id": "151302",
+        "name": "Vernichtender Schlag, sengender Sand",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Fertigkeit",
+        "effect": "AoEAttack",
+        "effect_text": "Flächenangriff",
+        "simple_desc": "Fügt allen Gegnern Quanten-SCH zu und erhält Lachpunkte und „Inbrunst“.",
+        "desc": "Fügt allen Gegnern Quanten-SCH in Höhe von #1[i]% des ANG von Aventurin – Wellenflair zu und erhält #2[i] Lachpunkte sowie #3[i] Pkt. „Inbrunst“.",
+        "params": [
+            [1.2, 4, 4],
+            [1.32, 4, 4],
+            [1.44, 4, 4],
+            [1.56, 4, 4],
+            [1.68, 4, 4],
+            [1.8, 4, 4],
+            [1.95, 4, 4],
+            [2.1, 4, 4],
+            [2.25, 4, 4],
+            [2.4, 4, 4],
+            [2.52, 4, 4],
+            [2.64, 4, 4],
+            [2.76, 4, 4],
+            [2.88, 4, 4],
+            [3, 4, 4]
+        ],
+        "icon": "icon/skill/1513_skill.png"
+    },
+    "151303": {
+        "id": "151303",
+        "name": "Sieg, hoch über den Sturmwellen",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Ultra",
+        "type_text": "Ultimate",
+        "effect": "AoEAttack",
+        "effect_text": "Flächenangriff",
+        "simple_desc": "Fügt allen Gegnern massiven Quanten-SCH zu, erhält Lachpunkte sowie „Inbrunst“ und erhöht die eigene GES.",
+        "desc": "Fügt allen Gegnern Quanten-SCH in Höhe von #1[i]% des ANG von Aventurin – Wellenflair zu, erhält #3[i] Lachpunkte sowie #2[i] Pkt. „Inbrunst“. Erhöht zudem die eigene GES für #5[i] Rd. um #4[i]%.",
+        "params": [
+            [2.4, 8, 6, 0.12, 4],
+            [2.56, 8, 6, 0.138, 4],
+            [2.72, 8, 6, 0.156, 4],
+            [2.88, 8, 6, 0.174, 4],
+            [3.04, 8, 6, 0.192, 4],
+            [3.2, 8, 6, 0.21, 4],
+            [3.4, 8, 6, 0.2325, 4],
+            [3.6, 8, 6, 0.255, 4],
+            [3.8, 8, 6, 0.2775, 4],
+            [4, 8, 6, 0.3, 4],
+            [4.16, 8, 6, 0.318, 4],
+            [4.32, 8, 6, 0.336, 4],
+            [4.48, 8, 6, 0.354, 4],
+            [4.64, 8, 6, 0.372, 4],
+            [4.8, 8, 6, 0.39, 4]
+        ],
+        "icon": "icon/skill/1513_ultimate.png"
+    },
+    "151304": {
+        "id": "151304",
+        "name": "Einsatz gesetzt, der Abgrund antwortet",
+        "max_level": 15,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "Enhance",
+        "effect_text": "Verstärkung",
+        "simple_desc": "Verlängert die Dauer von Aventurin – Wellenflairs Verdiente Leistung um 1 Rd. Nach dem Angriff eines Verbündeten erhält Aventurin – Wellenflair „Inbrunst“ sowie Lachpunkte.\nWenn Inbrunst einen bestimmten Wert erreicht, setzt Aventurin – Wellenflair sofort 1-mal „Prost! Auf einen heißen Sommer“ ein, wobei eine feste Anzahl von Lachpunkten angerechnet wird, und verstärkt seine beim nächsten Aha-Moment eingesetzte Hochgefühl-Fähigkeit zu „All in! Auf einen heißen Sommer“.\nWenn Aventurin – Wellenflair Verdiente Leistung besitzt, fügen seine Fertigkeit und sein Ultimate allen Gegnern zusätzlich Hochgefühl-SCH vom Typ Quanten zu.",
+        "desc": "Verlängert die Dauer von Aventurin – Wellenflairs Verdiente Leistung um 1 Rd. Nach dem Angriff eines Verbündeten erhält Aventurin – Wellenflair #7[i] Pkt. „Inbrunst“ sowie #6[i] Lachpunkt. Die max. Anzahl von Inbrunst beträgt #4[i].\nWenn Inbrunst #1[i] Pkt. erreicht, setzt Aventurin – Wellenflair sofort 1-mal „Prost! Auf einen heißen Sommer“ ein, wobei eine feste Anzahl von #5[i] Lachpunkten angerechnet wird, und verstärkt nach diesem Einsatz seine beim nächsten Aha-Moment eingesetzte Hochgefühl-Fähigkeit zu „All in! Auf einen heißen Sommer“.\nWenn Aventurin – Wellenflair Verdiente Leistung besitzt, fügt seine Fertigkeit allen Gegnern zusätzlich #2[i]% Hochgefühl-SCH vom Typ Quanten und sein Ultimate allen Gegnern #3[i]% Hochgefühl-SCH vom Typ Quanten zu.",
+        "params": [
+            [10, 0.2, 0.36, 30, 20, 1, 1],
+            [10, 0.22, 0.396, 30, 20, 1, 1],
+            [10, 0.24, 0.432, 30, 20, 1, 1],
+            [10, 0.26, 0.468, 30, 20, 1, 1],
+            [10, 0.28, 0.504, 30, 20, 1, 1],
+            [10, 0.3, 0.54, 30, 20, 1, 1],
+            [10, 0.325, 0.585, 30, 20, 1, 1],
+            [10, 0.35, 0.63, 30, 20, 1, 1],
+            [10, 0.375, 0.675, 30, 20, 1, 1],
+            [10, 0.4, 0.72, 30, 20, 1, 1],
+            [10, 0.42, 0.756, 30, 20, 1, 1],
+            [10, 0.44, 0.792, 30, 20, 1, 1],
+            [10, 0.46, 0.828, 30, 20, 1, 1],
+            [10, 0.48, 0.864, 30, 20, 1, 1],
+            [10, 0.5, 0.9, 30, 20, 1, 1]
+        ],
+        "icon": "icon/skill/1513_talent.png"
+    },
+    "151306": {
+        "id": "151306",
+        "name": "Angriff",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+        "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
+        "params": [],
+        "icon": "icon/skill/1513_basic_atk.png"
+    },
+    "151307": {
+        "id": "151307",
+        "name": "Schlage Wellen in stillen Gewässern",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "Maze",
+        "type_text": "Technik",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Bewegt sich eine bestimmte Strecke schnell vorwärts und greift alle berührten Gegner an. Fügt nach Kampfeinleitung durch einen Angriff auf Gegner allen Gegnern geringen Quanten-SCH zu und erhält „Inbrunst“ sowie Verdiente Leistung. Werden keine Gegner getroffen, werden keine Technikpunkte verbraucht.",
+        "desc": "Bewegt sich eine bestimmte Strecke schnell vorwärts, greift alle berührten Gegner an und blockt währenddessen alle eingehenden Angriffe der Gegner. Fügt nach Kampfeinleitung durch einen aktiven Angriff auf Gegner allen Gegnern Quanten-SCH in Höhe von #1[i]% des ANG von Aventurin – Wellenflair zu und erhält #2[i] Pkt. „Inbrunst“ sowie #3[i] Pkt. Verdiente Leistung. Werden keine Gegner getroffen, werden keine Technikpunkte verbraucht.",
+        "params": [
+            [1, 2, 20]
+        ],
+        "icon": "icon/skill/1513_technique.png"
+    },
+    "151320": {
+        "id": "151320",
+        "name": "Prost! Auf einen heißen Sommer",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "ElationDamage",
+        "type_text": "Fähigkeit des Hochgefühls",
+        "effect": "AoEAttack",
+        "effect_text": "Flächenangriff",
+        "simple_desc": "Fügt allen Gegnern Hochgefühl-SCH vom Typ Quanten zu. Fügt außerdem einem zufälligen Gegner geringen Hochgefühl-SCH vom Typ Quanten zu, der insgesamt 10-mal abprallt.",
+        "desc": "Fügt allen Gegnern #1[i]% Hochgefühl-SCH vom Typ Quanten zu und verursacht zusätzlich #2[i]-mal SCH, wobei jedes Mal einem zufälligen Gegner #3[f1]% Hochgefühl-SCH vom Typ Quanten zugefügt wird.",
+        "params": [
+            [0.3, 10, 0.09],
+            [0.33, 10, 0.099],
+            [0.36, 10, 0.108],
+            [0.39, 10, 0.117],
+            [0.42, 10, 0.126],
+            [0.45, 10, 0.135],
+            [0.4875, 10, 0.1462],
+            [0.525, 10, 0.1575],
+            [0.5625, 10, 0.1688],
+            [0.6, 10, 0.18],
+            [0.63, 10, 0.189],
+            [0.66, 10, 0.198],
+            [0.69, 10, 0.207],
+            [0.72, 10, 0.216],
+            [0.75, 10, 0.225]
+        ],
+        "icon": "icon/skill/1513_elation.png"
+    },
+    "151321": {
+        "id": "151321",
+        "name": "All in! Auf einen heißen Sommer",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "ElationDamage",
+        "type_text": "Fähigkeit des Hochgefühls",
+        "effect": "AoEAttack",
+        "effect_text": "Flächenangriff",
+        "simple_desc": "Fügt allen Gegnern Hochgefühl-SCH vom Typ Quanten zu. Fügt außerdem einem zufälligen Gegner geringen Hochgefühl-SCH vom Typ Quanten zu, der insgesamt 10-mal abprallt. Gleichzeitig wird die gesamte „Inbrunst“ verbraucht. Für jeden verbrauchten Punkt Inbrunst wird einem zufälligen Gegner 1-mal geringer Hochgefühl-SCH vom Typ Quanten zugefügt.",
+        "desc": "Fügt allen Gegnern #1[i]% Hochgefühl-SCH vom Typ Quanten zu und verursacht zusätzlich #3[i]-mal SCH, wobei jedes Mal einem zufälligen Gegner #4[f1]% Hochgefühl-SCH vom Typ Quanten zugefügt wird. Beim Einsatz wird die gesamte „Inbrunst“ verbraucht. Jeder verbrauchte Punkt Inbrunst fügt einem zufälligen Gegner zusätzlich 1-mal #2[f1]% Hochgefühl-SCH vom Typ Quanten zu.",
+        "params": [
+            [0.3, 0.105, 10, 0.09],
+            [0.33, 0.1155, 10, 0.099],
+            [0.36, 0.126, 10, 0.108],
+            [0.39, 0.1365, 10, 0.117],
+            [0.42, 0.147, 10, 0.126],
+            [0.45, 0.1575, 10, 0.135],
+            [0.4875, 0.1706, 10, 0.1462],
+            [0.525, 0.1837, 10, 0.1575],
+            [0.5625, 0.1969, 10, 0.1688],
+            [0.6, 0.21, 10, 0.18],
+            [0.63, 0.2205, 10, 0.189],
+            [0.66, 0.231, 10, 0.198],
+            [0.69, 0.2415, 10, 0.207],
+            [0.72, 0.252, 10, 0.216],
+            [0.75, 0.2625, 10, 0.225]
+        ],
+        "icon": "icon/skill/1513_elation02.png"
     },
     "800101": {
         "id": "800101",
@@ -13640,7 +14720,7 @@
             [5.1],
             [5.25]
         ],
-        "icon": "icon/skill/8001_ultimate.png"
+        "icon": "icon/skill/8001_basic_atk2.png"
     },
     "800109": {
         "id": "800109",
@@ -13670,7 +14750,7 @@
             [3.06, 1.836],
             [3.15, 1.89]
         ],
-        "icon": "icon/skill/8001_ultimate.png"
+        "icon": "icon/skill/8001_skill2.png"
     },
     "800201": {
         "id": "800201",
@@ -13845,7 +14925,7 @@
             [5.1],
             [5.25]
         ],
-        "icon": "icon/skill/8002_ultimate.png"
+        "icon": "icon/skill/8002_basic_atk2.png"
     },
     "800209": {
         "id": "800209",
@@ -13875,7 +14955,7 @@
             [3.06, 1.836],
             [3.15, 1.89]
         ],
-        "icon": "icon/skill/8002_ultimate.png"
+        "icon": "icon/skill/8002_skill2.png"
     },
     "800301": {
         "id": "800301",
@@ -14045,7 +15125,7 @@
             [1.6875, 0.675],
             [1.8, 0.72]
         ],
-        "icon": "icon/skill/8003_basic_atk.png"
+        "icon": "icon/skill/8003_basic_atk2.png"
     },
     "800401": {
         "id": "800401",
@@ -14215,7 +15295,7 @@
             [1.6875, 0.675],
             [1.8, 0.72]
         ],
-        "icon": "icon/skill/8004_basic_atk.png"
+        "icon": "icon/skill/8004_basic_atk2.png"
     },
     "800501": {
         "id": "800501",
@@ -14675,7 +15755,7 @@
             [1.56, 1.56, 0.1],
             [1.68, 1.68, 0.1]
         ],
-        "icon": "icon/skill/8007_basic_atk.png"
+        "icon": "icon/skill/8007_basic_atk2.png"
     },
     "800709": {
         "id": "800709",
@@ -14859,7 +15939,7 @@
             [1.56, 1.56, 0.1],
             [1.68, 1.68, 0.1]
         ],
-        "icon": "icon/skill/8008_basic_atk.png"
+        "icon": "icon/skill/8008_basic_atk2.png"
     },
     "800809": {
         "id": "800809",
@@ -15002,7 +16082,7 @@
         "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "params": [],
-        "icon": "icon/skill/8009_basic_atk.png"
+        "icon": "icon/skill/8009_technique2.png"
     },
     "800907": {
         "id": "800907",
@@ -15048,7 +16128,7 @@
             [8, 0.24, 0.72],
             [8, 0.25, 0.75]
         ],
-        "icon": null
+        "icon": "icon/skill/8009_elation.png"
     },
     "801001": {
         "id": "801001",
@@ -15177,7 +16257,7 @@
         "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "params": [],
-        "icon": "icon/skill/8010_basic_atk.png"
+        "icon": "icon/skill/8010_technique2.png"
     },
     "801007": {
         "id": "801007",
@@ -15223,7 +16303,7 @@
             [8, 0.24, 0.72],
             [8, 0.25, 0.75]
         ],
-        "icon": null
+        "icon": "icon/skill/8010_elation.png"
     },
     "1100401": {
         "id": "1100401",
@@ -15248,7 +16328,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1004_basic_atk.png"
+        "icon": "icon/skill/11004_basic_atk.png"
     },
     "1100402": {
         "id": "1100402",
@@ -15278,7 +16358,7 @@
             [0.864, 0.79, 0.1, 2],
             [0.9, 0.8, 0.1, 2]
         ],
-        "icon": "icon/skill/1004_skill.png"
+        "icon": "icon/skill/11004_skill.png"
     },
     "1100403": {
         "id": "1100403",
@@ -15308,7 +16388,7 @@
             [1.74, 0.144, 1, 0.1, 0.04, 8, 2],
             [1.8, 0.15, 1, 0.1, 0.04, 8, 2]
         ],
-        "icon": "icon/skill/1004_ultimate.png"
+        "icon": "icon/skill/11004_ultimate.png"
     },
     "1100404": {
         "id": "1100404",
@@ -15338,7 +16418,7 @@
             [1.2, 0.4, 0.05],
             [1.25, 0.4, 0.05]
         ],
-        "icon": "icon/skill/1004_talent.png"
+        "icon": "icon/skill/11004_talent.png"
     },
     "1100406": {
         "id": "1100406",
@@ -15352,7 +16432,7 @@
         "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "params": [],
-        "icon": "icon/skill/1004_basic_atk.png"
+        "icon": "icon/skill/11004_basic_atk.png"
     },
     "1100407": {
         "id": "1100407",
@@ -15368,7 +16448,7 @@
         "params": [
             [1, 0.2, 0.1, 15, 0.5]
         ],
-        "icon": "icon/skill/1004_technique.png"
+        "icon": "icon/skill/11004_technique.png"
     },
     "1100501": {
         "id": "1100501",
@@ -15393,7 +16473,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1005_basic_atk.png"
+        "icon": "icon/skill/11005_basic_atk.png"
     },
     "1100502": {
         "id": "1100502",
@@ -15423,7 +16503,7 @@
             [1.92, 0.81, 0.72, 0.54],
             [2, 0.825, 0.75, 0.55]
         ],
-        "icon": "icon/skill/1005_skill.png"
+        "icon": "icon/skill/11005_skill.png"
     },
     "1100503": {
         "id": "1100503",
@@ -15453,7 +16533,7 @@
             [0.928, 1, 2, 3.4655, 1.28],
             [0.96, 1, 2, 3.6069, 1.3]
         ],
-        "icon": "icon/skill/1005_ultimate.png"
+        "icon": "icon/skill/11005_ultimate.png"
     },
     "1100504": {
         "id": "1100504",
@@ -15483,7 +16563,7 @@
             [1.792, 1, 2, 1, 2],
             [1.89, 1, 2, 1, 2]
         ],
-        "icon": "icon/skill/1005_talent.png"
+        "icon": "icon/skill/11005_talent.png"
     },
     "1100506": {
         "id": "1100506",
@@ -15497,7 +16577,7 @@
         "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "params": [],
-        "icon": "icon/skill/1005_basic_atk.png"
+        "icon": "icon/skill/11005_basic_atk.png"
     },
     "1100507": {
         "id": "1100507",
@@ -15513,7 +16593,7 @@
         "params": [
             [1, 2, 0.5]
         ],
-        "icon": "icon/skill/1005_technique.png"
+        "icon": "icon/skill/11005_technique.png"
     },
     "1100601": {
         "id": "1100601",
@@ -15538,7 +16618,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1006_basic_atk.png"
+        "icon": "icon/skill/11006_basic_atk.png"
     },
     "1100602": {
         "id": "1100602",
@@ -15568,7 +16648,7 @@
             [2.352, 1.36, 3, 0.2, 1, 0.14, 2],
             [2.45, 1.4, 3, 0.2, 1, 0.1425, 2]
         ],
-        "icon": "icon/skill/1006_skill.png"
+        "icon": "icon/skill/11006_skill.png"
     },
     "1100603": {
         "id": "1100603",
@@ -15598,7 +16678,7 @@
             [4.408, 1.36, 0.486, 3],
             [4.56, 1.4, 0.495, 3]
         ],
-        "icon": "icon/skill/1006_ultimate.png"
+        "icon": "icon/skill/11006_ultimate.png"
     },
     "1100604": {
         "id": "1100604",
@@ -15628,7 +16708,7 @@
             [0.12, 0.144, 0.072, 1.16, 3],
             [0.125, 0.15, 0.075, 1.2, 3]
         ],
-        "icon": "icon/skill/1006_talent.png"
+        "icon": "icon/skill/11006_talent.png"
     },
     "1100606": {
         "id": "1100606",
@@ -15642,7 +16722,7 @@
         "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "params": [],
-        "icon": "icon/skill/1006_basic_atk.png"
+        "icon": "icon/skill/11006_basic_atk.png"
     },
     "1100607": {
         "id": "1100607",
@@ -15658,7 +16738,7 @@
         "params": [
             [0.8]
         ],
-        "icon": "icon/skill/1006_technique.png"
+        "icon": "icon/skill/11006_technique.png"
     },
     "1110201": {
         "id": "1110201",
@@ -15683,7 +16763,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1102_basic_atk.png"
+        "icon": "icon/skill/11102_basic_atk.png"
     },
     "1110202": {
         "id": "1110202",
@@ -15713,7 +16793,7 @@
             [4.32, 0.25, 3, 0.5],
             [4.5, 0.25, 3, 0.5]
         ],
-        "icon": "icon/skill/1102_skill.png"
+        "icon": "icon/skill/11102_skill.png"
     },
     "1110203": {
         "id": "1110203",
@@ -15743,7 +16823,7 @@
             [8.64],
             [9]
         ],
-        "icon": "icon/skill/1102_ultimate.png"
+        "icon": "icon/skill/11102_ultimate.png"
     },
     "1110204": {
         "id": "1110204",
@@ -15773,7 +16853,7 @@
             [0.96, 3],
             [1, 3]
         ],
-        "icon": "icon/skill/1102_talent.png"
+        "icon": "icon/skill/11102_talent.png"
     },
     "1110206": {
         "id": "1110206",
@@ -15787,7 +16867,7 @@
         "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "params": [],
-        "icon": "icon/skill/1102_basic_atk.png"
+        "icon": "icon/skill/11102_basic_atk.png"
     },
     "1110207": {
         "id": "1110207",
@@ -15803,7 +16883,7 @@
         "params": [
             [20]
         ],
-        "icon": "icon/skill/1102_technique.png"
+        "icon": "icon/skill/11102_technique.png"
     },
     "1120501": {
         "id": "1120501",
@@ -15828,7 +16908,7 @@
             [0.65],
             [0.7]
         ],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/11205_basic_atk.png"
     },
     "1120502": {
         "id": "1120502",
@@ -15858,7 +16938,7 @@
             [0.3, 3, 1, 0.512, 10],
             [0.3, 3, 1, 0.54, 10]
         ],
-        "icon": "icon/skill/1205_skill.png"
+        "icon": "icon/skill/11205_skill.png"
     },
     "1120503": {
         "id": "1120503",
@@ -15888,7 +16968,7 @@
             [1.74, 1.16, 0.696, 0.58, 1.392, 0.696, 0.9],
             [1.8, 1.2, 0.72, 0.6, 1.44, 0.72, 0.9]
         ],
-        "icon": "icon/skill/1205_ultimate.png"
+        "icon": "icon/skill/11205_ultimate.png"
     },
     "1120504": {
         "id": "1120504",
@@ -15918,7 +16998,7 @@
             [3, 1.56, 0.25, 1.56],
             [3, 1.625, 0.25, 1.625]
         ],
-        "icon": "icon/skill/1205_talent.png"
+        "icon": "icon/skill/11205_talent.png"
     },
     "1120506": {
         "id": "1120506",
@@ -15932,7 +17012,7 @@
         "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "params": [],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/11205_basic_atk.png"
     },
     "1120507": {
         "id": "1120507",
@@ -15948,7 +17028,7 @@
         "params": [
             [0.4, 0.2]
         ],
-        "icon": "icon/skill/1205_technique.png"
+        "icon": "icon/skill/11205_technique.png"
     },
     "1120508": {
         "id": "1120508",
@@ -15973,7 +17053,7 @@
             [0.1, 1.69, 0.676, 1.69, 0.52],
             [0.1, 1.82, 0.728, 1.82, 0.56]
         ],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/11205_basic_atk2.png"
     },
     "1121201": {
         "id": "1121201",
@@ -15998,7 +17078,7 @@
             [0.65],
             [0.7]
         ],
-        "icon": "icon/skill/1212_basic_atk.png"
+        "icon": "icon/skill/11212_basic_atk.png"
     },
     "1121202": {
         "id": "1121202",
@@ -16028,7 +17108,7 @@
             [1.8, 1],
             [1.875, 1]
         ],
-        "icon": "icon/skill/1212_skill.png"
+        "icon": "icon/skill/11212_skill.png"
     },
     "1121203": {
         "id": "1121203",
@@ -16058,7 +17138,7 @@
             [2.16, 1, 1.08, 1],
             [2.25, 1, 1.125, 1]
         ],
-        "icon": "icon/skill/1212_ultimate.png"
+        "icon": "icon/skill/11212_ultimate.png"
     },
     "1121204": {
         "id": "1121204",
@@ -16088,7 +17168,7 @@
             [0.3, 0.05, 0.528, 5, 2, 1, 0.54, 20],
             [0.3, 0.05, 0.55, 5, 2, 1, 0.55, 20]
         ],
-        "icon": "icon/skill/1212_talent.png"
+        "icon": "icon/skill/11212_talent.png"
     },
     "1121206": {
         "id": "1121206",
@@ -16102,7 +17182,7 @@
         "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "params": [],
-        "icon": "icon/skill/1212_basic_atk.png"
+        "icon": "icon/skill/11212_basic_atk.png"
     },
     "1121207": {
         "id": "1121207",
@@ -16118,7 +17198,7 @@
         "params": [
             [1, 1, 20, 1, 0.8, 15]
         ],
-        "icon": "icon/skill/1212_technique.png"
+        "icon": "icon/skill/11212_technique.png"
     },
     "1121209": {
         "id": "1121209",
@@ -16148,7 +17228,7 @@
             [1.8, 1, 0.9],
             [1.875, 1, 0.9375]
         ],
-        "icon": "icon/skill/1212_skill.png"
+        "icon": "icon/skill/11212_skill2.png"
     },
     "1121701": {
         "id": "1121701",
@@ -16173,7 +17253,7 @@
             [0.65],
             [0.7]
         ],
-        "icon": "icon/skill/1217_basic_atk.png"
+        "icon": "icon/skill/11217_basic_atk.png"
     },
     "1121702": {
         "id": "1121702",
@@ -16203,7 +17283,7 @@
             [0.272, 784, 0.2176, 627.2, 1],
             [0.28, 820, 0.224, 656, 1]
         ],
-        "icon": "icon/skill/1217_skill.png"
+        "icon": "icon/skill/11217_skill.png"
     },
     "1121703": {
         "id": "1121703",
@@ -16233,7 +17313,7 @@
             [0.22, 0.464, 2],
             [0.225, 0.48, 2]
         ],
-        "icon": "icon/skill/1217_ultimate.png"
+        "icon": "icon/skill/11217_ultimate.png"
     },
     "1121704": {
         "id": "1121704",
@@ -16263,7 +17343,7 @@
             [3, 1, 0.051, 0, 147, 0.5, 6],
             [3, 1, 0.0525, 0, 153.75, 0.5, 6]
         ],
-        "icon": "icon/skill/1217_talent.png"
+        "icon": "icon/skill/11217_talent.png"
     },
     "1121706": {
         "id": "1121706",
@@ -16277,7 +17357,7 @@
         "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "params": [],
-        "icon": "icon/skill/1217_basic_atk.png"
+        "icon": "icon/skill/11217_basic_atk.png"
     },
     "1121707": {
         "id": "1121707",
@@ -16293,7 +17373,7 @@
         "params": [
             [1, 0.25, 2, 10]
         ],
-        "icon": "icon/skill/1217_technique.png"
+        "icon": "icon/skill/11217_technique.png"
     },
     "1130601": {
         "id": "1130601",
@@ -16318,7 +17398,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1306_basic_atk.png"
+        "icon": "icon/skill/11306_basic_atk.png"
     },
     "1130602": {
         "id": "1130602",
@@ -16348,7 +17428,7 @@
             [0.288, 0.522, 2, 0.5],
             [0.3, 0.54, 2, 0.5]
         ],
-        "icon": "icon/skill/1306_skill.png"
+        "icon": "icon/skill/11306_skill.png"
     },
     "1130603": {
         "id": "1130603",
@@ -16378,7 +17458,7 @@
             [2, 6, 0.0696, 3, 10],
             [2, 6, 0.072, 3, 10]
         ],
-        "icon": "icon/skill/1306_ultimate.png"
+        "icon": "icon/skill/11306_ultimate.png"
     },
     "1130604": {
         "id": "1130604",
@@ -16408,7 +17488,7 @@
             [2, 0.048, 2, 3],
             [2, 0.05, 2, 3]
         ],
-        "icon": "icon/skill/1306_talent.png"
+        "icon": "icon/skill/11306_talent.png"
     },
     "1130606": {
         "id": "1130606",
@@ -16422,7 +17502,7 @@
         "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "params": [],
-        "icon": "icon/skill/1306_basic_atk.png"
+        "icon": "icon/skill/11306_basic_atk.png"
     },
     "1130607": {
         "id": "1130607",
@@ -16438,7 +17518,7 @@
         "params": [
             [3, 20]
         ],
-        "icon": "icon/skill/1306_technique.png"
+        "icon": "icon/skill/11306_technique.png"
     },
     "1130701": {
         "id": "1130701",
@@ -16463,7 +17543,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1307_basic_atk.png"
+        "icon": "icon/skill/11307_basic_atk.png"
     },
     "1130702": {
         "id": "1130702",
@@ -16493,7 +17573,7 @@
             [1.08, 3, 1, 0.232],
             [1.125, 3, 1, 0.238]
         ],
-        "icon": "icon/skill/1307_skill.png"
+        "icon": "icon/skill/11307_skill.png"
     },
     "1130703": {
         "id": "1130703",
@@ -16523,7 +17603,7 @@
             [1.392, 2, 0.29, 0.5],
             [1.44, 2, 0.3, 0.5]
         ],
-        "icon": "icon/skill/1307_ultimate.png"
+        "icon": "icon/skill/11307_ultimate.png"
     },
     "1130704": {
         "id": "1130704",
@@ -16553,7 +17633,7 @@
             [2.88, 0.71, 0.144, 0.144, 2.16, 0, 0.2, 50],
             [3, 0.725, 0.15, 0.15, 2.25, 0, 0.2, 50]
         ],
-        "icon": "icon/skill/1307_talent.png"
+        "icon": "icon/skill/11307_talent.png"
     },
     "1130706": {
         "id": "1130706",
@@ -16567,7 +17647,7 @@
         "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "params": [],
-        "icon": "icon/skill/1307_basic_atk.png"
+        "icon": "icon/skill/11307_basic_atk.png"
     },
     "1130707": {
         "id": "1130707",
@@ -16583,7 +17663,7 @@
         "params": [
             [1.5, 0.5]
         ],
-        "icon": "icon/skill/1307_technique.png"
+        "icon": "icon/skill/11307_technique.png"
     },
     "1131001": {
         "id": "1131001",
@@ -16608,7 +17688,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/11310_basic_atk.png"
     },
     "1131002": {
         "id": "1131002",
@@ -16638,7 +17718,7 @@
             [2.4, 0.4, 0.64, 0.25],
             [2.5, 0.4, 0.65, 0.25]
         ],
-        "icon": "icon/skill/1310_skill.png"
+        "icon": "icon/skill/11310_skill.png"
     },
     "1131003": {
         "id": "1131003",
@@ -16668,7 +17748,7 @@
             [0.24, 0.5, 72, 70],
             [0.25, 0.5, 75, 70]
         ],
-        "icon": "icon/skill/1310_ultimate.png"
+        "icon": "icon/skill/11310_ultimate.png"
     },
     "1131004": {
         "id": "1131004",
@@ -16698,7 +17778,7 @@
             [0.48, 0.5, 0.2, 0.38],
             [0.5, 0.5, 0.2, 0.4]
         ],
-        "icon": "icon/skill/1310_talent.png"
+        "icon": "icon/skill/11310_talent.png"
     },
     "1131006": {
         "id": "1131006",
@@ -16712,7 +17792,7 @@
         "simple_desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "desc": "Greift den Gegner an und reduziert nach Kampfeintritt den WDS des Ziels gegen den entsprechenden Typ.",
         "params": [],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/11310_basic_atk2.png"
     },
     "1131007": {
         "id": "1131007",
@@ -16728,7 +17808,7 @@
         "params": [
             [5, 2, 2]
         ],
-        "icon": "icon/skill/1310_technique.png"
+        "icon": "icon/skill/11310_technique.png"
     },
     "1131008": {
         "id": "1131008",
@@ -16753,7 +17833,7 @@
             [2.6, 0.2],
             [2.8, 0.2]
         ],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/11310_basic_atk2.png"
     },
     "1131009": {
         "id": "1131009",
@@ -16783,7 +17863,7 @@
             [2.4, 1.2, 0, 0, 0.2, 0.1, 3.6, 0],
             [2.5, 1.25, 0, 0, 0.2, 0.1, 3.6, 0]
         ],
-        "icon": "icon/skill/1310_skill.png"
+        "icon": "icon/skill/11310_skill2.png"
     },
     "1140201": {
         "id": "1140201",
@@ -16808,7 +17888,7 @@
             [1.43, 0.858, 1],
             [1.54, 0.924, 1]
         ],
-        "icon": "icon/skill/1402_memosprite_skill.png"
+        "icon": "icon/skill/1402_memosprite_skill1.png"
     },
     "1140203": {
         "id": "1140203",
@@ -16908,7 +17988,7 @@
             [0.52],
             [0.56]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill1.png"
     },
     "1140702": {
         "id": "1140702",
@@ -16933,7 +18013,7 @@
             [0.25, 0.312, 0.364, 0.442, 0.25],
             [0.25, 0.336, 0.392, 0.476, 0.25]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill2.png"
     },
     "1140703": {
         "id": "1140703",
@@ -17008,7 +18088,7 @@
             [0.52, 6, 0.078, 1040],
             [0.56, 6, 0.084, 1120]
         ],
-        "icon": "icon/skill/1407_memosprite_talent.png"
+        "icon": "icon/skill/1407_memosprite_skill4.png"
     },
     "1140710": {
         "id": "1140710",
@@ -17033,7 +18113,7 @@
             [0.25],
             [0.25]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill2.png"
     },
     "1140711": {
         "id": "1140711",
@@ -17058,7 +18138,7 @@
             [0.25],
             [0.25]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill2.png"
     },
     "1140712": {
         "id": "1140712",
@@ -17083,7 +18163,7 @@
             [0.52, 6, 0.078, 1040],
             [0.56, 6, 0.084, 1120]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill4.png"
     },
     "1140901": {
         "id": "1140901",
@@ -17297,7 +18377,7 @@
             [0.156, 0.078, 16],
             [0.168, 0.084, 16]
         ],
-        "icon": "icon/skill/1413_memosprite_skill.png"
+        "icon": "icon/skill/1413_memosprite_skill2.png"
     },
     "1141501": {
         "id": "1141501",
@@ -17322,7 +18402,7 @@
             [0.78, 12],
             [0.84, 12]
         ],
-        "icon": "icon/skill/1415_memosprite_skill.png"
+        "icon": "icon/skill/1415_memosprite_skill2.png"
     },
     "1141502": {
         "id": "1141502",
@@ -17738,6 +18818,106 @@
         ],
         "icon": "icon/skill/1415_memosprite_skill.png"
     },
+    "1151201": {
+        "id": "1151201",
+        "name": "Piep-Quartett",
+        "max_level": 10,
+        "element": "Wind",
+        "type": "MemospriteSkill",
+        "type_text": "Technik von Memogeist",
+        "effect": "AoEAttack",
+        "effect_text": "Flächenangriff",
+        "simple_desc": "Fügt allen Gegnern massiven Wind-SCH zu.",
+        "desc": "Fügt allen Gegnern Wind-SCH in Höhe von #2[f1]% der max. LP der Sommer-Singvögel zu.",
+        "params": [
+            [0, 0.75],
+            [0, 0.9],
+            [0, 1.05],
+            [0, 1.2],
+            [0, 1.35],
+            [0, 1.5],
+            [0, 1.65],
+            [0, 1.8],
+            [0, 1.95],
+            [0, 2.1]
+        ],
+        "icon": "icon/skill/1512_memosprite_skill.png"
+    },
+    "1151203": {
+        "id": "1151203",
+        "name": "Freudig flatternde Harmonie",
+        "max_level": 10,
+        "element": "",
+        "type": "MemospriteTalent",
+        "type_text": "Talent von Memogeist",
+        "effect": "Support",
+        "effect_text": "Unterstützung",
+        "simple_desc": "Im Status „Fever“ wird der verursachte SCH von Robin – Summeretto und dieser Einheit erhöht. Zu Beginn der Runde der „Sommer-Singvögel“ wird die Memogeist-Technik eingesetzt. Wenn die Vibes 0 betragen, verschwinden die Sommer-Singvögel und Robin – Summeretto beendet den Status Fever. Befinden sich Sommer-Singvögel auf dem Kampffeld, wird der von allen Gegnern erlittene SCH basierend auf der Anzahl der Mitglieder erhöht.",
+        "desc": "Im Status „Fever“ erscheinen die Sommer-Singvögel und ein Countdown auf der Aktionsreihenfolge. Der verursachte SCH von Robin – Summeretto und dieser Einheit wird um (#1[i]% + Vibes × #2[f1]%) erhöht. Zu Beginn der Runde der Sommer-Singvögel wird die Memogeist-Technik eingesetzt. Die anfängliche GES des Countdowns beträgt #9[i]. Zu Beginn der Runde werden #10[i]% der aktuellen Vibes abgezogen, mindestens jedoch #6[i] Pkt. Wenn die Vibes 0 betragen, verschwinden die Sommer-Singvögel und Robin – Summeretto beendet den Status Fever. Befinden sich Sommer-Singvögel auf dem Kampffeld, wird der von allen Gegnern erlittene SCH je nach Anzahl der Mitglieder um #3[f1]%/#4[f1]%/#5[f1]% erhöht.",
+        "params": [
+            [0.3, 0.01, 0.04, 0.06, 0.08, 12, 0, 0, 140, 0.5],
+            [0.36, 0.012, 0.048, 0.072, 0.096, 12, 0, 0, 140, 0.5],
+            [0.42, 0.014, 0.056, 0.084, 0.112, 12, 0, 0, 140, 0.5],
+            [0.48, 0.016, 0.064, 0.096, 0.128, 12, 0, 0, 140, 0.5],
+            [0.54, 0.018, 0.072, 0.108, 0.144, 12, 0, 0, 140, 0.5],
+            [0.6, 0.02, 0.08, 0.12, 0.16, 12, 0, 0, 140, 0.5],
+            [0.66, 0.022, 0.088, 0.132, 0.176, 12, 0, 0, 140, 0.5],
+            [0.72, 0.024, 0.096, 0.144, 0.192, 12, 0, 0, 140, 0.5],
+            [0.78, 0.026, 0.104, 0.156, 0.208, 12, 0, 0, 140, 0.5],
+            [0.84, 0.028, 0.112, 0.168, 0.224, 12, 0, 0, 140, 0.5]
+        ],
+        "icon": "icon/skill/1512_memosprite_talent.png"
+    },
+    "1151205": {
+        "id": "1151205",
+        "name": "Am Herzschlag des Meeres",
+        "max_level": 10,
+        "element": "",
+        "type": "MemospriteTalent",
+        "type_text": "Talent von Memogeist",
+        "effect": "Support",
+        "effect_text": "Unterstützung",
+        "simple_desc": "Stellt bei der Beschwörung Energie für Robin – Summeretto wieder her.",
+        "desc": "Stellt #1[i] Energie für Robin – Summeretto wieder her, wenn Sommer-Singvögel beschworen werden.",
+        "params": [
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20]
+        ],
+        "icon": "icon/skill/1512_memosprite_talent.png"
+    },
+    "1151206": {
+        "id": "1151206",
+        "name": "Ritt auf dem Sommernachtswind",
+        "max_level": 10,
+        "element": "",
+        "type": "MemospriteTalent",
+        "type_text": "Talent von Memogeist",
+        "effect": "Support",
+        "effect_text": "Unterstützung",
+        "simple_desc": "Gewährt Robin – Summeretto beim Verschwinden einen Aktionsvorzug.",
+        "desc": "Wenn die Sommer-Singvögel verschwinden, erhält Robin – Summeretto einen Aktionsvorzug von #1[i]%.",
+        "params": [
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5]
+        ],
+        "icon": "icon/skill/1512_memosprite_talent.png"
+    },
     "1800701": {
         "id": "1800701",
         "name": "Bösewichte! Ärger!",
@@ -17761,7 +18941,7 @@
             [0.468, 4, 1.17],
             [0.504, 4, 1.26]
         ],
-        "icon": "icon/skill/8007_memosprite_skill.png"
+        "icon": "icon/skill/8007_memosprite_skill1.png"
     },
     "1800703": {
         "id": "1800703",
@@ -17861,6 +19041,6 @@
             [0.34, 3, 1],
             [0.36, 3, 1]
         ],
-        "icon": "icon/skill/8007_memosprite_skill.png"
+        "icon": "icon/skill/8007_memosprite_skill2.png"
     }
 }

@@ -481,12 +481,7 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/281.png",
-        "come_from": [
-            "星魂が上限に達した★5キャラクターを新たに2回獲得すると交換可能",
-            "星魂が上限に達した★5キャラクターを新たに2回獲得すると交換可能",
-            "千星、旅は道づれ",
-            "千星、旅は道づれ（今期は受取済み）"
-        ]
+        "come_from": ["星魂が上限に達した★5キャラクターを新たに2回獲得すると交換可能", "星魂が上限に達した★5キャラクターを新たに2回獲得すると交換可能"]
     },
     "282": {
         "id": "282",
@@ -1310,6 +1305,51 @@
     "11507": {
         "id": "11507",
         "name": "「千冶・刃」の星魂",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11508": {
+        "id": "11508",
+        "name": "「遠坂凛」の星魂",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11509": {
+        "id": "11509",
+        "name": "「ギルガメッシュ」の星魂",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11510": {
+        "id": "11510",
+        "name": "「姫子・旅立ち」の星魂",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11512": {
+        "id": "11512",
+        "name": "「ロビン・夏空の歌」の星魂",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11513": {
+        "id": "11513",
+        "name": "「アベンチュリン・波と戯れる夏」の星魂",
         "type": "Material",
         "sub_type": "Eidolon",
         "rarity": 5,
@@ -3680,6 +3720,78 @@
         "icon": "icon/item/71055.png",
         "come_from": ["「階差宇宙」オーナメント抽出", "「万能合成マシン」- 遺物合成"]
     },
+    "83271": {
+        "id": "83271",
+        "name": "墜星の出航地",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71058.png",
+        "come_from": []
+    },
+    "83272": {
+        "id": "83272",
+        "name": "墜星の出航地",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71058.png",
+        "come_from": []
+    },
+    "83273": {
+        "id": "83273",
+        "name": "墜星の出航地",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71058.png",
+        "come_from": []
+    },
+    "83274": {
+        "id": "83274",
+        "name": "墜星の出航地",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71058.png",
+        "come_from": ["「階差宇宙」オーナメント抽出", "「万能合成マシン」- 遺物合成"]
+    },
+    "83281": {
+        "id": "83281",
+        "name": "宇宙生命科学研究院",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71059.png",
+        "come_from": []
+    },
+    "83282": {
+        "id": "83282",
+        "name": "宇宙生命科学研究院",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71059.png",
+        "come_from": []
+    },
+    "83283": {
+        "id": "83283",
+        "name": "宇宙生命科学研究院",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71059.png",
+        "come_from": []
+    },
+    "83284": {
+        "id": "83284",
+        "name": "宇宙生命科学研究院",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71059.png",
+        "come_from": ["「階差宇宙」オーナメント抽出", "「万能合成マシン」- 遺物合成"]
+    },
     "89001": {
         "id": "89001",
         "name": "次元界オーナメント",
@@ -4660,6 +4772,17 @@
             "歴戦余韻「「{RUBY_B#ほうむ}葬{RUBY_E#}られし{RUBY_B#きおく}記憶{RUBY_E#}の{RUBY_B#ひがん}彼岸{RUBY_E#}」{RUBY_B#とき}時{RUBY_E#}の{RUBY_B#は}果{RUBY_E#}て」"
         ]
     },
+    "110509": {
+        "id": "110509",
+        "name": "似非覚者の期待",
+        "type": "Material",
+        "sub_type": "WeeklyMonsterDrop",
+        "rarity": 4,
+        "icon": "icon/item/110509.png",
+        "come_from": [
+            "歴戦余韻「{RUBY_B#けものもてな}獣饗{RUBY_E#}す{RUBY_B#じゃくめつ}寂滅{RUBY_E#}の{RUBY_B#ようと}妖都{RUBY_E#}」"
+        ]
+    },
     "110610": {
         "id": "110610",
         "name": "軌跡の涙",
@@ -5262,7 +5385,7 @@
         "sub_type": "Material",
         "rarity": 3,
         "icon": "icon/item/120006.png",
-        "come_from": ["「二相楽園」での探索で獲得", "開拓クエストで獲得", "冒険クエストで獲得"]
+        "come_from": ["「二相楽園」での探索で獲得", "開拓クエストで獲得", "冒険クエストで獲得", "「千星シティ」での探索で獲得"]
     },
     "121000": {
         "id": "121000",
@@ -5336,6 +5459,15 @@
         "icon": "icon/item/121007.png",
         "come_from": []
     },
+    "121008": {
+        "id": "121008",
+        "name": "祭典の礼砲シャンパン",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 4,
+        "icon": "icon/item/121008.png",
+        "come_from": []
+    },
     "122000": {
         "id": "122000",
         "name": "エディオンコイン",
@@ -5370,6 +5502,15 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/295534.png",
+        "come_from": []
+    },
+    "122004": {
+        "id": "122004",
+        "name": "異相の仲裁の期間限定勲章",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/295536.png",
         "come_from": []
     },
     "123000": {
@@ -10140,6 +10281,204 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/190016.png",
+        "come_from": []
+    },
+    "140613": {
+        "id": "140613",
+        "name": "絵本『ほしのうみへ』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140614": {
+        "id": "140614",
+        "name": "絵本『ほしのうみへ』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140615": {
+        "id": "140615",
+        "name": "聖杯戦争とは一切関係のないゲームディスク",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/1054406.png",
+        "come_from": []
+    },
+    "140616": {
+        "id": "140616",
+        "name": "絵本『ほしのうみへ』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140617": {
+        "id": "140617",
+        "name": "絵本『ほしのうみへ』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140618": {
+        "id": "140618",
+        "name": "絵本『ほしのうみへ』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140619": {
+        "id": "140619",
+        "name": "絵本『ほしのうみへ』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140620": {
+        "id": "140620",
+        "name": "絵本『ほしのうみへ』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140621": {
+        "id": "140621",
+        "name": "絵本『ほしのうみへ』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140622": {
+        "id": "140622",
+        "name": "絵本『ほしのうみへ』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140623": {
+        "id": "140623",
+        "name": "絵本『ほしのうみへ』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140624": {
+        "id": "140624",
+        "name": "絵本『ほしのうみへ』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140625": {
+        "id": "140625",
+        "name": "絵本『ほしのうみへ』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140626": {
+        "id": "140626",
+        "name": "絵本『ほしのうみへ』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140627": {
+        "id": "140627",
+        "name": "絵本『ほしのうみへ』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140628": {
+        "id": "140628",
+        "name": "絵本『ほしのうみへ』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140629": {
+        "id": "140629",
+        "name": "絵本『ほしのうみへ』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140614.png",
+        "come_from": []
+    },
+    "140630": {
+        "id": "140630",
+        "name": "開拓の妖精の丸い足（右）",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140630.png",
+        "come_from": []
+    },
+    "140631": {
+        "id": "140631",
+        "name": "『ある街の秘密について』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140212.png",
+        "come_from": []
+    },
+    "140632": {
+        "id": "140632",
+        "name": "『ある街の秘密について』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140212.png",
+        "come_from": []
+    },
+    "140633": {
+        "id": "140633",
+        "name": "『ある街の秘密について』",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140212.png",
+        "come_from": []
+    },
+    "140634": {
+        "id": "140634",
+        "name": "スピードスター・総合優勝トロフィー",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/140634.png",
         "come_from": []
     },
     "149957": {
@@ -21021,6 +21360,627 @@
         "icon": "icon/item/190021.png",
         "come_from": []
     },
+    "192107": {
+        "id": "192107",
+        "name": "おやすみ、親愛なる雷龍",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192108": {
+        "id": "192108",
+        "name": "とある投機家の日記",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192109": {
+        "id": "192109",
+        "name": "緊急避難通知",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192110": {
+        "id": "192110",
+        "name": "終末ブログ",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192111": {
+        "id": "192111",
+        "name": "メカヨロイ自由宣言",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192113": {
+        "id": "192113",
+        "name": "タイガーでもわかる魔術小百科",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192114": {
+        "id": "192114",
+        "name": "タイガーでもわかる魔術小百科",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192115": {
+        "id": "192115",
+        "name": "浮脂紀事 断章",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192116": {
+        "id": "192116",
+        "name": "浮脂紀事 猿の章",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192117": {
+        "id": "192117",
+        "name": "浮脂紀事 兎の章",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192118": {
+        "id": "192118",
+        "name": "「人事課」調査報告",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192119": {
+        "id": "192119",
+        "name": "「無形資産課」調査報告",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192120": {
+        "id": "192120",
+        "name": "凛のメモ",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192121": {
+        "id": "192121",
+        "name": "姫子への手紙",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192122": {
+        "id": "192122",
+        "name": "購入リスト",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192123": {
+        "id": "192123",
+        "name": "ペガーナの星を拓く巨人復活計画",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192124": {
+        "id": "192124",
+        "name": "コーヒー開拓ノート",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192125": {
+        "id": "192125",
+        "name": "願力と共にあらんことを",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192126": {
+        "id": "192126",
+        "name": "千星を灯したのは誰か-在田編",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192127": {
+        "id": "192127",
+        "name": "新紀元の祝辞",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192128": {
+        "id": "192128",
+        "name": "羽毛と翼、そしてユーモアの必要性について",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192129": {
+        "id": "192129",
+        "name": "職級と権限：千星シティの社会ピラミッド",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192130": {
+        "id": "192130",
+        "name": "死後の就職契約",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192131": {
+        "id": "192131",
+        "name": "オークション予告状",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192132": {
+        "id": "192132",
+        "name": "千星シティギグワーク週刊",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192133": {
+        "id": "192133",
+        "name": "ブルーム島コミュニティガイド",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192134": {
+        "id": "192134",
+        "name": "主演調整のお知らせ",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192135": {
+        "id": "192135",
+        "name": "スーパースターの秘密レシピ",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192136": {
+        "id": "192136",
+        "name": "注目は15分では終わらない",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192137": {
+        "id": "192137",
+        "name": "散金雲観測ノート",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192138": {
+        "id": "192138",
+        "name": "重大違反に対する処罰",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192139": {
+        "id": "192139",
+        "name": "弔伶人の競合研究",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192140": {
+        "id": "192140",
+        "name": "アイデア先物レポート",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192141": {
+        "id": "192141",
+        "name": "ノーモンタワーでの1日",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192142": {
+        "id": "192142",
+        "name": "午後のソーシャルエチケット",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192143": {
+        "id": "192143",
+        "name": "社員の趣味コミュニティリスト（抜粋）",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192144": {
+        "id": "192144",
+        "name": "三月なのかでもわかるカンパニー部署構成ガイド",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192145": {
+        "id": "192145",
+        "name": "三月なのかでもわかるカンパニー部署構成ガイド",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192146": {
+        "id": "192146",
+        "name": "幽霊の福利厚生嘆願書",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190002.png",
+        "come_from": []
+    },
+    "192147": {
+        "id": "192147",
+        "name": "ボブが残した資料（A面）",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192148": {
+        "id": "192148",
+        "name": "ボブが残した資料（B面）",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192149": {
+        "id": "192149",
+        "name": "『神聖ウーウーボの冒険18 ウーウーボ・ウォーズ』のポスター",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192150": {
+        "id": "192150",
+        "name": "星槎運転免許証",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192151": {
+        "id": "192151",
+        "name": "「金を持ってはいけないチャレンジ」ビジネス提携契約",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192152": {
+        "id": "192152",
+        "name": "「金を持ってはいけないチャレンジ」ビジネス提携契約",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192153": {
+        "id": "192153",
+        "name": "アップサイド・ダウン・夏の珍味メニュー",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192154": {
+        "id": "192154",
+        "name": "千星生活ガイド（第314期）",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192155": {
+        "id": "192155",
+        "name": "ゴールの前に",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192156": {
+        "id": "192156",
+        "name": "意見箱データ分析",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192157": {
+        "id": "192157",
+        "name": "オオトリ厳選・プライベートコレクション出品リスト",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192158": {
+        "id": "192158",
+        "name": "キャラ設定付きIDカード「ニン・シムス」",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192159": {
+        "id": "192159",
+        "name": "キャラ設定付きIDカード「アンバーガール8世」",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192160": {
+        "id": "192160",
+        "name": "キャラ設定付きIDカード「ミス・ハウス」",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192161": {
+        "id": "192161",
+        "name": "キャラ設定付きIDカード「チルリン」",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192162": {
+        "id": "192162",
+        "name": "キャラ設定付きIDカード「在野・ケネス」",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192163": {
+        "id": "192163",
+        "name": "キャラ設定付きIDカード「クマラチャン」",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192164": {
+        "id": "192164",
+        "name": "キャラ設定付きIDカード「サー・ドウゾ」",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192165": {
+        "id": "192165",
+        "name": "キャラ設定付きIDカード「フォン・アルゴノフ」",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192166": {
+        "id": "192166",
+        "name": "キャラ設定付きIDカード「ミスターフク郎」",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192167": {
+        "id": "192167",
+        "name": "キャラ設定付きIDカード「カメリ」",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192168": {
+        "id": "192168",
+        "name": "ミスターオオトリのアイデアチャレンジ",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192169": {
+        "id": "192169",
+        "name": "ライトハウスの光の下で",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192170": {
+        "id": "192170",
+        "name": "ヒーロー較正記録",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192171": {
+        "id": "192171",
+        "name": "寒いジョーク許可証の申請手続きについて",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192172": {
+        "id": "192172",
+        "name": "バックルームの詩",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192173": {
+        "id": "192173",
+        "name": "浮脂紀事 猿の章 其の29",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192174": {
+        "id": "192174",
+        "name": "浮脂紀事 狐の章 其の12",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192175": {
+        "id": "192175",
+        "name": "浮脂ではなく、紀事でもない",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192176": {
+        "id": "192176",
+        "name": "「アップサイド・ダウン」食事招待状",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
     "210001": {
         "id": "210001",
         "name": "『禍災の黎明』",
@@ -23058,6 +24018,276 @@
     "210476": {
         "id": "210476",
         "name": "『創始の絵師』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210477": {
+        "id": "210477",
+        "name": "『獣の口の縁で』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210478": {
+        "id": "210478",
+        "name": "『つかの間の凪』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210479": {
+        "id": "210479",
+        "name": "『黄金分割の午後』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210480": {
+        "id": "210480",
+        "name": "『まだ見ぬ青写真』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210481": {
+        "id": "210481",
+        "name": "『風化した遠い日の夢』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210482": {
+        "id": "210482",
+        "name": "『深い青へのまなざし』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210483": {
+        "id": "210483",
+        "name": "『墜星の揺りかご』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210484": {
+        "id": "210484",
+        "name": "『空想の廃墟』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210485": {
+        "id": "210485",
+        "name": "『雷霆へ手を伸ばす』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210486": {
+        "id": "210486",
+        "name": "『万色帰空』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210487": {
+        "id": "210487",
+        "name": "『寂滅に帰す』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210488": {
+        "id": "210488",
+        "name": "『Beyond This Station』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210489": {
+        "id": "210489",
+        "name": "『リラックス電波』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210490": {
+        "id": "210490",
+        "name": "『指先の躍動』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210491": {
+        "id": "210491",
+        "name": "『オーバークロックビーツ』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210493": {
+        "id": "210493",
+        "name": "『上の空』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210494": {
+        "id": "210494",
+        "name": "『妖都での狂宴』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210495": {
+        "id": "210495",
+        "name": "『火力全開』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210496": {
+        "id": "210496",
+        "name": "『チュートリアル』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210497": {
+        "id": "210497",
+        "name": "『足元に遊ぶ波音』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210498": {
+        "id": "210498",
+        "name": "『巡り会う千星』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210499": {
+        "id": "210499",
+        "name": "『光が宿る時』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210500": {
+        "id": "210500",
+        "name": "『燃やせ、命を』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210501": {
+        "id": "210501",
+        "name": "『衆目が生む波』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210502": {
+        "id": "210502",
+        "name": "『裏窓』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210503": {
+        "id": "210503",
+        "name": "『ささめき』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210504": {
+        "id": "210504",
+        "name": "『静かに』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210505": {
+        "id": "210505",
+        "name": "『感覚過多』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210506": {
+        "id": "210506",
+        "name": "『無風帯』",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210507": {
+        "id": "210507",
+        "name": "『ただ風を追いかけて』",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -25782,6 +27012,15 @@
         "icon": "icon/item/226004.png",
         "come_from": []
     },
+    "226005": {
+        "id": "226005",
+        "name": "異相の仲裁・ルーク",
+        "type": "Usable",
+        "sub_type": "HeadIconFrame",
+        "rarity": 5,
+        "icon": "icon/item/226003.png",
+        "come_from": []
+    },
     "227001": {
         "id": "227001",
         "name": "救世主の月桂冠",
@@ -25808,6 +27047,15 @@
         "rarity": 5,
         "icon": "icon/item/227003.png",
         "come_from": ["イベント「夢を拾う韶光」の過去回で獲得できる開拓コーデ"]
+    },
+    "227004": {
+        "id": "227004",
+        "name": "こっちを見て",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": "icon/item/227004.png",
+        "come_from": ["ギフトボックス「エモジをつけよう」", "ショップ「ファッションアイテム」で獲得"]
     },
     "227005": {
         "id": "227005",
@@ -25889,6 +27137,15 @@
         "rarity": 5,
         "icon": "icon/item/227015.png",
         "come_from": []
+    },
+    "227016": {
+        "id": "227016",
+        "name": "同人コス",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227016.png",
+        "come_from": ["ショップ「星屑の贈り物」で獲得"]
     },
     "229001": {
         "id": "229001",
@@ -26891,7 +28148,7 @@
     },
     "250500": {
         "id": "250500",
-        "name": "",
+        "name": "汎用・壊滅欲",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -26900,7 +28157,7 @@
     },
     "250501": {
         "id": "250501",
-        "name": "",
+        "name": "エリア・忘却",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -26909,7 +28166,7 @@
     },
     "250502": {
         "id": "250502",
-        "name": "",
+        "name": "エリア・情緒",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -26918,7 +28175,7 @@
     },
     "250503": {
         "id": "250503",
-        "name": "",
+        "name": "汎用・模倣",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -26927,7 +28184,7 @@
     },
     "250504": {
         "id": "250504",
-        "name": "",
+        "name": "エリア・創造",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -26936,7 +28193,7 @@
     },
     "250505": {
         "id": "250505",
-        "name": "",
+        "name": "エリア・イド",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -26945,7 +28202,7 @@
     },
     "250506": {
         "id": "250506",
-        "name": "",
+        "name": "汎用・有利",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -26954,7 +28211,7 @@
     },
     "250507": {
         "id": "250507",
-        "name": "",
+        "name": "エリア・直感",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -26963,7 +28220,7 @@
     },
     "250508": {
         "id": "250508",
-        "name": "",
+        "name": "汎用・知覚",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -26972,7 +28229,7 @@
     },
     "250509": {
         "id": "250509",
-        "name": "",
+        "name": "汎用・着想",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -26981,7 +28238,7 @@
     },
     "250510": {
         "id": "250510",
-        "name": "",
+        "name": "エリア・フラクタル",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -26990,7 +28247,7 @@
     },
     "250511": {
         "id": "250511",
-        "name": "",
+        "name": "汎用・考証",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -26999,7 +28256,7 @@
     },
     "250512": {
         "id": "250512",
-        "name": "",
+        "name": "エリア・連想",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27008,7 +28265,7 @@
     },
     "250513": {
         "id": "250513",
-        "name": "",
+        "name": "ビーコン・想像",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27026,7 +28283,7 @@
     },
     "250515": {
         "id": "250515",
-        "name": "",
+        "name": "エリア・経験",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27035,7 +28292,7 @@
     },
     "250516": {
         "id": "250516",
-        "name": "",
+        "name": "汎用・弁証",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27044,7 +28301,7 @@
     },
     "250517": {
         "id": "250517",
-        "name": "",
+        "name": "汎用・対奕",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27053,7 +28310,7 @@
     },
     "250518": {
         "id": "250518",
-        "name": "",
+        "name": "ビーコン・抽象",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27080,7 +28337,7 @@
     },
     "250521": {
         "id": "250521",
-        "name": "",
+        "name": "汎用・感性",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27089,7 +28346,7 @@
     },
     "250522": {
         "id": "250522",
-        "name": "",
+        "name": "知識・実証",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27098,7 +28355,7 @@
     },
     "250523": {
         "id": "250523",
-        "name": "",
+        "name": "汎用・推論",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27107,7 +28364,7 @@
     },
     "250524": {
         "id": "250524",
-        "name": "",
+        "name": "汎用・弥漫",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27116,7 +28373,7 @@
     },
     "250525": {
         "id": "250525",
-        "name": "",
+        "name": "知識・原則",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27125,7 +28382,7 @@
     },
     "250526": {
         "id": "250526",
-        "name": "",
+        "name": "知識・思考",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27152,7 +28409,7 @@
     },
     "250529": {
         "id": "250529",
-        "name": "",
+        "name": "知識・等差数列",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27161,7 +28418,7 @@
     },
     "250530": {
         "id": "250530",
-        "name": "",
+        "name": "知識・保護欲",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27170,7 +28427,7 @@
     },
     "250531": {
         "id": "250531",
-        "name": "",
+        "name": "汎用・運算",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27179,7 +28436,7 @@
     },
     "250532": {
         "id": "250532",
-        "name": "",
+        "name": "汎用・指数的爆発",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27188,7 +28445,7 @@
     },
     "250533": {
         "id": "250533",
-        "name": "",
+        "name": "知識・事前販売",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27197,7 +28454,7 @@
     },
     "250534": {
         "id": "250534",
-        "name": "",
+        "name": "知識・チップ",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27215,7 +28472,7 @@
     },
     "250536": {
         "id": "250536",
-        "name": "",
+        "name": "エリア・挑戦",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27224,7 +28481,7 @@
     },
     "250537": {
         "id": "250537",
-        "name": "",
+        "name": "エリア・代価",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27233,7 +28490,7 @@
     },
     "250538": {
         "id": "250538",
-        "name": "",
+        "name": "汎用・嗅覚",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27242,7 +28499,7 @@
     },
     "250539": {
         "id": "250539",
-        "name": "",
+        "name": "汎用・正義",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27251,7 +28508,7 @@
     },
     "250540": {
         "id": "250540",
-        "name": "",
+        "name": "知識・極限",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27260,7 +28517,7 @@
     },
     "250541": {
         "id": "250541",
-        "name": "",
+        "name": "ビーコン・親しみ",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27269,7 +28526,7 @@
     },
     "250542": {
         "id": "250542",
-        "name": "",
+        "name": "ビーコン・獲物",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27296,7 +28553,7 @@
     },
     "250545": {
         "id": "250545",
-        "name": "",
+        "name": "汎用・観測",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27305,7 +28562,7 @@
     },
     "250546": {
         "id": "250546",
-        "name": "",
+        "name": "知識・狂想",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27314,7 +28571,7 @@
     },
     "250547": {
         "id": "250547",
-        "name": "",
+        "name": "ビーコン・無限",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27341,7 +28598,7 @@
     },
     "250550": {
         "id": "250550",
-        "name": "",
+        "name": "汎用・冒険傾向",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27350,7 +28607,7 @@
     },
     "250551": {
         "id": "250551",
-        "name": "",
+        "name": "ビーコン・置き換え",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27359,7 +28616,7 @@
     },
     "250552": {
         "id": "250552",
-        "name": "",
+        "name": "エリア・売り",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27368,7 +28625,7 @@
     },
     "250553": {
         "id": "250553",
-        "name": "",
+        "name": "ビーコン・幾何",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27386,7 +28643,7 @@
     },
     "250555": {
         "id": "250555",
-        "name": "",
+        "name": "ビーコン・シャッフル",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27395,7 +28652,7 @@
     },
     "250556": {
         "id": "250556",
-        "name": "",
+        "name": "知識・推牌",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27404,7 +28661,7 @@
     },
     "250557": {
         "id": "250557",
-        "name": "",
+        "name": "汎用・質入れ",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27431,7 +28688,7 @@
     },
     "250560": {
         "id": "250560",
-        "name": "",
+        "name": "異質・二相性",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27440,7 +28697,7 @@
     },
     "250561": {
         "id": "250561",
-        "name": "",
+        "name": "異質・再構築",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27449,7 +28706,7 @@
     },
     "250562": {
         "id": "250562",
-        "name": "",
+        "name": "異質・消費主義",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27458,7 +28715,7 @@
     },
     "250563": {
         "id": "250563",
-        "name": "",
+        "name": "異質・利息",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27467,7 +28724,7 @@
     },
     "250564": {
         "id": "250564",
-        "name": "",
+        "name": "異質・異化",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27476,7 +28733,7 @@
     },
     "250565": {
         "id": "250565",
-        "name": "",
+        "name": "異質・珍品",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27485,7 +28742,7 @@
     },
     "250566": {
         "id": "250566",
-        "name": "",
+        "name": "異質・インフレ",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27494,7 +28751,7 @@
     },
     "250567": {
         "id": "250567",
-        "name": "",
+        "name": "汎用・時間販売",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27512,7 +28769,7 @@
     },
     "250569": {
         "id": "250569",
-        "name": "",
+        "name": "汎用・揺蕩い",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27521,7 +28778,7 @@
     },
     "250570": {
         "id": "250570",
-        "name": "",
+        "name": "汎用・無想",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27530,7 +28787,7 @@
     },
     "250571": {
         "id": "250571",
-        "name": "",
+        "name": "汎用・無色",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27539,7 +28796,7 @@
     },
     "250572": {
         "id": "250572",
-        "name": "",
+        "name": "知識・曲線",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27548,7 +28805,7 @@
     },
     "250573": {
         "id": "250573",
-        "name": "",
+        "name": "汎用・エントロピー増大",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27575,7 +28832,7 @@
     },
     "250576": {
         "id": "250576",
-        "name": "",
+        "name": "知識・引き算",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27584,7 +28841,7 @@
     },
     "250577": {
         "id": "250577",
-        "name": "",
+        "name": "汎用・トポロジー",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 5,
@@ -27593,7 +28850,7 @@
     },
     "250578": {
         "id": "250578",
-        "name": "",
+        "name": "知識・超越",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27602,7 +28859,7 @@
     },
     "250579": {
         "id": "250579",
-        "name": "",
+        "name": "汎用バフ・バリア",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27611,7 +28868,7 @@
     },
     "250580": {
         "id": "250580",
-        "name": "",
+        "name": "汎用バフ・脆弱",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27620,7 +28877,7 @@
     },
     "250581": {
         "id": "250581",
-        "name": "",
+        "name": "汎用バフ・起爆",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27629,7 +28886,7 @@
     },
     "250582": {
         "id": "250582",
-        "name": "",
+        "name": "汎用バフ・贔屓",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27638,7 +28895,7 @@
     },
     "250583": {
         "id": "250583",
-        "name": "",
+        "name": "汎用バフ・迅速",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27647,7 +28904,7 @@
     },
     "250584": {
         "id": "250584",
-        "name": "",
+        "name": "汎用バフ・限界",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27656,7 +28913,7 @@
     },
     "250585": {
         "id": "250585",
-        "name": "",
+        "name": "汎用バフ・仇討ち",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27665,7 +28922,7 @@
     },
     "250586": {
         "id": "250586",
-        "name": "",
+        "name": "汎用バフ・回甘",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27674,7 +28931,7 @@
     },
     "250587": {
         "id": "250587",
-        "name": "",
+        "name": "汎用バフ・先手",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27683,7 +28940,7 @@
     },
     "250588": {
         "id": "250588",
-        "name": "",
+        "name": "汎用バフ・投資",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27692,7 +28949,7 @@
     },
     "250589": {
         "id": "250589",
-        "name": "",
+        "name": "汎用バフ・殉道",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27701,7 +28958,7 @@
     },
     "250590": {
         "id": "250590",
-        "name": "",
+        "name": "汎用バフ・法則",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27710,7 +28967,7 @@
     },
     "250591": {
         "id": "250591",
-        "name": "",
+        "name": "汎用バフ・規律",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27719,7 +28976,7 @@
     },
     "250592": {
         "id": "250592",
-        "name": "",
+        "name": "汎用バフ・秘密の匣",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 3,
@@ -27737,7 +28994,7 @@
     },
     "250594": {
         "id": "250594",
-        "name": "",
+        "name": "汎用・拝聴",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27746,7 +29003,7 @@
     },
     "250595": {
         "id": "250595",
-        "name": "",
+        "name": "汎用・抹消",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -27755,7 +29012,7 @@
     },
     "250596": {
         "id": "250596",
-        "name": "",
+        "name": "エリア・社交",
         "type": "Usable",
         "sub_type": "ChessRogueDiceSurface",
         "rarity": 4,
@@ -28022,6 +29279,15 @@
         "rarity": 5,
         "icon": "icon/item/251004.png",
         "come_from": []
+    },
+    "251005": {
+        "id": "251005",
+        "name": "五味エモジ",
+        "type": "Pet",
+        "sub_type": "NormalPet",
+        "rarity": 5,
+        "icon": "icon/item/251005.png",
+        "come_from": ["ショップ「星屑の贈り物」で獲得"]
     },
     "252000": {
         "id": "252000",
@@ -29713,7 +30979,7 @@
         "sub_type": "PersonalCard",
         "rarity": 4,
         "icon": "icon/item/253002.png",
-        "come_from": []
+        "come_from": ["ショップ「星屑の贈り物」で獲得"]
     },
     "253003": {
         "id": "253003",
@@ -29722,7 +30988,7 @@
         "sub_type": "PersonalCard",
         "rarity": 4,
         "icon": "icon/item/253003.png",
-        "come_from": []
+        "come_from": ["ショップ「星屑の贈り物」で獲得"]
     },
     "253004": {
         "id": "253004",
@@ -29732,6 +30998,15 @@
         "rarity": 5,
         "icon": "icon/item/253004.png",
         "come_from": ["ショップ「ファッションアイテム」で獲得"]
+    },
+    "253005": {
+        "id": "253005",
+        "name": "フライオーバー",
+        "type": "Usable",
+        "sub_type": "PersonalCard",
+        "rarity": 4,
+        "icon": "icon/item/253005.png",
+        "come_from": ["ショップ「星屑の贈り物」で獲得"]
     },
     "254000": {
         "id": "254000",
@@ -29766,7 +31041,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260013.png",
+        "icon": "icon/item/260001.png",
         "come_from": []
     },
     "260002": {
@@ -29775,7 +31050,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260014.png",
+        "icon": "icon/item/260002.png",
         "come_from": []
     },
     "260003": {
@@ -29784,7 +31059,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260015.png",
+        "icon": "icon/item/260003.png",
         "come_from": []
     },
     "260004": {
@@ -29793,7 +31068,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260016.png",
+        "icon": "icon/item/260004.png",
         "come_from": []
     },
     "260005": {
@@ -29802,7 +31077,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260017.png",
+        "icon": "icon/item/260005.png",
         "come_from": []
     },
     "260006": {
@@ -29811,7 +31086,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260018.png",
+        "icon": "icon/item/260006.png",
         "come_from": []
     },
     "260007": {
@@ -29820,7 +31095,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260019.png",
+        "icon": "icon/item/260007.png",
         "come_from": []
     },
     "260008": {
@@ -29829,7 +31104,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260020.png",
+        "icon": "icon/item/260008.png",
         "come_from": []
     },
     "260009": {
@@ -29838,7 +31113,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260021.png",
+        "icon": "icon/item/260009.png",
         "come_from": []
     },
     "260010": {
@@ -29847,7 +31122,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260022.png",
+        "icon": "icon/item/260010.png",
         "come_from": []
     },
     "260011": {
@@ -29856,7 +31131,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260023.png",
+        "icon": "icon/item/260011.png",
         "come_from": []
     },
     "260012": {
@@ -29865,7 +31140,7 @@
         "type": "Material",
         "sub_type": "ElfRestaurantItem",
         "rarity": 2,
-        "icon": "icon/item/260024.png",
+        "icon": "icon/item/260012.png",
         "come_from": []
     },
     "260013": {
@@ -32045,6 +33320,15 @@
         "icon": "icon/item/300057.png",
         "come_from": []
     },
+    "300058": {
+        "id": "300058",
+        "name": "星間を越える手紙",
+        "type": "Usable",
+        "sub_type": "Gift",
+        "rarity": 4,
+        "icon": "icon/item/300058.png",
+        "come_from": []
+    },
     "300101": {
         "id": "300101",
         "name": "列車補給標章",
@@ -32223,6 +33507,15 @@
         "sub_type": "ForceOpitonalGift",
         "rarity": 5,
         "icon": "icon/item/309001.png",
+        "come_from": []
+    },
+    "309012": {
+        "id": "309012",
+        "name": "ギフトボックス「運命の贈り物」",
+        "type": "Usable",
+        "sub_type": "ForceOpitonalGift",
+        "rarity": 5,
+        "icon": "icon/item/309012.png",
         "come_from": []
     },
     "310001": {
@@ -33080,6 +34373,15 @@
         "icon": "icon/item/402037.png",
         "come_from": ["「万能合成マシン」"]
     },
+    "402038": {
+        "id": "402038",
+        "name": "豆汁すき焼き",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/402038.png",
+        "come_from": ["「万能合成マシン」", "怪奇テイスト"]
+    },
     "403001": {
         "id": "403001",
         "name": "使い捨て動力アーム",
@@ -33223,6 +34525,15 @@
         "rarity": 4,
         "icon": "icon/item/403016.png",
         "come_from": ["「万能合成マシン」", "∞-イレヴン"]
+    },
+    "403017": {
+        "id": "403017",
+        "name": "琥珀の王跳牆",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 4,
+        "icon": "icon/item/403017.png",
+        "come_from": ["「万能合成マシン」", "怪奇テイスト"]
     },
     "404004": {
         "id": "404004",
@@ -33917,6 +35228,15 @@
         "icon": "icon/item/406037.png",
         "come_from": []
     },
+    "406038": {
+        "id": "406038",
+        "name": "レシピ：豆汁すき焼き",
+        "type": "Usable",
+        "sub_type": "Formula",
+        "rarity": 3,
+        "icon": "icon/item/404001.png",
+        "come_from": []
+    },
     "407001": {
         "id": "407001",
         "name": "レシピ：使い捨て動力アーム",
@@ -34055,6 +35375,15 @@
     "407016": {
         "id": "407016",
         "name": "レシピ：コイル鋼材",
+        "type": "Usable",
+        "sub_type": "Formula",
+        "rarity": 4,
+        "icon": "icon/item/404001.png",
+        "come_from": []
+    },
+    "407017": {
+        "id": "407017",
+        "name": "レシピ：琥珀の王跳牆",
         "type": "Usable",
         "sub_type": "Formula",
         "rarity": 4,
@@ -34628,6 +35957,60 @@
         "icon": "icon/item/408448.png",
         "come_from": ["∞-イレヴン"]
     },
+    "408449": {
+        "id": "408449",
+        "name": "スバラシーじゅーじゅーソーセージ",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408449.png",
+        "come_from": ["おこりんぼのボブ"]
+    },
+    "408450": {
+        "id": "408450",
+        "name": "無敵ステーキ",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408450.png",
+        "come_from": ["おこりんぼのボブ"]
+    },
+    "408451": {
+        "id": "408451",
+        "name": "「大海原」トリプルアイスクリーム",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408451.png",
+        "come_from": ["移動式冷却ステーション"]
+    },
+    "408452": {
+        "id": "408452",
+        "name": "「ライトハウス」可動フィギュア",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408452.png",
+        "come_from": ["マンガヒーローハウス"]
+    },
+    "408453": {
+        "id": "408453",
+        "name": "星神バルーン",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408453.png",
+        "come_from": ["マンガヒーローハウス"]
+    },
+    "408454": {
+        "id": "408454",
+        "name": "「ホールマスター」1/1スケール（実物大モデル）",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 2,
+        "icon": "icon/item/408454.png",
+        "come_from": ["フック戦線"]
+    },
     "408601": {
         "id": "408601",
         "name": "ベロブルグソーセージ",
@@ -35015,6 +36398,24 @@
         "icon": "icon/item/408643.png",
         "come_from": ["グラフィエ学院売店"]
     },
+    "408644": {
+        "id": "408644",
+        "name": "スイムウェア号",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408644.png",
+        "come_from": ["サクラ1号"]
+    },
+    "408645": {
+        "id": "408645",
+        "name": "疾走ジェットボード",
+        "type": "Usable",
+        "sub_type": "Food",
+        "rarity": 3,
+        "icon": "icon/item/408645.png",
+        "come_from": ["サクラ1号"]
+    },
     "408801": {
         "id": "408801",
         "name": "ドリームアイス（トリプル）",
@@ -35104,5 +36505,14 @@
         "rarity": 5,
         "icon": "icon/item/408906.png",
         "come_from": ["「ぽんぽこ通信」の販売計画レベルアップ報酬で獲得できる"]
+    },
+    "408907": {
+        "id": "408907",
+        "name": "感応力探知棒",
+        "type": "Usable",
+        "sub_type": "FindChest",
+        "rarity": 5,
+        "icon": "icon/item/408907.png",
+        "come_from": ["「ぽんぽこサービス」レベルアップ報酬で獲得"]
     }
 }

@@ -801,7 +801,7 @@
             { "id": "11004", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank1.png"
+        "icon": "icon/skill/11004_rank1.png"
     },
     "1100402": {
         "id": "1100402",
@@ -812,7 +812,7 @@
             { "id": "11004", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank2.png"
+        "icon": "icon/skill/11004_rank2.png"
     },
     "1100403": {
         "id": "1100403",
@@ -826,7 +826,7 @@
             { "id": "1100402", "num": 2 },
             { "id": "1100401", "num": 1 }
         ],
-        "icon": "icon/skill/1100_skill.png"
+        "icon": "icon/skill/11004_skill.png"
     },
     "1100404": {
         "id": "1100404",
@@ -837,7 +837,7 @@
             { "id": "11004", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank4.png"
+        "icon": "icon/skill/11004_rank4.png"
     },
     "1100405": {
         "id": "1100405",
@@ -851,7 +851,7 @@
             { "id": "1100403", "num": 2 },
             { "id": "1100404", "num": 2 }
         ],
-        "icon": "icon/skill/1100_ultimate.png"
+        "icon": "icon/skill/11004_ultimate.png"
     },
     "1100406": {
         "id": "1100406",
@@ -862,7 +862,7 @@
             { "id": "11004", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank6.png"
+        "icon": "icon/skill/11004_rank6.png"
     },
     "1100501": {
         "id": "1100501",
@@ -873,7 +873,7 @@
             { "id": "11005", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank1.png"
+        "icon": "icon/skill/11005_rank1.png"
     },
     "1100502": {
         "id": "1100502",
@@ -884,7 +884,7 @@
             { "id": "11005", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank2.png"
+        "icon": "icon/skill/11005_rank2.png"
     },
     "1100503": {
         "id": "1100503",
@@ -898,7 +898,7 @@
             { "id": "1100502", "num": 2 },
             { "id": "1100501", "num": 1 }
         ],
-        "icon": "icon/skill/1100_skill.png"
+        "icon": "icon/skill/11005_skill.png"
     },
     "1100504": {
         "id": "1100504",
@@ -909,7 +909,7 @@
             { "id": "11005", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank4.png"
+        "icon": "icon/skill/11005_rank4.png"
     },
     "1100505": {
         "id": "1100505",
@@ -923,7 +923,7 @@
             { "id": "1100503", "num": 2 },
             { "id": "1100504", "num": 2 }
         ],
-        "icon": "icon/skill/1100_ultimate.png"
+        "icon": "icon/skill/11005_ultimate.png"
     },
     "1100506": {
         "id": "1100506",
@@ -934,7 +934,7 @@
             { "id": "11005", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank6.png"
+        "icon": "icon/skill/11005_rank6.png"
     },
     "1100601": {
         "id": "1100601",
@@ -945,7 +945,7 @@
             { "id": "11006", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank1.png"
+        "icon": "icon/skill/11006_rank1.png"
     },
     "1100602": {
         "id": "1100602",
@@ -956,7 +956,7 @@
             { "id": "11006", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank2.png"
+        "icon": "icon/skill/11006_rank2.png"
     },
     "1100603": {
         "id": "1100603",
@@ -970,7 +970,7 @@
             { "id": "1100602", "num": 2 },
             { "id": "1100604", "num": 2 }
         ],
-        "icon": "icon/skill/1100_skill.png"
+        "icon": "icon/skill/11006_skill.png"
     },
     "1100604": {
         "id": "1100604",
@@ -981,7 +981,7 @@
             { "id": "11006", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank4.png"
+        "icon": "icon/skill/11006_rank4.png"
     },
     "1100605": {
         "id": "1100605",
@@ -995,7 +995,7 @@
             { "id": "1100603", "num": 2 },
             { "id": "1100601", "num": 1 }
         ],
-        "icon": "icon/skill/1100_ultimate.png"
+        "icon": "icon/skill/11006_ultimate.png"
     },
     "1100606": {
         "id": "1100606",
@@ -1006,7 +1006,7 @@
             { "id": "11006", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank6.png"
+        "icon": "icon/skill/11006_rank6.png"
     },
     "110101": {
         "id": "110101",
@@ -1738,7 +1738,7 @@
             { "id": "11102", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1110_rank1.png"
+        "icon": "icon/skill/11102_rank1.png"
     },
     "1110202": {
         "id": "1110202",
@@ -1749,7 +1749,7 @@
             { "id": "11102", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1110_rank2.png"
+        "icon": "icon/skill/11102_rank2.png"
     },
     "1110203": {
         "id": "1110203",
@@ -1763,7 +1763,7 @@
             { "id": "1110202", "num": 2 },
             { "id": "1110204", "num": 2 }
         ],
-        "icon": "icon/skill/1110_skill.png"
+        "icon": "icon/skill/11102_skill.png"
     },
     "1110204": {
         "id": "1110204",
@@ -1774,7 +1774,7 @@
             { "id": "11102", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1110_rank4.png"
+        "icon": "icon/skill/11102_rank4.png"
     },
     "1110205": {
         "id": "1110205",
@@ -1788,7 +1788,7 @@
             { "id": "1110203", "num": 2 },
             { "id": "1110201", "num": 1 }
         ],
-        "icon": "icon/skill/1110_ultimate.png"
+        "icon": "icon/skill/11102_ultimate.png"
     },
     "1110206": {
         "id": "1110206",
@@ -1799,7 +1799,7 @@
             { "id": "11102", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1110_rank6.png"
+        "icon": "icon/skill/11102_rank6.png"
     },
     "111101": {
         "id": "111101",
@@ -1955,7 +1955,7 @@
             { "id": "11205", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1120_rank1.png"
+        "icon": "icon/skill/11205_rank1.png"
     },
     "1120502": {
         "id": "1120502",
@@ -1966,7 +1966,7 @@
             { "id": "11205", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1120_rank2.png"
+        "icon": "icon/skill/11205_rank2.png"
     },
     "1120503": {
         "id": "1120503",
@@ -1980,7 +1980,7 @@
             { "id": "1120503", "num": 2 },
             { "id": "1120504", "num": 2 }
         ],
-        "icon": "icon/skill/1120_ultimate.png"
+        "icon": "icon/skill/11205_ultimate.png"
     },
     "1120504": {
         "id": "1120504",
@@ -1991,7 +1991,7 @@
             { "id": "11205", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1120_rank4.png"
+        "icon": "icon/skill/11205_rank4.png"
     },
     "1120505": {
         "id": "1120505",
@@ -2006,7 +2006,7 @@
             { "id": "1120501", "num": 1 },
             { "id": "1120508", "num": 1 }
         ],
-        "icon": "icon/skill/1120_skill.png"
+        "icon": "icon/skill/11205_skill.png"
     },
     "1120506": {
         "id": "1120506",
@@ -2017,7 +2017,7 @@
             { "id": "11205", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1120_rank6.png"
+        "icon": "icon/skill/11205_rank6.png"
     },
     "1121201": {
         "id": "1121201",
@@ -2028,7 +2028,7 @@
             { "id": "11212", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank1.png"
+        "icon": "icon/skill/11212_rank1.png"
     },
     "1121202": {
         "id": "1121202",
@@ -2039,7 +2039,7 @@
             { "id": "11212", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank2.png"
+        "icon": "icon/skill/11212_rank2.png"
     },
     "1121203": {
         "id": "1121203",
@@ -2053,7 +2053,7 @@
             { "id": "1121203", "num": 2 },
             { "id": "1121204", "num": 2 }
         ],
-        "icon": "icon/skill/1121_ultimate.png"
+        "icon": "icon/skill/11212_ultimate.png"
     },
     "1121204": {
         "id": "1121204",
@@ -2064,7 +2064,7 @@
             { "id": "11212", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank4.png"
+        "icon": "icon/skill/11212_rank4.png"
     },
     "1121205": {
         "id": "1121205",
@@ -2079,7 +2079,7 @@
             { "id": "1121201", "num": 1 },
             { "id": "1121209", "num": 2 }
         ],
-        "icon": "icon/skill/1121_skill.png"
+        "icon": "icon/skill/11212_skill.png"
     },
     "1121206": {
         "id": "1121206",
@@ -2090,7 +2090,7 @@
             { "id": "11212", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank6.png"
+        "icon": "icon/skill/11212_rank6.png"
     },
     "1121701": {
         "id": "1121701",
@@ -2101,7 +2101,7 @@
             { "id": "11217", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank1.png"
+        "icon": "icon/skill/11217_rank1.png"
     },
     "1121702": {
         "id": "1121702",
@@ -2112,7 +2112,7 @@
             { "id": "11217", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank2.png"
+        "icon": "icon/skill/11217_rank2.png"
     },
     "1121703": {
         "id": "1121703",
@@ -2126,7 +2126,7 @@
             { "id": "1121703", "num": 2 },
             { "id": "1121704", "num": 2 }
         ],
-        "icon": "icon/skill/1121_ultimate.png"
+        "icon": "icon/skill/11217_ultimate.png"
     },
     "1121704": {
         "id": "1121704",
@@ -2137,7 +2137,7 @@
             { "id": "11217", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank4.png"
+        "icon": "icon/skill/11217_rank4.png"
     },
     "1121705": {
         "id": "1121705",
@@ -2151,7 +2151,7 @@
             { "id": "1121702", "num": 2 },
             { "id": "1121701", "num": 1 }
         ],
-        "icon": "icon/skill/1121_skill.png"
+        "icon": "icon/skill/11217_skill.png"
     },
     "1121706": {
         "id": "1121706",
@@ -2162,7 +2162,7 @@
             { "id": "11217", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank6.png"
+        "icon": "icon/skill/11217_rank6.png"
     },
     "1130601": {
         "id": "1130601",
@@ -2173,7 +2173,7 @@
             { "id": "11306", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank1.png"
+        "icon": "icon/skill/11306_rank1.png"
     },
     "1130602": {
         "id": "1130602",
@@ -2184,7 +2184,7 @@
             { "id": "11306", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank2.png"
+        "icon": "icon/skill/11306_rank2.png"
     },
     "1130603": {
         "id": "1130603",
@@ -2198,7 +2198,7 @@
             { "id": "1130602", "num": 2 },
             { "id": "1130601", "num": 1 }
         ],
-        "icon": "icon/skill/1130_skill.png"
+        "icon": "icon/skill/11306_skill.png"
     },
     "1130604": {
         "id": "1130604",
@@ -2209,7 +2209,7 @@
             { "id": "11306", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank4.png"
+        "icon": "icon/skill/11306_rank4.png"
     },
     "1130605": {
         "id": "1130605",
@@ -2223,7 +2223,7 @@
             { "id": "1130603", "num": 2 },
             { "id": "1130604", "num": 2 }
         ],
-        "icon": "icon/skill/1130_ultimate.png"
+        "icon": "icon/skill/11306_ultimate.png"
     },
     "1130606": {
         "id": "1130606",
@@ -2234,7 +2234,7 @@
             { "id": "11306", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank6.png"
+        "icon": "icon/skill/11306_rank6.png"
     },
     "1130701": {
         "id": "1130701",
@@ -2245,7 +2245,7 @@
             { "id": "11307", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank1.png"
+        "icon": "icon/skill/11307_rank1.png"
     },
     "1130702": {
         "id": "1130702",
@@ -2256,7 +2256,7 @@
             { "id": "11307", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank2.png"
+        "icon": "icon/skill/11307_rank2.png"
     },
     "1130703": {
         "id": "1130703",
@@ -2270,7 +2270,7 @@
             { "id": "1130702", "num": 2 },
             { "id": "1130704", "num": 2 }
         ],
-        "icon": "icon/skill/1130_skill.png"
+        "icon": "icon/skill/11307_skill.png"
     },
     "1130704": {
         "id": "1130704",
@@ -2281,7 +2281,7 @@
             { "id": "11307", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank4.png"
+        "icon": "icon/skill/11307_rank4.png"
     },
     "1130705": {
         "id": "1130705",
@@ -2295,7 +2295,7 @@
             { "id": "1130703", "num": 2 },
             { "id": "1130701", "num": 1 }
         ],
-        "icon": "icon/skill/1130_ultimate.png"
+        "icon": "icon/skill/11307_ultimate.png"
     },
     "1130706": {
         "id": "1130706",
@@ -2306,7 +2306,7 @@
             { "id": "11307", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank6.png"
+        "icon": "icon/skill/11307_rank6.png"
     },
     "1131001": {
         "id": "1131001",
@@ -2317,7 +2317,7 @@
             { "id": "11310", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1131_rank1.png"
+        "icon": "icon/skill/11310_rank1.png"
     },
     "1131002": {
         "id": "1131002",
@@ -2328,7 +2328,7 @@
             { "id": "11310", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1131_rank2.png"
+        "icon": "icon/skill/11310_rank2.png"
     },
     "1131003": {
         "id": "1131003",
@@ -2344,7 +2344,7 @@
             { "id": "1131009", "num": 2 },
             { "id": "1131008", "num": 1 }
         ],
-        "icon": "icon/skill/1131_skill.png"
+        "icon": "icon/skill/11310_skill.png"
     },
     "1131004": {
         "id": "1131004",
@@ -2355,7 +2355,7 @@
             { "id": "11310", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1131_rank4.png"
+        "icon": "icon/skill/11310_rank4.png"
     },
     "1131005": {
         "id": "1131005",
@@ -2369,7 +2369,7 @@
             { "id": "1131003", "num": 2 },
             { "id": "1131004", "num": 2 }
         ],
-        "icon": "icon/skill/1131_ultimate.png"
+        "icon": "icon/skill/11310_ultimate.png"
     },
     "1131006": {
         "id": "1131006",
@@ -2380,7 +2380,7 @@
             { "id": "11310", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1131_rank6.png"
+        "icon": "icon/skill/11310_rank6.png"
     },
     "120101": {
         "id": "120101",
@@ -6721,6 +6721,383 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1507_rank6.png"
+    },
+    "150801": {
+        "id": "150801",
+        "name": "{RUBY_B#ほうせきおう}宝石翁{RUBY_E#}の{RUBY_B#でし}弟子{RUBY_E#}",
+        "rank": 1,
+        "desc": "一度の強化戦闘スキルで消費した「宝石エネルギー」が30以上の場合、遠坂凛は消費した「宝石エネルギー」と同じ数の「影の宝石」を獲得する。\n「影の宝石」を所持している時、戦闘スキル「宝石剣ゼルレッチ」が「第二魔法の実験」に強化される。この強化戦闘スキルはすべての「影の宝石」を消費し、SPを「宝石エネルギー」に転換する効果を発動せず、「宝石エネルギー」も消費しない。",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank1.png"
+    },
+    "150802": {
+        "id": "150802",
+        "name": "{RUBY_B#じげんかい}次元界{RUBY_E#}を{RUBY_B#たび}旅{RUBY_E#}する{RUBY_B#もの}者{RUBY_E#}",
+        "rank": 2,
+        "desc": "遠坂凛の戦闘スキルダメージ+30%。遠坂凛がフィールド上にいる時、味方全体の戦闘スキルダメージが元のダメージの130%になる。",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank2.png"
+    },
+    "150803": {
+        "id": "150803",
+        "name": "{RUBY_B#せいはいせんそう}聖杯戦争{RUBY_E#}：{RUBY_B#しょうりきねん}勝利記念{RUBY_E#}",
+        "rank": 3,
+        "desc": "戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150802", "num": 2 },
+            { "id": "150801", "num": 1 },
+            { "id": "150809", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_skill.png"
+    },
+    "150804": {
+        "id": "150804",
+        "name": "あかいあくま・3{RUBY_B#ばい}倍{RUBY_E#}{RUBY_B#はや}速{RUBY_E#}い",
+        "rank": 4,
+        "desc": "天賦「宝石魔術」の会心ダメージアップ効果が遠坂凛に適用される時、効果が累積できるようになる。最大で2層累積できる。",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank4.png"
+    },
+    "150805": {
+        "id": "150805",
+        "name": "{RUBY_B#きんせいしん}金星神{RUBY_E#}の{RUBY_B#ちょうあい}寵愛{RUBY_E#}",
+        "rank": 5,
+        "desc": "必殺技のLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150803", "num": 2 },
+            { "id": "150804", "num": 2 },
+            { "id": "150805", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_ultimate.png"
+    },
+    "150806": {
+        "id": "150806",
+        "name": "{RUBY_B#こんかい}今回{RUBY_E#}は\nヘマしなかった！",
+        "rank": 6,
+        "desc": "遠坂凛の全属性耐性貫通+20%。必殺技を発動する時、「宝石エネルギー」を24獲得し、追加ターンを1ターン獲得する。",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank6.png"
+    },
+    "150901": {
+        "id": "150901",
+        "name": "すべてを{RUBY_B#みとど}見届{RUBY_E#}ける{RUBY_B#もの}者{RUBY_E#}",
+        "rank": 1,
+        "desc": "ギルガメッシュが「王が認める」を持つ時、「王が認める」の防御力無視効果はギルガメッシュ以外の味方にも適用される。また、「王が認める」を持つギルガメッシュの攻撃力がさらに+60%。戦闘スキルを発動する時、EPを追加で40回復する。",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank1.png"
+    },
+    "150902": {
+        "id": "150902",
+        "name": "{RUBY_B#ばんぶつ}万物{RUBY_E#}に{RUBY_B#せいつう}精通{RUBY_E#}する{RUBY_B#えいち}叡智{RUBY_E#}",
+        "rank": 2,
+        "desc": "ギルガメッシュは戦闘開始時に「興」を5獲得し、必殺技を発動する時に追加で「興」を5獲得する。戦闘スキル「王の財宝」のメインターゲットへのダメージ倍率+100%、隣接する敵へのダメージ倍率+50%。",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank2.png"
+    },
+    "150903": {
+        "id": "150903",
+        "name": "{RUBY_B#せんり}千里{RUBY_E#}の{RUBY_B#さんが}山河{RUBY_E#}を{RUBY_B#こ}越{RUBY_E#}える{RUBY_B#たび}旅{RUBY_E#}",
+        "rank": 3,
+        "desc": "戦闘スキルのLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150902", "num": 2 },
+            { "id": "150901", "num": 1 }
+        ],
+        "icon": "icon/skill/1509_skill.png"
+    },
+    "150904": {
+        "id": "150904",
+        "name": "{RUBY_B#ゆいがどくそん}唯我独尊{RUBY_E#}の{RUBY_B#おう}王{RUBY_E#}",
+        "rank": 4,
+        "desc": "ギルガメッシュのEP回復効率+20%。",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank4.png"
+    },
+    "150905": {
+        "id": "150905",
+        "name": "{RUBY_B#じんしんけつべつ}人神決別{RUBY_E#}の{RUBY_B#けん}剣{RUBY_E#}",
+        "rank": 5,
+        "desc": "必殺技のLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150903", "num": 2 },
+            { "id": "150904", "num": 2 },
+            { "id": "150905", "num": 2 }
+        ],
+        "icon": "icon/skill/1509_ultimate.png"
+    },
+    "150906": {
+        "id": "150906",
+        "name": "{RUBY_B#しんゆう}親友{RUBY_E#}に{RUBY_B#きた}鍛{RUBY_E#}えられし{RUBY_B#たましい}魂{RUBY_E#}",
+        "rank": 6,
+        "desc": "必殺技「天地乖離す開闢の星」のバウンドダメージ倍率+80%。ギルガメッシュがフィールド上にいる時、味方キャラの全属性耐性貫通+20%。自身以外の味方が必殺技を発動すると、ギルガメッシュは「黄金律」を1獲得する（最大3まで累積可能）。自身が必殺技を発動する時、所持しているすべての「黄金律」を消費し、消費した「黄金律」1につき、必殺技ダメージの会心ダメージ+100%。",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank6.png"
+    },
+    "151001": {
+        "id": "151001",
+        "name": "{RUBY_B#みち}道{RUBY_E#}と{RUBY_B#よ}呼{RUBY_E#}ばれるものこそ{RUBY_B#かいたく}開拓{RUBY_E#}",
+        "rank": 1,
+        "desc": "天賦により発動する追加の支援スキルの発動可能回数+1回。「同行協定：裁決」状態の時、支援スキルの発動に必要な必殺技の発動回数-1。「同行協定：殲滅」状態の時、支援スキルの発動に必要なチャージ-3。姫子・旅立ちが支援スキルを発動する時、追加でヒットする際のヒット数+1。",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank1.png"
+    },
+    "151002": {
+        "id": "151002",
+        "name": "{RUBY_B#はた}旗{RUBY_E#}は{RUBY_B#お}下{RUBY_E#}ろされることなき{RUBY_B#ほ}帆{RUBY_E#}",
+        "rank": 2,
+        "desc": "姫子・旅立ちの支援スキルの使用可能回数の上限が2回までアップする。必殺技と支援スキルの与ダメージは本来のダメージの130%になる。「導く旗印」状態の姫子のターンが回ってきた時、即座に支援スキルの使用可能回数を追加で1回復する。軌跡「鳴り響く列車の鼓動」の効果によって開拓仲間でないキャラクターが支援スキルを使用する時、そのキャラクターも追加ターンを1獲得する。",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank2.png"
+    },
+    "151003": {
+        "id": "151003",
+        "name": "{RUBY_B#ほし}星{RUBY_E#}の{RUBY_B#こ}子{RUBY_E#}も{RUBY_B#ほし}星{RUBY_E#}に{RUBY_B#おも}思{RUBY_E#}いを{RUBY_B#は}馳{RUBY_E#}せる",
+        "rank": 3,
+        "desc": "必殺技のLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151003", "num": 2 },
+            { "id": "151001", "num": 1 },
+            { "id": "151008", "num": 2 },
+            { "id": "151009", "num": 2 },
+            { "id": "151014", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151004": {
+        "id": "151004",
+        "name": "{RUBY_B#そら}空{RUBY_E#}へ{RUBY_B#の}伸{RUBY_E#}ばされる{RUBY_B#て}手{RUBY_E#}を{RUBY_B#と}取{RUBY_E#}って",
+        "rank": 4,
+        "desc": "天賦「共に灼熱の遠征へ」によって支援スキルを使用する時、全属性耐性貫通アップ効果が味方全体に対して有効となる。姫子・旅立ちがこの効果を獲得する時、全属性耐性貫通がさらに+10%。",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank4.png"
+    },
+    "151005": {
+        "id": "151005",
+        "name": "{RUBY_B#うちゅう}宇宙{RUBY_E#}をすべて{RUBY_B#とうは}踏破{RUBY_E#}する",
+        "rank": 5,
+        "desc": "戦闘スキルのLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151002", "num": 2 },
+            { "id": "151004", "num": 2 },
+            { "id": "151022", "num": 2 },
+            { "id": "151025", "num": 2 },
+            { "id": "151026", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_skill.png"
+    },
+    "151006": {
+        "id": "151006",
+        "name": "{RUBY_B#ぐんせい}群星{RUBY_E#}に{RUBY_B#たど}辿{RUBY_E#}り{RUBY_B#つ}着{RUBY_E#}く{RUBY_B#ちか}誓{RUBY_E#}いを{RUBY_B#むね}胸{RUBY_E#}に",
+        "rank": 6,
+        "desc": "姫子・旅立ちの炎属性耐性貫通+20%。「原動力」の上限が6までアップする。味方が支援スキルを使用または発動する時、支援スキルによるダメージ+75%、姫子・旅立ちは「原動力」を1獲得する。必殺技の間、「超光速粒子ビーム」を発動して攻撃する時、追加で「原動力」を1獲得する。「軌道殲滅パルス砲」を発動する時、所持している「原動力」が6以上の場合、追加で敵全体に姫子・旅立ちの攻撃力160%分の炎属性ダメージを1回与える。",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank6.png"
+    },
+    "151201": {
+        "id": "151201",
+        "name": "{RUBY_B#む}群{RUBY_E#}れを{RUBY_B#はな}離{RUBY_E#}れた{RUBY_B#なつ}夏{RUBY_E#}の{RUBY_B#とり}鳥{RUBY_E#}",
+        "rank": 1,
+        "desc": "「夏空フライト」は味方が与えた確定ダメージ以外のダメージの100%を記録する。精霊スキルを発動する時、残りHPが最も高い敵に追加でダメージ記録値（11%+現在のムード×0.1%）分の確定ダメージを与える。その後、記録値の50%をクリアする。",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1512_rank1.png"
+    },
+    "151202": {
+        "id": "151202",
+        "name": "その{RUBY_B#こころ}心{RUBY_E#}は{RUBY_B#みずうみ}湖{RUBY_E#}のよう",
+        "rank": 2,
+        "desc": "味方の全属性耐性貫通+18%。ロビン・夏空の歌のムード上限+20、味方が任意のユニットのターンで初めてスキルを発動してロビン・夏空の歌にムードを獲得させた時、ロビン・夏空の歌は追加でムードを2獲得する。",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1512_rank2.png"
+    },
+    "151203": {
+        "id": "151203",
+        "name": "{RUBY_B#どうちゅう}道中{RUBY_E#}の{RUBY_B#いおん}遺音{RUBY_E#}を{RUBY_B#ひろ}拾{RUBY_E#}って",
+        "rank": 3,
+        "desc": "戦闘スキルのLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。精霊天賦のLv.+1、最大Lv.10まで。",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151202", "num": 2 },
+            { "id": "151204", "num": 2 },
+            { "id": "1151203", "num": 1 },
+            { "id": "1151205", "num": 1 },
+            { "id": "1151206", "num": 1 }
+        ],
+        "icon": "icon/skill/1512_skill.png"
+    },
+    "151204": {
+        "id": "151204",
+        "name": "{RUBY_B#しゅうげん}衆弦{RUBY_E#}の{RUBY_B#へんそう}変奏{RUBY_E#}を{RUBY_B#き}聴{RUBY_E#}く",
+        "rank": 4,
+        "desc": "「フィーバー」状態に入る時、即座にムードを12獲得し、「夏空フライト」の速度+（20%+現在のムード×0.5%）。",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1512_rank4.png"
+    },
+    "151205": {
+        "id": "151205",
+        "name": "また{RUBY_B#あら}新{RUBY_E#}たな{RUBY_B#あさひ}朝日{RUBY_E#}を{RUBY_B#お}追{RUBY_E#}う",
+        "rank": 5,
+        "desc": "必殺技のLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。精霊スキルのLv.+1、最大Lv.10まで。",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151203", "num": 2 },
+            { "id": "151201", "num": 1 },
+            { "id": "1151201", "num": 1 }
+        ],
+        "icon": "icon/skill/1512_ultimate.png"
+    },
+    "151206": {
+        "id": "151206",
+        "name": "{RUBY_B#な}名{RUBY_E#}のない{RUBY_B#うた}歌{RUBY_E#}を{RUBY_B#うた}歌{RUBY_E#}おう",
+        "rank": 6,
+        "desc": "精霊スキルのダメージ倍率が元の倍率の100%アップする。「フィーバー」状態の時、ロビン・夏空の歌は必殺技を最大2回までストックできる。戦闘中、「フィーバー」状態に入った時、または「フィーバー」状態のカウントダウンのターンが回ってきた時、EPを固定で140回復する。",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1512_rank6.png"
+    },
+    "151301": {
+        "id": "151301",
+        "name": "{RUBY_B#きゅうじつ}休日{RUBY_E#}はチップの{RUBY_B#か}代{RUBY_E#}わり",
+        "rank": 1,
+        "desc": "全属性の耐性貫通+24%。\n天賦が強化され、下記の効果を獲得する。\n「熱気」が10/20/30に達した時、それぞれ即座に「灼熱の夏に乾杯！」を発動する。",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1513_rank1.png"
+    },
+    "151302": {
+        "id": "151302",
+        "name": "くつろぎは{RUBY_B#ちょうせき}潮汐{RUBY_E#}に{RUBY_B#に}似{RUBY_E#}て",
+        "rank": 2,
+        "desc": "「熱気」の上限が50にアップし、40/50に達した時にも天賦による「灼熱の夏に乾杯！」が発動する。愉悦スキルを発動した後、追加で「熱気」を4獲得する。",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1513_rank2.png"
+    },
+    "151303": {
+        "id": "151303",
+        "name": "{RUBY_B#こおり}氷{RUBY_E#}で{RUBY_B#ひ}冷{RUBY_E#}えた{RUBY_B#ごご}午後{RUBY_E#}の{RUBY_B#さそ}誘{RUBY_E#}い",
+        "rank": 3,
+        "desc": "戦闘スキルのLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。愉悦スキルのLv.+1、最大Lv.15まで。",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151302", "num": 2 },
+            { "id": "151304", "num": 2 },
+            { "id": "151320", "num": 1 },
+            { "id": "151321", "num": 1 }
+        ],
+        "icon": "icon/skill/1513_skill.png"
+    },
+    "151304": {
+        "id": "151304",
+        "name": "{RUBY_B#ひざ}日差{RUBY_E#}しとの{RUBY_B#とりひき}取引{RUBY_E#}は{RUBY_B#ふよう}不要{RUBY_E#}",
+        "rank": 4,
+        "desc": "アベンチュリン・波と戯れる夏が戦闘スキルを発動する時、味方全体の与ダメージが敵の防御力を18%無視する。3ターン継続。",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1513_rank4.png"
+    },
+    "151305": {
+        "id": "151305",
+        "name": "グランドスラムに{RUBY_B#とつにゅう}突入{RUBY_E#}",
+        "rank": 5,
+        "desc": "必殺技のLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。愉悦スキルのLv.+1、最大Lv.15まで。",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151303", "num": 2 },
+            { "id": "151301", "num": 1 },
+            { "id": "151320", "num": 1 },
+            { "id": "151321", "num": 1 }
+        ],
+        "icon": "icon/skill/1513_ultimate.png"
+    },
+    "151306": {
+        "id": "151306",
+        "name": "{RUBY_B#かこ}過去{RUBY_E#}を1{RUBY_B#ぱい}杯{RUBY_E#}のレースに",
+        "rank": 6,
+        "desc": "アベンチュリン・波と戯れる夏が与える愉悦ダメージが25%上笑する。アベンチュリン・波と戯れる夏が愉悦スキルを2回発動した後、以降に発動する愉悦スキルがすべて「灼熱の夏にオールイン！」に強化され、アッハタイム以外で発動した「灼熱の夏にオールイン！」の追加のダメージは「熱気」を消費しなくなる。",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1513_rank6.png"
     },
     "800101": {
         "id": "800101",

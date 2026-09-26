@@ -1472,7 +1472,7 @@
             [1.95, 2, 1.95, 2.86],
             [2.1, 2, 2.1, 3.08]
         ],
-        "icon": "icon/skill/1014_basic_atk.png"
+        "icon": "icon/skill/1014_basic_atk2.png"
     },
     "101501": {
         "id": "101501",
@@ -1630,7 +1630,7 @@
         "simple_desc": "Keluar dari status \"Circuit Connection\" dan mengakhiri giliran.",
         "desc": "Keluar dari status \"Circuit Connection\" dan mengakhiri giliran.",
         "params": [],
-        "icon": "icon/skill/1015_skill.png"
+        "icon": "icon/skill/1015_common_skip.png"
     },
     "110101": {
         "id": "110101",
@@ -2965,7 +2965,7 @@
             [3.36, 1, 2, 0.78, 0.96],
             [3.5, 1, 2, 0.8125, 1]
         ],
-        "icon": "icon/skill/1109_skill.png"
+        "icon": "icon/skill/1109_skill2.png"
     },
     "111001": {
         "id": "111001",
@@ -3280,7 +3280,7 @@
             [0.26, 1.04],
             [0.28, 1.12]
         ],
-        "icon": "icon/skill/1111_basic_atk.png"
+        "icon": "icon/skill/1111_basic_atk2.png"
     },
     "111201": {
         "id": "111201",
@@ -3595,7 +3595,7 @@
             [3.12, 1.3],
             [3.36, 1.4]
         ],
-        "icon": "icon/skill/1201_basic_atk.png"
+        "icon": "icon/skill/1201_basic_atk2.png"
     },
     "120201": {
         "id": "120201",
@@ -4198,7 +4198,7 @@
             [0.1, 0.52, 0.208, 1.3, 0.52],
             [0.1, 0.56, 0.224, 1.4, 0.56]
         ],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/1205_basic_atk2.png"
     },
     "120601": {
         "id": "120601",
@@ -5243,7 +5243,7 @@
             [3, 1, 1.5],
             [3.125, 1, 1.5625]
         ],
-        "icon": "icon/skill/1212_skill.png"
+        "icon": "icon/skill/1212_skill2.png"
     },
     "121301": {
         "id": "121301",
@@ -5413,7 +5413,7 @@
             [3.38],
             [3.64]
         ],
-        "icon": "icon/skill/1213_basic_atk.png"
+        "icon": "icon/skill/1213_basic_atk2.png"
     },
     "121309": {
         "id": "121309",
@@ -5427,7 +5427,7 @@
         "simple_desc": "Batalkan Penguatan",
         "desc": "Batalkan Penguatan",
         "params": [],
-        "icon": "icon/skill/1213_skill.png"
+        "icon": "icon/skill/1213_common_return.png"
     },
     "121310": {
         "id": "121310",
@@ -5452,7 +5452,7 @@
             [4.94, 0.78],
             [5.32, 0.84]
         ],
-        "icon": "icon/skill/1213_basic_atk.png"
+        "icon": "icon/skill/1213_basic_atk3.png"
     },
     "121312": {
         "id": "121312",
@@ -5477,7 +5477,7 @@
             [6.5, 2.34],
             [7, 2.52]
         ],
-        "icon": "icon/skill/1213_basic_atk.png"
+        "icon": "icon/skill/1213_basic_atk4.png"
     },
     "121401": {
         "id": "121401",
@@ -6230,7 +6230,7 @@
             [0.696, 0.36],
             [0.72, 0.375]
         ],
-        "icon": "icon/skill/1220_ultimate.png"
+        "icon": "icon/skill/1220_ultimate_on2.png"
     },
     "122009": {
         "id": "122009",
@@ -6260,7 +6260,7 @@
             [0.696, 0.36],
             [0.72, 0.375]
         ],
-        "icon": "icon/skill/1220_ultimate.png"
+        "icon": "icon/skill/1220_ultimate_on3.png"
     },
     "122014": {
         "id": "122014",
@@ -6895,7 +6895,7 @@
             [1.04, 0.6, 3, 3],
             [1.12, 0.6, 3, 3]
         ],
-        "icon": "icon/skill/1224_basic_atk.png"
+        "icon": "icon/skill/1224_basic_atk2.png"
     },
     "122501": {
         "id": "122501",
@@ -7065,7 +7065,7 @@
             [1.3, 0.65],
             [1.4, 0.7]
         ],
-        "icon": "icon/skill/1225_basic_atk.png"
+        "icon": "icon/skill/1225_basic_atk2.png"
     },
     "130101": {
         "id": "130101",
@@ -7235,7 +7235,7 @@
             [3.25, 0.18, 2],
             [3.5, 0.19, 2]
         ],
-        "icon": "icon/skill/1301_basic_atk.png"
+        "icon": "icon/skill/1301_basic_atk2.png"
     },
     "130201": {
         "id": "130201",
@@ -7410,7 +7410,7 @@
             [3.248, 6, 1.102, 180],
             [3.36, 6, 1.14, 180]
         ],
-        "icon": "icon/skill/1302_ultimate.png"
+        "icon": "icon/skill/1302_ultimate2.png"
     },
     "130301": {
         "id": "130301",
@@ -8674,7 +8674,7 @@
         "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
         "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
         "params": [],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/1310_basic_atk2.png"
     },
     "131007": {
         "id": "131007",
@@ -8715,7 +8715,7 @@
             [2.6, 0.2],
             [2.8, 0.2]
         ],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/1310_basic_atk2.png"
     },
     "131009": {
         "id": "131009",
@@ -8745,7 +8745,7 @@
             [2.4, 1.2, 0.25, 2, 0.2, 0.1, 3.6],
             [2.5, 1.25, 0.25, 2, 0.2, 0.1, 3.6]
         ],
-        "icon": "icon/skill/1310_skill.png"
+        "icon": "icon/skill/1310_skill2.png"
     },
     "131201": {
         "id": "131201",
@@ -9309,7 +9309,7 @@
         "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
         "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
         "params": [],
-        "icon": "icon/skill/1315_basic_atk.png"
+        "icon": "icon/skill/1315_maze_normal.png"
     },
     "131507": {
         "id": "131507",
@@ -9350,7 +9350,7 @@
             [2.86],
             [3.08]
         ],
-        "icon": "icon/skill/1315_basic_atk.png"
+        "icon": "icon/skill/1315_basic_atk2.png"
     },
     "131701": {
         "id": "131701",
@@ -9520,7 +9520,7 @@
             [1.24, 0.62, 1.24, 0.5],
             [1.32, 0.66, 1.32, 0.5]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "131710": {
         "id": "131710",
@@ -9545,7 +9545,7 @@
             [1.24, 0.62],
             [1.32, 0.66]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "131712": {
         "id": "131712",
@@ -9570,7 +9570,7 @@
             [1.24],
             [1.32]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "131714": {
         "id": "131714",
@@ -9651,7 +9651,7 @@
             [1.24, 0.62, 1.24, 0.5],
             [1.32, 0.66, 1.32, 0.5]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "132101": {
         "id": "132101",
@@ -9971,7 +9971,7 @@
             [0.96, 1, 0.48],
             [1, 1, 0.5]
         ],
-        "icon": "icon/skill/1401_skill.png"
+        "icon": "icon/skill/1401_skill2.png"
     },
     "140201": {
         "id": "140201",
@@ -10141,7 +10141,7 @@
             [2.6, 1.17, 2.6, 1.17],
             [2.8, 1.26, 2.8, 1.26]
         ],
-        "icon": "icon/skill/1402_basic_atk.png"
+        "icon": "icon/skill/1402_basic_atk2.png"
     },
     "140209": {
         "id": "140209",
@@ -10521,7 +10521,7 @@
             [3.36, 2.016, 150],
             [3.5, 2.1, 150]
         ],
-        "icon": "icon/skill/1404_skill.png"
+        "icon": "icon/skill/1404_skill2.png"
     },
     "140501": {
         "id": "140501",
@@ -10986,7 +10986,7 @@
             [0.4, 0.36, 0.6],
             [0.4, 0.375, 0.625]
         ],
-        "icon": "icon/skill/1407_skill.png"
+        "icon": "icon/skill/1407_skill2.png"
     },
     "140801": {
         "id": "140801",
@@ -11186,7 +11186,7 @@
             [3.25, 0.975, 2],
             [3.5, 1.05, 2]
         ],
-        "icon": "icon/skill/1408_basic_atk.png"
+        "icon": "icon/skill/1408_basic_atk2.png"
     },
     "140809": {
         "id": "140809",
@@ -11216,7 +11216,7 @@
             [0.48, 0.75, 4, 0.36, 0.2],
             [0.5, 0.75, 4, 0.375, 0.2]
         ],
-        "icon": "icon/skill/1408_skill.png"
+        "icon": "icon/skill/1408_skill2.png"
     },
     "140811": {
         "id": "140811",
@@ -11246,7 +11246,7 @@
             [5.4, 0.54, 4, 4, 14.04],
             [5.625, 0.5625, 4, 4, 14.625]
         ],
-        "icon": "icon/skill/1408_skill.png"
+        "icon": "icon/skill/1408_skill3.png"
     },
     "140901": {
         "id": "140901",
@@ -11665,7 +11665,7 @@
         "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, akan mengurangi Toughness target musuh sesuai dengan Tipenya.",
         "desc": "Setelah menyerang musuh dan memasuki pertempuran, akan mengurangi Toughness target musuh sesuai dengan Tipenya.",
         "params": [],
-        "icon": "icon/skill/1412_basic_atk.png"
+        "icon": "icon/skill/1412_technique2.png"
     },
     "141207": {
         "id": "141207",
@@ -12169,7 +12169,7 @@
             [0.39, 3, 0.39],
             [0.42, 3, 0.42]
         ],
-        "icon": "icon/skill/1415_basic_atk.png"
+        "icon": "icon/skill/1415_basic_atk2.png"
     },
     "141514": {
         "id": "141514",
@@ -12199,7 +12199,7 @@
             [12],
             [12]
         ],
-        "icon": "icon/skill/1415_ultimate.png"
+        "icon": "icon/skill/1415_ultimate2.png"
     },
     "141519": {
         "id": "141519",
@@ -12383,7 +12383,7 @@
             [1.3, 0.65],
             [1.4, 0.7]
         ],
-        "icon": "icon/skill/1501_basic_atk.png"
+        "icon": "icon/skill/1501_basic_atk2.png"
     },
     "150109": {
         "id": "150109",
@@ -12413,7 +12413,7 @@
             [2, 1, 2, 0.24, 0.12],
             [2, 1, 2, 0.25, 0.125]
         ],
-        "icon": "icon/skill/1501_skill.png"
+        "icon": "icon/skill/1501_skill2.png"
     },
     "150110": {
         "id": "150110",
@@ -12438,7 +12438,7 @@
             [1.3, 0.65],
             [1.4, 0.7]
         ],
-        "icon": "icon/skill/1501_basic_atk.png"
+        "icon": "icon/skill/1501_basic_atk2.png"
     },
     "150120": {
         "id": "150120",
@@ -12468,7 +12468,7 @@
             [0.3, 0.6, 20, 2],
             [0.3125, 0.625, 20, 2]
         ],
-        "icon": null
+        "icon": "icon/skill/1501_elation.png"
     },
     "150201": {
         "id": "150201",
@@ -12643,7 +12643,7 @@
             [1, 1.2, 0.16, 3, 5, 0.24],
             [1, 1.25, 0.16, 3, 5, 0.25]
         ],
-        "icon": null
+        "icon": "icon/skill/1502_elation.png"
     },
     "150401": {
         "id": "150401",
@@ -12963,7 +12963,7 @@
             [5, 1.32],
             [5, 1.375]
         ],
-        "icon": null
+        "icon": "icon/skill/1505_elation.png"
     },
     "150601": {
         "id": "150601",
@@ -13133,7 +13133,7 @@
             [3.12, 0, 100, 1.3, 3, 60, 2, 0.15],
             [3.36, 0, 100, 1.4, 3, 60, 2, 0.15]
         ],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate0.png"
     },
     "150610": {
         "id": "150610",
@@ -13147,7 +13147,7 @@
         "simple_desc": "Mengakibatkan Elation DMG Tipe Imaginary dalam jumlah besar pada seluruh musuh yang dibagi rata di antara seluruh musuh, mengakibatkan True DMG berdasarkan total DMG pada target dengan HP tertinggi.",
         "desc": "Mengakibatkan Elation DMG Tipe Imaginary dalam jumlah besar pada seluruh musuh yang dibagi rata di antara seluruh musuh, mengakibatkan True DMG berdasarkan total DMG pada target dengan HP tertinggi.",
         "params": [],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate1.png"
     },
     "150612": {
         "id": "150612",
@@ -13161,7 +13161,7 @@
         "simple_desc": "Mengakibatkan Elation DMG Tipe Imaginary dalam jumlah besar pada seluruh musuh yang dibagi rata di antara seluruh musuh, memulihkan Poin Skill.",
         "desc": "Mengakibatkan Elation DMG Tipe Imaginary dalam jumlah besar pada seluruh musuh yang dibagi rata di antara seluruh musuh, memulihkan Poin Skill.",
         "params": [],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate2.png"
     },
     "150618": {
         "id": "150618",
@@ -13175,7 +13175,7 @@
         "simple_desc": "Mengakibatkan Elation DMG Tipe Imaginary dalam jumlah besar pada seluruh musuh yang dibagi rata di antara seluruh musuh, memperoleh Punchline.",
         "desc": "Mengakibatkan Elation DMG Tipe Imaginary dalam jumlah besar pada seluruh musuh yang dibagi rata di antara seluruh musuh, memperoleh Punchline.",
         "params": [],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate3.png"
     },
     "150620": {
         "id": "150620",
@@ -13205,7 +13205,7 @@
             [15],
             [15]
         ],
-        "icon": null
+        "icon": "icon/skill/1506_elation.png"
     },
     "150621": {
         "id": "150621",
@@ -13235,7 +13235,7 @@
             [1.08, 6],
             [1.125, 6]
         ],
-        "icon": null
+        "icon": "icon/skill/1506_elation02.png"
     },
     "150701": {
         "id": "150701",
@@ -13272,7 +13272,7 @@
         "effect": "AoEAttack",
         "effect_text": "AoE",
         "simple_desc": "Mengonsumsi HP untuk mengakibatkan Fire DMG pada seluruh musuh, kemudian mengakibatkan Fire DMG dalam jumlah kecil pada 1 musuh, Bounce 4 kali.",
-        "desc": "Mengonsumsi HP sebesar #4[i]% Max HP Mortenax Blade untuk mengakibatkan Fire DMG sebesar #1[f1]% Max HP Mortenax Blade pada seluruh musuh, dan mengakibatkan ekstra DMG sebanyak #2[i] kali, setiap kalinya mengakibatkan Fire DMG sebesar #3[f1]% Max HP Mortenax Blade pada 1 musuh acak.\nJika HP saat ini tidak mencukupi, HP Mortenax Blade saat ini akan berkurang menjadi 1 saat melancarkan Skill.\nSaat tidak berstatus \"Infinite Fury\" atau HP saat ini kurang dari atau sama dengan 1, Mortenax Blade tidak dapat melancarkan Skill.\nMelancarkan Skill tidak mengonsumsi Poin Skill.",
+        "desc": "Mengonsumsi HP sebesar #4[f1]% Max HP Mortenax Blade untuk mengakibatkan Fire DMG sebesar #1[i]% Max HP Mortenax Blade pada seluruh musuh, dan mengakibatkan ekstra DMG sebanyak #2[i] kali, setiap kalinya mengakibatkan Fire DMG sebesar #3[f1]% Max HP Mortenax Blade pada 1 musuh acak.\nJika HP saat ini tidak mencukupi, HP Mortenax Blade saat ini akan berkurang menjadi 1 saat melancarkan Skill.\nSaat tidak berstatus \"Infinite Fury\" atau HP saat ini kurang dari atau sama dengan 1, Mortenax Blade tidak dapat melancarkan Skill.\nMelancarkan Skill tidak mengonsumsi Poin Skill.",
         "params": [
             [0.36, 4, 0.12, 0.1],
             [0.396, 4, 0.132, 0.1],
@@ -13405,7 +13405,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1507_basic_atk.png"
+        "icon": "icon/skill/1507_basic_atk2.png"
     },
     "150709": {
         "id": "150709",
@@ -13465,7 +13465,1087 @@
             [4.06],
             [4.2]
         ],
-        "icon": "icon/skill/1507_ultimate.png"
+        "icon": "icon/skill/1507_ultimate2.png"
+    },
+    "150801": {
+        "id": "150801",
+        "name": "Bajiquan",
+        "max_level": 10,
+        "element": "Quantum",
+        "type": "Normal",
+        "type_text": "Basic ATK",
+        "effect": "SingleAttack",
+        "effect_text": "Single Target",
+        "simple_desc": "Mengakibatkan Quantum DMG dalam jumlah kecil pada 1 musuh yang ditargetkan.",
+        "desc": "Mengakibatkan Quantum DMG sebesar #1[i]% ATK Rin Tohsaka pada 1 musuh yang ditargetkan.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1508_basic_atk.png"
+    },
+    "150802": {
+        "id": "150802",
+        "name": "Jeweled Sword Zelretch",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Skill",
+        "effect": "SingleAttack",
+        "effect_text": "Single Target",
+        "simple_desc": "Mengakibatkan Quantum DMG pada 1 musuh yang ditargetkan.",
+        "desc": "Mengakibatkan Quantum DMG sebesar #1[i]% ATK Rin Tohsaka pada 1 musuh yang ditargetkan.",
+        "params": [
+            [0.9],
+            [0.99],
+            [1.08],
+            [1.17],
+            [1.26],
+            [1.35],
+            [1.4625],
+            [1.575],
+            [1.6875],
+            [1.8],
+            [1.89],
+            [1.98],
+            [2.07],
+            [2.16],
+            [2.25]
+        ],
+        "icon": "icon/skill/1508_skill.png"
+    },
+    "150803": {
+        "id": "150803",
+        "name": "An Gal Ta Ki Gal Šè",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Ultra",
+        "type_text": "Ultimate",
+        "effect": "AoEAttack",
+        "effect_text": "AoE",
+        "simple_desc": "Mengakibatkan Quantum DMG dalam jumlah besar pada 1 musuh yang ditargetkan dan Quantum DMG pada target musuh lainnya. Saat dilancarkan, meningkatkan DMG yang diterima seluruh musuh dan memulihkan Poin Skill rekan tim.",
+        "desc": "Mengakibatkan Quantum DMG sebesar #1[i]% ATK Rin Tohsaka pada 1 musuh yang ditargetkan, serta mengakibatkan Quantum DMG sebesar #2[i]% ATK Rin Tohsaka pada target musuh lainnya. Saat dilancarkan, memulihkan #4[i] Poin Skill untuk rekan tim, dan membuat DMG yang diterima seluruh musuh meningkat #5[i]% selama #6[i] giliran.",
+        "params": [
+            [3, 1, 12, 1, 0.1, 3],
+            [3.3, 1.1, 12, 1, 0.11, 3],
+            [3.6, 1.2, 12, 1, 0.12, 3],
+            [3.9, 1.3, 12, 1, 0.13, 3],
+            [4.2, 1.4, 12, 1, 0.14, 3],
+            [4.5, 1.5, 12, 1, 0.15, 3],
+            [4.875, 1.625, 12, 1, 0.1625, 3],
+            [5.25, 1.75, 12, 1, 0.175, 3],
+            [5.625, 1.875, 12, 1, 0.1875, 3],
+            [6, 2, 12, 1, 0.2, 3],
+            [6.3, 2.1, 12, 1, 0.21, 3],
+            [6.6, 2.2, 12, 1, 0.22, 3],
+            [6.9, 2.3, 12, 1, 0.23, 3],
+            [7.2, 2.4, 12, 1, 0.24, 3],
+            [7.5, 2.5, 12, 1, 0.25, 3]
+        ],
+        "icon": "icon/skill/1508_ultimate.png"
+    },
+    "150804": {
+        "id": "150804",
+        "name": "Gem Magecraft",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "Enhance",
+        "effect_text": "Enhance",
+        "simple_desc": "Saat memasuki pertempuran, memperoleh 20 poin \"Gem Energy\". Saat rekan tim mengonsumsi atau memulihkan Poin Skill, akan meningkatkan CRIT DMG rekan tersebut dan membuat Rin Tohsaka memperoleh \"Gem Energy\". Jika Rin Tohsaka memiliki \"Gem Energy\" yang lebih dari atau sama dengan 15 poin atau Poin Skill saat ini lebih dari atau sama dengan 7 poin, maka Skill akan diperkuat menjadi \"Second Magic Experiment\".",
+        "desc": "Saat memasuki pertempuran, memperoleh #1[i] poin \"Gem Energy\". Saat rekan tim mengonsumsi atau memulihkan Poin Skill, CRIT DMG-nya meningkat #3[i]% selama #2[i] giliran, dan setiap mengonsumsi atau memulihkan 1 Poin Skill akan membuat Rin Tohsaka memperoleh 1 poin \"Gem Energy\". Jika \"Gem Energy\" yang dimiliki Rin Tohsaka lebih dari atau sama dengan #5[i] poin atau Poin Skill saat ini lebih dari atau sama dengan #4[i] poin, Skill akan diperkuat menjadi \"Second Magic Experiment\".",
+        "params": [
+            [20, 2, 0.35, 7, 15, 999],
+            [20, 2, 0.385, 7, 15, 999],
+            [20, 2, 0.42, 7, 15, 999],
+            [20, 2, 0.455, 7, 15, 999],
+            [20, 2, 0.49, 7, 15, 999],
+            [20, 2, 0.525, 7, 15, 999],
+            [20, 2, 0.5687, 7, 15, 999],
+            [20, 2, 0.6125, 7, 15, 999],
+            [20, 2, 0.6562, 7, 15, 999],
+            [20, 2, 0.7, 7, 15, 999],
+            [20, 2, 0.735, 7, 15, 999],
+            [20, 2, 0.77, 7, 15, 999],
+            [20, 2, 0.805, 7, 15, 999],
+            [20, 2, 0.84, 7, 15, 999],
+            [20, 2, 0.875, 7, 15, 999]
+        ],
+        "icon": "icon/skill/1508_talent.png"
+    },
+    "150805": {
+        "id": "150805",
+        "name": "Freeform Tohsaka Style",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "AoEAttack",
+        "effect_text": "AoE",
+        "simple_desc": "Setelah Archer melancarkan serangan Skill \"Caladbolg II: Fake Spiral Sword\", jika Poin Skill kurang dari atau sama dengan 3 poin, atau telah melancarkan \"Caladbolg II: Fake Spiral Sword\" secara aktif sebanyak 5 kali dalam status \"Circuit Connection\" kali ini dan belum memicu Serangan Lanjutan berantai dari \"Freeform Tohsaka Style\", Rin Tohsaka dan Archer melancarkan Serangan Lanjutan berantai pada seluruh musuh, mengakibatkan Quantum DMG dalam jumlah besar dan memulihkan Poin Skill rekan tim. Serangan Lanjutan berantai ini hanya dapat dipicu 1 kali, jumlah pemicuan akan di-reset saat giliran Rin Tohsaka berakhir.",
+        "desc": "Setelah Archer melancarkan serangan Skill \"Caladbolg II: Fake Spiral Sword\", jika Poin Skill kurang dari atau sama dengan #3[i] poin, atau telah melancarkan \"Caladbolg II: Fake Spiral Sword\" secara aktif 5 kali dalam status \"Circuit Connection\" kali ini dan belum memicu Serangan Lanjutan berantai dari \"Freeform Tohsaka Style\", Rin Tohsaka dan Archer melancarkan Serangan Lanjutan berantai pada seluruh musuh, masing-masing mengakibatkan Quantum DMG sebesar #1[i]% ATK Rin Tohsaka dan #4[i]% ATK Archer, serta memulihkan #2[i] Poin Skill untuk rekan tim. Serangan Lanjutan berantai ini hanya dapat dipicu 1 kali, jumlah pemicuan akan di-reset saat giliran Rin Tohsaka berakhir.",
+        "params": [
+            [1.5, 4, 3, 1.5],
+            [1.65, 4, 3, 1.65],
+            [1.8, 4, 3, 1.8],
+            [1.95, 4, 3, 1.95],
+            [2.1, 4, 3, 2.1],
+            [2.25, 4, 3, 2.25],
+            [2.4375, 4, 3, 2.4375],
+            [2.625, 4, 3, 2.625],
+            [2.8125, 4, 3, 2.8125],
+            [3, 4, 3, 3],
+            [3.15, 4, 3, 3.15],
+            [3.3, 4, 3, 3.3],
+            [3.45, 4, 3, 3.45],
+            [3.6, 4, 3, 3.6],
+            [3.75, 4, 3, 3.75]
+        ],
+        "icon": "icon/skill/1508_talent.png"
+    },
+    "150806": {
+        "id": "150806",
+        "name": "Attack",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
+        "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
+        "params": [],
+        "icon": "icon/skill/1508_technique2.png"
+    },
+    "150807": {
+        "id": "150807",
+        "name": "Conversion Charge",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Technique",
+        "effect": "Enhance",
+        "effect_text": "Enhance",
+        "simple_desc": "Setelah menggunakan Technique, memperoleh 10 poin \"Gem Energy\" saat pertempuran berikutnya dimulai.",
+        "desc": "Setelah menggunakan Technique, memperoleh #1[i] poin \"Gem Energy\" saat pertempuran berikutnya dimulai.",
+        "params": [
+            [10, 2, 2]
+        ],
+        "icon": "icon/skill/1508_technique.png"
+    },
+    "150809": {
+        "id": "150809",
+        "name": "Second Magic Experiment",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Skill",
+        "effect": "Bounce",
+        "effect_text": "Bounce",
+        "simple_desc": "Mengakibatkan Quantum DMG dalam jumlah kecil pada seluruh musuh, kemudian mengonsumsi \"Gem Energy\" untuk mengakibatkan beberapa kali ekstra Quantum DMG dalam jumlah kecil pada satu target musuh acak. Saat dilancarkan, jika Poin Skill saat ini lebih dari 2 poin, akan mengonsumsi Poin Skill hingga 2 poin, dan setiap mengonsumsi 1 poin akan segera memperoleh 2 poin \"Gem Energy\".",
+        "desc": "Mengakibatkan Quantum DMG sebesar #1[i]% ATK Rin Tohsaka pada seluruh musuh. Setelahnya, mengonsumsi #2[i] poin \"Gem Energy\" untuk mengakibatkan ekstra Quantum DMG sebesar #3[i]% ATK Rin Tohsaka pada satu target musuh acak, diulang sampai \"Gem Energy\" kurang dari #2[i] poin atau tidak ada target musuh yang HP-nya saat ini lebih dari 0, maksimal diulang hingga #6[i] putaran. Saat dilancarkan, jika Poin Skill saat ini lebih dari #4[i] poin, akan mengonsumsi Poin Skill hingga #4[i] poin, dan setiap mengonsumsi 1 poin akan segera memperoleh #5[i] poin \"Gem Energy\".",
+        "params": [
+            [0.45, 3, 0.45, 2, 2, 33, 0, 1],
+            [0.495, 3, 0.495, 2, 2, 33, 0, 1],
+            [0.54, 3, 0.54, 2, 2, 33, 0, 1],
+            [0.585, 3, 0.585, 2, 2, 33, 0, 1],
+            [0.63, 3, 0.63, 2, 2, 33, 0, 1],
+            [0.675, 3, 0.675, 2, 2, 33, 0, 1],
+            [0.7312, 3, 0.7312, 2, 2, 33, 0, 1],
+            [0.7875, 3, 0.7875, 2, 2, 33, 0, 1],
+            [0.8438, 3, 0.8438, 2, 2, 33, 0, 1],
+            [0.9, 3, 0.9, 2, 2, 33, 0, 1],
+            [0.945, 3, 0.945, 2, 2, 33, 0, 1],
+            [0.99, 3, 0.99, 2, 2, 33, 0, 1],
+            [1.035, 3, 1.035, 2, 2, 33, 0, 1],
+            [1.08, 3, 1.08, 2, 2, 33, 0, 1],
+            [1.125, 3, 1.125, 2, 2, 33, 0, 1]
+        ],
+        "icon": "icon/skill/1508_skill2.png"
+    },
+    "150901": {
+        "id": "150901",
+        "name": "Halfhearted Blow",
+        "max_level": 10,
+        "element": "Thunder",
+        "type": "Normal",
+        "type_text": "Basic ATK",
+        "effect": "SingleAttack",
+        "effect_text": "Single Target",
+        "simple_desc": "Mengakibatkan Lightning DMG dalam jumlah kecil pada 1 musuh.",
+        "desc": "Mengakibatkan Lightning DMG sebesar #1[i]% ATK Gilgamesh pada 1 musuh yang ditargetkan.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1509_basic_atk.png"
+    },
+    "150902": {
+        "id": "150902",
+        "name": "Gate of Babylon",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "BPSkill",
+        "type_text": "Skill",
+        "effect": "Blast",
+        "effect_text": "Blast",
+        "simple_desc": "Memperoleh \"King's Acknowledgement\". Saat unit ini mengakibatkan DMG akan mengabaikan sebagian DEF target. Mengakibatkan Lightning DMG pada 1 musuh, dan mengakibatkan Lightning DMG pada target di sekitar.",
+        "desc": "Memperoleh \"King's Acknowledgement\", membuat serangan yang diakibatkan diri sendiri mengabaikan #5[i]% DEF target, berlangsung selama #6[i] giliran.\nMengakibatkan Lightning DMG sebesar #1[i]% ATK Gilgamesh kepada 1 musuh yang ditargetkan, dan Lightning DMG sebesar #2[i]% ATK Gilgamesh kepada target di sekitar.",
+        "params": [
+            [1.4, 0.7, 0.1, 10, 0.15, 3, 2],
+            [1.54, 0.77, 0.11, 10, 0.165, 3, 2],
+            [1.68, 0.84, 0.12, 10, 0.18, 3, 2],
+            [1.82, 0.91, 0.13, 10, 0.195, 3, 2],
+            [1.96, 0.98, 0.14, 10, 0.21, 3, 2],
+            [2.1, 1.05, 0.15, 10, 0.225, 3, 2],
+            [2.275, 1.1375, 0.1625, 10, 0.2437, 3, 2],
+            [2.45, 1.225, 0.175, 10, 0.2625, 3, 2],
+            [2.625, 1.3125, 0.1875, 10, 0.2812, 3, 2],
+            [2.8, 1.4, 0.2, 10, 0.3, 3, 2],
+            [2.94, 1.47, 0.21, 10, 0.315, 3, 2],
+            [3.08, 1.54, 0.22, 10, 0.33, 3, 2],
+            [3.22, 1.61, 0.23, 10, 0.345, 3, 2],
+            [3.36, 1.68, 0.24, 10, 0.36, 3, 2],
+            [3.5, 1.75, 0.25, 10, 0.375, 3, 2]
+        ],
+        "icon": "icon/skill/1509_skill.png"
+    },
+    "150903": {
+        "id": "150903",
+        "name": "Enuma Elish",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "Ultra",
+        "type_text": "Ultimate",
+        "effect": "AoEAttack",
+        "effect_text": "AoE",
+        "simple_desc": "Mengakibatkan Lightning DMG dalam jumlah besar pada seluruh musuh. Mengakibatkan ekstra Lightning DMG dalam jumlah kecil pada musuh acak, total Bounce 10 kali.",
+        "desc": "Mengakibatkan Lightning DMG sebesar #1[i]% ATK Gilgamesh pada seluruh musuh. Serta mengakibatkan ekstra #3[i] kali DMG, yang setiap serangannya mengakibatkan Lightning DMG sebesar #2[i]% ATK Gilgamesh pada 1 musuh acak.",
+        "params": [
+            [2, 0.5, 10],
+            [2.2, 0.55, 10],
+            [2.4, 0.6, 10],
+            [2.6, 0.65, 10],
+            [2.8, 0.7, 10],
+            [3, 0.75, 10],
+            [3.25, 0.8125, 10],
+            [3.5, 0.875, 10],
+            [3.75, 0.9375, 10],
+            [4, 1, 10],
+            [4.2, 1.05, 10],
+            [4.4, 1.1, 10],
+            [4.6, 1.15, 10],
+            [4.8, 1.2, 10],
+            [5, 1.25, 10]
+        ],
+        "icon": "icon/skill/1509_ultimate.png"
+    },
+    "150904": {
+        "id": "150904",
+        "name": "\"Amuse Me to the Fullest\"",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "Enhance",
+        "effect_text": "Enhance",
+        "simple_desc": "Saat rekan tim melancarkan Ultimate, Gilgamesh memperoleh \"King's Burden\" dan membuat Ultimate DMG yang diakibatkan unit ini meningkat.\nSaat awal giliran diri sendiri dimulai, otomatis melancarkan Basic Attack. Saat rekan tim lainnya beraksi, Gilgamesh memperoleh 1 poin \"Interest\". Setiap memiliki 1 poin \"Interest\", membuat SPD unit ini meningkat.\nSaat \"Interest\" mencapai 10 poin untuk pertama kalinya, akan memasuki status \"Interest Piqued!\", dalam status ini hanya dapat melancarkan Skill, dan berlangsung di sepanjang pertempuran. Setelah melancarkan Skill, menghapus \"Interest\" miliknya.",
+        "desc": "Saat rekan tim melancarkan Ultimate, Gilgamesh memperoleh \"King's Burden\", Ultimate DMG yang diakibatkannya meningkat #3[i]%, berlangsung selama #1[i] giliran.\nSaat awal giliran diri sendiri dimulai, otomatis melancarkan Basic Attack. Saat rekan tim lainnya beraksi, Gilgamesh memperoleh 1 poin \"Interest\", setiap 1 poin \"Interest\" yang dimiliki meningkatkan #4[i]% SPD dirinya.\nSaat \"Interest\" pertama kali mencapai #2[i] poin, memasuki status \"Interest Piqued!\", dalam status ini hanya dapat melancarkan Skill, dan berlangsung di sepanjang pertempuran. Setelah melancarkan Skill, menghapus \"Interest\" dirinya.",
+        "params": [
+            [3, 10, 0.2, 0.1],
+            [3, 10, 0.22, 0.1],
+            [3, 10, 0.24, 0.1],
+            [3, 10, 0.26, 0.1],
+            [3, 10, 0.28, 0.1],
+            [3, 10, 0.3, 0.1],
+            [3, 10, 0.325, 0.1],
+            [3, 10, 0.35, 0.1],
+            [3, 10, 0.375, 0.1],
+            [3, 10, 0.4, 0.1],
+            [3, 10, 0.42, 0.1],
+            [3, 10, 0.44, 0.1],
+            [3, 10, 0.46, 0.1],
+            [3, 10, 0.48, 0.1],
+            [3, 10, 0.5, 0.1]
+        ],
+        "icon": "icon/skill/1509_talent.png"
+    },
+    "150905": {
+        "id": "150905",
+        "name": "\"I Grant You Permission To Strike\"",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "AoEAttack",
+        "effect_text": "AoE",
+        "simple_desc": "Saat Gilgamesh atau Saber menyerang, akan mengakumulasi jumlah serangan. Setelah unit mana pun menyerang, jika jumlah serangan yang terakumulasi mencapai 8, Gilgamesh dan Saber akan melancarkan Serangan Lanjutan berantai yang mengakibatkan Lightning DMG dalam jumlah besar dan Wind DMG dalam jumlah besar pada seluruh musuh. Gilgamesh memperoleh 3 poin \"Interest\", lalu Saber memulihkan Energy dan meningkatkan ekstra DMG untuk Ultimate berikutnya.",
+        "desc": "Saat Gilgamesh atau Saber menyerang, akan mengakumulasi 1 jumlah serangan. Setelah unit apa pun menyerang, jika akumulasi jumlah serangan mencapai #5[i], Gilgamesh dan Saber akan melancarkan Serangan Lanjutan berantai, masing-masing mengakibatkan Lightning DMG pada seluruh musuh sebesar #1[i]% ATK Gilgamesh dan Wind DMG sebesar #2[i]% ATK Saber. Setelah itu, Gilgamesh memperoleh #3[i] poin \"Interest\", dan Saber memulihkan #4[i] Energy dalam jumlah tetap, serta membuat DMG yang diakibatkan pada saat melancarkan Ultimate berikutnya menjadi #6[i]% dari DMG aslinya.\nSetelah melancarkan Serangan Lanjutan berantai, seluruh akumulasi jumlah serangan akan dikosongkan.",
+        "params": [
+            [2, 3, 3, 120, 8, 1.2],
+            [2.2, 3.3, 3, 120, 8, 1.28],
+            [2.4, 3.6, 3, 120, 8, 1.36],
+            [2.6, 3.9, 3, 120, 8, 1.44],
+            [2.8, 4.2, 3, 120, 8, 1.52],
+            [3, 4.5, 3, 120, 8, 1.6],
+            [3.25, 4.875, 3, 120, 8, 1.7],
+            [3.5, 5.25, 3, 120, 8, 1.8],
+            [3.75, 5.625, 3, 120, 8, 1.9],
+            [4, 6, 3, 120, 8, 2],
+            [4.2, 6.3, 3, 120, 8, 2.08],
+            [4.4, 6.6, 3, 120, 8, 2.16],
+            [4.6, 6.9, 3, 120, 8, 2.24],
+            [4.8, 7.2, 3, 120, 8, 2.32],
+            [5, 7.5, 3, 120, 8, 2.4]
+        ],
+        "icon": "icon/skill/1509_talent.png"
+    },
+    "150906": {
+        "id": "150906",
+        "name": "Attack",
+        "max_level": 1,
+        "element": "Thunder",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
+        "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
+        "params": [],
+        "icon": "icon/skill/1509_basic_atk.png"
+    },
+    "150907": {
+        "id": "150907",
+        "name": "Enkidu",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Technique",
+        "effect": "Impair",
+        "effect_text": "Impair",
+        "simple_desc": "Menciptakan dimensi khusus. Musuh yang berada dalam dimensi khusus akan memasuki status \"King's Permission\" dan semua aksinya dihentikan.\nMenyerang musuh yang berstatus \"King's Permission\" akan membuat semua musuh yang berstatus \"King's Permission\" memasuki pertempuran di saat yang sama. Setelah memasuki pertempuran, akan mengakibatkan Lightning DMG pada seluruh musuh dan segera memperoleh 3 poin \"Interest\".",
+        "desc": "Setelah menggunakan Technique, menciptakan 1 dimensi khusus yang berlangsung selama #1[i] detik. Musuh yang berada di dalam dimensi khusus akan memasuki status \"King's Permission\", musuh yang berstatus \"King's Permission\" akan menghentikan seluruh aksinya.\nSaat aktif menyerang musuh yang berstatus \"King's Permission\" untuk memasuki pertempuran, membuat seluruh musuh yang berstatus \"King's Permission\" memasuki pertempuran secara bersamaan. Setelah memasuki pertempuran, mengakibatkan Lightning DMG pada seluruh musuh sebesar #2[i]% ATK Gilgamesh, dan Gilgamesh segera memperoleh #3[i] poin \"Interest\". Maksimal hanya ada 1 Efek Dimensi yang diciptakan oleh rekan tim.",
+        "params": [
+            [10, 2, 3]
+        ],
+        "icon": "icon/skill/1509_technique.png"
+    },
+    "150909": {
+        "id": "150909",
+        "name": "Halfhearted Blow",
+        "max_level": 10,
+        "element": "Thunder",
+        "type": "BPSkill",
+        "type_text": "Skill",
+        "effect": "SingleAttack",
+        "effect_text": "Single Target",
+        "simple_desc": "",
+        "desc": "",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1509_basic_atk.png"
+    },
+    "151001": {
+        "id": "151001",
+        "name": "Enkindle the First Lodestar",
+        "max_level": 10,
+        "element": "Fire",
+        "type": "Normal",
+        "type_text": "Basic ATK",
+        "effect": "SingleAttack",
+        "effect_text": "Single Target",
+        "simple_desc": "Mengakibatkan Fire DMG dalam jumlah kecil pada 1 musuh.",
+        "desc": "Mengakibatkan Fire DMG sebesar #1[i]% ATK Himeko • Nova pada 1 musuh.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1510_basic_atk.png"
+    },
+    "151002": {
+        "id": "151002",
+        "name": "Upraise the Vanward Cresset",
+        "max_level": 15,
+        "element": "",
+        "type": "BPSkill",
+        "type_text": "Skill",
+        "effect": "Support",
+        "effect_text": "Support",
+        "simple_desc": "Setelah melancarkan Skill, segera memulihkan seluruh kesempatan penggunaan Skill Dukungan, dan Himeko • Nova memperoleh \"Navigator's Semaphore\". Saat Himeko • Nova memiliki \"Navigator's Semaphore\", DMG yang diakibatkan meningkat, dan pada awal setiap giliran, segera memulihkan 1 kali kesempatan penggunaan Skill Dukungan.",
+        "desc": "Setelah melancarkan Skill, segera memulihkan semua kesempatan penggunaan Skill Dukungan, dan Himeko • Nova memperoleh \"Navigator's Semaphore\", berlangsung selama #2[i] giliran, dan durasinya berkurang 1 setiap saat giliran Himeko • Nova dimulai. Saat Himeko • Nova memiliki \"Navigator's Semaphore\", DMG yang diakibatkan seluruh rekan tim meningkat #1[i]%, dan setiap saat giliran dimulai, segera memulihkan 1 kesempatan penggunaan Skill Dukungan.",
+        "params": [
+            [0.1, 3],
+            [0.11, 3],
+            [0.12, 3],
+            [0.13, 3],
+            [0.14, 3],
+            [0.15, 3],
+            [0.1625, 3],
+            [0.175, 3],
+            [0.1875, 3],
+            [0.2, 3],
+            [0.21, 3],
+            [0.22, 3],
+            [0.23, 3],
+            [0.24, 3],
+            [0.25, 3]
+        ],
+        "icon": "icon/skill/1510_skill.png"
+    },
+    "151003": {
+        "id": "151003",
+        "name": "We, Too, Stride the Stars",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Ultimate",
+        "effect": "AoEAttack",
+        "effect_text": "AoE",
+        "simple_desc": "Selama Ultimate, dapat melancarkan \"Hyperluminal Particle Beam\" atau \"Orbital Annihilation Pulse\" pada seluruh musuh. Terakhir, mengakibatkan Fire DMG pada 3 target musuh acak.",
+        "desc": "Segera mengendalikan \"Starblazer\". \"Starblazer\" memiliki \"Hyperluminal Particle Beam\" yang dapat dilancarkan 6 kali pada musuh, atau memiliki \"Orbital Annihilation Pulse\" yang dapat dilancarkan pada 1 musuh yang ditargetkan dengan mengonsumsi \"Source Energy\", yang mengakibatkan Fire DMG maksimal hingga #9[i]% ATK Himeko • Nova, mengakibatkan Fire DMG maksimal hingga #10[i]% ATK Himeko • Nova pada target lainnya.\nSaat kesempatan pelancaran \"Hyperluminal Particle Beam\" habis, akan otomatis melancarkan \"Orbital Annihilation Pulse\", kemudian melancarkan Final Hit, mengakibatkan DMG sebanyak #6[i] kali, yang setiap kalinya mengakibatkan Fire DMG sebesar #7[i]% ATK Himeko • Nova pada 1 musuh acak.\nSaat \"Hyperluminal Particle Beam\" atau \"Orbital Annihilation Pulse\" yang dilancarkan pada seluruh musuh di medan pertempuran mengakibatkan DMG mematikan atau HP musuh tidak bisa dikurangi lagi, akan segera melancarkan Final Hit.",
+        "params": [
+            [0.16, 1, 0.1, 1, 0.15, 3, 0.4, 3, 3.81, 1.26],
+            [0.176, 1, 0.11, 1, 0.165, 3, 0.44, 3, 4.191, 1.386],
+            [0.192, 1, 0.12, 1, 0.18, 3, 0.48, 3, 4.572, 1.512],
+            [0.208, 1, 0.13, 1, 0.195, 3, 0.52, 3, 4.953, 1.638],
+            [0.224, 1, 0.14, 1, 0.21, 3, 0.56, 3, 5.334, 1.764],
+            [0.24, 1, 0.15, 1, 0.225, 3, 0.6, 3, 5.715, 1.89],
+            [0.26, 1, 0.1625, 1, 0.2437, 3, 0.65, 3, 6.1913, 2.0475],
+            [0.28, 1, 0.175, 1, 0.2625, 3, 0.7, 3, 6.6675, 2.205],
+            [0.3, 1, 0.1875, 1, 0.2812, 3, 0.75, 3, 7.1437, 2.3625],
+            [0.32, 1, 0.2, 1, 0.3, 3, 0.8, 3, 7.62, 2.52],
+            [0.336, 1, 0.21, 1, 0.315, 3, 0.84, 3, 8.001, 2.646],
+            [0.352, 1, 0.22, 1, 0.33, 3, 0.88, 3, 8.382, 2.772],
+            [0.368, 1, 0.23, 1, 0.345, 3, 0.92, 3, 8.763, 2.898],
+            [0.384, 1, 0.24, 1, 0.36, 3, 0.96, 3, 9.144, 3.024],
+            [0.4, 1, 0.25, 1, 0.375, 3, 1, 3, 9.525, 3.15]
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151004": {
+        "id": "151004",
+        "name": "Of Fire and Far Faring",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "Enhance",
+        "effect_text": "Enhance",
+        "simple_desc": "Saat Himeko • Nova berada di medan pertempuran, akan menciptakan Teritorial, membuat seluruh karakter tim memperoleh Skill Dukungan. Saat karakter tim menggunakan Skill Dukungan, Himeko • Nova memperoleh peningkatan RES PEN Seluruh Tipe dan CRIT DMG, serta saat menyerang akan mengabaikan Tipe Weakness untuk mengurangi Toughness.\nSaat karakter tim selain Himeko • Nova menggunakan Skill Dukungan, akan memulihkan Energy-nya.",
+        "desc": "Saat Himeko • Nova berada di medan pertempuran, segera menciptakan Teritorial \"Starblazer Visioscape\", \"Starblazer\" muncul di medan pertempuran, dan membuat seluruh karakter tim memperoleh 1 kali penggunaan Skill Dukungan. Karakter tim dapat menggunakan Skill Dukungan untuk memanggil \"Starblazer\" menyerang musuh.\nPenggunaan Skill Dukungan dianggap sebagai Himeko • Nova melancarkan Skill, Himeko • Nova memperoleh peningkatan RES PEN seluruh tipe sebesar #2[i]% dan peningkatan CRIT DMG sebesar #1[i]%, saat menyerang dapat mengabaikan Tipe Weakness untuk mengurangi Toughness musuh, dan saat mengakibatkan Weakness Break, memicu efek Fire Weakness Break.\nSaat karakter tim selain Himeko • Nova menggunakan Skill Dukungan, akan memulihkan #3[i] Energy untuknya.",
+        "params": [
+            [0.4, 0.1, 4],
+            [0.44, 0.11, 4],
+            [0.48, 0.12, 4],
+            [0.52, 0.13, 4],
+            [0.56, 0.14, 4],
+            [0.6, 0.15, 4],
+            [0.65, 0.1625, 4],
+            [0.7, 0.175, 4],
+            [0.75, 0.1875, 4],
+            [0.8, 0.2, 4],
+            [0.84, 0.21, 4],
+            [0.88, 0.22, 4],
+            [0.92, 0.23, 4],
+            [0.96, 0.24, 4],
+            [1, 0.25, 4]
+        ],
+        "icon": "icon/skill/1510_talent.png"
+    },
+    "151006": {
+        "id": "151006",
+        "name": "Attack",
+        "max_level": 1,
+        "element": "Fire",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
+        "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughnessnya.",
+        "params": [],
+        "icon": "icon/skill/1510_basic_atk.png"
+    },
+    "151007": {
+        "id": "151007",
+        "name": "Starcharter Cruise",
+        "max_level": 1,
+        "element": "Fire",
+        "type": "Maze",
+        "type_text": "Technique",
+        "effect": "Enhance",
+        "effect_text": "Enhance",
+        "simple_desc": "Batas maksimum Poin Technique meningkat 3 poin. Aktif menggunakan Technique akan memasuki status \"Cruise\", mengonsumsi 2 Poin Technique untuk menyerang semua musuh dalam jangkauan tertentu. Setelah memasuki pertempuran, melancarkan 1 kali Skill saat setiap gelombang dimulai.\nJika menyerang musuh biasa, akan segera memusnahkannya dan tidak akan memasuki pertempuran. Poin Technique tidak akan dikonsumsi jika tidak mengenai musuh.",
+        "desc": "Saat Himeko • Nova berada di dalam tim, batas maksimum Poin Technique meningkat 3 poin.\nSetelah menggunakan Technique, memasuki status \"Cruise\" selama #1[i] detik. Melancarkan Technique secara aktif dapat mengonsumsi 2 Poin Technique untuk segera menyerang semua musuh dalam jangkauan tertentu. Setelah memasuki pertempuran, segera melancarkan 1 kali Skill saat setiap gelombang dimulai.\nJika menyerang musuh biasa, akan segera memusnahkannya dan tidak akan memasuki pertempuran. Poin Technique tidak akan dikonsumsi jika tidak mengenai musuh.",
+        "params": [
+            [30]
+        ],
+        "icon": "icon/skill/1510_technique.png"
+    },
+    "151008": {
+        "id": "151008",
+        "name": "Hyperluminal Particle Beam",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Ultimate",
+        "effect": "AoEAttack",
+        "effect_text": "AoE",
+        "simple_desc": "Mengakibatkan Fire DMG dalam jumlah kecil pada seluruh musuh. Memperoleh 1 poin \"Source Energy\", maksimal dapat memperoleh 3 \"Source Energy\".",
+        "desc": "Mengakibatkan Fire DMG sebesar #1[i]% ATK Himeko • Nova pada seluruh musuh, memperoleh #2[i] poin \"Source Energy\", maksimal dapat memperoleh #3[i] \"Source Energy\".",
+        "params": [
+            [0.16, 1, 3],
+            [0.176, 1, 3],
+            [0.192, 1, 3],
+            [0.208, 1, 3],
+            [0.224, 1, 3],
+            [0.24, 1, 3],
+            [0.26, 1, 3],
+            [0.28, 1, 3],
+            [0.3, 1, 3],
+            [0.32, 1, 3],
+            [0.336, 1, 3],
+            [0.352, 1, 3],
+            [0.368, 1, 3],
+            [0.384, 1, 3],
+            [0.4, 1, 3]
+        ],
+        "icon": "icon/skill/1510_basic_atk2.png"
+    },
+    "151009": {
+        "id": "151009",
+        "name": "Orbital Annihilation Pulse",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Ultimate",
+        "effect": "AoEAttack",
+        "effect_text": "AoE",
+        "simple_desc": "Mengonsumsi 1 poin \"Source Energy\" untuk mengakibatkan Fire DMG dalam jumlah kecil pada seluruh musuh. Saat \"Source Energy\" saat ini lebih dari 1 poin, setiap mengonsumsi 1 poin \"Source Energy\", mengakibatkan 1 kali Fire DMG dalam jumlah kecil pada 1 musuh acak.",
+        "desc": "Mengonsumsi 1 poin \"Source Energy\" untuk mengakibatkan Fire DMG sebesar #1[i]% ATK Himeko • Nova pada seluruh musuh. Saat \"Source Energy\" saat ini lebih dari 1 poin, setiap mengonsumsi #2[i] poin \"Source Energy\", akan mengakibatkan ekstra 1 kali Fire DMG sebesar #3[i]% ATK Himeko • Nova pada 1 musuh acak.",
+        "params": [
+            [0.1, 1, 0.15],
+            [0.11, 1, 0.165],
+            [0.12, 1, 0.18],
+            [0.13, 1, 0.195],
+            [0.14, 1, 0.21],
+            [0.15, 1, 0.225],
+            [0.1625, 1, 0.2437],
+            [0.175, 1, 0.2625],
+            [0.1875, 1, 0.2812],
+            [0.2, 1, 0.3],
+            [0.21, 1, 0.315],
+            [0.22, 1, 0.33],
+            [0.23, 1, 0.345],
+            [0.24, 1, 0.36],
+            [0.25, 1, 0.375]
+        ],
+        "icon": "icon/skill/1510_skill2.png"
+    },
+    "151014": {
+        "id": "151014",
+        "name": "We, Too, Stride the Stars",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Ultimate",
+        "effect": "AoEAttack",
+        "effect_text": "AoE",
+        "simple_desc": "Mengakibatkan DMG sebanyak 0 kali, setiap DMG mengakibatkan Fire DMG pada 1 musuh secara acak.",
+        "desc": "Mengakibatkan DMG sebanyak #2[i] kali, setiap DMG mengakibatkan Fire DMG pada 1 musuh secara acak.",
+        "params": [
+            [3, 0.4],
+            [3, 0.44],
+            [3, 0.48],
+            [3, 0.52],
+            [3, 0.56],
+            [3, 0.6],
+            [3, 0.65],
+            [3, 0.7],
+            [3, 0.75],
+            [3, 0.8],
+            [3, 0.84],
+            [3, 0.88],
+            [3, 0.92],
+            [3, 0.96],
+            [3, 1]
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151022": {
+        "id": "151022",
+        "name": "Trailblaze, By Your Side",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Assist",
+        "type_text": "Skill Dukungan",
+        "effect": "AoEAttack",
+        "effect_text": "AoE",
+        "simple_desc": "Mengakibatkan Fire DMG dalam jumlah kecil pada seluruh musuh, dan mengakibatkan Fire DMG dalam jumlah kecil pada 3 musuh acak. Jika digunakan oleh Himeko • Nova, mengakibatkan Fire DMG dalam jumlah kecil pada seluruh musuh, dan mengakibatkan Fire DMG dalam jumlah kecil pada 4 musuh acak. Jika digunakan oleh karakter Rekan Perintisan selain Himeko • Nova, Himeko • Nova akan memperoleh salah satu dari Efek Khusus.",
+        "desc": "Mengakibatkan Fire DMG pada seluruh musuh sebesar #1[i]% ATK Himeko • Nova, serta mengakibatkan ekstra DMG sebanyak #2[i] kali, yang setiap kalinya mengakibatkan Fire DMG pada satu target musuh acak sebesar #3[i]% ATK Himeko • Nova. Saat digunakan oleh Himeko • Nova, mengakibatkan Fire DMG pada seluruh musuh sebesar #4[i]% ATK Himeko • Nova, serta mengakibatkan ekstra DMG sebanyak #5[i] kali, yang setiap kalinya mengakibatkan Fire DMG pada satu target musuh acak sebesar #6[i]% ATK Himeko • Nova.\nJika yang menggunakan adalah karakter Rekan Perintisan selain Himeko • Nova, tergantung siapa yang menggunakan, Himeko • Nova memperoleh salah 1 dari Efek Khusus tambahan.\nSkill Dukungan tambahan yang dipicu dari seluruh Efek Khusus dapat dipicu hingga #8[i] kali di setiap pertempuran, dan jumlah pemicuan akan di-refresh setelah Himeko • Nova melancarkan Ultimate.",
+        "params": [
+            [0.8, 3, 0.12, 1, 4, 0.18, 4, 2],
+            [0.88, 3, 0.132, 1.1, 4, 0.194, 4, 2],
+            [0.96, 3, 0.144, 1.2, 4, 0.208, 4, 2],
+            [1.04, 3, 0.156, 1.3, 4, 0.222, 4, 2],
+            [1.12, 3, 0.168, 1.4, 4, 0.236, 4, 2],
+            [1.2, 3, 0.18, 1.5, 4, 0.25, 4, 2],
+            [1.3, 3, 0.195, 1.625, 4, 0.2675, 4, 2],
+            [1.4, 3, 0.21, 1.75, 4, 0.285, 4, 2],
+            [1.5, 3, 0.225, 1.875, 4, 0.3025, 4, 2],
+            [1.6, 3, 0.24, 2, 4, 0.32, 4, 2],
+            [1.68, 3, 0.252, 2.1, 4, 0.334, 4, 2],
+            [1.76, 3, 0.264, 2.2, 4, 0.348, 4, 2],
+            [1.84, 3, 0.276, 2.3, 4, 0.362, 4, 2],
+            [1.92, 3, 0.288, 2.4, 4, 0.376, 4, 2],
+            [2, 3, 0.3, 2.5, 4, 0.39, 4, 2]
+        ],
+        "icon": "icon/skill/1510_assist01.png"
+    },
+    "151025": {
+        "id": "151025",
+        "name": "Companion Protocol: Verdict",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Assist",
+        "type_text": "Skill Dukungan",
+        "effect": "AoEAttack",
+        "effect_text": "AoE",
+        "simple_desc": "Memasuki status \"Companion Protocol: Verdict\". DMG yang diakibatkan Himeko • Nova meningkat, dan Ultimate DMG yang diakibatkannya meningkat ekstra. Setelah rekan Himeko • Nova secara aktif melancarkan Ultimate sebanyak 2 kali, Himeko • Nova segera melancarkan 1 kali Skill Dukungan pada musuh.",
+        "desc": "Memasuki status \"Companion Protocol: Verdict\". DMG yang diakibatkan Himeko • Nova meningkat #8[i]%, dan Ultimate DMG yang diakibatkan meningkat ekstra #10[i]%. Setelah rekan Himeko • Nova secara aktif melancarkan Ultimate sebanyak #9[i] kali, Himeko • Nova segera melancarkan 1 kali Skill Dukungan pada musuh tanpa konsumsi.",
+        "params": [
+            [0.8, 3, 0.12, 1, 4, 0.18, 4, 0.5, 2, 0.5],
+            [0.88, 3, 0.132, 1.1, 4, 0.194, 4, 0.55, 2, 0.55],
+            [0.96, 3, 0.144, 1.2, 4, 0.208, 4, 0.6, 2, 0.6],
+            [1.04, 3, 0.156, 1.3, 4, 0.222, 4, 0.65, 2, 0.65],
+            [1.12, 3, 0.168, 1.4, 4, 0.236, 4, 0.7, 2, 0.7],
+            [1.2, 3, 0.18, 1.5, 4, 0.25, 4, 0.75, 2, 0.75],
+            [1.3, 3, 0.195, 1.625, 4, 0.2675, 4, 0.8125, 2, 0.8125],
+            [1.4, 3, 0.21, 1.75, 4, 0.285, 4, 0.875, 2, 0.875],
+            [1.5, 3, 0.225, 1.875, 4, 0.3025, 4, 0.9375, 2, 0.9375],
+            [1.6, 3, 0.24, 2, 4, 0.32, 4, 1, 2, 1],
+            [1.68, 3, 0.252, 2.1, 4, 0.334, 4, 1.05, 2, 1.05],
+            [1.76, 3, 0.264, 2.2, 4, 0.348, 4, 1.1, 2, 1.1],
+            [1.84, 3, 0.276, 2.3, 4, 0.362, 4, 1.15, 2, 1.15],
+            [1.92, 3, 0.288, 2.4, 4, 0.376, 4, 1.2, 2, 1.2],
+            [2, 3, 0.3, 2.5, 4, 0.39, 4, 1.25, 2, 1.25]
+        ],
+        "icon": "icon/skill/1510_assist02.png"
+    },
+    "151026": {
+        "id": "151026",
+        "name": "Companion Protocol: Decimation",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Assist",
+        "type_text": "Skill Dukungan",
+        "effect": "AoEAttack",
+        "effect_text": "AoE",
+        "simple_desc": "Memasuki status \"Companion Protocol: Decimation\". CRIT DMG seluruh rekan tim meningkat, CRIT DMG yang diakibatkan Skill meningkat ekstra. Setiap kali rekan tim mengenai 1 target musuh, memperoleh 1 poin Charge. Saat Charge mencapai 9 poin, mengonsumsi semua Charge, dan Himeko • Nova segera melancarkan 1 kali Skill Dukungan pada musuh.",
+        "desc": "Memasuki status \"Companion Protocol: Decimation\". CRIT DMG seluruh rekan tim meningkat #8[i]%, CRIT DMG yang diakibatkan Skill meningkat ekstra #10[i]%. Setiap kali rekan tim mengenai 1 target musuh, memperoleh 1 Charge. Saat Charge mencapai #9[i], mengonsumsi semua Charge, Himeko • Nova segera melancarkan 1 kali Skill Dukungan tanpa biaya pada musuh. Skill Dukungan kali ini tidak dapat memperoleh Charge.",
+        "params": [
+            [0.8, 3, 0.12, 1, 4, 0.18, 4, 0.5, 9, 0.5],
+            [0.88, 3, 0.132, 1.1, 4, 0.194, 4, 0.55, 9, 0.55],
+            [0.96, 3, 0.144, 1.2, 4, 0.208, 4, 0.6, 9, 0.6],
+            [1.04, 3, 0.156, 1.3, 4, 0.222, 4, 0.65, 9, 0.65],
+            [1.12, 3, 0.168, 1.4, 4, 0.236, 4, 0.7, 9, 0.7],
+            [1.2, 3, 0.18, 1.5, 4, 0.25, 4, 0.75, 9, 0.75],
+            [1.3, 3, 0.195, 1.625, 4, 0.2675, 4, 0.8125, 9, 0.8125],
+            [1.4, 3, 0.21, 1.75, 4, 0.285, 4, 0.875, 9, 0.875],
+            [1.5, 3, 0.225, 1.875, 4, 0.3025, 4, 0.9375, 9, 0.9375],
+            [1.6, 3, 0.24, 2, 4, 0.32, 4, 1, 9, 1],
+            [1.68, 3, 0.252, 2.1, 4, 0.334, 4, 1.05, 9, 1.05],
+            [1.76, 3, 0.264, 2.2, 4, 0.348, 4, 1.1, 9, 1.1],
+            [1.84, 3, 0.276, 2.3, 4, 0.362, 4, 1.15, 9, 1.15],
+            [1.92, 3, 0.288, 2.4, 4, 0.376, 4, 1.2, 9, 1.2],
+            [2, 3, 0.3, 2.5, 4, 0.39, 4, 1.25, 9, 1.25]
+        ],
+        "icon": "icon/skill/1510_assist03.png"
+    },
+    "151201": {
+        "id": "151201",
+        "name": "The Sea Sings in My Key",
+        "max_level": 10,
+        "element": "Wind",
+        "type": "Normal",
+        "type_text": "Basic ATK",
+        "effect": "SingleAttack",
+        "effect_text": "Single Target",
+        "simple_desc": "Mengakibatkan Wind DMG dalam jumlah kecil pada 1 musuh.",
+        "desc": "Mengakibatkan Wind DMG sebesar #1[i]% Max HP Robin • Summeretto pada 1 musuh.",
+        "params": [
+            [0.25],
+            [0.3],
+            [0.35],
+            [0.4],
+            [0.45],
+            [0.5],
+            [0.55],
+            [0.6],
+            [0.65],
+            [0.7]
+        ],
+        "icon": "icon/skill/1512_basic_atk.png"
+    },
+    "151202": {
+        "id": "151202",
+        "name": "Summer Strums the Soul",
+        "max_level": 15,
+        "element": "",
+        "type": "BPSkill",
+        "type_text": "Skill",
+        "effect": "Summon",
+        "effect_text": "Panggil",
+        "simple_desc": "Memanggil Memosprite \"Summer Songbird\" Bessie. Jika \"Summer Songbird\" sudah di medan pertempuran, memulihkan HP \"Summer Songbird\", dan memperoleh Poin Atmosfer.",
+        "desc": "Memanggil Memosprite \"Summer Songbird\" Bessie. Jika \"Summer Songbird\" mana pun sudah di medan pertempuran, memulihkan HP-nya sebesar #1[i]% Max HP \"Summer Songbird\", dan memperoleh #2[i] Poin Atmosfer.",
+        "params": [
+            [0.5, 6],
+            [0.55, 6],
+            [0.6, 6],
+            [0.65, 6],
+            [0.7, 6],
+            [0.75, 6],
+            [0.8125, 6],
+            [0.875, 6],
+            [0.9375, 6],
+            [1, 6],
+            [1.05, 6],
+            [1.1, 6],
+            [1.15, 6],
+            [1.2, 6],
+            [1.25, 6]
+        ],
+        "icon": "icon/skill/1512_skill.png"
+    },
+    "151203": {
+        "id": "151203",
+        "name": "Ascend That Rhapsody in Blue",
+        "max_level": 15,
+        "element": "",
+        "type": "Ultra",
+        "type_text": "Ultimate",
+        "effect": "Support",
+        "effect_text": "Support",
+        "simple_desc": "Mendahulukan aksi 1 karakter tim yang ditargetkan (selain Robin • Summeretto) dan memulihkan Energy, kemudian membuat karakter tersebut memperoleh efek \"Special Guest\". Saat karakter tersebut dan objek panggilan miliknya menyerang, membuat Robin • Summeretto memperoleh ekstra Poin Atmosfer, dan tidak dapat membuat rekan tim lain memperoleh efek pendahuluan aksi.",
+        "desc": "Mendahulukan aksi 1 karakter tim yang ditargetkan (kecuali Robin • Summeretto) sebesar #1[i]% dan memulihkan Energy dalam jumlah tetap sebesar #3[f1]% Max Energy. Kemudian membuat karakter tersebut memperoleh efek \"Special Guest\". Saat karakter yang memiliki \"Special Guest\" beserta objek panggilannya menyerang, akan membuat Robin • Summeretto memperoleh ekstra #2[i] Poin Atmosfer, dan tidak dapat membuat rekan tim lain memperoleh efek pendahuluan aksi. Efek ini berlangsung selama 2 giliran. Setiap saat giliran karakter ini dimulai, durasi giliran akan berkurang 1.",
+        "params": [
+            [1, 2, 0.12, 0],
+            [1, 2, 0.128, 0],
+            [1, 2, 0.136, 0],
+            [1, 2, 0.144, 0],
+            [1, 2, 0.152, 0],
+            [1, 2, 0.16, 0],
+            [1, 2, 0.17, 0],
+            [1, 2, 0.18, 0],
+            [1, 2, 0.19, 0],
+            [1, 2, 0.2, 0],
+            [1, 2, 0.208, 0],
+            [1, 2, 0.216, 0],
+            [1, 2, 0.224, 0],
+            [1, 2, 0.232, 0],
+            [1, 2, 0.24, 0]
+        ],
+        "icon": "icon/skill/1512_ultimate.png"
+    },
+    "151204": {
+        "id": "151204",
+        "name": "Wings Heed No Borders",
+        "max_level": 15,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "Enhance",
+        "effect_text": "Enhance",
+        "simple_desc": "Saat rekan tim melancarkan serangan, memberikan efek pemulihan atau Shield, Robin • Summeretto memperoleh Poin Atmosfer. Setelah Poin Atmosfer mencapai jumlah tertentu, akan memanggil \"Summer Songbird\" Drummie dan \"Summer Songbird\" Paddie secara terpisah. Saat seluruh \"Summer Songbird\" telah naik ke panggung, Robin • Summeretto dan \"Summer Songbird\" memasuki status \"Fever\" dan menciptakan area pembatas. Saat rekan tim di dalam area pembatas mengakibatkan DMG, DMG tersebut akan mengabaikan sebagian DEF target musuh.\nSaat berada dalam status \"Fever\", Robin • Summeretto dan \"Summer Songbird\" kebal terhadap Crowd Control Debuff, dan Robin • Summeretto tidak akan memasuki gilirannya sebelum status \"Fever\" berakhir.",
+        "desc": "Memosprite \"Summer Songbird\" awalnya memiliki Max HP sebesar #1[i]% Max HP Robin • Summeretto dan SPD sebesar #2[i]% SPD Robin • Summeretto. Saat rekan tim melancarkan serangan, atau saat memberikan efek pemulihan atau Shield untuk pertama kalinya dalam giliran target mana pun, Robin • Summeretto memperoleh 1 Poin Atmosfer, maksimal #5[i] poin. Saat \"Summer Songbird\" Bessie ada di medan pertempuran, jika Poin Atmosfer Robin • Summeretto lebih dari atau sama dengan #6[i] poin, segera memanggil \"Summer Songbird\" Drummie, dan jika Poin Atmosfer lebih dari atau sama dengan #7[i] poin, segera memanggil \"Summer Songbird\" Paddie. Setelah seluruh anggota \"Summer Songbird\" naik ke atas panggung, menghapus seluruh Crowd Control Debuff yang dimiliki Robin • Summeretto dan \"Summer Songbird\", memasuki status \"Fever\" dan menciptakan area pembatas. Saat rekan tim di dalam area pembatas mengakibatkan DMG, akan mengabaikan (#8[f1]% + Poin Atmosfer ×#9[f1]%) DEF target musuh.\nSaat berstatus \"Fever\", Robin • Summeretto dan \"Summer Songbird\" kebal terhadap Crowd Control Debuff. Sebelum status \"Fever\" berakhir, Robin • Summeretto tidak akan memasuki gilirannya.",
+        "params": [
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.105, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.11, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.115, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.12, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.125, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1313, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1375, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1437, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.15, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.155, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.16, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.165, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.17, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.175, 0.005]
+        ],
+        "icon": "icon/skill/1512_talent.png"
+    },
+    "151206": {
+        "id": "151206",
+        "name": "Attack",
+        "max_level": 1,
+        "element": "Wind",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, akan mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
+        "desc": "Setelah menyerang musuh dan memasuki pertempuran, akan mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
+        "params": [],
+        "icon": "icon/skill/1512_basic_atk.png"
+    },
+    "151207": {
+        "id": "151207",
+        "name": "We Are the Melody",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Technique",
+        "effect": "Enhance",
+        "effect_text": "Enhance",
+        "simple_desc": "Begitu memasuki pertempuran, aksi didahulukan, segera memperoleh Poin Atmosfer dan meningkatkan DMG yang diakibatkan seluruh rekan tim.",
+        "desc": "Setelah menggunakan Technique, mendahulukan aksi sebanyak #3[i]% saat pertempuran berikutnya dimulai, segera memperoleh #1[i] Poin Atmosfer, dan meningkatkan #2[i]% DMG yang diakibatkan seluruh rekan tim selama 2 giliran.",
+        "params": [
+            [6, 0.3, 0.2]
+        ],
+        "icon": "icon/skill/1512_technique.png"
+    },
+    "151301": {
+        "id": "151301",
+        "name": "Dead Center, the Torrent Hits",
+        "max_level": 10,
+        "element": "Quantum",
+        "type": "Normal",
+        "type_text": "Basic ATK",
+        "effect": "SingleAttack",
+        "effect_text": "Single Target",
+        "simple_desc": "Mengakibatkan Quantum DMG dalam jumlah kecil pada 1 musuh yang ditargetkan.",
+        "desc": "Mengakibatkan Quantum DMG sebesar #1[i]% ATK Aventurine • Waveflair pada 1 musuh yang ditargetkan.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1513_basic_atk.png"
+    },
+    "151302": {
+        "id": "151302",
+        "name": "Kill Shot, the Sands Boil",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Skill",
+        "effect": "AoEAttack",
+        "effect_text": "AoE",
+        "simple_desc": "Mengakibatkan Quantum DMG pada seluruh musuh, memperoleh Punchline dan \"Fervor\".",
+        "desc": "Mengakibatkan Quantum DMG sebesar #1[i]% ATK Aventurine • Waveflair pada seluruh musuh, memperoleh #2[i] Punchline dan #3[i] poin \"Fervor\".",
+        "params": [
+            [1.2, 4, 4],
+            [1.32, 4, 4],
+            [1.44, 4, 4],
+            [1.56, 4, 4],
+            [1.68, 4, 4],
+            [1.8, 4, 4],
+            [1.95, 4, 4],
+            [2.1, 4, 4],
+            [2.25, 4, 4],
+            [2.4, 4, 4],
+            [2.52, 4, 4],
+            [2.64, 4, 4],
+            [2.76, 4, 4],
+            [2.88, 4, 4],
+            [3, 4, 4]
+        ],
+        "icon": "icon/skill/1513_skill.png"
+    },
+    "151303": {
+        "id": "151303",
+        "name": "Grand Slam, Crest That High Tide",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Ultra",
+        "type_text": "Ultimate",
+        "effect": "AoEAttack",
+        "effect_text": "AoE",
+        "simple_desc": "Mengakibatkan Quantum DMG dalam jumlah besar pada seluruh musuh, memperoleh Punchline dan \"Fervor\", serta meningkatkan SPD diri sendiri.",
+        "desc": "Mengakibatkan Quantum DMG pada seluruh musuh sebesar #1[i]% ATK Aventurine • Waveflair, memperoleh #3[i] Punchline dan #2[i] \"Fervor\". Serta meningkatkan SPD diri sendiri sebesar #4[i]% selama #5[i] giliran.",
+        "params": [
+            [2.4, 8, 6, 0.12, 4],
+            [2.56, 8, 6, 0.138, 4],
+            [2.72, 8, 6, 0.156, 4],
+            [2.88, 8, 6, 0.174, 4],
+            [3.04, 8, 6, 0.192, 4],
+            [3.2, 8, 6, 0.21, 4],
+            [3.4, 8, 6, 0.2325, 4],
+            [3.6, 8, 6, 0.255, 4],
+            [3.8, 8, 6, 0.2775, 4],
+            [4, 8, 6, 0.3, 4],
+            [4.16, 8, 6, 0.318, 4],
+            [4.32, 8, 6, 0.336, 4],
+            [4.48, 8, 6, 0.354, 4],
+            [4.64, 8, 6, 0.372, 4],
+            [4.8, 8, 6, 0.39, 4]
+        ],
+        "icon": "icon/skill/1513_ultimate.png"
+    },
+    "151304": {
+        "id": "151304",
+        "name": "Ante Up, the Abyss Answers",
+        "max_level": 15,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Talent",
+        "effect": "Enhance",
+        "effect_text": "Enhance",
+        "simple_desc": "Durasi \"Certified Banger\" milik Aventurine • Waveflair bertambah 1 giliran. Setelah rekan melancarkan serangan, Aventurine • Waveflair memperoleh \"Fervor\" dan Punchline.\nSaat \"Fervor\" mencapai nilai tertentu, Aventurine • Waveflair akan segera melancarkan 1 kali \"Cheers! To Summer's Blaze\" yang menghitung sejumlah tetap Punchline, serta memperkuat Elation Skill menjadi \"All In! To Summer's Blaze\" pada pelancaran Elation Skill berikutnya di Aha Instant.\nSaat Aventurine • Waveflair memiliki \"Certified Banger\", Skill dan Ultimate-nya akan mengakibatkan ekstra Quantum Elation DMG pada seluruh musuh.",
+        "desc": "Durasi \"Certified Banger\" milik Aventurine • Waveflair bertambah 1 giliran. Setelah rekan melancarkan serangan, Aventurine • Waveflair memperoleh #7[i] poin \"Fervor\" dan #6[i] Punchline. Batas maksimal \"Fervor\" adalah #4[i] poin.\nSaat \"Fervor\" mencapai #1[i] poin, Aventurine • Waveflair akan segera melancarkan 1 kali \"Cheers! To Summer's Blaze\" yang menghitung sejumlah tetap #5[i] Punchline, dan setelah pelancaran, memperkuat Elation Skill yang akan dia lancarkan selanjutnya pada Aha Instant menjadi \"All In! To Summer's Blaze\".\nSaat Aventurine • Waveflair memiliki \"Certified Banger\", Skill akan mengakibatkan ekstra #2[i]% Quantum Elation DMG pada seluruh musuh, dan Ultimate akan mengakibatkan ekstra #3[i]% Quantum Elation DMG pada seluruh musuh.",
+        "params": [
+            [10, 0.2, 0.36, 30, 20, 1, 1],
+            [10, 0.22, 0.396, 30, 20, 1, 1],
+            [10, 0.24, 0.432, 30, 20, 1, 1],
+            [10, 0.26, 0.468, 30, 20, 1, 1],
+            [10, 0.28, 0.504, 30, 20, 1, 1],
+            [10, 0.3, 0.54, 30, 20, 1, 1],
+            [10, 0.325, 0.585, 30, 20, 1, 1],
+            [10, 0.35, 0.63, 30, 20, 1, 1],
+            [10, 0.375, 0.675, 30, 20, 1, 1],
+            [10, 0.4, 0.72, 30, 20, 1, 1],
+            [10, 0.42, 0.756, 30, 20, 1, 1],
+            [10, 0.44, 0.792, 30, 20, 1, 1],
+            [10, 0.46, 0.828, 30, 20, 1, 1],
+            [10, 0.48, 0.864, 30, 20, 1, 1],
+            [10, 0.5, 0.9, 30, 20, 1, 1]
+        ],
+        "icon": "icon/skill/1513_talent.png"
+    },
+    "151306": {
+        "id": "151306",
+        "name": "Attack",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
+        "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
+        "params": [],
+        "icon": "icon/skill/1513_basic_atk.png"
+    },
+    "151307": {
+        "id": "151307",
+        "name": "Make Waves in Still Waters",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "Maze",
+        "type_text": "Technique",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Bergerak maju dengan cepat sejauh jarak tertentu dan menyerang musuh yang tersentuh. Setelah menyerang musuh dan memasuki pertempuran, mengakibatkan Quantum DMG dalam jumlah kecil terhadap seluruh musuh, serta memperoleh \"Fervor\" dan \"Certified Banger\". Saat tidak mengenai musuh, tidak mengonsumsi Poin Technique.",
+        "desc": "Bergerak maju dengan cepat sejauh jarak tertentu dan menyerang musuh yang bersentuhan. Selama pergerakan cepat tersebut, dapat menahan seluruh serangan musuh. Setelah aktif menyerang musuh dan memasuki pertempuran, mengakibatkan Quantum DMG sebesar #1[i]% ATK Aventurine • Waveflair pada seluruh musuh, serta membuat dirinya memperoleh #2[i] poin \"Fervor\" dan #3[i] poin \"Certified Banger\". Jika tidak mengenai musuh, Poin Technique tidak akan dikonsumsi.",
+        "params": [
+            [1, 2, 20]
+        ],
+        "icon": "icon/skill/1513_technique.png"
+    },
+    "151320": {
+        "id": "151320",
+        "name": "Cheers! To Summer's Blaze",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "ElationDamage",
+        "type_text": "Elation Skill",
+        "effect": "AoEAttack",
+        "effect_text": "AoE",
+        "simple_desc": "Mengakibatkan Quantum Elation DMG pada seluruh musuh, serta mengakibatkan ekstra Quantum Elation DMG dalam jumlah kecil pada 1 musuh acak, total Bounce 10 kali.",
+        "desc": "Mengakibatkan #1[i]% Quantum Elation DMG pada seluruh musuh, dan mengakibatkan ekstra #2[i] kali DMG, setiap kali DMG mengakibatkan #3[f1]% Quantum Elation DMG pada 1 musuh acak.",
+        "params": [
+            [0.3, 10, 0.09],
+            [0.33, 10, 0.099],
+            [0.36, 10, 0.108],
+            [0.39, 10, 0.117],
+            [0.42, 10, 0.126],
+            [0.45, 10, 0.135],
+            [0.4875, 10, 0.1462],
+            [0.525, 10, 0.1575],
+            [0.5625, 10, 0.1688],
+            [0.6, 10, 0.18],
+            [0.63, 10, 0.189],
+            [0.66, 10, 0.198],
+            [0.69, 10, 0.207],
+            [0.72, 10, 0.216],
+            [0.75, 10, 0.225]
+        ],
+        "icon": "icon/skill/1513_elation.png"
+    },
+    "151321": {
+        "id": "151321",
+        "name": "All In! To Summer's Blaze",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "ElationDamage",
+        "type_text": "Elation Skill",
+        "effect": "AoEAttack",
+        "effect_text": "AoE",
+        "simple_desc": "Mengakibatkan Quantum Elation DMG pada seluruh musuh, dan mengakibatkan ekstra Quantum Elation DMG  dalam jumlah kecil pada 1 musuh acak, total Bounce sebanyak 10 kali. Di saat bersamaan akan mengonsumsi seluruh \"Fervor\". Setiap mengonsumsi 1 poin \"Fervor\" akan mengakibatkan 1 kali Quantum Elation DMG dalam jumlah kecil pada 1 musuh acak.",
+        "desc": "Mengakibatkan #1[i]% Quantum Elation DMG pada seluruh musuh, dan mengakibatkan ekstra #3[i] kali DMG. Setiap kali DMG mengakibatkan #4[f1]% Quantum Elation DMG pada 1 musuh acak. Saat dilancarkan akan mengonsumsi seluruh \"Fervor\", setiap 1 poin \"Fervor\" yang dikonsumsi akan mengakibatkan ekstra 1 kali #2[f1]% Quantum Elation DMG pada 1 musuh acak.",
+        "params": [
+            [0.3, 0.105, 10, 0.09],
+            [0.33, 0.1155, 10, 0.099],
+            [0.36, 0.126, 10, 0.108],
+            [0.39, 0.1365, 10, 0.117],
+            [0.42, 0.147, 10, 0.126],
+            [0.45, 0.1575, 10, 0.135],
+            [0.4875, 0.1706, 10, 0.1462],
+            [0.525, 0.1837, 10, 0.1575],
+            [0.5625, 0.1969, 10, 0.1688],
+            [0.6, 0.21, 10, 0.18],
+            [0.63, 0.2205, 10, 0.189],
+            [0.66, 0.231, 10, 0.198],
+            [0.69, 0.2415, 10, 0.207],
+            [0.72, 0.252, 10, 0.216],
+            [0.75, 0.2625, 10, 0.225]
+        ],
+        "icon": "icon/skill/1513_elation02.png"
     },
     "800101": {
         "id": "800101",
@@ -13640,7 +14720,7 @@
             [5.1],
             [5.25]
         ],
-        "icon": "icon/skill/8001_ultimate.png"
+        "icon": "icon/skill/8001_basic_atk2.png"
     },
     "800109": {
         "id": "800109",
@@ -13670,7 +14750,7 @@
             [3.06, 1.836],
             [3.15, 1.89]
         ],
-        "icon": "icon/skill/8001_ultimate.png"
+        "icon": "icon/skill/8001_skill2.png"
     },
     "800201": {
         "id": "800201",
@@ -13845,7 +14925,7 @@
             [5.1],
             [5.25]
         ],
-        "icon": "icon/skill/8002_ultimate.png"
+        "icon": "icon/skill/8002_basic_atk2.png"
     },
     "800209": {
         "id": "800209",
@@ -13875,7 +14955,7 @@
             [3.06, 1.836],
             [3.15, 1.89]
         ],
-        "icon": "icon/skill/8002_ultimate.png"
+        "icon": "icon/skill/8002_skill2.png"
     },
     "800301": {
         "id": "800301",
@@ -14045,7 +15125,7 @@
             [1.6875, 0.675],
             [1.8, 0.72]
         ],
-        "icon": "icon/skill/8003_basic_atk.png"
+        "icon": "icon/skill/8003_basic_atk2.png"
     },
     "800401": {
         "id": "800401",
@@ -14215,7 +15295,7 @@
             [1.6875, 0.675],
             [1.8, 0.72]
         ],
-        "icon": "icon/skill/8004_basic_atk.png"
+        "icon": "icon/skill/8004_basic_atk2.png"
     },
     "800501": {
         "id": "800501",
@@ -14675,7 +15755,7 @@
             [1.56, 1.56, 0.1],
             [1.68, 1.68, 0.1]
         ],
-        "icon": "icon/skill/8007_basic_atk.png"
+        "icon": "icon/skill/8007_basic_atk2.png"
     },
     "800709": {
         "id": "800709",
@@ -14859,7 +15939,7 @@
             [1.56, 1.56, 0.1],
             [1.68, 1.68, 0.1]
         ],
-        "icon": "icon/skill/8008_basic_atk.png"
+        "icon": "icon/skill/8008_basic_atk2.png"
     },
     "800809": {
         "id": "800809",
@@ -15002,7 +16082,7 @@
         "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "params": [],
-        "icon": "icon/skill/8009_basic_atk.png"
+        "icon": "icon/skill/8009_technique2.png"
     },
     "800907": {
         "id": "800907",
@@ -15048,7 +16128,7 @@
             [8, 0.24, 0.72],
             [8, 0.25, 0.75]
         ],
-        "icon": null
+        "icon": "icon/skill/8009_elation.png"
     },
     "801001": {
         "id": "801001",
@@ -15177,7 +16257,7 @@
         "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "params": [],
-        "icon": "icon/skill/8010_basic_atk.png"
+        "icon": "icon/skill/8010_technique2.png"
     },
     "801007": {
         "id": "801007",
@@ -15223,7 +16303,7 @@
             [8, 0.24, 0.72],
             [8, 0.25, 0.75]
         ],
-        "icon": null
+        "icon": "icon/skill/8010_elation.png"
     },
     "1100401": {
         "id": "1100401",
@@ -15248,7 +16328,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1004_basic_atk.png"
+        "icon": "icon/skill/11004_basic_atk.png"
     },
     "1100402": {
         "id": "1100402",
@@ -15278,7 +16358,7 @@
             [0.864, 0.79, 0.1, 2],
             [0.9, 0.8, 0.1, 2]
         ],
-        "icon": "icon/skill/1004_skill.png"
+        "icon": "icon/skill/11004_skill.png"
     },
     "1100403": {
         "id": "1100403",
@@ -15308,7 +16388,7 @@
             [1.74, 0.144, 1, 0.1, 0.04, 8, 2],
             [1.8, 0.15, 1, 0.1, 0.04, 8, 2]
         ],
-        "icon": "icon/skill/1004_ultimate.png"
+        "icon": "icon/skill/11004_ultimate.png"
     },
     "1100404": {
         "id": "1100404",
@@ -15338,7 +16418,7 @@
             [1.2, 0.4, 0.05],
             [1.25, 0.4, 0.05]
         ],
-        "icon": "icon/skill/1004_talent.png"
+        "icon": "icon/skill/11004_talent.png"
     },
     "1100406": {
         "id": "1100406",
@@ -15352,7 +16432,7 @@
         "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "params": [],
-        "icon": "icon/skill/1004_basic_atk.png"
+        "icon": "icon/skill/11004_basic_atk.png"
     },
     "1100407": {
         "id": "1100407",
@@ -15368,7 +16448,7 @@
         "params": [
             [1, 0.2, 0.1, 15, 0.5]
         ],
-        "icon": "icon/skill/1004_technique.png"
+        "icon": "icon/skill/11004_technique.png"
     },
     "1100501": {
         "id": "1100501",
@@ -15393,7 +16473,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1005_basic_atk.png"
+        "icon": "icon/skill/11005_basic_atk.png"
     },
     "1100502": {
         "id": "1100502",
@@ -15423,7 +16503,7 @@
             [1.92, 0.81, 0.72, 0.54],
             [2, 0.825, 0.75, 0.55]
         ],
-        "icon": "icon/skill/1005_skill.png"
+        "icon": "icon/skill/11005_skill.png"
     },
     "1100503": {
         "id": "1100503",
@@ -15453,7 +16533,7 @@
             [0.928, 1, 2, 3.4655, 1.28],
             [0.96, 1, 2, 3.6069, 1.3]
         ],
-        "icon": "icon/skill/1005_ultimate.png"
+        "icon": "icon/skill/11005_ultimate.png"
     },
     "1100504": {
         "id": "1100504",
@@ -15483,7 +16563,7 @@
             [1.792, 1, 2, 1, 2],
             [1.89, 1, 2, 1, 2]
         ],
-        "icon": "icon/skill/1005_talent.png"
+        "icon": "icon/skill/11005_talent.png"
     },
     "1100506": {
         "id": "1100506",
@@ -15497,7 +16577,7 @@
         "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, akan mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "desc": "Setelah menyerang musuh dan memasuki pertempuran, akan mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "params": [],
-        "icon": "icon/skill/1005_basic_atk.png"
+        "icon": "icon/skill/11005_basic_atk.png"
     },
     "1100507": {
         "id": "1100507",
@@ -15513,7 +16593,7 @@
         "params": [
             [1, 2, 0.5]
         ],
-        "icon": "icon/skill/1005_technique.png"
+        "icon": "icon/skill/11005_technique.png"
     },
     "1100601": {
         "id": "1100601",
@@ -15538,7 +16618,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1006_basic_atk.png"
+        "icon": "icon/skill/11006_basic_atk.png"
     },
     "1100602": {
         "id": "1100602",
@@ -15568,7 +16648,7 @@
             [2.352, 1.36, 3, 0.2, 1, 0.14, 2],
             [2.45, 1.4, 3, 0.2, 1, 0.1425, 2]
         ],
-        "icon": "icon/skill/1006_skill.png"
+        "icon": "icon/skill/11006_skill.png"
     },
     "1100603": {
         "id": "1100603",
@@ -15598,7 +16678,7 @@
             [4.408, 1.36, 0.486, 3],
             [4.56, 1.4, 0.495, 3]
         ],
-        "icon": "icon/skill/1006_ultimate.png"
+        "icon": "icon/skill/11006_ultimate.png"
     },
     "1100604": {
         "id": "1100604",
@@ -15628,7 +16708,7 @@
             [0.12, 0.144, 0.072, 1.16, 3],
             [0.125, 0.15, 0.075, 1.2, 3]
         ],
-        "icon": "icon/skill/1006_talent.png"
+        "icon": "icon/skill/11006_talent.png"
     },
     "1100606": {
         "id": "1100606",
@@ -15642,7 +16722,7 @@
         "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, akan mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "desc": "Setelah menyerang musuh dan memasuki pertempuran, akan mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "params": [],
-        "icon": "icon/skill/1006_basic_atk.png"
+        "icon": "icon/skill/11006_basic_atk.png"
     },
     "1100607": {
         "id": "1100607",
@@ -15658,7 +16738,7 @@
         "params": [
             [0.8]
         ],
-        "icon": "icon/skill/1006_technique.png"
+        "icon": "icon/skill/11006_technique.png"
     },
     "1110201": {
         "id": "1110201",
@@ -15683,7 +16763,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1102_basic_atk.png"
+        "icon": "icon/skill/11102_basic_atk.png"
     },
     "1110202": {
         "id": "1110202",
@@ -15713,7 +16793,7 @@
             [4.32, 0.25, 3, 0.5],
             [4.5, 0.25, 3, 0.5]
         ],
-        "icon": "icon/skill/1102_skill.png"
+        "icon": "icon/skill/11102_skill.png"
     },
     "1110203": {
         "id": "1110203",
@@ -15743,7 +16823,7 @@
             [8.64],
             [9]
         ],
-        "icon": "icon/skill/1102_ultimate.png"
+        "icon": "icon/skill/11102_ultimate.png"
     },
     "1110204": {
         "id": "1110204",
@@ -15773,7 +16853,7 @@
             [0.96, 3],
             [1, 3]
         ],
-        "icon": "icon/skill/1102_talent.png"
+        "icon": "icon/skill/11102_talent.png"
     },
     "1110206": {
         "id": "1110206",
@@ -15787,7 +16867,7 @@
         "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "params": [],
-        "icon": "icon/skill/1102_basic_atk.png"
+        "icon": "icon/skill/11102_basic_atk.png"
     },
     "1110207": {
         "id": "1110207",
@@ -15803,7 +16883,7 @@
         "params": [
             [20]
         ],
-        "icon": "icon/skill/1102_technique.png"
+        "icon": "icon/skill/11102_technique.png"
     },
     "1120501": {
         "id": "1120501",
@@ -15828,7 +16908,7 @@
             [0.65],
             [0.7]
         ],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/11205_basic_atk.png"
     },
     "1120502": {
         "id": "1120502",
@@ -15858,7 +16938,7 @@
             [0.3, 3, 1, 0.512, 10],
             [0.3, 3, 1, 0.54, 10]
         ],
-        "icon": "icon/skill/1205_skill.png"
+        "icon": "icon/skill/11205_skill.png"
     },
     "1120503": {
         "id": "1120503",
@@ -15888,7 +16968,7 @@
             [1.74, 1.16, 0.696, 0.58, 1.392, 0.696, 0.9],
             [1.8, 1.2, 0.72, 0.6, 1.44, 0.72, 0.9]
         ],
-        "icon": "icon/skill/1205_ultimate.png"
+        "icon": "icon/skill/11205_ultimate.png"
     },
     "1120504": {
         "id": "1120504",
@@ -15918,7 +16998,7 @@
             [3, 1.56, 0.25, 1.56],
             [3, 1.625, 0.25, 1.625]
         ],
-        "icon": "icon/skill/1205_talent.png"
+        "icon": "icon/skill/11205_talent.png"
     },
     "1120506": {
         "id": "1120506",
@@ -15932,7 +17012,7 @@
         "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, akan mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "desc": "Setelah menyerang musuh dan memasuki pertempuran, akan mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "params": [],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/11205_basic_atk.png"
     },
     "1120507": {
         "id": "1120507",
@@ -15948,7 +17028,7 @@
         "params": [
             [0.4, 0.2]
         ],
-        "icon": "icon/skill/1205_technique.png"
+        "icon": "icon/skill/11205_technique.png"
     },
     "1120508": {
         "id": "1120508",
@@ -15973,7 +17053,7 @@
             [0.1, 1.69, 0.676, 1.69, 0.52],
             [0.1, 1.82, 0.728, 1.82, 0.56]
         ],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/11205_basic_atk2.png"
     },
     "1121201": {
         "id": "1121201",
@@ -15998,7 +17078,7 @@
             [0.65],
             [0.7]
         ],
-        "icon": "icon/skill/1212_basic_atk.png"
+        "icon": "icon/skill/11212_basic_atk.png"
     },
     "1121202": {
         "id": "1121202",
@@ -16028,7 +17108,7 @@
             [1.8, 1],
             [1.875, 1]
         ],
-        "icon": "icon/skill/1212_skill.png"
+        "icon": "icon/skill/11212_skill.png"
     },
     "1121203": {
         "id": "1121203",
@@ -16058,7 +17138,7 @@
             [2.16, 1, 1.08, 1],
             [2.25, 1, 1.125, 1]
         ],
-        "icon": "icon/skill/1212_ultimate.png"
+        "icon": "icon/skill/11212_ultimate.png"
     },
     "1121204": {
         "id": "1121204",
@@ -16088,7 +17168,7 @@
             [0.3, 0.05, 0.528, 5, 2, 1, 0.54, 20],
             [0.3, 0.05, 0.55, 5, 2, 1, 0.55, 20]
         ],
-        "icon": "icon/skill/1212_talent.png"
+        "icon": "icon/skill/11212_talent.png"
     },
     "1121206": {
         "id": "1121206",
@@ -16102,7 +17182,7 @@
         "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, akan mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "desc": "Setelah menyerang musuh dan memasuki pertempuran, akan mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "params": [],
-        "icon": "icon/skill/1212_basic_atk.png"
+        "icon": "icon/skill/11212_basic_atk.png"
     },
     "1121207": {
         "id": "1121207",
@@ -16118,7 +17198,7 @@
         "params": [
             [1, 1, 20, 1, 0.8, 15]
         ],
-        "icon": "icon/skill/1212_technique.png"
+        "icon": "icon/skill/11212_technique.png"
     },
     "1121209": {
         "id": "1121209",
@@ -16148,7 +17228,7 @@
             [1.8, 1, 0.9],
             [1.875, 1, 0.9375]
         ],
-        "icon": "icon/skill/1212_skill.png"
+        "icon": "icon/skill/11212_skill2.png"
     },
     "1121701": {
         "id": "1121701",
@@ -16173,7 +17253,7 @@
             [0.65],
             [0.7]
         ],
-        "icon": "icon/skill/1217_basic_atk.png"
+        "icon": "icon/skill/11217_basic_atk.png"
     },
     "1121702": {
         "id": "1121702",
@@ -16203,7 +17283,7 @@
             [0.272, 784, 0.2176, 627.2, 1],
             [0.28, 820, 0.224, 656, 1]
         ],
-        "icon": "icon/skill/1217_skill.png"
+        "icon": "icon/skill/11217_skill.png"
     },
     "1121703": {
         "id": "1121703",
@@ -16233,7 +17313,7 @@
             [0.22, 0.464, 2],
             [0.225, 0.48, 2]
         ],
-        "icon": "icon/skill/1217_ultimate.png"
+        "icon": "icon/skill/11217_ultimate.png"
     },
     "1121704": {
         "id": "1121704",
@@ -16263,7 +17343,7 @@
             [3, 1, 0.051, 0, 147, 0.5, 6],
             [3, 1, 0.0525, 0, 153.75, 0.5, 6]
         ],
-        "icon": "icon/skill/1217_talent.png"
+        "icon": "icon/skill/11217_talent.png"
     },
     "1121706": {
         "id": "1121706",
@@ -16277,7 +17357,7 @@
         "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "params": [],
-        "icon": "icon/skill/1217_basic_atk.png"
+        "icon": "icon/skill/11217_basic_atk.png"
     },
     "1121707": {
         "id": "1121707",
@@ -16293,7 +17373,7 @@
         "params": [
             [1, 0.25, 2, 10]
         ],
-        "icon": "icon/skill/1217_technique.png"
+        "icon": "icon/skill/11217_technique.png"
     },
     "1130601": {
         "id": "1130601",
@@ -16318,7 +17398,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1306_basic_atk.png"
+        "icon": "icon/skill/11306_basic_atk.png"
     },
     "1130602": {
         "id": "1130602",
@@ -16348,7 +17428,7 @@
             [0.288, 0.522, 2, 0.5],
             [0.3, 0.54, 2, 0.5]
         ],
-        "icon": "icon/skill/1306_skill.png"
+        "icon": "icon/skill/11306_skill.png"
     },
     "1130603": {
         "id": "1130603",
@@ -16378,7 +17458,7 @@
             [2, 6, 0.0696, 3, 10],
             [2, 6, 0.072, 3, 10]
         ],
-        "icon": "icon/skill/1306_ultimate.png"
+        "icon": "icon/skill/11306_ultimate.png"
     },
     "1130604": {
         "id": "1130604",
@@ -16408,7 +17488,7 @@
             [2, 0.048, 2, 3],
             [2, 0.05, 2, 3]
         ],
-        "icon": "icon/skill/1306_talent.png"
+        "icon": "icon/skill/11306_talent.png"
     },
     "1130606": {
         "id": "1130606",
@@ -16422,7 +17502,7 @@
         "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "params": [],
-        "icon": "icon/skill/1306_basic_atk.png"
+        "icon": "icon/skill/11306_basic_atk.png"
     },
     "1130607": {
         "id": "1130607",
@@ -16438,7 +17518,7 @@
         "params": [
             [3, 20]
         ],
-        "icon": "icon/skill/1306_technique.png"
+        "icon": "icon/skill/11306_technique.png"
     },
     "1130701": {
         "id": "1130701",
@@ -16463,7 +17543,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1307_basic_atk.png"
+        "icon": "icon/skill/11307_basic_atk.png"
     },
     "1130702": {
         "id": "1130702",
@@ -16493,7 +17573,7 @@
             [1.08, 3, 1, 0.232],
             [1.125, 3, 1, 0.238]
         ],
-        "icon": "icon/skill/1307_skill.png"
+        "icon": "icon/skill/11307_skill.png"
     },
     "1130703": {
         "id": "1130703",
@@ -16523,7 +17603,7 @@
             [1.392, 2, 0.29, 0.5],
             [1.44, 2, 0.3, 0.5]
         ],
-        "icon": "icon/skill/1307_ultimate.png"
+        "icon": "icon/skill/11307_ultimate.png"
     },
     "1130704": {
         "id": "1130704",
@@ -16553,7 +17633,7 @@
             [2.88, 0.71, 0.144, 0.144, 2.16, 0, 0.2, 50],
             [3, 0.725, 0.15, 0.15, 2.25, 0, 0.2, 50]
         ],
-        "icon": "icon/skill/1307_talent.png"
+        "icon": "icon/skill/11307_talent.png"
     },
     "1130706": {
         "id": "1130706",
@@ -16567,7 +17647,7 @@
         "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "params": [],
-        "icon": "icon/skill/1307_basic_atk.png"
+        "icon": "icon/skill/11307_basic_atk.png"
     },
     "1130707": {
         "id": "1130707",
@@ -16583,7 +17663,7 @@
         "params": [
             [1.5, 0.5]
         ],
-        "icon": "icon/skill/1307_technique.png"
+        "icon": "icon/skill/11307_technique.png"
     },
     "1131001": {
         "id": "1131001",
@@ -16608,7 +17688,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/11310_basic_atk.png"
     },
     "1131002": {
         "id": "1131002",
@@ -16638,7 +17718,7 @@
             [2.4, 0.4, 0.64, 0.25],
             [2.5, 0.4, 0.65, 0.25]
         ],
-        "icon": "icon/skill/1310_skill.png"
+        "icon": "icon/skill/11310_skill.png"
     },
     "1131003": {
         "id": "1131003",
@@ -16668,7 +17748,7 @@
             [0.24, 0.5, 72, 70],
             [0.25, 0.5, 75, 70]
         ],
-        "icon": "icon/skill/1310_ultimate.png"
+        "icon": "icon/skill/11310_ultimate.png"
     },
     "1131004": {
         "id": "1131004",
@@ -16698,7 +17778,7 @@
             [0.48, 0.5, 0.2, 0.38],
             [0.5, 0.5, 0.2, 0.4]
         ],
-        "icon": "icon/skill/1310_talent.png"
+        "icon": "icon/skill/11310_talent.png"
     },
     "1131006": {
         "id": "1131006",
@@ -16712,7 +17792,7 @@
         "simple_desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "desc": "Setelah menyerang musuh dan memasuki pertempuran, mengurangi Toughness target musuh sesuai dengan tipe Toughness-nya.",
         "params": [],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/11310_basic_atk2.png"
     },
     "1131007": {
         "id": "1131007",
@@ -16728,7 +17808,7 @@
         "params": [
             [5, 2, 2]
         ],
-        "icon": "icon/skill/1310_technique.png"
+        "icon": "icon/skill/11310_technique.png"
     },
     "1131008": {
         "id": "1131008",
@@ -16753,7 +17833,7 @@
             [2.6, 0.2],
             [2.8, 0.2]
         ],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/11310_basic_atk2.png"
     },
     "1131009": {
         "id": "1131009",
@@ -16783,7 +17863,7 @@
             [2.4, 1.2, 0, 0, 0.2, 0.1, 3.6, 0],
             [2.5, 1.25, 0, 0, 0.2, 0.1, 3.6, 0]
         ],
-        "icon": "icon/skill/1310_skill.png"
+        "icon": "icon/skill/11310_skill2.png"
     },
     "1140201": {
         "id": "1140201",
@@ -16808,7 +17888,7 @@
             [1.43, 0.858, 1],
             [1.54, 0.924, 1]
         ],
-        "icon": "icon/skill/1402_memosprite_skill.png"
+        "icon": "icon/skill/1402_memosprite_skill1.png"
     },
     "1140203": {
         "id": "1140203",
@@ -16908,7 +17988,7 @@
             [0.52],
             [0.56]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill1.png"
     },
     "1140702": {
         "id": "1140702",
@@ -16933,7 +18013,7 @@
             [0.25, 0.312, 0.364, 0.442, 0.25],
             [0.25, 0.336, 0.392, 0.476, 0.25]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill2.png"
     },
     "1140703": {
         "id": "1140703",
@@ -17008,7 +18088,7 @@
             [0.52, 6, 0.078, 1040],
             [0.56, 6, 0.084, 1120]
         ],
-        "icon": "icon/skill/1407_memosprite_talent.png"
+        "icon": "icon/skill/1407_memosprite_skill4.png"
     },
     "1140710": {
         "id": "1140710",
@@ -17033,7 +18113,7 @@
             [0.25],
             [0.25]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill2.png"
     },
     "1140711": {
         "id": "1140711",
@@ -17058,7 +18138,7 @@
             [0.25],
             [0.25]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill2.png"
     },
     "1140712": {
         "id": "1140712",
@@ -17083,7 +18163,7 @@
             [0.52, 6, 0.078, 1040],
             [0.56, 6, 0.084, 1120]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill4.png"
     },
     "1140901": {
         "id": "1140901",
@@ -17297,7 +18377,7 @@
             [0.156, 0.078, 16],
             [0.168, 0.084, 16]
         ],
-        "icon": "icon/skill/1413_memosprite_skill.png"
+        "icon": "icon/skill/1413_memosprite_skill2.png"
     },
     "1141501": {
         "id": "1141501",
@@ -17322,7 +18402,7 @@
             [0.78, 12],
             [0.84, 12]
         ],
-        "icon": "icon/skill/1415_memosprite_skill.png"
+        "icon": "icon/skill/1415_memosprite_skill2.png"
     },
     "1141502": {
         "id": "1141502",
@@ -17738,6 +18818,106 @@
         ],
         "icon": "icon/skill/1415_memosprite_skill.png"
     },
+    "1151201": {
+        "id": "1151201",
+        "name": "Chirrup Quartet",
+        "max_level": 10,
+        "element": "Wind",
+        "type": "MemospriteSkill",
+        "type_text": "Skill Memosprite",
+        "effect": "AoEAttack",
+        "effect_text": "AoE",
+        "simple_desc": "Mengakibatkan Wind DMG dalam jumlah besar pada seluruh musuh.",
+        "desc": "Mengakibatkan Wind DMG sebesar #2[f1]% Max HP \"Summer Songbird\" pada seluruh musuh.",
+        "params": [
+            [0, 0.75],
+            [0, 0.9],
+            [0, 1.05],
+            [0, 1.2],
+            [0, 1.35],
+            [0, 1.5],
+            [0, 1.65],
+            [0, 1.8],
+            [0, 1.95],
+            [0, 2.1]
+        ],
+        "icon": "icon/skill/1512_memosprite_skill.png"
+    },
+    "1151203": {
+        "id": "1151203",
+        "name": "A Warble of Wings",
+        "max_level": 10,
+        "element": "",
+        "type": "MemospriteTalent",
+        "type_text": "Talent Memosprite",
+        "effect": "Support",
+        "effect_text": "Support",
+        "simple_desc": "Saat berada dalam status \"Fever\", DMG yang diakibatkan oleh Robin • Summeretto dan \"Summer Songbird\" meningkat. Saat giliran \"Summer Songbird\" dimulai, akan melancarkan Skill Memosprite. Saat Poin Atmosfer adalah 0, \"Summer Songbird\" akan menghilang dan membuat Robin • Summeretto keluar dari status \"Fever\". Saat \"Summer Songbird\" ada di medan pertempuran, meningkatkan DMG yang diterima seluruh musuh berdasarkan jumlah anggota.",
+        "desc": "Saat berstatus \"Fever\", \"Summer Songbird\" dan hitung mundur akan muncul di Susunan Aksi, serta meningkatkan DMG yang diakibatkan oleh Robin • Summeretto dan \"Summer Songbird\" sebesar (#1[i]% + Poin Atmosfer ×#2[f1]%). Saat giliran \"Summer Songbird\" dimulai, akan melancarkan Skill Memosprite. SPD awal hitung mundur adalah #9[i]. Saat giliran dimulai, akan mengurangi #10[i]% Poin Atmosfer saat ini, minimal mengurangi #6[i] poin. Saat Poin Atmosfer menjadi nol, \"Summer Songbird\" akan menghilang dan membuat Robin • Summeretto keluar dari status \"Fever\". Saat \"Summer Songbird\" ada di medan pertempuran, meningkatkan DMG yang diterima seluruh musuh masing-masing sebesar #3[f1]%/#4[f1]%/#5[f1]% berdasarkan jumlah anggota.",
+        "params": [
+            [0.3, 0.01, 0.04, 0.06, 0.08, 12, 0, 0, 140, 0.5],
+            [0.36, 0.012, 0.048, 0.072, 0.096, 12, 0, 0, 140, 0.5],
+            [0.42, 0.014, 0.056, 0.084, 0.112, 12, 0, 0, 140, 0.5],
+            [0.48, 0.016, 0.064, 0.096, 0.128, 12, 0, 0, 140, 0.5],
+            [0.54, 0.018, 0.072, 0.108, 0.144, 12, 0, 0, 140, 0.5],
+            [0.6, 0.02, 0.08, 0.12, 0.16, 12, 0, 0, 140, 0.5],
+            [0.66, 0.022, 0.088, 0.132, 0.176, 12, 0, 0, 140, 0.5],
+            [0.72, 0.024, 0.096, 0.144, 0.192, 12, 0, 0, 140, 0.5],
+            [0.78, 0.026, 0.104, 0.156, 0.208, 12, 0, 0, 140, 0.5],
+            [0.84, 0.028, 0.112, 0.168, 0.224, 12, 0, 0, 140, 0.5]
+        ],
+        "icon": "icon/skill/1512_memosprite_talent.png"
+    },
+    "1151205": {
+        "id": "1151205",
+        "name": "Near the Sea's Heartbeat",
+        "max_level": 10,
+        "element": "",
+        "type": "MemospriteTalent",
+        "type_text": "Talent Memosprite",
+        "effect": "Support",
+        "effect_text": "Support",
+        "simple_desc": "Saat dipanggil, memulihkan Energy Robin • Summeretto.",
+        "desc": "Saat \"Summer Songbird\" dipanggil, memulihkan #1[i] Energy untuk Robin • Summeretto.",
+        "params": [
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20]
+        ],
+        "icon": "icon/skill/1512_memosprite_talent.png"
+    },
+    "1151206": {
+        "id": "1151206",
+        "name": "Astride Summer's Nightwind",
+        "max_level": 10,
+        "element": "",
+        "type": "MemospriteTalent",
+        "type_text": "Talent Memosprite",
+        "effect": "Support",
+        "effect_text": "Support",
+        "simple_desc": "Saat menghilang, mendahulukan aksi Robin • Summeretto.",
+        "desc": "Saat \"Summer Songbird\" menghilang, mendahulukan aksi Robin • Summeretto sebesar #1[i]%.",
+        "params": [
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5]
+        ],
+        "icon": "icon/skill/1512_memosprite_talent.png"
+    },
     "1800701": {
         "id": "1800701",
         "name": "Baddies! Trouble!",
@@ -17761,7 +18941,7 @@
             [0.468, 4, 1.17],
             [0.504, 4, 1.26]
         ],
-        "icon": "icon/skill/8007_memosprite_skill.png"
+        "icon": "icon/skill/8007_memosprite_skill1.png"
     },
     "1800703": {
         "id": "1800703",
@@ -17861,6 +19041,6 @@
             [0.34, 3, 1],
             [0.36, 3, 1]
         ],
-        "icon": "icon/skill/8007_memosprite_skill.png"
+        "icon": "icon/skill/8007_memosprite_skill2.png"
     }
 }

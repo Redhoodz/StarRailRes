@@ -801,7 +801,7 @@
             { "id": "11004", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank1.png"
+        "icon": "icon/skill/11004_rank1.png"
     },
     "1100402": {
         "id": "1100402",
@@ -812,7 +812,7 @@
             { "id": "11004", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank2.png"
+        "icon": "icon/skill/11004_rank2.png"
     },
     "1100403": {
         "id": "1100403",
@@ -826,7 +826,7 @@
             { "id": "1100402", "num": 2 },
             { "id": "1100401", "num": 1 }
         ],
-        "icon": "icon/skill/1100_skill.png"
+        "icon": "icon/skill/11004_skill.png"
     },
     "1100404": {
         "id": "1100404",
@@ -837,7 +837,7 @@
             { "id": "11004", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank4.png"
+        "icon": "icon/skill/11004_rank4.png"
     },
     "1100405": {
         "id": "1100405",
@@ -851,7 +851,7 @@
             { "id": "1100403", "num": 2 },
             { "id": "1100404", "num": 2 }
         ],
-        "icon": "icon/skill/1100_ultimate.png"
+        "icon": "icon/skill/11004_ultimate.png"
     },
     "1100406": {
         "id": "1100406",
@@ -862,7 +862,7 @@
             { "id": "11004", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank6.png"
+        "icon": "icon/skill/11004_rank6.png"
     },
     "1100501": {
         "id": "1100501",
@@ -873,7 +873,7 @@
             { "id": "11005", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank1.png"
+        "icon": "icon/skill/11005_rank1.png"
     },
     "1100502": {
         "id": "1100502",
@@ -884,7 +884,7 @@
             { "id": "11005", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank2.png"
+        "icon": "icon/skill/11005_rank2.png"
     },
     "1100503": {
         "id": "1100503",
@@ -898,7 +898,7 @@
             { "id": "1100502", "num": 2 },
             { "id": "1100501", "num": 1 }
         ],
-        "icon": "icon/skill/1100_skill.png"
+        "icon": "icon/skill/11005_skill.png"
     },
     "1100504": {
         "id": "1100504",
@@ -909,7 +909,7 @@
             { "id": "11005", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank4.png"
+        "icon": "icon/skill/11005_rank4.png"
     },
     "1100505": {
         "id": "1100505",
@@ -923,7 +923,7 @@
             { "id": "1100503", "num": 2 },
             { "id": "1100504", "num": 2 }
         ],
-        "icon": "icon/skill/1100_ultimate.png"
+        "icon": "icon/skill/11005_ultimate.png"
     },
     "1100506": {
         "id": "1100506",
@@ -934,7 +934,7 @@
             { "id": "11005", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank6.png"
+        "icon": "icon/skill/11005_rank6.png"
     },
     "1100601": {
         "id": "1100601",
@@ -945,7 +945,7 @@
             { "id": "11006", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank1.png"
+        "icon": "icon/skill/11006_rank1.png"
     },
     "1100602": {
         "id": "1100602",
@@ -956,7 +956,7 @@
             { "id": "11006", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank2.png"
+        "icon": "icon/skill/11006_rank2.png"
     },
     "1100603": {
         "id": "1100603",
@@ -970,7 +970,7 @@
             { "id": "1100602", "num": 2 },
             { "id": "1100604", "num": 2 }
         ],
-        "icon": "icon/skill/1100_skill.png"
+        "icon": "icon/skill/11006_skill.png"
     },
     "1100604": {
         "id": "1100604",
@@ -981,7 +981,7 @@
             { "id": "11006", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank4.png"
+        "icon": "icon/skill/11006_rank4.png"
     },
     "1100605": {
         "id": "1100605",
@@ -995,7 +995,7 @@
             { "id": "1100603", "num": 2 },
             { "id": "1100601", "num": 1 }
         ],
-        "icon": "icon/skill/1100_ultimate.png"
+        "icon": "icon/skill/11006_ultimate.png"
     },
     "1100606": {
         "id": "1100606",
@@ -1006,7 +1006,7 @@
             { "id": "11006", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1100_rank6.png"
+        "icon": "icon/skill/11006_rank6.png"
     },
     "110101": {
         "id": "110101",
@@ -1738,7 +1738,7 @@
             { "id": "11102", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1110_rank1.png"
+        "icon": "icon/skill/11102_rank1.png"
     },
     "1110202": {
         "id": "1110202",
@@ -1749,7 +1749,7 @@
             { "id": "11102", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1110_rank2.png"
+        "icon": "icon/skill/11102_rank2.png"
     },
     "1110203": {
         "id": "1110203",
@@ -1763,7 +1763,7 @@
             { "id": "1110202", "num": 2 },
             { "id": "1110204", "num": 2 }
         ],
-        "icon": "icon/skill/1110_skill.png"
+        "icon": "icon/skill/11102_skill.png"
     },
     "1110204": {
         "id": "1110204",
@@ -1774,7 +1774,7 @@
             { "id": "11102", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1110_rank4.png"
+        "icon": "icon/skill/11102_rank4.png"
     },
     "1110205": {
         "id": "1110205",
@@ -1788,7 +1788,7 @@
             { "id": "1110203", "num": 2 },
             { "id": "1110201", "num": 1 }
         ],
-        "icon": "icon/skill/1110_ultimate.png"
+        "icon": "icon/skill/11102_ultimate.png"
     },
     "1110206": {
         "id": "1110206",
@@ -1799,7 +1799,7 @@
             { "id": "11102", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1110_rank6.png"
+        "icon": "icon/skill/11102_rank6.png"
     },
     "111101": {
         "id": "111101",
@@ -1955,7 +1955,7 @@
             { "id": "11205", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1120_rank1.png"
+        "icon": "icon/skill/11205_rank1.png"
     },
     "1120502": {
         "id": "1120502",
@@ -1966,7 +1966,7 @@
             { "id": "11205", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1120_rank2.png"
+        "icon": "icon/skill/11205_rank2.png"
     },
     "1120503": {
         "id": "1120503",
@@ -1980,7 +1980,7 @@
             { "id": "1120503", "num": 2 },
             { "id": "1120504", "num": 2 }
         ],
-        "icon": "icon/skill/1120_ultimate.png"
+        "icon": "icon/skill/11205_ultimate.png"
     },
     "1120504": {
         "id": "1120504",
@@ -1991,7 +1991,7 @@
             { "id": "11205", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1120_rank4.png"
+        "icon": "icon/skill/11205_rank4.png"
     },
     "1120505": {
         "id": "1120505",
@@ -2006,7 +2006,7 @@
             { "id": "1120501", "num": 1 },
             { "id": "1120508", "num": 1 }
         ],
-        "icon": "icon/skill/1120_skill.png"
+        "icon": "icon/skill/11205_skill.png"
     },
     "1120506": {
         "id": "1120506",
@@ -2017,7 +2017,7 @@
             { "id": "11205", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1120_rank6.png"
+        "icon": "icon/skill/11205_rank6.png"
     },
     "1121201": {
         "id": "1121201",
@@ -2028,7 +2028,7 @@
             { "id": "11212", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank1.png"
+        "icon": "icon/skill/11212_rank1.png"
     },
     "1121202": {
         "id": "1121202",
@@ -2039,7 +2039,7 @@
             { "id": "11212", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank2.png"
+        "icon": "icon/skill/11212_rank2.png"
     },
     "1121203": {
         "id": "1121203",
@@ -2053,7 +2053,7 @@
             { "id": "1121203", "num": 2 },
             { "id": "1121204", "num": 2 }
         ],
-        "icon": "icon/skill/1121_ultimate.png"
+        "icon": "icon/skill/11212_ultimate.png"
     },
     "1121204": {
         "id": "1121204",
@@ -2064,7 +2064,7 @@
             { "id": "11212", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank4.png"
+        "icon": "icon/skill/11212_rank4.png"
     },
     "1121205": {
         "id": "1121205",
@@ -2079,7 +2079,7 @@
             { "id": "1121201", "num": 1 },
             { "id": "1121209", "num": 2 }
         ],
-        "icon": "icon/skill/1121_skill.png"
+        "icon": "icon/skill/11212_skill.png"
     },
     "1121206": {
         "id": "1121206",
@@ -2090,7 +2090,7 @@
             { "id": "11212", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank6.png"
+        "icon": "icon/skill/11212_rank6.png"
     },
     "1121701": {
         "id": "1121701",
@@ -2101,7 +2101,7 @@
             { "id": "11217", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank1.png"
+        "icon": "icon/skill/11217_rank1.png"
     },
     "1121702": {
         "id": "1121702",
@@ -2112,7 +2112,7 @@
             { "id": "11217", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank2.png"
+        "icon": "icon/skill/11217_rank2.png"
     },
     "1121703": {
         "id": "1121703",
@@ -2126,7 +2126,7 @@
             { "id": "1121703", "num": 2 },
             { "id": "1121704", "num": 2 }
         ],
-        "icon": "icon/skill/1121_ultimate.png"
+        "icon": "icon/skill/11217_ultimate.png"
     },
     "1121704": {
         "id": "1121704",
@@ -2137,7 +2137,7 @@
             { "id": "11217", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank4.png"
+        "icon": "icon/skill/11217_rank4.png"
     },
     "1121705": {
         "id": "1121705",
@@ -2151,7 +2151,7 @@
             { "id": "1121702", "num": 2 },
             { "id": "1121701", "num": 1 }
         ],
-        "icon": "icon/skill/1121_skill.png"
+        "icon": "icon/skill/11217_skill.png"
     },
     "1121706": {
         "id": "1121706",
@@ -2162,7 +2162,7 @@
             { "id": "11217", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1121_rank6.png"
+        "icon": "icon/skill/11217_rank6.png"
     },
     "1130601": {
         "id": "1130601",
@@ -2173,7 +2173,7 @@
             { "id": "11306", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank1.png"
+        "icon": "icon/skill/11306_rank1.png"
     },
     "1130602": {
         "id": "1130602",
@@ -2184,7 +2184,7 @@
             { "id": "11306", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank2.png"
+        "icon": "icon/skill/11306_rank2.png"
     },
     "1130603": {
         "id": "1130603",
@@ -2198,7 +2198,7 @@
             { "id": "1130602", "num": 2 },
             { "id": "1130601", "num": 1 }
         ],
-        "icon": "icon/skill/1130_skill.png"
+        "icon": "icon/skill/11306_skill.png"
     },
     "1130604": {
         "id": "1130604",
@@ -2209,7 +2209,7 @@
             { "id": "11306", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank4.png"
+        "icon": "icon/skill/11306_rank4.png"
     },
     "1130605": {
         "id": "1130605",
@@ -2223,7 +2223,7 @@
             { "id": "1130603", "num": 2 },
             { "id": "1130604", "num": 2 }
         ],
-        "icon": "icon/skill/1130_ultimate.png"
+        "icon": "icon/skill/11306_ultimate.png"
     },
     "1130606": {
         "id": "1130606",
@@ -2234,7 +2234,7 @@
             { "id": "11306", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank6.png"
+        "icon": "icon/skill/11306_rank6.png"
     },
     "1130701": {
         "id": "1130701",
@@ -2245,7 +2245,7 @@
             { "id": "11307", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank1.png"
+        "icon": "icon/skill/11307_rank1.png"
     },
     "1130702": {
         "id": "1130702",
@@ -2256,7 +2256,7 @@
             { "id": "11307", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank2.png"
+        "icon": "icon/skill/11307_rank2.png"
     },
     "1130703": {
         "id": "1130703",
@@ -2270,7 +2270,7 @@
             { "id": "1130702", "num": 2 },
             { "id": "1130704", "num": 2 }
         ],
-        "icon": "icon/skill/1130_skill.png"
+        "icon": "icon/skill/11307_skill.png"
     },
     "1130704": {
         "id": "1130704",
@@ -2281,7 +2281,7 @@
             { "id": "11307", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank4.png"
+        "icon": "icon/skill/11307_rank4.png"
     },
     "1130705": {
         "id": "1130705",
@@ -2295,7 +2295,7 @@
             { "id": "1130703", "num": 2 },
             { "id": "1130701", "num": 1 }
         ],
-        "icon": "icon/skill/1130_ultimate.png"
+        "icon": "icon/skill/11307_ultimate.png"
     },
     "1130706": {
         "id": "1130706",
@@ -2306,7 +2306,7 @@
             { "id": "11307", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1130_rank6.png"
+        "icon": "icon/skill/11307_rank6.png"
     },
     "1131001": {
         "id": "1131001",
@@ -2317,7 +2317,7 @@
             { "id": "11310", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1131_rank1.png"
+        "icon": "icon/skill/11310_rank1.png"
     },
     "1131002": {
         "id": "1131002",
@@ -2328,7 +2328,7 @@
             { "id": "11310", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1131_rank2.png"
+        "icon": "icon/skill/11310_rank2.png"
     },
     "1131003": {
         "id": "1131003",
@@ -2344,7 +2344,7 @@
             { "id": "1131009", "num": 2 },
             { "id": "1131008", "num": 1 }
         ],
-        "icon": "icon/skill/1131_skill.png"
+        "icon": "icon/skill/11310_skill.png"
     },
     "1131004": {
         "id": "1131004",
@@ -2355,7 +2355,7 @@
             { "id": "11310", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1131_rank4.png"
+        "icon": "icon/skill/11310_rank4.png"
     },
     "1131005": {
         "id": "1131005",
@@ -2369,7 +2369,7 @@
             { "id": "1131003", "num": 2 },
             { "id": "1131004", "num": 2 }
         ],
-        "icon": "icon/skill/1131_ultimate.png"
+        "icon": "icon/skill/11310_ultimate.png"
     },
     "1131006": {
         "id": "1131006",
@@ -2380,7 +2380,7 @@
             { "id": "11310", "num": 1 }
         ],
         "level_up_skills": [],
-        "icon": "icon/skill/1131_rank6.png"
+        "icon": "icon/skill/11310_rank6.png"
     },
     "120101": {
         "id": "120101",
@@ -6721,6 +6721,383 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1507_rank6.png"
+    },
+    "150801": {
+        "id": "150801",
+        "name": "Aprendiz de Zelretch",
+        "rank": 1,
+        "desc": "Si la cantidad de Energía de gema que consume un único lanzamiento de la habilidad básica potenciada es igual o superior a 30 pts., Rin Tohsaka obtiene una cantidad de Gemas de sombra igual a la cantidad de Energía de gema consumida.\nAl tener Gemas de sombra, la habilidad básica se potencia a Segundo experimento mágico. La habilidad básica potenciada consume todas las Gemas de sombra, no activa el efecto que convierte los pts. de habilidad básica en Energía de gema y no consume Energía de gema.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank1.png"
+    },
+    "150802": {
+        "id": "150802",
+        "name": "Viajera dimensional",
+        "rank": 2,
+        "desc": "El daño de habilidad básica que inflige Rin Tohsaka aumenta en un 30%. Cuando Rin Tohsaka está en el campo de batalla, el daño de habilidad básica que infligen todos los aliados es el 130% del daño original.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank2.png"
+    },
+    "150803": {
+        "id": "150803",
+        "name": "Guerra del Santo Grial: recuerdo de la victoria",
+        "rank": 3,
+        "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10).",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150802", "num": 2 },
+            { "id": "150801", "num": 1 },
+            { "id": "150809", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_skill.png"
+    },
+    "150804": {
+        "id": "150804",
+        "name": "Demonio rojo: tres veces más rápido",
+        "rank": 4,
+        "desc": "Cuando el efecto de aumento de Daño CRIT del talento Magia de gemas se aplica a Rin Tohsaka, el efecto se puede acumular hasta un máximo de 2 veces.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank4.png"
+    },
+    "150805": {
+        "id": "150805",
+        "name": "Favor de la diosa de Venus",
+        "rank": 5,
+        "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15).",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150803", "num": 2 },
+            { "id": "150804", "num": 2 },
+            { "id": "150805", "num": 2 }
+        ],
+        "icon": "icon/skill/1508_ultimate.png"
+    },
+    "150806": {
+        "id": "150806",
+        "name": "¡Esta vez no metí la pata!",
+        "rank": 6,
+        "desc": "La PEN de la RES a todos los tipos de Rin Tohsaka aumenta en un 20%. Al lanzar su habilidad definitiva, obtiene 24 pts. de Energía de gema y 1 turno adicional.",
+        "materials": [
+            { "id": "11508", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1508_rank6.png"
+    },
+    "150901": {
+        "id": "150901",
+        "name": "Aquel que lo vio todo",
+        "rank": 1,
+        "desc": "Cuando Gilgamesh tiene Reconocimiento del rey, el efecto de DEF ignorada de Reconocimiento del rey también se aplica a los demás compañeros de equipo. Además, Reconocimiento del rey aumenta adicionalmente el ATQ de Gilgamesh en un 60%. Recupera adicionalmente 40 pts. fijos de energía cuando lanza la habilidad básica.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank1.png"
+    },
+    "150902": {
+        "id": "150902",
+        "name": "Sabiduría que todo lo abarcó",
+        "rank": 2,
+        "desc": "Al entrar en combate, Gilgamesh obtiene 5 pts. de Entusiasmo y, al lanzar su habilidad definitiva, obtiene 5 pts. de Entusiasmo adicionales. El multiplicador del daño que la habilidad básica Tesoro del Rey inflige al objetivo principal y a los objetivos adyacentes aumenta en un 100% y un 50% respectivamente.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank2.png"
+    },
+    "150903": {
+        "id": "150903",
+        "name": "Travesía que recorrió gran distancia",
+        "rank": 3,
+        "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10).",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150902", "num": 2 },
+            { "id": "150901", "num": 1 }
+        ],
+        "icon": "icon/skill/1509_skill.png"
+    },
+    "150904": {
+        "id": "150904",
+        "name": "Rey que se alzó supremo",
+        "rank": 4,
+        "desc": "La recuperación de energía de Gilgamesh aumenta en un 20%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank4.png"
+    },
+    "150905": {
+        "id": "150905",
+        "name": "Filo que despidió lo divino",
+        "rank": 5,
+        "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15).",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "150903", "num": 2 },
+            { "id": "150904", "num": 2 },
+            { "id": "150905", "num": 2 }
+        ],
+        "icon": "icon/skill/1509_ultimate.png"
+    },
+    "150906": {
+        "id": "150906",
+        "name": "Alma que se forjó en amistad",
+        "rank": 6,
+        "desc": "El multiplicador de daño de Rebote de Enuma Elish aumenta en un 80%. Cuando Gilgamesh está en el campo de batalla, la PEN de la RES a todos los tipos de los personajes aliados aumenta en un 20%. Cuando un compañero de equipo lanza su habilidad definitiva, Gilgamesh obtiene 1 pt. de Regla de oro, hasta un máximo de 3 pts. Gasta todos sus puntos de Regla de oro al lanzar la habilidad definitiva. Por cada punto de Regla de oro consumido, el Daño CRIT del daño de habilidad definitiva que inflige aumenta en un 100%.",
+        "materials": [
+            { "id": "11509", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1509_rank6.png"
+    },
+    "151001": {
+        "id": "151001",
+        "name": "Nuestro porvenir es trazar caminos",
+        "rank": 1,
+        "desc": "El lanzamiento adicional de la habilidad de apoyo del talento se puede activar 1 vez más. En el estado Protocolo de acompañante: Veredicto, los usos de la habilidad definitiva necesarios para lanzar la habilidad de apoyo se reducen en 1. En el estado Protocolo de acompañante: Aniquilación, la carga necesaria para lanzar la habilidad de apoyo se reduce en 3 puntos. Cuando Himeko Nova lanza la habilidad de apoyo, las veces que el efecto inflige daño extra aumentan en 1.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank1.png"
+    },
+    "151002": {
+        "id": "151002",
+        "name": "Estandarte, vela que nunca se arría",
+        "rank": 2,
+        "desc": "La habilidad de apoyo de Himeko Nova aumenta su límite de usos a 2 y el daño que infligen la habilidad definitiva y la habilidad de apoyo es un 130% del daño original. En el estado Señales de navegación, al comenzar cada turno se recupera inmediatamente 1 uso adicional de la habilidad de apoyo. Los personajes que no sean Camaradas trazacaminos también activan el efecto del Rastro Pulso atronador del Expreso y obtienen 1 turno adicional al usar la habilidad de apoyo.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank2.png"
+    },
+    "151003": {
+        "id": "151003",
+        "name": "Los hijos de las estrellas contemplamos el cosmos",
+        "rank": 3,
+        "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10).",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151003", "num": 2 },
+            { "id": "151001", "num": 1 },
+            { "id": "151008", "num": 2 },
+            { "id": "151009", "num": 2 },
+            { "id": "151014", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151004": {
+        "id": "151004",
+        "name": "Toma cada mano que se alza hacia el cielo",
+        "rank": 4,
+        "desc": "Cuando el talento Emprendamos la expedición ardiente usa la habilidad de apoyo, el efecto de aumento de la PEN de la RES a todos los tipos se aplica a todos los aliados. Cuando Himeko Nova obtiene este efecto, su PEN de la RES a todos los tipos aumenta en un 10% adicional.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank4.png"
+    },
+    "151005": {
+        "id": "151005",
+        "name": "Y recorre los confines del universo",
+        "rank": 5,
+        "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15).",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151002", "num": 2 },
+            { "id": "151004", "num": 2 },
+            { "id": "151022", "num": 2 },
+            { "id": "151025", "num": 2 },
+            { "id": "151026", "num": 2 }
+        ],
+        "icon": "icon/skill/1510_skill.png"
+    },
+    "151006": {
+        "id": "151006",
+        "name": "Juro que llegaré a las estrellas",
+        "rank": 6,
+        "desc": "La PEN de la RES a Fuego de Himeko Nova aumenta en un 20%. El límite de Energía primordial aumenta a 6 pts. Cuando los aliados usan o lanzan la habilidad de apoyo, el daño que inflige la habilidad de apoyo aumenta en un 75% y Himeko Nova obtiene 1 pt. de Energía primordial. Cuando se lanza Rayo de partículas superaceleradas durante la habilidad definitiva, obtiene 1 pt. de Energía primordial adicional. Cuando se lanza Pulso de aniquilación orbital, si en ese momento hay 6 o más pts. de Energía primordial, inflige 1 vez a todos los enemigos un Daño de Fuego equivalente al 160% del ATQ de Himeko Nova.",
+        "materials": [
+            { "id": "11510", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1510_rank6.png"
+    },
+    "151201": {
+        "id": "151201",
+        "name": "Volando sola en verano",
+        "rank": 1,
+        "desc": "Trinos de verano registra el 100% del daño (que no sea Daño verdadero) infligido por los aliados. Al lanzar la habilidad de mnemoduende, inflige adicionalmente al enemigo con más PV un Daño verdadero equivalente al (11% + puntos actuales de Bullicio ×0.1%) del daño total registrado, y luego borra el 50% del valor registrado.",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1512_rank1.png"
+    },
+    "151202": {
+        "id": "151202",
+        "name": "Corazón en calma chicha",
+        "rank": 2,
+        "desc": "La PEN de la RES a todos los tipos de los aliados aumenta en un 18%. El límite máximo de Bullicio de Robin Estival aumenta en 20 puntos. La primera vez durante el turno de cualquier objetivo que un aliado lance una habilidad y haga que Robin Estival obtenga Bullicio, esta obtiene 2 puntos adicionales.",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1512_rank2.png"
+    },
+    "151203": {
+        "id": "151203",
+        "name": "Recogiendo las notas caídas",
+        "rank": 3,
+        "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15). Niv. de talento de mnemoduende +1 (máximo: nivel 10).",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151202", "num": 2 },
+            { "id": "151204", "num": 2 },
+            { "id": "1151203", "num": 1 },
+            { "id": "1151205", "num": 1 },
+            { "id": "1151206", "num": 1 }
+        ],
+        "icon": "icon/skill/1512_skill.png"
+    },
+    "151204": {
+        "id": "151204",
+        "name": "Escuchando las variaciones de cuerda",
+        "rank": 4,
+        "desc": "Al entrar en el estado de Fiebre, obtiene inmediatamente 12 pts. de Bullicio y la VEL de Trinos de verano aumenta en un (20% + el Bullicio actual ×0.5%).",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1512_rank4.png"
+    },
+    "151205": {
+        "id": "151205",
+        "name": "Otra vez hacia un nuevo amanecer",
+        "rank": 5,
+        "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10). Niv. de habilidad de mnemoduende +1 (máximo: nivel 10).",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151203", "num": 2 },
+            { "id": "151201", "num": 1 },
+            { "id": "1151201", "num": 1 }
+        ],
+        "icon": "icon/skill/1512_ultimate.png"
+    },
+    "151206": {
+        "id": "151206",
+        "name": "Cantando una canción sin título",
+        "rank": 6,
+        "desc": "El multiplicador de daño de la habilidad de mnemoduende aumenta en un 100% del multiplicador original. Mientras está en el estado de Fiebre, la habilidad definitiva de Robin Estival puede acumularse hasta 2 veces. Tras entrar en el estado de Fiebre por primera vez durante esta batalla o al comenzar el turno de la cuenta regresiva de Fiebre, recupera una cantidad fija de 140 pts. de energía.",
+        "materials": [
+            { "id": "11512", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1512_rank6.png"
+    },
+    "151301": {
+        "id": "151301",
+        "name": "Órdago vacacional",
+        "rank": 1,
+        "desc": "La PEN de la RES a todos los tipos aumenta en un 24%.\nEl talento se potencia: cuando Fervor alcanza 10/20/30 puntos, lanza inmediatamente ¡Brindis por el tórrido estío!",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1513_rank1.png"
+    },
+    "151302": {
+        "id": "151302",
+        "name": "Ocio al vaivén de la marea",
+        "rank": 2,
+        "desc": "El límite máximo de Fervor aumenta a 50 pts. Al alcanzar 40/50 pts., también activa el lanzamiento de ¡Brindis por el tórrido estío! del talento. Tras lanzar la habilidad de Exultación, obtiene 4 pts. de Fervor adicionales.",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1513_rank2.png"
+    },
+    "151303": {
+        "id": "151303",
+        "name": "Invitación vespertina con hielo",
+        "rank": 3,
+        "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15). Niv. de habilidad de Exultación +1 (máximo: nivel 15).",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151302", "num": 2 },
+            { "id": "151304", "num": 2 },
+            { "id": "151320", "num": 1 },
+            { "id": "151321", "num": 1 }
+        ],
+        "icon": "icon/skill/1513_skill.png"
+    },
+    "151304": {
+        "id": "151304",
+        "name": "Con el sol no se negocia",
+        "rank": 4,
+        "desc": "Cuando Aventurino Oleaje lanza la habilidad básica, el daño que infligen todos los aliados ignora un 18% de la DEF del enemigo durante 3 turnos.",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1513_rank4.png"
+    },
+    "151305": {
+        "id": "151305",
+        "name": "Zambullida en la tormenta ganadora",
+        "rank": 5,
+        "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10). Niv. de habilidad de Exultación +1 (máximo: nivel 15).",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151303", "num": 2 },
+            { "id": "151301", "num": 1 },
+            { "id": "151320", "num": 1 },
+            { "id": "151321", "num": 1 }
+        ],
+        "icon": "icon/skill/1513_ultimate.png"
+    },
+    "151306": {
+        "id": "151306",
+        "name": "El pasado por una vorágine",
+        "rank": 6,
+        "desc": "El Daño de Exultación infligido por Aventurino Oleaje aumenta su gracia en un 25%. Después de que Aventurino Oleaje lance la habilidad de Exultación 2 veces, todas las habilidades de Exultación que lance posteriormente serán ¡Todo al tórrido estío!, y ya no consumirá Fervor cuando lance la habilidad de Exultación ¡Todo al tórrido estío! fuera del Momento Aha para infligir daño extra.",
+        "materials": [
+            { "id": "11513", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1513_rank6.png"
     },
     "800101": {
         "id": "800101",

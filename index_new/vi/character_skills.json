@@ -1472,7 +1472,7 @@
             [1.95, 2, 1.95, 2.86],
             [2.1, 2, 2.1, 3.08]
         ],
-        "icon": "icon/skill/1014_basic_atk.png"
+        "icon": "icon/skill/1014_basic_atk2.png"
     },
     "101501": {
         "id": "101501",
@@ -1630,7 +1630,7 @@
         "simple_desc": "Thoát trạng thái Kết Nối Mạch và kết thúc hiệp.",
         "desc": "Thoát trạng thái Kết Nối Mạch và kết thúc hiệp.",
         "params": [],
-        "icon": "icon/skill/1015_skill.png"
+        "icon": "icon/skill/1015_common_skip.png"
     },
     "110101": {
         "id": "110101",
@@ -2965,7 +2965,7 @@
             [3.36, 1, 2, 0.78, 0.96],
             [3.5, 1, 2, 0.8125, 1]
         ],
-        "icon": "icon/skill/1109_skill.png"
+        "icon": "icon/skill/1109_skill2.png"
     },
     "111001": {
         "id": "111001",
@@ -3280,7 +3280,7 @@
             [0.26, 1.04],
             [0.28, 1.12]
         ],
-        "icon": "icon/skill/1111_basic_atk.png"
+        "icon": "icon/skill/1111_basic_atk2.png"
     },
     "111201": {
         "id": "111201",
@@ -3595,7 +3595,7 @@
             [3.12, 1.3],
             [3.36, 1.4]
         ],
-        "icon": "icon/skill/1201_basic_atk.png"
+        "icon": "icon/skill/1201_basic_atk2.png"
     },
     "120201": {
         "id": "120201",
@@ -4198,7 +4198,7 @@
             [0.1, 0.52, 0.208, 1.3, 0.52],
             [0.1, 0.56, 0.224, 1.4, 0.56]
         ],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/1205_basic_atk2.png"
     },
     "120601": {
         "id": "120601",
@@ -5243,7 +5243,7 @@
             [3, 1, 1.5],
             [3.125, 1, 1.5625]
         ],
-        "icon": "icon/skill/1212_skill.png"
+        "icon": "icon/skill/1212_skill2.png"
     },
     "121301": {
         "id": "121301",
@@ -5413,7 +5413,7 @@
             [3.38],
             [3.64]
         ],
-        "icon": "icon/skill/1213_basic_atk.png"
+        "icon": "icon/skill/1213_basic_atk2.png"
     },
     "121309": {
         "id": "121309",
@@ -5427,7 +5427,7 @@
         "simple_desc": "Hủy cường hóa.",
         "desc": "Hủy cường hóa.",
         "params": [],
-        "icon": "icon/skill/1213_skill.png"
+        "icon": "icon/skill/1213_common_return.png"
     },
     "121310": {
         "id": "121310",
@@ -5452,7 +5452,7 @@
             [4.94, 0.78],
             [5.32, 0.84]
         ],
-        "icon": "icon/skill/1213_basic_atk.png"
+        "icon": "icon/skill/1213_basic_atk3.png"
     },
     "121312": {
         "id": "121312",
@@ -5477,7 +5477,7 @@
             [6.5, 2.34],
             [7, 2.52]
         ],
-        "icon": "icon/skill/1213_basic_atk.png"
+        "icon": "icon/skill/1213_basic_atk4.png"
     },
     "121401": {
         "id": "121401",
@@ -6230,7 +6230,7 @@
             [0.696, 0.36],
             [0.72, 0.375]
         ],
-        "icon": "icon/skill/1220_ultimate.png"
+        "icon": "icon/skill/1220_ultimate_on2.png"
     },
     "122009": {
         "id": "122009",
@@ -6260,7 +6260,7 @@
             [0.696, 0.36],
             [0.72, 0.375]
         ],
-        "icon": "icon/skill/1220_ultimate.png"
+        "icon": "icon/skill/1220_ultimate_on3.png"
     },
     "122014": {
         "id": "122014",
@@ -6895,7 +6895,7 @@
             [1.04, 0.6, 3, 3],
             [1.12, 0.6, 3, 3]
         ],
-        "icon": "icon/skill/1224_basic_atk.png"
+        "icon": "icon/skill/1224_basic_atk2.png"
     },
     "122501": {
         "id": "122501",
@@ -7065,7 +7065,7 @@
             [1.3, 0.65],
             [1.4, 0.7]
         ],
-        "icon": "icon/skill/1225_basic_atk.png"
+        "icon": "icon/skill/1225_basic_atk2.png"
     },
     "130101": {
         "id": "130101",
@@ -7235,7 +7235,7 @@
             [3.25, 0.18, 2],
             [3.5, 0.19, 2]
         ],
-        "icon": "icon/skill/1301_basic_atk.png"
+        "icon": "icon/skill/1301_basic_atk2.png"
     },
     "130201": {
         "id": "130201",
@@ -7410,7 +7410,7 @@
             [3.248, 6, 1.102, 180],
             [3.36, 6, 1.14, 180]
         ],
-        "icon": "icon/skill/1302_ultimate.png"
+        "icon": "icon/skill/1302_ultimate2.png"
     },
     "130301": {
         "id": "130301",
@@ -8674,7 +8674,7 @@
         "simple_desc": "Tấn công kẻ địch, vào chiến đấu và làm suy yếu Sức Bền thuộc tính tương ứng của kẻ địch.",
         "desc": "Tấn công kẻ địch, vào chiến đấu và làm suy yếu Sức Bền thuộc tính tương ứng của kẻ địch.",
         "params": [],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/1310_basic_atk2.png"
     },
     "131007": {
         "id": "131007",
@@ -8715,7 +8715,7 @@
             [2.6, 0.2],
             [2.8, 0.2]
         ],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/1310_basic_atk2.png"
     },
     "131009": {
         "id": "131009",
@@ -8745,7 +8745,7 @@
             [2.4, 1.2, 0.25, 2, 0.2, 0.1, 3.6],
             [2.5, 1.25, 0.25, 2, 0.2, 0.1, 3.6]
         ],
-        "icon": "icon/skill/1310_skill.png"
+        "icon": "icon/skill/1310_skill2.png"
     },
     "131201": {
         "id": "131201",
@@ -9309,7 +9309,7 @@
         "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của kẻ địch.",
         "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của kẻ địch.",
         "params": [],
-        "icon": "icon/skill/1315_basic_atk.png"
+        "icon": "icon/skill/1315_maze_normal.png"
     },
     "131507": {
         "id": "131507",
@@ -9350,7 +9350,7 @@
             [2.86],
             [3.08]
         ],
-        "icon": "icon/skill/1315_basic_atk.png"
+        "icon": "icon/skill/1315_basic_atk2.png"
     },
     "131701": {
         "id": "131701",
@@ -9520,7 +9520,7 @@
             [1.24, 0.62, 1.24, 0.5],
             [1.32, 0.66, 1.32, 0.5]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "131710": {
         "id": "131710",
@@ -9545,7 +9545,7 @@
             [1.24, 0.62],
             [1.32, 0.66]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "131712": {
         "id": "131712",
@@ -9570,7 +9570,7 @@
             [1.24],
             [1.32]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "131714": {
         "id": "131714",
@@ -9651,7 +9651,7 @@
             [1.24, 0.62, 1.24, 0.5],
             [1.32, 0.66, 1.32, 0.5]
         ],
-        "icon": "icon/skill/1317_basic_atk.png"
+        "icon": "icon/skill/1317_basic_atk2.png"
     },
     "132101": {
         "id": "132101",
@@ -9971,7 +9971,7 @@
             [0.96, 1, 0.48],
             [1, 1, 0.5]
         ],
-        "icon": "icon/skill/1401_skill.png"
+        "icon": "icon/skill/1401_skill2.png"
     },
     "140201": {
         "id": "140201",
@@ -10141,7 +10141,7 @@
             [2.6, 1.17, 2.6, 1.17],
             [2.8, 1.26, 2.8, 1.26]
         ],
-        "icon": "icon/skill/1402_basic_atk.png"
+        "icon": "icon/skill/1402_basic_atk2.png"
     },
     "140209": {
         "id": "140209",
@@ -10521,7 +10521,7 @@
             [3.36, 2.016, 150],
             [3.5, 2.1, 150]
         ],
-        "icon": "icon/skill/1404_skill.png"
+        "icon": "icon/skill/1404_skill2.png"
     },
     "140501": {
         "id": "140501",
@@ -10986,7 +10986,7 @@
             [0.4, 0.36, 0.6],
             [0.4, 0.375, 0.625]
         ],
-        "icon": "icon/skill/1407_skill.png"
+        "icon": "icon/skill/1407_skill2.png"
     },
     "140801": {
         "id": "140801",
@@ -11186,7 +11186,7 @@
             [3.25, 0.975, 2],
             [3.5, 1.05, 2]
         ],
-        "icon": "icon/skill/1408_basic_atk.png"
+        "icon": "icon/skill/1408_basic_atk2.png"
     },
     "140809": {
         "id": "140809",
@@ -11216,7 +11216,7 @@
             [0.48, 0.75, 4, 0.36, 0.2],
             [0.5, 0.75, 4, 0.375, 0.2]
         ],
-        "icon": "icon/skill/1408_skill.png"
+        "icon": "icon/skill/1408_skill2.png"
     },
     "140811": {
         "id": "140811",
@@ -11246,7 +11246,7 @@
             [5.4, 0.54, 4, 4, 14.04],
             [5.625, 0.5625, 4, 4, 14.625]
         ],
-        "icon": "icon/skill/1408_skill.png"
+        "icon": "icon/skill/1408_skill3.png"
     },
     "140901": {
         "id": "140901",
@@ -11665,7 +11665,7 @@
         "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của mục tiêu phe địch.",
         "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền mang thuộc tính tương ứng của mục tiêu phe địch.",
         "params": [],
-        "icon": "icon/skill/1412_basic_atk.png"
+        "icon": "icon/skill/1412_technique2.png"
     },
     "141207": {
         "id": "141207",
@@ -12169,7 +12169,7 @@
             [0.39, 3, 0.39],
             [0.42, 3, 0.42]
         ],
-        "icon": "icon/skill/1415_basic_atk.png"
+        "icon": "icon/skill/1415_basic_atk2.png"
     },
     "141514": {
         "id": "141514",
@@ -12199,7 +12199,7 @@
             [12],
             [12]
         ],
-        "icon": "icon/skill/1415_ultimate.png"
+        "icon": "icon/skill/1415_ultimate2.png"
     },
     "141519": {
         "id": "141519",
@@ -12383,7 +12383,7 @@
             [1.3, 0.65],
             [1.4, 0.7]
         ],
-        "icon": "icon/skill/1501_basic_atk.png"
+        "icon": "icon/skill/1501_basic_atk2.png"
     },
     "150109": {
         "id": "150109",
@@ -12413,7 +12413,7 @@
             [2, 1, 2, 0.24, 0.12],
             [2, 1, 2, 0.25, 0.125]
         ],
-        "icon": "icon/skill/1501_skill.png"
+        "icon": "icon/skill/1501_skill2.png"
     },
     "150110": {
         "id": "150110",
@@ -12438,7 +12438,7 @@
             [1.3, 0.65],
             [1.4, 0.7]
         ],
-        "icon": "icon/skill/1501_basic_atk.png"
+        "icon": "icon/skill/1501_basic_atk2.png"
     },
     "150120": {
         "id": "150120",
@@ -12468,7 +12468,7 @@
             [0.3, 0.6, 20, 2],
             [0.3125, 0.625, 20, 2]
         ],
-        "icon": null
+        "icon": "icon/skill/1501_elation.png"
     },
     "150201": {
         "id": "150201",
@@ -12643,7 +12643,7 @@
             [1, 1.2, 0.16, 3, 5, 0.24],
             [1, 1.25, 0.16, 3, 5, 0.25]
         ],
-        "icon": null
+        "icon": "icon/skill/1502_elation.png"
     },
     "150401": {
         "id": "150401",
@@ -12963,7 +12963,7 @@
             [5, 1.32],
             [5, 1.375]
         ],
-        "icon": null
+        "icon": "icon/skill/1505_elation.png"
     },
     "150601": {
         "id": "150601",
@@ -13133,7 +13133,7 @@
             [3.12, 0, 100, 1.3, 3, 60, 2, 0.15],
             [3.36, 0, 100, 1.4, 3, 60, 2, 0.15]
         ],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate0.png"
     },
     "150610": {
         "id": "150610",
@@ -13147,7 +13147,7 @@
         "simple_desc": "Gây lượng lớn Sát Thương Vui Vẻ thuộc tính Số Ảo cho toàn bộ phe địch, chia đều cho toàn bộ phe địch. Gây Sát Thương Chuẩn dựa trên tổng lượng sát thương cho mục tiêu có HP cao nhất.",
         "desc": "Gây lượng lớn Sát Thương Vui Vẻ thuộc tính Số Ảo cho toàn bộ phe địch, chia đều cho toàn bộ phe địch. Gây Sát Thương Chuẩn dựa trên tổng lượng sát thương cho mục tiêu có HP cao nhất.",
         "params": [],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate1.png"
     },
     "150612": {
         "id": "150612",
@@ -13161,7 +13161,7 @@
         "simple_desc": "Gây lượng lớn Sát Thương Vui Vẻ thuộc tính Số Ảo cho toàn bộ phe địch, chia đều cho toàn bộ phe địch. Hồi phục Điểm Chiến Kỹ.",
         "desc": "Gây lượng lớn Sát Thương Vui Vẻ thuộc tính Số Ảo cho toàn bộ phe địch, chia đều cho toàn bộ phe địch. Hồi phục Điểm Chiến Kỹ.",
         "params": [],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate2.png"
     },
     "150618": {
         "id": "150618",
@@ -13175,7 +13175,7 @@
         "simple_desc": "Gây lượng lớn Sát Thương Vui Vẻ thuộc tính Số Ảo cho toàn bộ phe địch, chia đều cho toàn bộ phe địch. Nhận Điểm Hài Hước.",
         "desc": "Gây lượng lớn Sát Thương Vui Vẻ thuộc tính Số Ảo cho toàn bộ phe địch, chia đều cho toàn bộ phe địch. Nhận Điểm Hài Hước.",
         "params": [],
-        "icon": "icon/skill/1506_basic_atk.png"
+        "icon": "icon/skill/1506_special_ultimate3.png"
     },
     "150620": {
         "id": "150620",
@@ -13205,7 +13205,7 @@
             [15],
             [15]
         ],
-        "icon": null
+        "icon": "icon/skill/1506_elation.png"
     },
     "150621": {
         "id": "150621",
@@ -13235,7 +13235,7 @@
             [1.08, 6],
             [1.125, 6]
         ],
-        "icon": null
+        "icon": "icon/skill/1506_elation02.png"
     },
     "150701": {
         "id": "150701",
@@ -13272,7 +13272,7 @@
         "effect": "AoEAttack",
         "effect_text": "Đánh Lan",
         "simple_desc": "Tiêu hao HP gây Sát Thương Hỏa cho toàn bộ phe địch, sau đó gây lượng nhỏ Sát Thương Hỏa lên 1 kẻ địch, Nảy Bật 4 lần.",
-        "desc": "Tiêu hao HP bằng #4[i]% Giới Hạn HP của Mortenax Blade, gây Sát Thương Hỏa cho toàn bộ phe địch bằng #1[f1]% Giới Hạn HP của Mortenax Blade, đồng thời gây thêm #2[i] lần sát thương, mỗi lần sát thương gây Sát Thương Hỏa cho 1 kẻ địch ngẫu nhiên bằng #3[f1]% Giới Hạn HP của Mortenax Blade.\nNếu HP hiện tại không đủ, khi thi triển Chiến Kỹ, HP hiện tại của Mortenax Blade giảm còn 1.\nKhi không ở trạng thái \"Vô Lượng Phẫn Nộ\" hoặc HP hiện tại nhỏ hơn hoặc bằng 1, Mortenax Blade không thể thi triển Chiến Kỹ.\nThi triển Chiến Kỹ không tiêu hao Điểm Chiến Kỹ.",
+        "desc": "Tiêu hao HP bằng #4[f1]% Giới Hạn HP của Mortenax Blade, gây Sát Thương Hỏa cho toàn bộ phe địch bằng #1[i]% Giới Hạn HP của Mortenax Blade, đồng thời gây thêm #2[i] lần sát thương, mỗi lần sát thương gây Sát Thương Hỏa cho 1 kẻ địch ngẫu nhiên bằng #3[f1]% Giới Hạn HP của Mortenax Blade.\nNếu HP hiện tại không đủ, khi thi triển Chiến Kỹ, HP hiện tại của Mortenax Blade giảm còn 1.\nKhi không ở trạng thái \"Vô Lượng Phẫn Nộ\" hoặc HP hiện tại nhỏ hơn hoặc bằng 1, Mortenax Blade không thể thi triển Chiến Kỹ.\nThi triển Chiến Kỹ không tiêu hao Điểm Chiến Kỹ.",
         "params": [
             [0.36, 4, 0.12, 0.1],
             [0.396, 4, 0.132, 0.1],
@@ -13405,7 +13405,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1507_basic_atk.png"
+        "icon": "icon/skill/1507_basic_atk2.png"
     },
     "150709": {
         "id": "150709",
@@ -13465,7 +13465,1087 @@
             [4.06],
             [4.2]
         ],
-        "icon": "icon/skill/1507_ultimate.png"
+        "icon": "icon/skill/1507_ultimate2.png"
+    },
+    "150801": {
+        "id": "150801",
+        "name": "Bát Cực Quyền",
+        "max_level": 10,
+        "element": "Quantum",
+        "type": "Normal",
+        "type_text": "Tấn Công Thường",
+        "effect": "SingleAttack",
+        "effect_text": "Đánh Đơn",
+        "simple_desc": "Gây lượng nhỏ Sát Thương Lượng Tử cho 1 kẻ địch chỉ định.",
+        "desc": "Gây cho 1 kẻ địch chỉ định Sát Thương Lượng Tử bằng #1[i]% Tấn Công của Rin Tohsaka.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1508_basic_atk.png"
+    },
+    "150802": {
+        "id": "150802",
+        "name": "Bảo Thạch Kiếm Zelretch",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Chiến Kỹ",
+        "effect": "SingleAttack",
+        "effect_text": "Đánh Đơn",
+        "simple_desc": "Gây Sát Thương Lượng Tử cho 1 kẻ địch chỉ định.",
+        "desc": "Gây cho 1 kẻ địch chỉ định Sát Thương Lượng Tử bằng #1[i]% Tấn Công của Rin Tohsaka.",
+        "params": [
+            [0.9],
+            [0.99],
+            [1.08],
+            [1.17],
+            [1.26],
+            [1.35],
+            [1.4625],
+            [1.575],
+            [1.6875],
+            [1.8],
+            [1.89],
+            [1.98],
+            [2.07],
+            [2.16],
+            [2.25]
+        ],
+        "icon": "icon/skill/1508_skill.png"
+    },
+    "150803": {
+        "id": "150803",
+        "name": "An Gal Ta Ki Gal Šè",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Ultra",
+        "type_text": "Tuyệt Kỹ",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Gây lượng lớn Sát Thương Lượng Tử cho 1 kẻ địch chỉ định, gây Sát Thương Lượng Tử cho các mục tiêu phe địch khác. Khi thi triển, khiến sát thương toàn bộ phe địch phải chịu tăng và hồi Điểm Chiến Kỹ cho phe ta.",
+        "desc": "Gây Sát Thương Lượng Tử bằng #1[i]% Tấn Công của Rin Tohsaka cho 1 kẻ địch chỉ định, đồng thời gây Sát Thương Lượng Tử bằng #2[i]% Tấn Công của Rin Tohsaka cho các mục tiêu phe địch khác. Khi thi triển, hồi cho phe ta #4[i] Điểm Chiến Kỹ, và khiến sát thương toàn bộ phe địch phải chịu tăng #5[i]%, duy trì #6[i] hiệp.",
+        "params": [
+            [3, 1, 12, 1, 0.1, 3],
+            [3.3, 1.1, 12, 1, 0.11, 3],
+            [3.6, 1.2, 12, 1, 0.12, 3],
+            [3.9, 1.3, 12, 1, 0.13, 3],
+            [4.2, 1.4, 12, 1, 0.14, 3],
+            [4.5, 1.5, 12, 1, 0.15, 3],
+            [4.875, 1.625, 12, 1, 0.1625, 3],
+            [5.25, 1.75, 12, 1, 0.175, 3],
+            [5.625, 1.875, 12, 1, 0.1875, 3],
+            [6, 2, 12, 1, 0.2, 3],
+            [6.3, 2.1, 12, 1, 0.21, 3],
+            [6.6, 2.2, 12, 1, 0.22, 3],
+            [6.9, 2.3, 12, 1, 0.23, 3],
+            [7.2, 2.4, 12, 1, 0.24, 3],
+            [7.5, 2.5, 12, 1, 0.25, 3]
+        ],
+        "icon": "icon/skill/1508_ultimate.png"
+    },
+    "150804": {
+        "id": "150804",
+        "name": "Ma Thuật Bảo Thạch",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Talent",
+        "type_text": "Thiên Phú",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Khi vào chiến đấu, nhận 20 điểm \"Năng Lượng Bảo Thạch\". Khi mục tiêu phe ta tiêu hao hoặc hồi phục Điểm Chiến Kỹ, tăng Sát Thương Bạo Kích của mục tiêu đó, đồng thời khiến Rin Tohsaka nhận \"Năng Lượng Bảo Thạch\". Nếu \"Năng Lượng Bảo Thạch\" mà Rin Tohsaka đang sở hữu lớn hơn hoặc bằng 15 điểm hoặc Điểm Chiến Kỹ hiện tại lớn hơn hoặc bằng 7 điểm, Chiến Kỹ cường hóa thành \"Thí Nghiệm Đệ Nhị Ma Pháp\".",
+        "desc": "Khi vào chiến đấu, nhận #1[i] điểm \"Năng Lượng Bảo Thạch\". Khi mục tiêu phe ta tiêu hao hoặc hồi phục Điểm Chiến Kỹ, khiến Sát Thương Bạo Kích của mục tiêu đó tăng #3[i]%, duy trì #2[i] hiệp, đồng thời mỗi khi tiêu hao hoặc hồi phục 1 Điểm Chiến Kỹ sẽ khiến Rin Tohsaka nhận 1 điểm \"Năng Lượng Bảo Thạch\". Nếu \"Năng Lượng Bảo Thạch\" mà Rin Tohsaka đang sở hữu lớn hơn hoặc bằng #5[i] điểm hoặc Điểm Chiến Kỹ hiện tại lớn hơn hoặc bằng #4[i] điểm, Chiến Kỹ cường hóa thành \"Thí Nghiệm Đệ Nhị Ma Pháp\".",
+        "params": [
+            [20, 2, 0.35, 7, 15, 999],
+            [20, 2, 0.385, 7, 15, 999],
+            [20, 2, 0.42, 7, 15, 999],
+            [20, 2, 0.455, 7, 15, 999],
+            [20, 2, 0.49, 7, 15, 999],
+            [20, 2, 0.525, 7, 15, 999],
+            [20, 2, 0.5687, 7, 15, 999],
+            [20, 2, 0.6125, 7, 15, 999],
+            [20, 2, 0.6562, 7, 15, 999],
+            [20, 2, 0.7, 7, 15, 999],
+            [20, 2, 0.735, 7, 15, 999],
+            [20, 2, 0.77, 7, 15, 999],
+            [20, 2, 0.805, 7, 15, 999],
+            [20, 2, 0.84, 7, 15, 999],
+            [20, 2, 0.875, 7, 15, 999]
+        ],
+        "icon": "icon/skill/1508_talent.png"
+    },
+    "150805": {
+        "id": "150805",
+        "name": "Trường Phái Tohsaka Tự Tại",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Talent",
+        "type_text": "Thiên Phú",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Sau khi Archer thi triển Chiến Kỹ \"Caladbolg II: Kiếm Xoắn Ốc Giả\" tấn công, nếu Điểm Chiến Kỹ nhỏ hơn hoặc bằng 3 điểm hoặc trong trạng thái \"Kết Nối Mạch\" lần này đã chủ động thi triển 5 lần \"Caladbolg II: Kiếm Xoắn Ốc Giả\" và vẫn chưa kích hoạt Đòn Đánh Theo Sau Phối Hợp của \"Trường Phái Tohsaka Tự Tại\", Rin Tohsaka và Archer sẽ phát động Đòn Đánh Theo Sau Phối Hợp lên toàn thể phe địch, gây lượng lớn Sát Thương Lượng Tử và hồi Điểm Chiến Kỹ cho phe ta. Đòn Đánh Theo Sau Phối Hợp này chỉ có thể kích hoạt 1 lần, khi hiệp của Rin Tohsaka kết thúc sẽ làm mới số lần có thể kích hoạt.",
+        "desc": "Sau khi Archer thi triển Chiến Kỹ \"Caladbolg II: Kiếm Xoắn Ốc Giả\" tấn công, nếu Điểm Chiến Kỹ nhỏ hơn hoặc bằng #3[i] điểm hoặc trong trạng thái \"Kết Nối Mạch\" lần này đã chủ động thi triển 5 lần \"Caladbolg II: Kiếm Xoắn Ốc Giả\" và chưa kích hoạt Đòn Đánh Theo Sau Phối Hợp của \"Trường Phái Tohsaka Tự Tại\", Rin Tohsaka và Archer sẽ phát động Đòn Đánh Theo Sau Phối Hợp lên toàn phe địch, lần lượt gây Sát Thương Lượng Tử bằng #1[i]% Tấn Công của Rin Tohsaka và #4[i]% Tấn Công của Archer, đồng thời hồi cho phe ta #2[i] Điểm Chiến Kỹ. Đòn Đánh Theo Sau Phối Hợp này chỉ có thể kích hoạt 1 lần, khi hiệp của Rin Tohsaka kết thúc sẽ làm mới số lần có thể kích hoạt.",
+        "params": [
+            [1.5, 4, 3, 1.5],
+            [1.65, 4, 3, 1.65],
+            [1.8, 4, 3, 1.8],
+            [1.95, 4, 3, 1.95],
+            [2.1, 4, 3, 2.1],
+            [2.25, 4, 3, 2.25],
+            [2.4375, 4, 3, 2.4375],
+            [2.625, 4, 3, 2.625],
+            [2.8125, 4, 3, 2.8125],
+            [3, 4, 3, 3],
+            [3.15, 4, 3, 3.15],
+            [3.3, 4, 3, 3.3],
+            [3.45, 4, 3, 3.45],
+            [3.6, 4, 3, 3.6],
+            [3.75, 4, 3, 3.75]
+        ],
+        "icon": "icon/skill/1508_talent.png"
+    },
+    "150806": {
+        "id": "150806",
+        "name": "Tấn Công",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm suy yếu Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+        "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm suy yếu Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+        "params": [],
+        "icon": "icon/skill/1508_technique2.png"
+    },
+    "150807": {
+        "id": "150807",
+        "name": "Chuyển Đổi Nạp Năng Lượng",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Bí Kỹ",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Sau khi dùng Bí Kỹ, khi bắt đầu trận tiếp theo, nhận 10 điểm \"Năng Lượng Bảo Thạch\".",
+        "desc": "Sau khi dùng Bí Kỹ, khi bắt đầu trận tiếp theo, nhận #1[i] điểm \"Năng Lượng Bảo Thạch\".",
+        "params": [
+            [10, 2, 2]
+        ],
+        "icon": "icon/skill/1508_technique.png"
+    },
+    "150809": {
+        "id": "150809",
+        "name": "Thí Nghiệm Đệ Nhị Ma Pháp",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Chiến Kỹ",
+        "effect": "Bounce",
+        "effect_text": "Nảy Bật",
+        "simple_desc": "Gây lượng nhỏ Sát Thương Lượng Tử cho toàn bộ phe địch, sau đó, tiêu hao \"Năng Lượng Bảo Thạch\" gây thêm vài lần lượng nhỏ Sát Thương Lượng Tử cho 1 mục tiêu phe địch ngẫu nhiên. Khi thi triển, nếu Điểm Chiến Kỹ hiện tại lớn hơn 2 điểm, sẽ tiêu hao Điểm Chiến Kỹ xuống còn 2 điểm, mỗi khi tiêu hao 1 điểm lập tức nhận 2 điểm \"Năng Lượng Bảo Thạch\".",
+        "desc": "Gây Sát Thương Lượng Tử cho toàn bộ phe địch bằng #1[i]% Tấn Công của Rin Tohsaka. Sau đó, tiêu hao #2[i] điểm \"Năng Lượng Bảo Thạch\", gây thêm Sát Thương Lượng Tử bằng #3[i]% Tấn Công của Rin Tohsaka cho 1 mục tiêu phe địch ngẫu nhiên, lặp lại cho đến khi \"Năng Lượng Bảo Thạch\" không đủ #2[i] điểm hoặc không có mục tiêu phe địch nào có HP hiện tại lớn hơn 0, lặp lại tối đa #6[i] vòng. Khi thi triển, nếu Điểm Chiến Kỹ hiện tại lớn hơn #4[i] điểm, sẽ tiêu hao Điểm Chiến Kỹ xuống còn #4[i] điểm, mỗi khi tiêu hao 1 điểm lập tức nhận #5[i] điểm \"Năng Lượng Bảo Thạch\".",
+        "params": [
+            [0.45, 3, 0.45, 2, 2, 33, 0, 1],
+            [0.495, 3, 0.495, 2, 2, 33, 0, 1],
+            [0.54, 3, 0.54, 2, 2, 33, 0, 1],
+            [0.585, 3, 0.585, 2, 2, 33, 0, 1],
+            [0.63, 3, 0.63, 2, 2, 33, 0, 1],
+            [0.675, 3, 0.675, 2, 2, 33, 0, 1],
+            [0.7312, 3, 0.7312, 2, 2, 33, 0, 1],
+            [0.7875, 3, 0.7875, 2, 2, 33, 0, 1],
+            [0.8438, 3, 0.8438, 2, 2, 33, 0, 1],
+            [0.9, 3, 0.9, 2, 2, 33, 0, 1],
+            [0.945, 3, 0.945, 2, 2, 33, 0, 1],
+            [0.99, 3, 0.99, 2, 2, 33, 0, 1],
+            [1.035, 3, 1.035, 2, 2, 33, 0, 1],
+            [1.08, 3, 1.08, 2, 2, 33, 0, 1],
+            [1.125, 3, 1.125, 2, 2, 33, 0, 1]
+        ],
+        "icon": "icon/skill/1508_skill2.png"
+    },
+    "150901": {
+        "id": "150901",
+        "name": "Không Đếm Xỉa Tới",
+        "max_level": 10,
+        "element": "Thunder",
+        "type": "Normal",
+        "type_text": "Tấn Công Thường",
+        "effect": "SingleAttack",
+        "effect_text": "Đánh Đơn",
+        "simple_desc": "Gây lượng nhỏ Sát Thương Lôi cho 1 kẻ địch.",
+        "desc": "Gây Sát Thương Lôi bằng #1[i]% Tấn Công của Gilgamesh cho 1 kẻ địch chỉ định.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1509_basic_atk.png"
+    },
+    "150902": {
+        "id": "150902",
+        "name": "Kho Báu Đế Vương",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "BPSkill",
+        "type_text": "Chiến Kỹ",
+        "effect": "Blast",
+        "effect_text": "Khuếch Tán",
+        "simple_desc": "Nhận \"Vua Đến Để Công Nhận\", khiến bản thân khi gây ra sát thương bỏ qua một phần Phòng Thủ của mục tiêu. Gây Sát Thương Lôi cho 1 kẻ địch, gây Sát Thương Lôi cho mục tiêu lân cận.",
+        "desc": "Nhận \"Vua Đến Để Công Nhận\", khiến bản thân khi gây sát thương sẽ bỏ qua #5[i]% Phòng Thủ của mục tiêu, duy trì #6[i] hiệp.\nGây Sát Thương Lôi bằng #1[i]% Tấn Công của Gilgamesh cho 1 kẻ địch chỉ định, gây Sát Thương Lôi bằng #2[i]% Tấn Công của Gilgamesh cho mục tiêu lân cận.",
+        "params": [
+            [1.4, 0.7, 0.1, 10, 0.15, 3, 2],
+            [1.54, 0.77, 0.11, 10, 0.165, 3, 2],
+            [1.68, 0.84, 0.12, 10, 0.18, 3, 2],
+            [1.82, 0.91, 0.13, 10, 0.195, 3, 2],
+            [1.96, 0.98, 0.14, 10, 0.21, 3, 2],
+            [2.1, 1.05, 0.15, 10, 0.225, 3, 2],
+            [2.275, 1.1375, 0.1625, 10, 0.2437, 3, 2],
+            [2.45, 1.225, 0.175, 10, 0.2625, 3, 2],
+            [2.625, 1.3125, 0.1875, 10, 0.2812, 3, 2],
+            [2.8, 1.4, 0.2, 10, 0.3, 3, 2],
+            [2.94, 1.47, 0.21, 10, 0.315, 3, 2],
+            [3.08, 1.54, 0.22, 10, 0.33, 3, 2],
+            [3.22, 1.61, 0.23, 10, 0.345, 3, 2],
+            [3.36, 1.68, 0.24, 10, 0.36, 3, 2],
+            [3.5, 1.75, 0.25, 10, 0.375, 3, 2]
+        ],
+        "icon": "icon/skill/1509_skill.png"
+    },
+    "150903": {
+        "id": "150903",
+        "name": "Enuma Elish",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "Ultra",
+        "type_text": "Tuyệt Kỹ",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Gây lượng lớn Sát Thương Lôi cho toàn bộ phe địch. Gây thêm lượng nhỏ Sát Thương Lôi cho 1 kẻ địch ngẫu nhiên, tổng cộng Nảy Bật 10 lần.",
+        "desc": "Gây Sát Thương Lôi cho toàn bộ phe địch bằng #1[i]% Tấn Công của Gilgamesh. Đồng thời gây thêm #3[i] lần sát thương, mỗi lần gây Sát Thương Lôi cho 1 kẻ địch ngẫu nhiên bằng #2[i]% Tấn Công của Gilgamesh.",
+        "params": [
+            [2, 0.5, 10],
+            [2.2, 0.55, 10],
+            [2.4, 0.6, 10],
+            [2.6, 0.65, 10],
+            [2.8, 0.7, 10],
+            [3, 0.75, 10],
+            [3.25, 0.8125, 10],
+            [3.5, 0.875, 10],
+            [3.75, 0.9375, 10],
+            [4, 1, 10],
+            [4.2, 1.05, 10],
+            [4.4, 1.1, 10],
+            [4.6, 1.15, 10],
+            [4.8, 1.2, 10],
+            [5, 1.25, 10]
+        ],
+        "icon": "icon/skill/1509_ultimate.png"
+    },
+    "150904": {
+        "id": "150904",
+        "name": "\"Hãy Thỏa Sức Mua Vui Cho Bổn Vương Đi\"",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "Talent",
+        "type_text": "Thiên Phú",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Khi đồng đội phe ta thi triển Tuyệt Kỹ, Gilgamesh nhận \"Vua Đến Để Gánh Vác\", khiến Sát Thương Tuyệt Kỹ do bản thân gây ra tăng.\nBan đầu khi bắt đầu hiệp của bản thân, tự động thi triển Tấn Công Thường. Khi mục tiêu khác của phe ta hành động, Gilgamesh nhận 1 điểm \"Hứng Thú\". Mỗi 1 điểm \"Hứng Thú\" sở hữu khiến Tốc Độ bản thân tăng.\nKhi \"Hứng Thú\" lần đầu đạt 10 điểm, vào trạng thái \"Có Hứng Rồi!\", trong trạng thái này chỉ có thể thi triển Chiến Kỹ, và duy trì trong toàn bộ trận chiến. Sau khi thi triển Chiến Kỹ, xóa toàn bộ \"Hứng Thú\" của bản thân.",
+        "desc": "Khi đồng đội phe ta thi triển Tuyệt Kỹ, Gilgamesh nhận \"Vua Đến Để Gánh Vác\", khiến Sát Thương Tuyệt Kỹ bản thân gây ra tăng #3[i]%, duy trì #1[i] hiệp.\nBan đầu khi bắt đầu hiệp của bản thân sẽ tự động thi triển Tấn Công Thường. Khi mục tiêu khác của phe ta hành động, Gilgamesh nhận 1 điểm \"Hứng Thú\", mỗi 1 điểm \"Hứng Thú\" sở hữu khiến Tốc Độ bản thân tăng #4[i]%.\nKhi \"Hứng Thú\" lần đầu đạt #2[i] điểm, vào trạng thái \"Có Hứng Rồi!\", trong trạng thái này chỉ có thể thi triển Chiến Kỹ, và duy trì trong toàn bộ trận chiến. Sau khi thi triển Chiến Kỹ, xóa toàn bộ \"Hứng Thú\" của bản thân.",
+        "params": [
+            [3, 10, 0.2, 0.1],
+            [3, 10, 0.22, 0.1],
+            [3, 10, 0.24, 0.1],
+            [3, 10, 0.26, 0.1],
+            [3, 10, 0.28, 0.1],
+            [3, 10, 0.3, 0.1],
+            [3, 10, 0.325, 0.1],
+            [3, 10, 0.35, 0.1],
+            [3, 10, 0.375, 0.1],
+            [3, 10, 0.4, 0.1],
+            [3, 10, 0.42, 0.1],
+            [3, 10, 0.44, 0.1],
+            [3, 10, 0.46, 0.1],
+            [3, 10, 0.48, 0.1],
+            [3, 10, 0.5, 0.1]
+        ],
+        "icon": "icon/skill/1509_talent.png"
+    },
+    "150905": {
+        "id": "150905",
+        "name": "\"Bổn Vương Cho Phép Ngươi Tấn Công\"",
+        "max_level": 15,
+        "element": "Thunder",
+        "type": "Talent",
+        "type_text": "Thiên Phú",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Khi Gilgamesh hoặc Saber tấn công sẽ tích lũy số lần tấn công, sau khi đơn vị bất kỳ tấn công, nếu số lần tấn công tích lũy đạt 8, Gilgamesh và Saber sẽ phát động Đòn Đánh Theo Sau Phối Hợp, gây lượng lớn Sát Thương Lôi và lượng lớn Sát Thương Phong cho toàn phe địch, Gilgamesh nhận 3 điểm \"Hứng Thú\", Saber hồi Năng Lượng đồng thời tăng thêm sát thương Tuyệt Kỹ lần tiếp theo.",
+        "desc": "Khi Gilgamesh hoặc Saber tấn công sẽ tích lũy 1 điểm số lần tấn công, sau khi đơn vị bất kỳ tấn công, nếu số lần tấn công tích lũy đạt #5[i], Gilgamesh và Saber sẽ phát động Đòn Đánh Theo Sau Phối Hợp, lần lượt gây Sát Thương Lôi bằng #1[i]% Tấn Công của Gilgamesh và Sát Thương Phong bằng #2[i]% Tấn Công của Saber lên toàn bộ phe địch, sau đó Gilgamesh nhận #3[i] điểm \"Hứng Thú\", Saber hồi cố định #4[i] điểm Năng Lượng và khiến sát thương gây ra khi bản thân thi triển Tuyệt Kỹ lần tiếp theo bằng #6[i]% sát thương gốc.\nSau khi thi triển Đòn Đánh Theo Sau Phối Hợp sẽ xóa số lần tấn công tích lũy.",
+        "params": [
+            [2, 3, 3, 120, 8, 1.2],
+            [2.2, 3.3, 3, 120, 8, 1.28],
+            [2.4, 3.6, 3, 120, 8, 1.36],
+            [2.6, 3.9, 3, 120, 8, 1.44],
+            [2.8, 4.2, 3, 120, 8, 1.52],
+            [3, 4.5, 3, 120, 8, 1.6],
+            [3.25, 4.875, 3, 120, 8, 1.7],
+            [3.5, 5.25, 3, 120, 8, 1.8],
+            [3.75, 5.625, 3, 120, 8, 1.9],
+            [4, 6, 3, 120, 8, 2],
+            [4.2, 6.3, 3, 120, 8, 2.08],
+            [4.4, 6.6, 3, 120, 8, 2.16],
+            [4.6, 6.9, 3, 120, 8, 2.24],
+            [4.8, 7.2, 3, 120, 8, 2.32],
+            [5, 7.5, 3, 120, 8, 2.4]
+        ],
+        "icon": "icon/skill/1509_talent.png"
+    },
+    "150906": {
+        "id": "150906",
+        "name": "Tấn Công",
+        "max_level": 1,
+        "element": "Thunder",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm suy yếu Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+        "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm suy yếu Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+        "params": [],
+        "icon": "icon/skill/1509_basic_atk.png"
+    },
+    "150907": {
+        "id": "150907",
+        "name": "Sợi Xích Thiên Đường",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Bí Kỹ",
+        "effect": "Impair",
+        "effect_text": "Quấy Nhiễu",
+        "simple_desc": "Tạo vùng đặc biệt. Kẻ địch trong vùng đặc biệt rơi vào trạng thái \"Vua Đến Để Cho Phép\", dừng mọi hành động.\nTấn công kẻ địch rơi vào trạng thái \"Vua Đến Để Cho Phép\", khiến tất cả kẻ địch ở trạng thái \"Vua Đến Để Cho Phép\" đồng thời vào chiến đấu, sau khi vào chiến đấu sẽ gây Sát Thương Lôi cho toàn phe địch, lập tức nhận 3 điểm \"Hứng Thú\".",
+        "desc": "Sau khi sử dụng Bí Kỹ, tạo 1 vùng đặc biệt duy trì #1[i] giây, kẻ địch ở trong vùng đặc biệt sẽ rơi vào trạng thái \"Vua Đến Để Cho Phép\", kẻ địch ở trạng thái \"Vua Đến Để Cho Phép\" sẽ dừng mọi hành động.\nKhi chủ động tấn công kẻ địch rơi vào trạng thái \"Vua Đến Để Cho Phép\" để vào chiến đấu, sẽ khiến tất cả kẻ địch ở trạng thái \"Vua Đến Để Cho Phép\" đồng thời vào chiến đấu, sau khi vào chiến đấu sẽ gây Sát Thương Lôi cho toàn phe địch bằng #2[i]% Tấn Công của Gilgamesh, đồng thời Gilgamesh lập tức nhận #3[i] điểm \"Hứng Thú\". Tối đa chỉ tồn tại 1 hiệu ứng vùng do phe ta tạo ra.",
+        "params": [
+            [10, 2, 3]
+        ],
+        "icon": "icon/skill/1509_technique.png"
+    },
+    "150909": {
+        "id": "150909",
+        "name": "Không Đếm Xỉa Tới",
+        "max_level": 10,
+        "element": "Thunder",
+        "type": "BPSkill",
+        "type_text": "Chiến Kỹ",
+        "effect": "SingleAttack",
+        "effect_text": "Đánh Đơn",
+        "simple_desc": "",
+        "desc": "",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1509_basic_atk.png"
+    },
+    "151001": {
+        "id": "151001",
+        "name": "Thắp Sáng Mốc Dẫn Đường Đầu Tiên",
+        "max_level": 10,
+        "element": "Fire",
+        "type": "Normal",
+        "type_text": "Tấn Công Thường",
+        "effect": "SingleAttack",
+        "effect_text": "Đánh Đơn",
+        "simple_desc": "Gây lượng nhỏ Sát Thương Hỏa cho 1 kẻ địch.",
+        "desc": "Gây Sát Thương Hỏa cho 1 kẻ địch bằng #1[i]% Tấn Công của Himeko - Nova.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1510_basic_atk.png"
+    },
+    "151002": {
+        "id": "151002",
+        "name": "Giương Cao Ngọn Lửa Dẫn Đường",
+        "max_level": 15,
+        "element": "",
+        "type": "BPSkill",
+        "type_text": "Chiến Kỹ",
+        "effect": "Support",
+        "effect_text": "Hỗ Trợ",
+        "simple_desc": "Sau khi thi triển Chiến Kỹ, lập tức hồi phục tất cả số lần sử dụng Kỹ Năng Trợ Chiến, Himeko - Nova nhận được \"Cờ Hiệu Dẫn Đường\". Khi Himeko - Nova có \"Cờ Hiệu Dẫn Đường\", sát thương gây ra tăng, khi bắt đầu mỗi hiệp, lập tức hồi phục 1 lần sử dụng Kỹ Năng Trợ Chiến.",
+        "desc": "Sau khi thi triển Chiến Kỹ, lập tức hồi phục tất cả số lần sử dụng Kỹ Năng Trợ Chiến, Himeko - Nova nhận được \"Cờ Hiệu Dẫn Đường\", duy trì #2[i] hiệp, khi bắt đầu mỗi hiệp của Himeko - Nova, số hiệp duy trì giảm 1. Khi Himeko - Nova có \"Cờ Hiệu Dẫn Đường\", sát thương do toàn phe ta gây ra tăng #1[i]%, khi bắt đầu mỗi hiệp, lập tức hồi phục 1 lần sử dụng Kỹ Năng Trợ Chiến.",
+        "params": [
+            [0.1, 3],
+            [0.11, 3],
+            [0.12, 3],
+            [0.13, 3],
+            [0.14, 3],
+            [0.15, 3],
+            [0.1625, 3],
+            [0.175, 3],
+            [0.1875, 3],
+            [0.2, 3],
+            [0.21, 3],
+            [0.22, 3],
+            [0.23, 3],
+            [0.24, 3],
+            [0.25, 3]
+        ],
+        "icon": "icon/skill/1510_skill.png"
+    },
+    "151003": {
+        "id": "151003",
+        "name": "Chúng Ta, Cũng Hướng Đến Những Vì Sao",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Tuyệt Kỹ",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Trong thời gian Tuyệt Kỹ có thể thi triển \"Chùm Tia Hạt Siêu Tần\" hoặc \"Xung Mạch Hủy Diệt Quỹ Đạo\" lên toàn phe địch. Cuối cùng gây Sát Thương Hỏa cho 3 mục tiêu phe địch ngẫu nhiên.",
+        "desc": "Lập tức điều khiển \"Người Khai Phá Sao\", \"Người Khai Phá Sao\" sở hữu \"Chùm Tia Hạt Siêu Tần\" có thể phát động 6 lần lên phe địch hoặc \"Xung Mạch Hủy Diệt Quỹ Đạo\" được phát động bằng cách tiêu hao \"Nguyên Năng\", gây Sát Thương Hỏa tối đa bằng #9[i]% Tấn Công của Himeko - Nova cho 1 kẻ địch chỉ định, gây Sát Thương Hỏa tối đa bằng #10[i]% Tấn Công của Himeko - Nova cho các mục tiêu khác.\nKhi dùng hết số lần \"Chùm Tia Hạt Siêu Tần\", sẽ tự động phát động \"Xung Mạch Hủy Diệt Quỹ Đạo\", sau đó phát động Đòn Đánh Cuối Cùng, gây #6[i] lần sát thương, mỗi lần sát thương gây Sát Thương Hỏa bằng #7[i]% Tấn Công của Himeko - Nova cho 1 kẻ địch ngẫu nhiên.\nKhi thi triển \"Chùm Tia Hạt Siêu Tần\" hoặc \"Xung Mạch Hủy Diệt Quỹ Đạo\" gây sát thương chí tử cho toàn bộ phe địch trên sân hoặc khi phe địch không thể tiếp tục bị giảm HP, sẽ lập tức thi triển Đòn Đánh Cuối Cùng.",
+        "params": [
+            [0.16, 1, 0.1, 1, 0.15, 3, 0.4, 3, 3.81, 1.26],
+            [0.176, 1, 0.11, 1, 0.165, 3, 0.44, 3, 4.191, 1.386],
+            [0.192, 1, 0.12, 1, 0.18, 3, 0.48, 3, 4.572, 1.512],
+            [0.208, 1, 0.13, 1, 0.195, 3, 0.52, 3, 4.953, 1.638],
+            [0.224, 1, 0.14, 1, 0.21, 3, 0.56, 3, 5.334, 1.764],
+            [0.24, 1, 0.15, 1, 0.225, 3, 0.6, 3, 5.715, 1.89],
+            [0.26, 1, 0.1625, 1, 0.2437, 3, 0.65, 3, 6.1913, 2.0475],
+            [0.28, 1, 0.175, 1, 0.2625, 3, 0.7, 3, 6.6675, 2.205],
+            [0.3, 1, 0.1875, 1, 0.2812, 3, 0.75, 3, 7.1437, 2.3625],
+            [0.32, 1, 0.2, 1, 0.3, 3, 0.8, 3, 7.62, 2.52],
+            [0.336, 1, 0.21, 1, 0.315, 3, 0.84, 3, 8.001, 2.646],
+            [0.352, 1, 0.22, 1, 0.33, 3, 0.88, 3, 8.382, 2.772],
+            [0.368, 1, 0.23, 1, 0.345, 3, 0.92, 3, 8.763, 2.898],
+            [0.384, 1, 0.24, 1, 0.36, 3, 0.96, 3, 9.144, 3.024],
+            [0.4, 1, 0.25, 1, 0.375, 3, 1, 3, 9.525, 3.15]
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151004": {
+        "id": "151004",
+        "name": "Cùng Bước Vào Cuộc Viễn Chinh Rực Cháy",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Talent",
+        "type_text": "Thiên Phú",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Khi Himeko - Nova trong trận sẽ triển khai Vùng Lãnh Thổ, khiến toàn bộ nhân vật phe ta nhận được Kỹ Năng Trợ Chiến. Khi nhân vật phe ta sử dụng Kỹ Năng Trợ Chiến, Himeko - Nova nhận được tăng Xuyên Kháng Toàn Thuộc Tính, tăng Sát Thương Bạo Kích, khi tấn công bỏ qua Thuộc Tính Điểm Yếu giảm Sức Bền.\nKhi nhân vật phe ta ngoài Himeko - Nova sử dụng Kỹ Năng Trợ Chiến, sẽ khiến nhân vật đó hồi Năng Lượng.",
+        "desc": "Khi Himeko - Nova ở trên sân sẽ lập tức mở ra Vùng Lãnh Thổ \"Tầm Nhìn Khai Phá Sao\", trên sân xuất hiện \"Người Khai Phá Sao\", đồng thời khiến toàn bộ nhân vật phe ta nhận 1 lần sử dụng Kỹ Năng Trợ Chiến. Nhân vật phe ta có thể sử dụng Kỹ Năng Trợ Chiến triệu hồi \"Người Khai Phá Sao\" tấn công kẻ địch.\nSử dụng Kỹ Năng Trợ Chiến được xem như Himeko - Nova thi triển Chiến Kỹ, Himeko - Nova được tăng #2[i]% Xuyên Kháng Toàn Thuộc Tính, tăng #1[i]% Sát Thương Bạo Kích, khi tấn công có thể bỏ qua Thuộc Tính Điểm Yếu làm giảm Sức Bền phe địch, khi Phá Vỡ Điểm Yếu, kích hoạt hiệu ứng Phá Vỡ Điểm Yếu thuộc tính Hỏa.\nKhi nhân vật phe ta ngoài Himeko - Nova sử dụng Kỹ Năng Trợ Chiến, sẽ hồi #3[i] điểm Năng Lượng.",
+        "params": [
+            [0.4, 0.1, 4],
+            [0.44, 0.11, 4],
+            [0.48, 0.12, 4],
+            [0.52, 0.13, 4],
+            [0.56, 0.14, 4],
+            [0.6, 0.15, 4],
+            [0.65, 0.1625, 4],
+            [0.7, 0.175, 4],
+            [0.75, 0.1875, 4],
+            [0.8, 0.2, 4],
+            [0.84, 0.21, 4],
+            [0.88, 0.22, 4],
+            [0.92, 0.23, 4],
+            [0.96, 0.24, 4],
+            [1, 0.25, 4]
+        ],
+        "icon": "icon/skill/1510_talent.png"
+    },
+    "151006": {
+        "id": "151006",
+        "name": "Tấn Công",
+        "max_level": 1,
+        "element": "Fire",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm suy yếu Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+        "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm suy yếu Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+        "params": [],
+        "icon": "icon/skill/1510_basic_atk.png"
+    },
+    "151007": {
+        "id": "151007",
+        "name": "Du Hành Khai Phá Sao",
+        "max_level": 1,
+        "element": "Fire",
+        "type": "Maze",
+        "type_text": "Bí Kỹ",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Giới hạn Điểm Bí Kỹ tăng 3 điểm. Chủ động thi triển vào trạng thái \"Du Hành\", tiêu hao 2 Điểm Bí Kỹ tấn công tất cả kẻ địch trong phạm vi nhất định. Sau khi vào chiến đấu, khi bắt đầu mỗi đợt sẽ thi triển 1 lần Chiến Kỹ.\nNếu tấn công kẻ địch thường sẽ lập tức tiêu diệt kẻ địch đó, không vào chiến đấu. Khi chưa đánh trúng kẻ địch sẽ không tiêu hao Điểm Bí Kỹ.",
+        "desc": "Khi Himeko - Nova ở trong đội, khiến giới hạn Điểm Bí Kỹ tăng 3 điểm.\nSau khi sử dụng Bí Kỹ sẽ vào trạng thái \"Du Hành\" duy trì #1[i] giây, chủ động thi triển Bí Kỹ tiêu hao 2 Điểm Bí Kỹ, lập tức tấn công toàn bộ kẻ địch trong phạm vi nhất định. Sau khi vào chiến đấu, khi bắt đầu mỗi đợt lập tức thi triển 1 lần Chiến Kỹ.\nNếu tấn công kẻ địch thường sẽ lập tức tiêu diệt kẻ địch đó, không vào chiến đấu. Khi không đánh trúng kẻ địch sẽ không tiêu hao Điểm Bí Kỹ.",
+        "params": [
+            [30]
+        ],
+        "icon": "icon/skill/1510_technique.png"
+    },
+    "151008": {
+        "id": "151008",
+        "name": "Chùm Tia Hạt Siêu Tần",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Tuyệt Kỹ",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Gây lượng nhỏ Sát Thương Hỏa cho toàn phe địch. Nhận 1 điểm \"Nguyên Năng\", tối đa nhận được 3 điểm \"Nguyên Năng\".",
+        "desc": "Gây Sát Thương Hỏa cho toàn bộ phe địch bằng #1[i]% Tấn Công của Himeko - Nova, nhận #2[i] điểm \"Nguyên Năng\", tối đa nhận được #3[i] \"Nguyên Năng\".",
+        "params": [
+            [0.16, 1, 3],
+            [0.176, 1, 3],
+            [0.192, 1, 3],
+            [0.208, 1, 3],
+            [0.224, 1, 3],
+            [0.24, 1, 3],
+            [0.26, 1, 3],
+            [0.28, 1, 3],
+            [0.3, 1, 3],
+            [0.32, 1, 3],
+            [0.336, 1, 3],
+            [0.352, 1, 3],
+            [0.368, 1, 3],
+            [0.384, 1, 3],
+            [0.4, 1, 3]
+        ],
+        "icon": "icon/skill/1510_basic_atk2.png"
+    },
+    "151009": {
+        "id": "151009",
+        "name": "Xung Mạch Hủy Diệt Quỹ Đạo",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Tuyệt Kỹ",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Tiêu hao 1 điểm \"Nguyên Năng\" gây lượng nhỏ Sát Thương Hỏa cho toàn bộ phe địch. Khi \"Nguyên Năng\" hiện tại lớn hơn 1 điểm, cứ tiêu hao 1 điểm \"Nguyên Năng\", ngẫu nhiên gây 1 lần lượng nhỏ Sát Thương Hỏa cho 1 kẻ địch.",
+        "desc": "Tiêu hao 1 điểm \"Nguyên Năng\", gây Sát Thương Hỏa bằng #1[i]% Tấn Công của Himeko - Nova cho toàn bộ phe địch. Khi \"Nguyên Năng\" hiện tại lớn hơn 1 điểm, cứ tiêu hao #2[i] điểm \"Nguyên Năng\", sẽ gây thêm 1 lần Sát Thương Hỏa bằng #3[i]% Tấn Công của Himeko - Nova cho 1 kẻ địch ngẫu nhiên.",
+        "params": [
+            [0.1, 1, 0.15],
+            [0.11, 1, 0.165],
+            [0.12, 1, 0.18],
+            [0.13, 1, 0.195],
+            [0.14, 1, 0.21],
+            [0.15, 1, 0.225],
+            [0.1625, 1, 0.2437],
+            [0.175, 1, 0.2625],
+            [0.1875, 1, 0.2812],
+            [0.2, 1, 0.3],
+            [0.21, 1, 0.315],
+            [0.22, 1, 0.33],
+            [0.23, 1, 0.345],
+            [0.24, 1, 0.36],
+            [0.25, 1, 0.375]
+        ],
+        "icon": "icon/skill/1510_skill2.png"
+    },
+    "151014": {
+        "id": "151014",
+        "name": "Chúng Ta, Cũng Hướng Đến Những Vì Sao",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Ultra",
+        "type_text": "Tuyệt Kỹ",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Gây 0 lần sát thương, mỗi lần sát thương gây Sát Thương Hỏa cho 1 kẻ địch ngẫu nhiên.",
+        "desc": "Gây #2[i] lần sát thương, mỗi lần sát thương gây Sát Thương Hỏa cho 1 kẻ địch ngẫu nhiên.",
+        "params": [
+            [3, 0.4],
+            [3, 0.44],
+            [3, 0.48],
+            [3, 0.52],
+            [3, 0.56],
+            [3, 0.6],
+            [3, 0.65],
+            [3, 0.7],
+            [3, 0.75],
+            [3, 0.8],
+            [3, 0.84],
+            [3, 0.88],
+            [3, 0.92],
+            [3, 0.96],
+            [3, 1]
+        ],
+        "icon": "icon/skill/1510_ultimate.png"
+    },
+    "151022": {
+        "id": "151022",
+        "name": "Khai Phá, Đồng Hành Cùng Bạn",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Assist",
+        "type_text": "Kỹ Năng Trợ Chiến",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Gây lượng nhỏ Sát Thương Hỏa cho toàn phe địch, gây lượng nhỏ Sát Thương Hỏa cho 3 kẻ địch ngẫu nhiên. Khi Himeko - Nova sử dụng, gây lượng nhỏ Sát Thương Hỏa cho toàn phe địch, gây lượng nhỏ Sát Thương Hỏa cho 4 kẻ địch ngẫu nhiên. Nếu người sử dụng là nhân vật Đồng Hành Khai Phá khác ngoài Himeko - Nova, Himeko - Nova sẽ nhận 1 trong các Hiệu Ứng Đặc Biệt.",
+        "desc": "Gây Sát Thương Hỏa bằng #1[i]% Tấn Công của Himeko - Nova cho toàn bộ phe địch, gây thêm #2[i] lần sát thương, mỗi lần sát thương gây Sát Thương Hỏa bằng #3[i]% Tấn Công của Himeko - Nova cho 1 kẻ địch ngẫu nhiên. Khi Himeko - Nova sử dụng, gây Sát Thương Hỏa bằng #4[i]% Tấn Công của Himeko - Nova cho toàn bộ phe địch, gây thêm #5[i] lần sát thương, mỗi lần sát thương gây Sát Thương Hỏa bằng #6[i]% Tấn Công của Himeko - Nova cho 1 kẻ địch ngẫu nhiên.\nNếu người sử dụng là nhân vật Đồng Hành Khai Phá khác ngoài Himeko - Nova, thì tùy thuộc vào người sử dụng, Himeko - Nova sẽ nhận thêm 1 trong các Hiệu Ứng Đặc Biệt.\nKỹ Năng Trợ Chiến thêm do tất cả Hiệu Ứng Đặc Biệt phát động tối đa phát động #8[i] lần trong một trận chiến, sau khi Himeko - Nova thi triển Tuyệt Kỹ sẽ làm mới số lần phát động.",
+        "params": [
+            [0.8, 3, 0.12, 1, 4, 0.18, 4, 2],
+            [0.88, 3, 0.132, 1.1, 4, 0.194, 4, 2],
+            [0.96, 3, 0.144, 1.2, 4, 0.208, 4, 2],
+            [1.04, 3, 0.156, 1.3, 4, 0.222, 4, 2],
+            [1.12, 3, 0.168, 1.4, 4, 0.236, 4, 2],
+            [1.2, 3, 0.18, 1.5, 4, 0.25, 4, 2],
+            [1.3, 3, 0.195, 1.625, 4, 0.2675, 4, 2],
+            [1.4, 3, 0.21, 1.75, 4, 0.285, 4, 2],
+            [1.5, 3, 0.225, 1.875, 4, 0.3025, 4, 2],
+            [1.6, 3, 0.24, 2, 4, 0.32, 4, 2],
+            [1.68, 3, 0.252, 2.1, 4, 0.334, 4, 2],
+            [1.76, 3, 0.264, 2.2, 4, 0.348, 4, 2],
+            [1.84, 3, 0.276, 2.3, 4, 0.362, 4, 2],
+            [1.92, 3, 0.288, 2.4, 4, 0.376, 4, 2],
+            [2, 3, 0.3, 2.5, 4, 0.39, 4, 2]
+        ],
+        "icon": "icon/skill/1510_assist01.png"
+    },
+    "151025": {
+        "id": "151025",
+        "name": "Giao Ước Đồng Hành: Phán Quyết",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Assist",
+        "type_text": "Kỹ Năng Trợ Chiến",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Vào trạng thái \"Giao Ước Đồng Hành: Phán Quyết\". Sát thương Himeko - Nova gây ra tăng, Sát Thương Tuyệt Kỹ gây ra tăng thêm. Sau khi đồng đội của Himeko - Nova chủ động thi triển 2 lần Tuyệt Kỹ, Himeko - Nova lập tức phát động 1 lần Kỹ Năng Trợ Chiến lên phe địch.",
+        "desc": "Vào trạng thái \"Giao Ước Đồng Hành: Phán Quyết\". Sát thương do Himeko - Nova gây ra tăng #8[i]%, Sát Thương Tuyệt Kỹ gây ra tăng thêm #10[i]%. Sau khi đồng đội của Himeko - Nova chủ động thi triển #9[i] lần Tuyệt Kỹ, Himeko - Nova lập tức phát động 1 lần Kỹ Năng Trợ Chiến không cần tiêu hao lên phe địch.",
+        "params": [
+            [0.8, 3, 0.12, 1, 4, 0.18, 4, 0.5, 2, 0.5],
+            [0.88, 3, 0.132, 1.1, 4, 0.194, 4, 0.55, 2, 0.55],
+            [0.96, 3, 0.144, 1.2, 4, 0.208, 4, 0.6, 2, 0.6],
+            [1.04, 3, 0.156, 1.3, 4, 0.222, 4, 0.65, 2, 0.65],
+            [1.12, 3, 0.168, 1.4, 4, 0.236, 4, 0.7, 2, 0.7],
+            [1.2, 3, 0.18, 1.5, 4, 0.25, 4, 0.75, 2, 0.75],
+            [1.3, 3, 0.195, 1.625, 4, 0.2675, 4, 0.8125, 2, 0.8125],
+            [1.4, 3, 0.21, 1.75, 4, 0.285, 4, 0.875, 2, 0.875],
+            [1.5, 3, 0.225, 1.875, 4, 0.3025, 4, 0.9375, 2, 0.9375],
+            [1.6, 3, 0.24, 2, 4, 0.32, 4, 1, 2, 1],
+            [1.68, 3, 0.252, 2.1, 4, 0.334, 4, 1.05, 2, 1.05],
+            [1.76, 3, 0.264, 2.2, 4, 0.348, 4, 1.1, 2, 1.1],
+            [1.84, 3, 0.276, 2.3, 4, 0.362, 4, 1.15, 2, 1.15],
+            [1.92, 3, 0.288, 2.4, 4, 0.376, 4, 1.2, 2, 1.2],
+            [2, 3, 0.3, 2.5, 4, 0.39, 4, 1.25, 2, 1.25]
+        ],
+        "icon": "icon/skill/1510_assist02.png"
+    },
+    "151026": {
+        "id": "151026",
+        "name": "Giao Ước Đồng Hành: Diệt Phá",
+        "max_level": 15,
+        "element": "Fire",
+        "type": "Assist",
+        "type_text": "Kỹ Năng Trợ Chiến",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Vào trạng thái \"Giao Ước Đồng Hành: Diệt Phá\". Tăng Sát Thương Bạo Kích của toàn phe ta, tăng thêm Sát Thương Bạo Kích do Chiến Kỹ gây ra. Phe ta mỗi khi đánh trúng 1 mục tiêu phe địch đều có thể nhận 1 điểm Nạp Năng Lượng, khi Nạp Năng Lượng đạt 9 điểm, tiêu hao toàn bộ Nạp Năng Lượng, Himeko - Nova lập tức phát động 1 lần Kỹ Năng Trợ Chiến lên phe địch.",
+        "desc": "Vào trạng thái \"Giao Ước Đồng Hành: Diệt Phá\". Sát Thương Bạo Kích của toàn phe ta tăng #8[i]%, Sát Thương Bạo Kích do Chiến Kỹ gây ra tăng thêm #10[i]%. Mỗi khi phe ta đánh trúng 1 mục tiêu phe địch đều có thể nhận 1 điểm Nạp Năng Lượng, khi Nạp Năng Lượng đạt #9[i] điểm sẽ tiêu hao toàn bộ Nạp Năng Lượng, Himeko - Nova lập tức phát động 1 lần Kỹ Năng Trợ Chiến không cần tiêu hao lên phe địch. Kỹ Năng Trợ Chiến lần này không thể nhận Nạp Năng Lượng.",
+        "params": [
+            [0.8, 3, 0.12, 1, 4, 0.18, 4, 0.5, 9, 0.5],
+            [0.88, 3, 0.132, 1.1, 4, 0.194, 4, 0.55, 9, 0.55],
+            [0.96, 3, 0.144, 1.2, 4, 0.208, 4, 0.6, 9, 0.6],
+            [1.04, 3, 0.156, 1.3, 4, 0.222, 4, 0.65, 9, 0.65],
+            [1.12, 3, 0.168, 1.4, 4, 0.236, 4, 0.7, 9, 0.7],
+            [1.2, 3, 0.18, 1.5, 4, 0.25, 4, 0.75, 9, 0.75],
+            [1.3, 3, 0.195, 1.625, 4, 0.2675, 4, 0.8125, 9, 0.8125],
+            [1.4, 3, 0.21, 1.75, 4, 0.285, 4, 0.875, 9, 0.875],
+            [1.5, 3, 0.225, 1.875, 4, 0.3025, 4, 0.9375, 9, 0.9375],
+            [1.6, 3, 0.24, 2, 4, 0.32, 4, 1, 9, 1],
+            [1.68, 3, 0.252, 2.1, 4, 0.334, 4, 1.05, 9, 1.05],
+            [1.76, 3, 0.264, 2.2, 4, 0.348, 4, 1.1, 9, 1.1],
+            [1.84, 3, 0.276, 2.3, 4, 0.362, 4, 1.15, 9, 1.15],
+            [1.92, 3, 0.288, 2.4, 4, 0.376, 4, 1.2, 9, 1.2],
+            [2, 3, 0.3, 2.5, 4, 0.39, 4, 1.25, 9, 1.25]
+        ],
+        "icon": "icon/skill/1510_assist03.png"
+    },
+    "151201": {
+        "id": "151201",
+        "name": "Sóng Âm, Định Tông Cho Làn Gió Biển",
+        "max_level": 10,
+        "element": "Wind",
+        "type": "Normal",
+        "type_text": "Tấn Công Thường",
+        "effect": "SingleAttack",
+        "effect_text": "Đánh Đơn",
+        "simple_desc": "Gây lượng nhỏ Sát Thương Phong lên 1 kẻ địch.",
+        "desc": "Gây cho 1 kẻ địch Sát Thương Phong bằng #1[i]% Giới Hạn HP của Robin - Summeretto.",
+        "params": [
+            [0.25],
+            [0.3],
+            [0.35],
+            [0.4],
+            [0.45],
+            [0.5],
+            [0.55],
+            [0.6],
+            [0.65],
+            [0.7]
+        ],
+        "icon": "icon/skill/1512_basic_atk.png"
+    },
+    "151202": {
+        "id": "151202",
+        "name": "Giữa Mùa Hạ Là Nhạc Công Của Linh Hồn",
+        "max_level": 15,
+        "element": "",
+        "type": "BPSkill",
+        "type_text": "Chiến Kỹ",
+        "effect": "Summon",
+        "effect_text": "Triệu Hồi",
+        "simple_desc": "Triệu Hồi Linh Hồn Ký Ức \"Nhạc Công Bầu Trời Xanh\" Bessie. Nếu \"Nhạc Công Bầu Trời Xanh\" đã ở trên sân, hồi HP cho \"Nhạc Công Bầu Trời Xanh\", đồng thời nhận Điểm Sôi Động.",
+        "desc": "Triệu Hồi Linh Hồn Ký Ức \"Nhạc Công Bầu Trời Xanh\" Bessie. Nếu \"Nhạc Công Bầu Trời Xanh\" bất kỳ đã ở trong sân, thì hồi phục cho nó lượng HP bằng #1[i]% Giới Hạn HP của \"Nhạc Công Bầu Trời Xanh\", đồng thời nhận #2[i] điểm Điểm Sôi Động.",
+        "params": [
+            [0.5, 6],
+            [0.55, 6],
+            [0.6, 6],
+            [0.65, 6],
+            [0.7, 6],
+            [0.75, 6],
+            [0.8125, 6],
+            [0.875, 6],
+            [0.9375, 6],
+            [1, 6],
+            [1.05, 6],
+            [1.1, 6],
+            [1.15, 6],
+            [1.2, 6],
+            [1.25, 6]
+        ],
+        "icon": "icon/skill/1512_skill.png"
+    },
+    "151203": {
+        "id": "151203",
+        "name": "Nhảy Vào Giai Điệu Tự Do Xanh Thẳm",
+        "max_level": 15,
+        "element": "",
+        "type": "Ultra",
+        "type_text": "Tuyệt Kỹ",
+        "effect": "Support",
+        "effect_text": "Hỗ Trợ",
+        "simple_desc": "Khiến 1 nhân vật chỉ định phe ta ngoại trừ Robin - Summeretto Ưu Tiên Hành Động và hồi phục Năng Lượng, sau đó khiến nhân vật này nhận hiệu ứng \"Khách Mời Đặc Biệt\", khi nhân vật này và Vật Triệu Hồi của nhân vật này tấn công sẽ khiến Robin - Summeretto nhận thêm Điểm Sôi Động, đồng thời không thể khiến mục tiêu khác của phe ta nhận hiệu ứng Ưu Tiên Hành Động.",
+        "desc": "Khiến 1 nhân vật chỉ định phe ta ngoại trừ Robin - Summeretto Ưu Tiên Hành Động #1[i]% và hồi cố định Năng Lượng bằng #3[f1]% Giới Hạn Năng Lượng. Sau đó khiến nhân vật này nhận hiệu ứng \"Khách Mời Đặc Biệt\", nhân vật có \"Khách Mời Đặc Biệt\" và Vật Triệu Hồi của nhân vật này khi tấn công sẽ khiến Robin - Summeretto nhận thêm #2[i] Điểm Sôi Động, và không thể khiến mục tiêu khác của phe ta nhận hiệu ứng Ưu Tiên Hành Động, duy trì 2 hiệp. Khi bắt đầu mỗi hiệp của nhân vật này số hiệp duy trì giảm 1.",
+        "params": [
+            [1, 2, 0.12, 0],
+            [1, 2, 0.128, 0],
+            [1, 2, 0.136, 0],
+            [1, 2, 0.144, 0],
+            [1, 2, 0.152, 0],
+            [1, 2, 0.16, 0],
+            [1, 2, 0.17, 0],
+            [1, 2, 0.18, 0],
+            [1, 2, 0.19, 0],
+            [1, 2, 0.2, 0],
+            [1, 2, 0.208, 0],
+            [1, 2, 0.216, 0],
+            [1, 2, 0.224, 0],
+            [1, 2, 0.232, 0],
+            [1, 2, 0.24, 0]
+        ],
+        "icon": "icon/skill/1512_ultimate.png"
+    },
+    "151204": {
+        "id": "151204",
+        "name": "Du Hành Giữa Bầu Trời Vô Tận",
+        "max_level": 15,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Thiên Phú",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Khi mục tiêu phe ta thi triển tấn công, cung cấp hiệu ứng trị liệu hoặc Khiên, Robin - Summeretto nhận Điểm Sôi Động. Sau khi Điểm Sôi Động đạt đến số điểm nhất định, lần lượt triệu hồi \"Nhạc Công Bầu Trời Xanh\" Drummie và \"Nhạc Công Bầu Trời Xanh\" Paddie. Sau khi toàn bộ \"Nhạc Công Bầu Trời Xanh\" lên sân khấu, Robin - Summeretto và \"Nhạc Công Bầu Trời Xanh\" bước vào trạng thái \"Fever\" và mở Kết Giới, khi mục tiêu phe ta trong Kết Giới gây sát thương sẽ bỏ qua một phần Phòng Thủ của mục tiêu phe địch.\nKhi ở trạng thái \"Fever\", Robin - Summeretto và \"Nhạc Công Bầu Trời Xanh\" miễn dịch Hiệu Ứng Xấu Loại Khống Chế, trước khi trạng thái \"Fever\" kết thúc Robin - Summeretto sẽ không bước vào hiệp của bản thân.",
+        "desc": "Linh Hồn Ký Ức \"Nhạc Công Bầu Trời Xanh\" ban đầu sở hữu Giới Hạn HP bằng #1[i]% Giới Hạn HP của Robin - Summeretto và Tốc Độ bằng #2[i]% Tốc Độ của Robin - Summeretto. Khi mục tiêu phe ta thi triển tấn công, hoặc lần đầu tiên cung cấp hiệu ứng trị liệu hoặc Khiên trong hiệp của mục tiêu bất kỳ, Robin - Summeretto nhận 1 Điểm Sôi Động, giới hạn #5[i] điểm. Khi \"Nhạc Công Bầu Trời Xanh\" Bessie ở trong trận, nếu Điểm Sôi Động của Robin - Summeretto lớn hơn hoặc bằng #6[i] điểm, lập tức triệu hồi \"Nhạc Công Bầu Trời Xanh\" Drummie, nếu Điểm Sôi Động lớn hơn hoặc bằng #7[i] điểm, lập tức triệu hồi \"Nhạc Công Bầu Trời Xanh\" Paddie. Sau khi toàn bộ \"Nhạc Công Bầu Trời Xanh\" lên sân khấu, giải trừ toàn bộ Hiệu Ứng Xấu Loại Khống Chế mà Robin - Summeretto và \"Nhạc Công Bầu Trời Xanh\" rơi vào, bước vào trạng thái \"Fever\" đồng thời triển khai Kết Giới, khi mục tiêu phe ta trong Kết Giới gây sát thương sẽ bỏ qua (#8[f1]% + Điểm Sôi Động *#9[f1]%) Phòng Thủ của mục tiêu phe địch.\nKhi ở trạng thái \"Fever\", Robin - Summeretto và \"Nhạc Công Bầu Trời Xanh\" miễn dịch Hiệu Ứng Xấu Loại Khống Chế, trước khi trạng thái \"Fever\" kết thúc Robin - Summeretto sẽ không bước vào hiệp của bản thân.",
+        "params": [
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.105, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.11, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.115, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.12, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.125, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1313, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1375, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.1437, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.15, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.155, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.16, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.165, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.17, 0.005],
+            [0.7, 1.8, 0, 0, 50, 6, 12, 0.175, 0.005]
+        ],
+        "icon": "icon/skill/1512_talent.png"
+    },
+    "151206": {
+        "id": "151206",
+        "name": "Tấn Công",
+        "max_level": 1,
+        "element": "Wind",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm suy yếu Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+        "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm suy yếu Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+        "params": [],
+        "icon": "icon/skill/1512_basic_atk.png"
+    },
+    "151207": {
+        "id": "151207",
+        "name": "Chúng Ta Tự Hợp Thành Giai Điệu",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Bí Kỹ",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Vào chiến đấu Ưu Tiên Hành Động, lập tức nhận Điểm Sôi Động, đồng thời tăng sát thương do toàn thể phe ta gây ra.",
+        "desc": "Sau khi sử dụng Bí Kỹ, khi bắt đầu trận chiến tiếp theo Ưu Tiên Hành Động #3[i]%, lập tức nhận #1[i] Điểm Sôi Động, đồng thời tăng #2[i]% sát thương do toàn bộ phe ta gây ra, duy trì 2 hiệp.",
+        "params": [
+            [6, 0.3, 0.2]
+        ],
+        "icon": "icon/skill/1512_technique.png"
+    },
+    "151301": {
+        "id": "151301",
+        "name": "Nước Xiết, Trúng Hồng Tâm",
+        "max_level": 10,
+        "element": "Quantum",
+        "type": "Normal",
+        "type_text": "Tấn Công Thường",
+        "effect": "SingleAttack",
+        "effect_text": "Đánh Đơn",
+        "simple_desc": "Gây lượng nhỏ Sát Thương Lượng Tử cho 1 kẻ địch chỉ định.",
+        "desc": "Gây Sát Thương Lượng Tử cho 1 kẻ địch chỉ định bằng #1[i]% Tấn Công của Aventurine - Waveflair.",
+        "params": [
+            [0.5],
+            [0.6],
+            [0.7],
+            [0.8],
+            [0.9],
+            [1],
+            [1.1],
+            [1.2],
+            [1.3],
+            [1.4]
+        ],
+        "icon": "icon/skill/1513_basic_atk.png"
+    },
+    "151302": {
+        "id": "151302",
+        "name": "Tuyệt Sát, Cát Nóng Sục Sôi",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Chiến Kỹ",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Gây Sát Thương Lượng Tử lên toàn phe địch, nhận Điểm Hài Hước và \"Nhiệt Huyết\".",
+        "desc": "Gây Sát Thương Lượng Tử cho toàn phe địch bằng #1[i]% Tấn Công của Aventurine - Waveflair, nhận #2[i] Điểm Hài Hước và #3[i] điểm \"Nhiệt Huyết\".",
+        "params": [
+            [1.2, 4, 4],
+            [1.32, 4, 4],
+            [1.44, 4, 4],
+            [1.56, 4, 4],
+            [1.68, 4, 4],
+            [1.8, 4, 4],
+            [1.95, 4, 4],
+            [2.1, 4, 4],
+            [2.25, 4, 4],
+            [2.4, 4, 4],
+            [2.52, 4, 4],
+            [2.64, 4, 4],
+            [2.76, 4, 4],
+            [2.88, 4, 4],
+            [3, 4, 4]
+        ],
+        "icon": "icon/skill/1513_skill.png"
+    },
+    "151303": {
+        "id": "151303",
+        "name": "Chiến Thắng, Lướt Qua Con Sóng Dữ",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Ultra",
+        "type_text": "Tuyệt Kỹ",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Gây lượng lớn Sát Thương Lượng Tử cho toàn phe địch, nhận Điểm Hài Hước và \"Nhiệt Huyết\", đồng thời tăng Tốc Độ của bản thân.",
+        "desc": "Gây Sát Thương Lượng Tử cho toàn thể phe địch bằng #1[i]% Tấn Công của Aventurine - Waveflair, nhận #3[i] Điểm Hài Hước và #2[i] điểm \"Nhiệt Huyết\". Đồng thời tăng #4[i]% Tốc Độ của bản thân, duy trì #5[i] hiệp.",
+        "params": [
+            [2.4, 8, 6, 0.12, 4],
+            [2.56, 8, 6, 0.138, 4],
+            [2.72, 8, 6, 0.156, 4],
+            [2.88, 8, 6, 0.174, 4],
+            [3.04, 8, 6, 0.192, 4],
+            [3.2, 8, 6, 0.21, 4],
+            [3.4, 8, 6, 0.2325, 4],
+            [3.6, 8, 6, 0.255, 4],
+            [3.8, 8, 6, 0.2775, 4],
+            [4, 8, 6, 0.3, 4],
+            [4.16, 8, 6, 0.318, 4],
+            [4.32, 8, 6, 0.336, 4],
+            [4.48, 8, 6, 0.354, 4],
+            [4.64, 8, 6, 0.372, 4],
+            [4.8, 8, 6, 0.39, 4]
+        ],
+        "icon": "icon/skill/1513_ultimate.png"
+    },
+    "151304": {
+        "id": "151304",
+        "name": "Đặt Cược, Lắng Nghe Tiếng Vọng Vực Thẳm",
+        "max_level": 15,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Thiên Phú",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Thời gian duy trì \"Việc Tốt Đáng Thưởng\" của Aventurine - Waveflair tăng 1 hiệp. Sau khi đồng đội thi triển tấn công, Aventurine - Waveflair nhận được \"Nhiệt Huyết\" và Điểm Hài Hước.\nKhi \"Nhiệt Huyết\" đạt mức nhất định, Aventurine - Waveflair sẽ lập tức thi triển 1 lần \"Nâng Ly! Mừng Một Mùa Hè Rực Cháy\" được tính cố định Điểm Hài Hước, và khiến Kỹ Năng Vui Vẻ bản thân thi triển trong Thời Khắc Aha tiếp theo cường hóa thành \"All In! Mừng Một Mùa Hè Rực Cháy\".\nKhi Aventurine - Waveflair có \"Việc Tốt Đáng Thưởng\", Chiến Kỹ và Tuyệt Kỹ sẽ gây thêm Sát Thương Vui Vẻ thuộc tính Lượng Tử cho toàn thể phe địch.",
+        "desc": "Thời gian duy trì \"Việc Tốt Đáng Thưởng\" của Aventurine - Waveflair tăng 1 hiệp. Sau khi đồng đội thi triển tấn công, Aventurine - Waveflair nhận #7[i] điểm \"Nhiệt Huyết\" và #6[i] Điểm Hài Hước, giới hạn \"Nhiệt Huyết\" là #4[i] điểm.\nKhi \"Nhiệt Huyết\" đạt #1[i] điểm, Aventurine - Waveflair sẽ lập tức thi triển 1 lần \"Nâng Ly! Mừng Một Mùa Hè Rực Cháy\" tính cố định #5[i] Điểm Hài Hước, và sau khi thi triển sẽ khiến Kỹ Năng Vui Vẻ bản thân thi triển trong Thời Khắc Aha tiếp theo cường hóa thành \"All In! Mừng Một Mùa Hè Rực Cháy\".\nKhi Aventurine - Waveflair có \"Việc Tốt Đáng Thưởng\", Chiến Kỹ gây thêm #2[i]% Sát Thương Vui Vẻ thuộc tính Lượng Tử cho toàn bộ phe địch, Tuyệt Kỹ gây thêm #3[i]% Sát Thương Vui Vẻ thuộc tính Lượng Tử cho toàn bộ phe địch.",
+        "params": [
+            [10, 0.2, 0.36, 30, 20, 1, 1],
+            [10, 0.22, 0.396, 30, 20, 1, 1],
+            [10, 0.24, 0.432, 30, 20, 1, 1],
+            [10, 0.26, 0.468, 30, 20, 1, 1],
+            [10, 0.28, 0.504, 30, 20, 1, 1],
+            [10, 0.3, 0.54, 30, 20, 1, 1],
+            [10, 0.325, 0.585, 30, 20, 1, 1],
+            [10, 0.35, 0.63, 30, 20, 1, 1],
+            [10, 0.375, 0.675, 30, 20, 1, 1],
+            [10, 0.4, 0.72, 30, 20, 1, 1],
+            [10, 0.42, 0.756, 30, 20, 1, 1],
+            [10, 0.44, 0.792, 30, 20, 1, 1],
+            [10, 0.46, 0.828, 30, 20, 1, 1],
+            [10, 0.48, 0.864, 30, 20, 1, 1],
+            [10, 0.5, 0.9, 30, 20, 1, 1]
+        ],
+        "icon": "icon/skill/1513_talent.png"
+    },
+    "151306": {
+        "id": "151306",
+        "name": "Tấn Công",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm suy yếu Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+        "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm suy yếu Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+        "params": [],
+        "icon": "icon/skill/1513_basic_atk.png"
+    },
+    "151307": {
+        "id": "151307",
+        "name": "Khơi Dậy Sóng Gió Làn Nước Tĩnh",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "Maze",
+        "type_text": "Bí Kỹ",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Di chuyển nhanh về phía trước một đoạn và tấn công kẻ địch chạm phải. Sau khi tấn công kẻ địch vào chiến đấu, gây lượng nhỏ Sát Thương Lượng Tử cho toàn bộ phe địch, đồng thời nhận \"Nhiệt Huyết\" và \"Việc Tốt Đáng Thưởng\". Nếu không đánh trúng kẻ địch sẽ không tiêu hao điểm Bí Kỹ.",
+        "desc": "Di chuyển nhanh về phía trước một đoạn và tấn công kẻ địch chạm phải, trong quá trình di chuyển nhanh có thể chống đỡ tất cả tấn công của kẻ địch. Sau khi chủ động tấn công kẻ địch vào chiến đấu, sẽ gây cho toàn phe địch Sát Thương Lượng Tử bằng #1[i]% Tấn Công của Aventurine - Waveflair, đồng thời khiến bản thân nhận #2[i] điểm \"Nhiệt Huyết\" và #3[i] điểm \"Việc Tốt Đáng Thưởng\". Nếu không đánh trúng kẻ địch sẽ không tiêu hao điểm Bí Kỹ.",
+        "params": [
+            [1, 2, 20]
+        ],
+        "icon": "icon/skill/1513_technique.png"
+    },
+    "151320": {
+        "id": "151320",
+        "name": "Nâng Ly! Mừng Một Mùa Hè Rực Cháy",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "ElationDamage",
+        "type_text": "Kỹ Năng Vui Vẻ",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Gây Sát Thương Vui Vẻ thuộc tính Lượng Tử cho toàn thể phe địch, đồng thời gây thêm lượng nhỏ Sát Thương Vui Vẻ thuộc tính Lượng Tử lên 1 kẻ địch ngẫu nhiên, tổng cộng Nảy Bật 10 lần.",
+        "desc": "Gây #1[i]% Sát Thương Vui Vẻ thuộc tính Lượng Tử cho toàn phe địch, đồng thời gây thêm #2[i] lần sát thương, mỗi lần sát thương gây #3[f1]% Sát Thương Vui Vẻ thuộc tính Lượng Tử cho 1 kẻ địch ngẫu nhiên.",
+        "params": [
+            [0.3, 10, 0.09],
+            [0.33, 10, 0.099],
+            [0.36, 10, 0.108],
+            [0.39, 10, 0.117],
+            [0.42, 10, 0.126],
+            [0.45, 10, 0.135],
+            [0.4875, 10, 0.1462],
+            [0.525, 10, 0.1575],
+            [0.5625, 10, 0.1688],
+            [0.6, 10, 0.18],
+            [0.63, 10, 0.189],
+            [0.66, 10, 0.198],
+            [0.69, 10, 0.207],
+            [0.72, 10, 0.216],
+            [0.75, 10, 0.225]
+        ],
+        "icon": "icon/skill/1513_elation.png"
+    },
+    "151321": {
+        "id": "151321",
+        "name": "All In! Mừng Một Mùa Hè Rực Cháy",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "ElationDamage",
+        "type_text": "Kỹ Năng Vui Vẻ",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Gây Sát Thương Vui Vẻ thuộc tính Lượng Tử cho toàn thể phe địch, và gây thêm lượng nhỏ Sát Thương Vui Vẻ thuộc tính Lượng Tử cho 1 kẻ địch ngẫu nhiên, tổng cộng Nảy Bật 10 lần. Đồng thời tiêu hao toàn bộ \"Nhiệt Huyết\", mỗi khi tiêu hao 1 điểm \"Nhiệt Huyết\" đều sẽ gây 1 lần lượng nhỏ Sát Thương Vui Vẻ thuộc tính Lượng Tử cho 1 kẻ địch ngẫu nhiên.",
+        "desc": "Gây #1[i]% Sát Thương Vui Vẻ thuộc tính Lượng Tử cho toàn bộ phe địch, và gây thêm #3[i] lần sát thương, mỗi lần sát thương gây #4[f1]% Sát Thương Vui Vẻ thuộc tính Lượng Tử cho 1 kẻ địch ngẫu nhiên. Khi thi triển sẽ tiêu hao toàn bộ \"Nhiệt Huyết\", mỗi khi tiêu hao 1 điểm \"Nhiệt Huyết\" đều sẽ gây thêm 1 lần #2[f1]% Sát Thương Vui Vẻ thuộc tính Lượng Tử cho 1 kẻ địch ngẫu nhiên.",
+        "params": [
+            [0.3, 0.105, 10, 0.09],
+            [0.33, 0.1155, 10, 0.099],
+            [0.36, 0.126, 10, 0.108],
+            [0.39, 0.1365, 10, 0.117],
+            [0.42, 0.147, 10, 0.126],
+            [0.45, 0.1575, 10, 0.135],
+            [0.4875, 0.1706, 10, 0.1462],
+            [0.525, 0.1837, 10, 0.1575],
+            [0.5625, 0.1969, 10, 0.1688],
+            [0.6, 0.21, 10, 0.18],
+            [0.63, 0.2205, 10, 0.189],
+            [0.66, 0.231, 10, 0.198],
+            [0.69, 0.2415, 10, 0.207],
+            [0.72, 0.252, 10, 0.216],
+            [0.75, 0.2625, 10, 0.225]
+        ],
+        "icon": "icon/skill/1513_elation02.png"
     },
     "800101": {
         "id": "800101",
@@ -13640,7 +14720,7 @@
             [5.1],
             [5.25]
         ],
-        "icon": "icon/skill/8001_ultimate.png"
+        "icon": "icon/skill/8001_basic_atk2.png"
     },
     "800109": {
         "id": "800109",
@@ -13670,7 +14750,7 @@
             [3.06, 1.836],
             [3.15, 1.89]
         ],
-        "icon": "icon/skill/8001_ultimate.png"
+        "icon": "icon/skill/8001_skill2.png"
     },
     "800201": {
         "id": "800201",
@@ -13845,7 +14925,7 @@
             [5.1],
             [5.25]
         ],
-        "icon": "icon/skill/8002_ultimate.png"
+        "icon": "icon/skill/8002_basic_atk2.png"
     },
     "800209": {
         "id": "800209",
@@ -13875,7 +14955,7 @@
             [3.06, 1.836],
             [3.15, 1.89]
         ],
-        "icon": "icon/skill/8002_ultimate.png"
+        "icon": "icon/skill/8002_skill2.png"
     },
     "800301": {
         "id": "800301",
@@ -14045,7 +15125,7 @@
             [1.6875, 0.675],
             [1.8, 0.72]
         ],
-        "icon": "icon/skill/8003_basic_atk.png"
+        "icon": "icon/skill/8003_basic_atk2.png"
     },
     "800401": {
         "id": "800401",
@@ -14215,7 +15295,7 @@
             [1.6875, 0.675],
             [1.8, 0.72]
         ],
-        "icon": "icon/skill/8004_basic_atk.png"
+        "icon": "icon/skill/8004_basic_atk2.png"
     },
     "800501": {
         "id": "800501",
@@ -14675,7 +15755,7 @@
             [1.56, 1.56, 0.1],
             [1.68, 1.68, 0.1]
         ],
-        "icon": "icon/skill/8007_basic_atk.png"
+        "icon": "icon/skill/8007_basic_atk2.png"
     },
     "800709": {
         "id": "800709",
@@ -14859,7 +15939,7 @@
             [1.56, 1.56, 0.1],
             [1.68, 1.68, 0.1]
         ],
-        "icon": "icon/skill/8008_basic_atk.png"
+        "icon": "icon/skill/8008_basic_atk2.png"
     },
     "800809": {
         "id": "800809",
@@ -15002,7 +16082,7 @@
         "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "params": [],
-        "icon": "icon/skill/8009_basic_atk.png"
+        "icon": "icon/skill/8009_technique2.png"
     },
     "800907": {
         "id": "800907",
@@ -15048,7 +16128,7 @@
             [8, 0.24, 0.72],
             [8, 0.25, 0.75]
         ],
-        "icon": null
+        "icon": "icon/skill/8009_elation.png"
     },
     "801001": {
         "id": "801001",
@@ -15177,7 +16257,7 @@
         "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "params": [],
-        "icon": "icon/skill/8010_basic_atk.png"
+        "icon": "icon/skill/8010_technique2.png"
     },
     "801007": {
         "id": "801007",
@@ -15223,7 +16303,7 @@
             [8, 0.24, 0.72],
             [8, 0.25, 0.75]
         ],
-        "icon": null
+        "icon": "icon/skill/8010_elation.png"
     },
     "1100401": {
         "id": "1100401",
@@ -15248,7 +16328,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1004_basic_atk.png"
+        "icon": "icon/skill/11004_basic_atk.png"
     },
     "1100402": {
         "id": "1100402",
@@ -15278,7 +16358,7 @@
             [0.864, 0.79, 0.1, 2],
             [0.9, 0.8, 0.1, 2]
         ],
-        "icon": "icon/skill/1004_skill.png"
+        "icon": "icon/skill/11004_skill.png"
     },
     "1100403": {
         "id": "1100403",
@@ -15308,7 +16388,7 @@
             [1.74, 0.144, 1, 0.1, 0.04, 8, 2],
             [1.8, 0.15, 1, 0.1, 0.04, 8, 2]
         ],
-        "icon": "icon/skill/1004_ultimate.png"
+        "icon": "icon/skill/11004_ultimate.png"
     },
     "1100404": {
         "id": "1100404",
@@ -15338,7 +16418,7 @@
             [1.2, 0.4, 0.05],
             [1.25, 0.4, 0.05]
         ],
-        "icon": "icon/skill/1004_talent.png"
+        "icon": "icon/skill/11004_talent.png"
     },
     "1100406": {
         "id": "1100406",
@@ -15352,7 +16432,7 @@
         "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "params": [],
-        "icon": "icon/skill/1004_basic_atk.png"
+        "icon": "icon/skill/11004_basic_atk.png"
     },
     "1100407": {
         "id": "1100407",
@@ -15368,7 +16448,7 @@
         "params": [
             [1, 0.2, 0.1, 15, 0.5]
         ],
-        "icon": "icon/skill/1004_technique.png"
+        "icon": "icon/skill/11004_technique.png"
     },
     "1100501": {
         "id": "1100501",
@@ -15393,7 +16473,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1005_basic_atk.png"
+        "icon": "icon/skill/11005_basic_atk.png"
     },
     "1100502": {
         "id": "1100502",
@@ -15423,7 +16503,7 @@
             [1.92, 0.81, 0.72, 0.54],
             [2, 0.825, 0.75, 0.55]
         ],
-        "icon": "icon/skill/1005_skill.png"
+        "icon": "icon/skill/11005_skill.png"
     },
     "1100503": {
         "id": "1100503",
@@ -15453,7 +16533,7 @@
             [0.928, 1, 2, 3.4655, 1.28],
             [0.96, 1, 2, 3.6069, 1.3]
         ],
-        "icon": "icon/skill/1005_ultimate.png"
+        "icon": "icon/skill/11005_ultimate.png"
     },
     "1100504": {
         "id": "1100504",
@@ -15483,7 +16563,7 @@
             [1.792, 1, 2, 1, 2],
             [1.89, 1, 2, 1, 2]
         ],
-        "icon": "icon/skill/1005_talent.png"
+        "icon": "icon/skill/11005_talent.png"
     },
     "1100506": {
         "id": "1100506",
@@ -15497,7 +16577,7 @@
         "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "params": [],
-        "icon": "icon/skill/1005_basic_atk.png"
+        "icon": "icon/skill/11005_basic_atk.png"
     },
     "1100507": {
         "id": "1100507",
@@ -15513,7 +16593,7 @@
         "params": [
             [1, 2, 0.5]
         ],
-        "icon": "icon/skill/1005_technique.png"
+        "icon": "icon/skill/11005_technique.png"
     },
     "1100601": {
         "id": "1100601",
@@ -15538,7 +16618,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1006_basic_atk.png"
+        "icon": "icon/skill/11006_basic_atk.png"
     },
     "1100602": {
         "id": "1100602",
@@ -15568,7 +16648,7 @@
             [2.352, 1.36, 3, 0.2, 1, 0.14, 2],
             [2.45, 1.4, 3, 0.2, 1, 0.1425, 2]
         ],
-        "icon": "icon/skill/1006_skill.png"
+        "icon": "icon/skill/11006_skill.png"
     },
     "1100603": {
         "id": "1100603",
@@ -15598,7 +16678,7 @@
             [4.408, 1.36, 0.486, 3],
             [4.56, 1.4, 0.495, 3]
         ],
-        "icon": "icon/skill/1006_ultimate.png"
+        "icon": "icon/skill/11006_ultimate.png"
     },
     "1100604": {
         "id": "1100604",
@@ -15628,7 +16708,7 @@
             [0.12, 0.144, 0.072, 1.16, 3],
             [0.125, 0.15, 0.075, 1.2, 3]
         ],
-        "icon": "icon/skill/1006_talent.png"
+        "icon": "icon/skill/11006_talent.png"
     },
     "1100606": {
         "id": "1100606",
@@ -15642,7 +16722,7 @@
         "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "params": [],
-        "icon": "icon/skill/1006_basic_atk.png"
+        "icon": "icon/skill/11006_basic_atk.png"
     },
     "1100607": {
         "id": "1100607",
@@ -15658,7 +16738,7 @@
         "params": [
             [0.8]
         ],
-        "icon": "icon/skill/1006_technique.png"
+        "icon": "icon/skill/11006_technique.png"
     },
     "1110201": {
         "id": "1110201",
@@ -15683,7 +16763,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1102_basic_atk.png"
+        "icon": "icon/skill/11102_basic_atk.png"
     },
     "1110202": {
         "id": "1110202",
@@ -15713,7 +16793,7 @@
             [4.32, 0.25, 3, 0.5],
             [4.5, 0.25, 3, 0.5]
         ],
-        "icon": "icon/skill/1102_skill.png"
+        "icon": "icon/skill/11102_skill.png"
     },
     "1110203": {
         "id": "1110203",
@@ -15743,7 +16823,7 @@
             [8.64],
             [9]
         ],
-        "icon": "icon/skill/1102_ultimate.png"
+        "icon": "icon/skill/11102_ultimate.png"
     },
     "1110204": {
         "id": "1110204",
@@ -15773,7 +16853,7 @@
             [0.96, 3],
             [1, 3]
         ],
-        "icon": "icon/skill/1102_talent.png"
+        "icon": "icon/skill/11102_talent.png"
     },
     "1110206": {
         "id": "1110206",
@@ -15787,7 +16867,7 @@
         "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "params": [],
-        "icon": "icon/skill/1102_basic_atk.png"
+        "icon": "icon/skill/11102_basic_atk.png"
     },
     "1110207": {
         "id": "1110207",
@@ -15803,7 +16883,7 @@
         "params": [
             [20]
         ],
-        "icon": "icon/skill/1102_technique.png"
+        "icon": "icon/skill/11102_technique.png"
     },
     "1120501": {
         "id": "1120501",
@@ -15828,7 +16908,7 @@
             [0.65],
             [0.7]
         ],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/11205_basic_atk.png"
     },
     "1120502": {
         "id": "1120502",
@@ -15858,7 +16938,7 @@
             [0.3, 3, 1, 0.512, 10],
             [0.3, 3, 1, 0.54, 10]
         ],
-        "icon": "icon/skill/1205_skill.png"
+        "icon": "icon/skill/11205_skill.png"
     },
     "1120503": {
         "id": "1120503",
@@ -15888,7 +16968,7 @@
             [1.74, 1.16, 0.696, 0.58, 1.392, 0.696, 0.9],
             [1.8, 1.2, 0.72, 0.6, 1.44, 0.72, 0.9]
         ],
-        "icon": "icon/skill/1205_ultimate.png"
+        "icon": "icon/skill/11205_ultimate.png"
     },
     "1120504": {
         "id": "1120504",
@@ -15918,7 +16998,7 @@
             [3, 1.56, 0.25, 1.56],
             [3, 1.625, 0.25, 1.625]
         ],
-        "icon": "icon/skill/1205_talent.png"
+        "icon": "icon/skill/11205_talent.png"
     },
     "1120506": {
         "id": "1120506",
@@ -15932,7 +17012,7 @@
         "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "params": [],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/11205_basic_atk.png"
     },
     "1120507": {
         "id": "1120507",
@@ -15948,7 +17028,7 @@
         "params": [
             [0.4, 0.2]
         ],
-        "icon": "icon/skill/1205_technique.png"
+        "icon": "icon/skill/11205_technique.png"
     },
     "1120508": {
         "id": "1120508",
@@ -15973,7 +17053,7 @@
             [0.1, 1.69, 0.676, 1.69, 0.52],
             [0.1, 1.82, 0.728, 1.82, 0.56]
         ],
-        "icon": "icon/skill/1205_basic_atk.png"
+        "icon": "icon/skill/11205_basic_atk2.png"
     },
     "1121201": {
         "id": "1121201",
@@ -15998,7 +17078,7 @@
             [0.65],
             [0.7]
         ],
-        "icon": "icon/skill/1212_basic_atk.png"
+        "icon": "icon/skill/11212_basic_atk.png"
     },
     "1121202": {
         "id": "1121202",
@@ -16028,7 +17108,7 @@
             [1.8, 1],
             [1.875, 1]
         ],
-        "icon": "icon/skill/1212_skill.png"
+        "icon": "icon/skill/11212_skill.png"
     },
     "1121203": {
         "id": "1121203",
@@ -16058,7 +17138,7 @@
             [2.16, 1, 1.08, 1],
             [2.25, 1, 1.125, 1]
         ],
-        "icon": "icon/skill/1212_ultimate.png"
+        "icon": "icon/skill/11212_ultimate.png"
     },
     "1121204": {
         "id": "1121204",
@@ -16088,7 +17168,7 @@
             [0.3, 0.05, 0.528, 5, 2, 1, 0.54, 20],
             [0.3, 0.05, 0.55, 5, 2, 1, 0.55, 20]
         ],
-        "icon": "icon/skill/1212_talent.png"
+        "icon": "icon/skill/11212_talent.png"
     },
     "1121206": {
         "id": "1121206",
@@ -16102,7 +17182,7 @@
         "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "params": [],
-        "icon": "icon/skill/1212_basic_atk.png"
+        "icon": "icon/skill/11212_basic_atk.png"
     },
     "1121207": {
         "id": "1121207",
@@ -16118,7 +17198,7 @@
         "params": [
             [1, 1, 20, 1, 0.8, 15]
         ],
-        "icon": "icon/skill/1212_technique.png"
+        "icon": "icon/skill/11212_technique.png"
     },
     "1121209": {
         "id": "1121209",
@@ -16148,7 +17228,7 @@
             [1.8, 1, 0.9],
             [1.875, 1, 0.9375]
         ],
-        "icon": "icon/skill/1212_skill.png"
+        "icon": "icon/skill/11212_skill2.png"
     },
     "1121701": {
         "id": "1121701",
@@ -16173,7 +17253,7 @@
             [0.65],
             [0.7]
         ],
-        "icon": "icon/skill/1217_basic_atk.png"
+        "icon": "icon/skill/11217_basic_atk.png"
     },
     "1121702": {
         "id": "1121702",
@@ -16203,7 +17283,7 @@
             [0.272, 784, 0.2176, 627.2, 1],
             [0.28, 820, 0.224, 656, 1]
         ],
-        "icon": "icon/skill/1217_skill.png"
+        "icon": "icon/skill/11217_skill.png"
     },
     "1121703": {
         "id": "1121703",
@@ -16233,7 +17313,7 @@
             [0.22, 0.464, 2],
             [0.225, 0.48, 2]
         ],
-        "icon": "icon/skill/1217_ultimate.png"
+        "icon": "icon/skill/11217_ultimate.png"
     },
     "1121704": {
         "id": "1121704",
@@ -16263,7 +17343,7 @@
             [3, 1, 0.051, 0, 147, 0.5, 6],
             [3, 1, 0.0525, 0, 153.75, 0.5, 6]
         ],
-        "icon": "icon/skill/1217_talent.png"
+        "icon": "icon/skill/11217_talent.png"
     },
     "1121706": {
         "id": "1121706",
@@ -16277,7 +17357,7 @@
         "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "params": [],
-        "icon": "icon/skill/1217_basic_atk.png"
+        "icon": "icon/skill/11217_basic_atk.png"
     },
     "1121707": {
         "id": "1121707",
@@ -16293,7 +17373,7 @@
         "params": [
             [1, 0.25, 2, 10]
         ],
-        "icon": "icon/skill/1217_technique.png"
+        "icon": "icon/skill/11217_technique.png"
     },
     "1130601": {
         "id": "1130601",
@@ -16318,7 +17398,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1306_basic_atk.png"
+        "icon": "icon/skill/11306_basic_atk.png"
     },
     "1130602": {
         "id": "1130602",
@@ -16348,7 +17428,7 @@
             [0.288, 0.522, 2, 0.5],
             [0.3, 0.54, 2, 0.5]
         ],
-        "icon": "icon/skill/1306_skill.png"
+        "icon": "icon/skill/11306_skill.png"
     },
     "1130603": {
         "id": "1130603",
@@ -16378,7 +17458,7 @@
             [2, 6, 0.0696, 3, 10],
             [2, 6, 0.072, 3, 10]
         ],
-        "icon": "icon/skill/1306_ultimate.png"
+        "icon": "icon/skill/11306_ultimate.png"
     },
     "1130604": {
         "id": "1130604",
@@ -16408,7 +17488,7 @@
             [2, 0.048, 2, 3],
             [2, 0.05, 2, 3]
         ],
-        "icon": "icon/skill/1306_talent.png"
+        "icon": "icon/skill/11306_talent.png"
     },
     "1130606": {
         "id": "1130606",
@@ -16422,7 +17502,7 @@
         "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "params": [],
-        "icon": "icon/skill/1306_basic_atk.png"
+        "icon": "icon/skill/11306_basic_atk.png"
     },
     "1130607": {
         "id": "1130607",
@@ -16438,7 +17518,7 @@
         "params": [
             [3, 20]
         ],
-        "icon": "icon/skill/1306_technique.png"
+        "icon": "icon/skill/11306_technique.png"
     },
     "1130701": {
         "id": "1130701",
@@ -16463,7 +17543,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1307_basic_atk.png"
+        "icon": "icon/skill/11307_basic_atk.png"
     },
     "1130702": {
         "id": "1130702",
@@ -16493,7 +17573,7 @@
             [1.08, 3, 1, 0.232],
             [1.125, 3, 1, 0.238]
         ],
-        "icon": "icon/skill/1307_skill.png"
+        "icon": "icon/skill/11307_skill.png"
     },
     "1130703": {
         "id": "1130703",
@@ -16523,7 +17603,7 @@
             [1.392, 2, 0.29, 0.5],
             [1.44, 2, 0.3, 0.5]
         ],
-        "icon": "icon/skill/1307_ultimate.png"
+        "icon": "icon/skill/11307_ultimate.png"
     },
     "1130704": {
         "id": "1130704",
@@ -16553,7 +17633,7 @@
             [2.88, 0.71, 0.144, 0.144, 2.16, 0, 0.2, 50],
             [3, 0.725, 0.15, 0.15, 2.25, 0, 0.2, 50]
         ],
-        "icon": "icon/skill/1307_talent.png"
+        "icon": "icon/skill/11307_talent.png"
     },
     "1130706": {
         "id": "1130706",
@@ -16567,7 +17647,7 @@
         "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "params": [],
-        "icon": "icon/skill/1307_basic_atk.png"
+        "icon": "icon/skill/11307_basic_atk.png"
     },
     "1130707": {
         "id": "1130707",
@@ -16583,7 +17663,7 @@
         "params": [
             [1.5, 0.5]
         ],
-        "icon": "icon/skill/1307_technique.png"
+        "icon": "icon/skill/11307_technique.png"
     },
     "1131001": {
         "id": "1131001",
@@ -16608,7 +17688,7 @@
             [1.3],
             [1.4]
         ],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/11310_basic_atk.png"
     },
     "1131002": {
         "id": "1131002",
@@ -16638,7 +17718,7 @@
             [2.4, 0.4, 0.64, 0.25],
             [2.5, 0.4, 0.65, 0.25]
         ],
-        "icon": "icon/skill/1310_skill.png"
+        "icon": "icon/skill/11310_skill.png"
     },
     "1131003": {
         "id": "1131003",
@@ -16668,7 +17748,7 @@
             [0.24, 0.5, 72, 70],
             [0.25, 0.5, 75, 70]
         ],
-        "icon": "icon/skill/1310_ultimate.png"
+        "icon": "icon/skill/11310_ultimate.png"
     },
     "1131004": {
         "id": "1131004",
@@ -16698,7 +17778,7 @@
             [0.48, 0.5, 0.2, 0.38],
             [0.5, 0.5, 0.2, 0.4]
         ],
-        "icon": "icon/skill/1310_talent.png"
+        "icon": "icon/skill/11310_talent.png"
     },
     "1131006": {
         "id": "1131006",
@@ -16712,7 +17792,7 @@
         "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm giảm Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
         "params": [],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/11310_basic_atk2.png"
     },
     "1131007": {
         "id": "1131007",
@@ -16728,7 +17808,7 @@
         "params": [
             [5, 2, 2]
         ],
-        "icon": "icon/skill/1310_technique.png"
+        "icon": "icon/skill/11310_technique.png"
     },
     "1131008": {
         "id": "1131008",
@@ -16753,7 +17833,7 @@
             [2.6, 0.2],
             [2.8, 0.2]
         ],
-        "icon": "icon/skill/1310_basic_atk.png"
+        "icon": "icon/skill/11310_basic_atk2.png"
     },
     "1131009": {
         "id": "1131009",
@@ -16783,7 +17863,7 @@
             [2.4, 1.2, 0, 0, 0.2, 0.1, 3.6, 0],
             [2.5, 1.25, 0, 0, 0.2, 0.1, 3.6, 0]
         ],
-        "icon": "icon/skill/1310_skill.png"
+        "icon": "icon/skill/11310_skill2.png"
     },
     "1140201": {
         "id": "1140201",
@@ -16808,7 +17888,7 @@
             [1.43, 0.858, 1],
             [1.54, 0.924, 1]
         ],
-        "icon": "icon/skill/1402_memosprite_skill.png"
+        "icon": "icon/skill/1402_memosprite_skill1.png"
     },
     "1140203": {
         "id": "1140203",
@@ -16908,7 +17988,7 @@
             [0.52],
             [0.56]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill1.png"
     },
     "1140702": {
         "id": "1140702",
@@ -16933,7 +18013,7 @@
             [0.25, 0.312, 0.364, 0.442, 0.25],
             [0.25, 0.336, 0.392, 0.476, 0.25]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill2.png"
     },
     "1140703": {
         "id": "1140703",
@@ -17008,7 +18088,7 @@
             [0.52, 6, 0.078, 1040],
             [0.56, 6, 0.084, 1120]
         ],
-        "icon": "icon/skill/1407_memosprite_talent.png"
+        "icon": "icon/skill/1407_memosprite_skill4.png"
     },
     "1140710": {
         "id": "1140710",
@@ -17033,7 +18113,7 @@
             [0.25],
             [0.25]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill2.png"
     },
     "1140711": {
         "id": "1140711",
@@ -17058,7 +18138,7 @@
             [0.25],
             [0.25]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill2.png"
     },
     "1140712": {
         "id": "1140712",
@@ -17083,7 +18163,7 @@
             [0.52, 6, 0.078, 1040],
             [0.56, 6, 0.084, 1120]
         ],
-        "icon": "icon/skill/1407_memosprite_skill.png"
+        "icon": "icon/skill/1407_memosprite_skill4.png"
     },
     "1140901": {
         "id": "1140901",
@@ -17297,7 +18377,7 @@
             [0.156, 0.078, 16],
             [0.168, 0.084, 16]
         ],
-        "icon": "icon/skill/1413_memosprite_skill.png"
+        "icon": "icon/skill/1413_memosprite_skill2.png"
     },
     "1141501": {
         "id": "1141501",
@@ -17322,7 +18402,7 @@
             [0.78, 12],
             [0.84, 12]
         ],
-        "icon": "icon/skill/1415_memosprite_skill.png"
+        "icon": "icon/skill/1415_memosprite_skill2.png"
     },
     "1141502": {
         "id": "1141502",
@@ -17738,6 +18818,106 @@
         ],
         "icon": "icon/skill/1415_memosprite_skill.png"
     },
+    "1151201": {
+        "id": "1151201",
+        "name": "Tứ Tấu Chíp Chiu",
+        "max_level": 10,
+        "element": "Wind",
+        "type": "MemospriteSkill",
+        "type_text": "Kỹ Năng Linh Hồn Ký Ức",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Gây lượng lớn Sát Thương Phong cho toàn bộ phe địch.",
+        "desc": "Gây cho toàn bộ phe địch Sát Thương Phong bằng #2[f1]% Giới Hạn HP của \"Nhạc Công Bầu Trời Xanh\".",
+        "params": [
+            [0, 0.75],
+            [0, 0.9],
+            [0, 1.05],
+            [0, 1.2],
+            [0, 1.35],
+            [0, 1.5],
+            [0, 1.65],
+            [0, 1.8],
+            [0, 1.95],
+            [0, 2.1]
+        ],
+        "icon": "icon/skill/1512_memosprite_skill.png"
+    },
+    "1151203": {
+        "id": "1151203",
+        "name": "Hòa Âm Vỗ Cánh Hân Hoan",
+        "max_level": 10,
+        "element": "",
+        "type": "MemospriteTalent",
+        "type_text": "Thiên Phú Linh Hồn Ký Ức",
+        "effect": "Support",
+        "effect_text": "Hỗ Trợ",
+        "simple_desc": "Khi ở trạng thái \"Fever\", sát thương do Robin - Summeretto và bản thân gây ra tăng. Khi bắt đầu hiệp, \"Nhạc Công Bầu Trời Xanh\" thi triển Kỹ Năng Linh Hồn Ký Ức. Khi Điểm Sôi Động bằng 0, \"Nhạc Công Bầu Trời Xanh\" biến mất và khiến Robin - Summeretto thoát khỏi trạng thái \"Fever\". Khi \"Nhạc Công Bầu Trời Xanh\" trên sân, căn cứ theo số lượng thành viên, tăng sát thương toàn bộ phe địch phải chịu.",
+        "desc": "Khi trong trạng thái \"Fever\", \"Nhạc Công Bầu Trời Xanh\" và đếm ngược sẽ xuất hiện trên thanh thứ tự hành động, đồng thời khiến sát thương do Robin - Summeretto và bản thân gây ra tăng (#1[i]% + Điểm Sôi Động *#2[f1]%). Khi hiệp của \"Nhạc Công Bầu Trời Xanh\" bắt đầu sẽ thi triển Kỹ Năng Linh Hồn Ký Ức. Tốc Độ ban đầu của đếm ngược là #9[i] điểm, khi bắt đầu hiệp sẽ trừ #10[i]% Điểm Sôi Động hiện tại, tối thiểu trừ #6[i] điểm, khi Điểm Sôi Động bằng 0, \"Nhạc Công Bầu Trời Xanh\" biến mất, đồng thời khiến Robin - Summeretto thoát khỏi trạng thái \"Fever\". Khi \"Nhạc Công Bầu Trời Xanh\" trên sân, căn cứ vào số lượng thành viên, khiến sát thương toàn bộ phe địch phải chịu lần lượt tăng #3[f1]%/#4[f1]%/#5[f1]%.",
+        "params": [
+            [0.3, 0.01, 0.04, 0.06, 0.08, 12, 0, 0, 140, 0.5],
+            [0.36, 0.012, 0.048, 0.072, 0.096, 12, 0, 0, 140, 0.5],
+            [0.42, 0.014, 0.056, 0.084, 0.112, 12, 0, 0, 140, 0.5],
+            [0.48, 0.016, 0.064, 0.096, 0.128, 12, 0, 0, 140, 0.5],
+            [0.54, 0.018, 0.072, 0.108, 0.144, 12, 0, 0, 140, 0.5],
+            [0.6, 0.02, 0.08, 0.12, 0.16, 12, 0, 0, 140, 0.5],
+            [0.66, 0.022, 0.088, 0.132, 0.176, 12, 0, 0, 140, 0.5],
+            [0.72, 0.024, 0.096, 0.144, 0.192, 12, 0, 0, 140, 0.5],
+            [0.78, 0.026, 0.104, 0.156, 0.208, 12, 0, 0, 140, 0.5],
+            [0.84, 0.028, 0.112, 0.168, 0.224, 12, 0, 0, 140, 0.5]
+        ],
+        "icon": "icon/skill/1512_memosprite_talent.png"
+    },
+    "1151205": {
+        "id": "1151205",
+        "name": "Nép Mình Vào Nhịp Tim Của Biển Cả",
+        "max_level": 10,
+        "element": "",
+        "type": "MemospriteTalent",
+        "type_text": "Thiên Phú Linh Hồn Ký Ức",
+        "effect": "Support",
+        "effect_text": "Hỗ Trợ",
+        "simple_desc": "Khi được triệu hồi, sẽ hồi Năng Lượng cho Robin - Summeretto.",
+        "desc": "Khi \"Nhạc Công Bầu Trời Xanh\" được triệu hồi, hồi #1[i] điểm Năng Lượng cho Robin - Summeretto.",
+        "params": [
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20],
+            [20]
+        ],
+        "icon": "icon/skill/1512_memosprite_talent.png"
+    },
+    "1151206": {
+        "id": "1151206",
+        "name": "Cưỡi Gió Đêm Hè",
+        "max_level": 10,
+        "element": "",
+        "type": "MemospriteTalent",
+        "type_text": "Thiên Phú Linh Hồn Ký Ức",
+        "effect": "Support",
+        "effect_text": "Hỗ Trợ",
+        "simple_desc": "Khi biến mất, khiến Robin - Summeretto Ưu Tiên Hành Động.",
+        "desc": "Khi \"Nhạc Công Bầu Trời Xanh\" biến mất, khiến Robin - Summeretto Ưu Tiên Hành Động #1[i]%.",
+        "params": [
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5],
+            [0.5]
+        ],
+        "icon": "icon/skill/1512_memosprite_talent.png"
+    },
     "1800701": {
         "id": "1800701",
         "name": "Kẻ Xấu! Rắc Rối!",
@@ -17761,7 +18941,7 @@
             [0.468, 4, 1.17],
             [0.504, 4, 1.26]
         ],
-        "icon": "icon/skill/8007_memosprite_skill.png"
+        "icon": "icon/skill/8007_memosprite_skill1.png"
     },
     "1800703": {
         "id": "1800703",
@@ -17861,6 +19041,6 @@
             [0.34, 3, 1],
             [0.36, 3, 1]
         ],
-        "icon": "icon/skill/8007_memosprite_skill.png"
+        "icon": "icon/skill/8007_memosprite_skill2.png"
     }
 }

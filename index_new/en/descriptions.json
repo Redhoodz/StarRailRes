@@ -1692,7 +1692,7 @@
     "10443": {
         "id": "10443",
         "title": "Lighthouse",
-        "desc": "A mass-produced superhero from Astropolis, responsible for maintaining security across the entire city.\nHis true identity is Marcus Antali, the Herald of Death stripped of his memories."
+        "desc": "A mass-produced superhero from Astropolis, responsible for maintaining security across the entire city.\nHe burst onto the scene five years ago, and is deeply beloved by the residents of Astropolis."
     },
     "10444": {
         "id": "10444",
@@ -1703,6 +1703,16 @@
         "id": "10445",
         "title": "Stellaron Hunters",
         "desc": "An organization that travels between the worlds hunting for Stellarons.\nFor a certain purpose, they sail against the current in the Path of Finality."
+    },
+    "10446": {
+        "id": "10446",
+        "title": "Nihilux",
+        "desc": "Former president of the gossip magazine Furbobo Weekly, author of Fluffy Across the Blue under the pen name Blurry_QR_Colt, and once-celebrated Lotto Goddess of Astropolis, Beatrice Mellanine... Of course, there's no way all those titles fit in one room. Aha has the most clout of them all."
+    },
+    "10447": {
+        "id": "10447",
+        "title": "Starfroster",
+        "desc": "The Mourning Actors' touring ship. It has been borrowed by Aha on multiple occasions throughout history, each time to join in some grand cosmic battle.\nThat said, everyone who's ever set foot on it will tell you the same thing: this ship should really be called the Snackfroster."
     },
     "20000": {
         "id": "20000",

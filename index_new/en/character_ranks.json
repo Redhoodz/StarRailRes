@@ -6455,9 +6455,7 @@
         "level_up_skills": [
             { "id": "150303", "num": 2 },
             { "id": "150301", "num": 1 },
-            { "id": "150320", "num": 1 },
-            { "id": "150308", "num": 1 },
-            { "id": "150310", "num": 1 }
+            { "id": "150320", "num": 1 }
         ],
         "icon": "icon/skill/1503_ultimate.png"
     },
@@ -7023,6 +7021,80 @@
         "level_up_skills": [],
         "icon": "icon/skill/1510_rank6.png"
     },
+    "151101": {
+        "id": "151101",
+        "name": "Who Giggled at the Primordial Hush?",
+        "rank": 1,
+        "desc": "When entering combat, immediately gains 5 \"Wishpower.\" When Aeon ★ Aha is present, Elation DMG dealt by all ally targets merrymakes by 15%.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank1.png"
+    },
+    "151102": {
+        "id": "151102",
+        "name": "Between THEIR Eyes and Yours",
+        "rank": 2,
+        "desc": "Enhances the \"Elation\" Path Ascension effects: \n#{series_ref_skill_desc:UIText_SeriesSkillDescFormat,151129,2}",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank2.png"
+    },
+    "151103": {
+        "id": "151103",
+        "name": "A Stacked Deck of Sorrow and Joy",
+        "rank": 3,
+        "desc": "Ultimate Lv. +2, up to a maximum of Lv. 15.\nBasic ATK Lv. +1, up to a maximum of Lv. 10.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151103", "num": 2 },
+            { "id": "151101", "num": 1 },
+            { "id": "151120", "num": 1 }
+        ],
+        "icon": "icon/skill/1511_ultimate.png"
+    },
+    "151104": {
+        "id": "151104",
+        "name": "A Joke's Fate Boxed in Black",
+        "rank": 4,
+        "desc": "The multiplier of the True DMG dealt by Elation Skill increases by 25% of its original value. When Aeon ★ Aha deals Elation DMG, an additional 100% of the total \"Certified Banger\" held by teammates will be taken into account.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank4.png"
+    },
+    "151105": {
+        "id": "151105",
+        "name": "Moi Onstage and Me Offstage",
+        "rank": 5,
+        "desc": "Skill Lv. +2, up to a maximum of Lv. 15.\nTalent Lv. +2, up to a maximum of Lv. 15.\nElation Skill Lv. +1, up to a maximum of Lv. 15.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151102", "num": 2 },
+            { "id": "151104", "num": 2 },
+            { "id": "151120", "num": 1 }
+        ],
+        "icon": "icon/skill/1511_skill.png"
+    },
+    "151106": {
+        "id": "151106",
+        "name": "For THEY Said: You Are Elation",
+        "rank": 6,
+        "desc": "Enemy targets always carry an \"Elation Debt\" effect that claims at least 20% of their Max HP. After Aeon ★ Aha uses Ultimate for the first time, Aha's action advances by 100%, and Aha gains 100 Punchline.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank6.png"
+    },
     "151201": {
         "id": "151201",
         "name": "Stray Bird of Summer",
@@ -7092,7 +7164,7 @@
         "id": "151206",
         "name": "A Song Yet Unnamed",
         "rank": 6,
-        "desc": "Increases the Memosprite Skill's DMG multiplier by 100% of its original value. While in the \"Fever\" state, Robin • Summeretto can store her Ultimate up to 2 times. After entering the \"Fever\" state for the first time in this battle or when the the \"Fever\" countdown's turn starts, regenerates a fixed 140 Energy.",
+        "desc": "Increases the Memosprite Skill's DMG multiplier by 100% of its original value. While in the \"Fever\" state, Robin • Summeretto can store her Ultimate up to 2 times. After entering the \"Fever\" state for the first time in this battle or when the \"Fever\" countdown's turn starts, regenerates a fixed 140 Energy.",
         "materials": [
             { "id": "11512", "num": 1 }
         ],

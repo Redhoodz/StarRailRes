@@ -866,5 +866,31 @@
             []
         ],
         "icon": "icon/relic/328.png"
+    },
+    "329": {
+        "id": "329",
+        "name": "Euforia Efêmera da Divindade",
+        "desc": [
+            "Aumenta a VEL do usuário em 6%. Quando o Atributo Euforia do usuário atingir 40% ou mais, a ação do usuário avança em 40% imediatamente ao entrar em combate."
+        ],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ]
+        ],
+        "icon": "icon/relic/329.png"
+    },
+    "330": {
+        "id": "330",
+        "name": "Asilo Subespacial",
+        "desc": [
+            "Aumenta a VEL do usuário em 6%. Quando a VEL do usuário atingir 145 ou mais, aumenta o Efeito de Quebra de todos os aliados em 18% após entrar em combate. Este efeito não pode acumular."
+        ],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ]
+        ],
+        "icon": "icon/relic/330.png"
     }
 }

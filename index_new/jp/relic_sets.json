@@ -760,5 +760,27 @@
             []
         ],
         "icon": "icon/relic/328.png"
+    },
+    "329": {
+        "id": "329",
+        "name": "神の刹那の愉悦",
+        "desc": ["装備キャラの速度+6%。装備キャラの愉悦度が40%以上の場合、戦闘に入る時、行動順が即座に40%早まる。"],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ]
+        ],
+        "icon": "icon/relic/329.png"
+    },
+    "330": {
+        "id": "330",
+        "name": "亜空異容所",
+        "desc": ["装備キャラの速度+6%。装備キャラの速度が145以上の場合、戦闘に入った後、味方全体の撃破特効+18%。この効果は累積できない。"],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ]
+        ],
+        "icon": "icon/relic/330.png"
     }
 }

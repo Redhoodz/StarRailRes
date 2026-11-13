@@ -12470,6 +12470,23 @@
         ],
         "icon": "icon/skill/1501_elation.png"
     },
+    "150129": {
+        "id": "150129",
+        "name": "Muôn Mặt Vui Vẻ ★ Trò Hay Của Thỏ",
+        "max_level": 2,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Vết Tích Cố Định",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Khi Nâng Cấp Vận Mệnh \"Vui Vẻ\", tăng Bội Số Sát Thương của Kỹ Năng Vui Vẻ, khi mục tiêu phe ta gây sát thương sẽ bỏ qua một phần Phòng Thủ của mục tiêu phe địch, khi kích hoạt \"Quá Cháy\" sẽ cung cấp thêm Điểm Sảng Khoái dựa trên số điểm \"Cùng Thưởng Thức Tuyệt Kỹ\" đang sở hữu.",
+        "desc": "Khi Nâng Cấp Vận Mệnh \"Vui Vẻ\", Bội Số Sát Thương của Kỹ Năng Vui Vẻ tăng #5[i]% so với bội số gốc, khi mục tiêu phe ta gây sát thương sẽ bỏ qua #1[i]% Phòng Thủ của mục tiêu phe địch, mỗi khi sở hữu #2[i] điểm \"Cùng Thưởng Thức Tuyệt Kỹ\", khi kích hoạt \"Quá Cháy\" sẽ cung cấp thêm #3[i] Điểm Sảng Khoái, cung cấp thêm tối đa #4[i] điểm.",
+        "params": [
+            [0.15, 10, 1, 8, 0.5],
+            [0.2, 10, 1, 12, 1.2]
+        ],
+        "icon": "icon/skill/1501_aha.png"
+    },
     "150201": {
         "id": "150201",
         "name": "Tên Bay Rít Gió, Giao Đấu Hân Hoan",
@@ -12644,6 +12661,23 @@
             [1, 1.25, 0.16, 3, 5, 0.25]
         ],
         "icon": "icon/skill/1502_elation.png"
+    },
+    "150229": {
+        "id": "150229",
+        "name": "Muôn Mặt Vui Vẻ ★ Thần Giao Cách Cảm",
+        "max_level": 2,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Vết Tích Cố Định",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Khi Nâng Cấp Vận Mệnh \"Vui Vẻ\", Bội Số Sát Thương của hiệu ứng \"Đại Cát Đại Lợi\" tăng, sau khi Yao Guang thi triển Tuyệt Kỹ sẽ hồi phục cố định Năng Lượng và nhận được Điểm Sảng Khoái.",
+        "desc": "Khi Nâng Cấp Vận Mệnh \"Vui Vẻ\", Bội Số Sát Thương của hiệu ứng \"Đại Cát Đại Lợi\" tăng, mức tăng bằng #1[i]% Bội Số Sát Thương gốc. Sau khi Yao Guang thi triển Tuyệt Kỹ sẽ hồi cố định #2[i] điểm Năng Lượng và nhận được #4[i] Điểm Sảng Khoái.",
+        "params": [
+            [0.2, 12, 0, 10],
+            [0.4, 30, 0, 10]
+        ],
+        "icon": "icon/skill/1502_aha.png"
     },
     "150301": {
         "id": "150301",
@@ -12869,6 +12903,23 @@
             [0.125, 0.1875, 0.25, 0.5]
         ],
         "icon": "icon/skill/1503_elation.png"
+    },
+    "150329": {
+        "id": "150329",
+        "name": "Muôn Mặt Vui Vẻ ★ Sống Động Trên Trang Giấy",
+        "max_level": 2,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Vết Tích Cố Định",
+        "effect": "Support",
+        "effect_text": "Hỗ Trợ",
+        "simple_desc": "Khi Nâng Cấp Vận Mệnh \"Vui Vẻ\", giới hạn sở hữu \"Cùng Thưởng Thức Tuyệt Kỹ\" của Pearl tăng. \"Việc Tốt Đáng Thưởng\" và Điểm Hài Hước nhận được khi bắt đầu hiệp tăng thêm do Tuyệt Kỹ cung cấp, sẽ giữ lại một phần khi kết thúc hiệp tăng thêm.",
+        "desc": "Khi Nâng Cấp Vận Mệnh \"Vui Vẻ\", giới hạn sở hữu \"Cùng Thưởng Thức Tuyệt Kỹ\" của Pearl tăng đến #1[i] điểm. \"Việc Tốt Đáng Thưởng\" và Điểm Hài Hước nhận được khi bắt đầu hiệp tăng thêm do Tuyệt Kỹ cung cấp, sẽ được giữ lại #2[i]% và #3[i]% khi hiệp tăng thêm kết thúc.",
+        "params": [
+            [75, 0.1, 0.1],
+            [75, 0.2, 0.2]
+        ],
+        "icon": "icon/skill/1503_aha.png"
     },
     "150401": {
         "id": "150401",
@@ -13190,6 +13241,23 @@
         ],
         "icon": "icon/skill/1505_elation.png"
     },
+    "150529": {
+        "id": "150529",
+        "name": "Muôn Mặt Vui Vẻ ★ Gấp Hoa Trong Sách",
+        "max_level": 2,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Vết Tích Cố Định",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Khi Nâng Cấp Vận Mệnh \"Vui Vẻ\", có thể tích lũy Năng Lượng vượt mức, sau khi thi triển Tuyệt Kỹ sẽ xóa bỏ và hồi phục giá trị Năng Lượng tương ứng. Lần hồi phục này sẽ không kích hoạt hiệu ứng nhận Việc Tốt Đáng Thưởng của Thiên Phú. Sát thương gây ra bỏ qua một phần Phòng Thủ của mục tiêu phe địch, khi tích lũy nhận một lượng \"Cùng Thưởng Thức Tuyệt Kỹ\" nhất định, khiến Bội Số Sát Thương của Tuyệt Kỹ tiếp theo và Bội Số Sát Thương Vui Vẻ do Tuyệt Kỹ đó gây ra thông qua Thiên Phú tăng lên, hiệu ứng này không thể cộng dồn.",
+        "desc": "Khi Nâng Cấp Vận Mệnh \"Vui Vẻ\", có thể tích lũy tối đa #3[i] điểm Năng Lượng vượt mức, sau khi thi triển Tuyệt Kỹ sẽ xóa bỏ và hồi phục giá trị Năng Lượng tương ứng, lần hồi phục này sẽ không kích hoạt hiệu ứng nhận Việc Tốt Đáng Thưởng của Thiên Phú. Sát thương gây ra bỏ qua #2[i]% Phòng Thủ của mục tiêu phe địch, mỗi khi tích lũy nhận #4[i] điểm \"Cùng Thưởng Thức Tuyệt Kỹ\", khiến Bội Số Sát Thương của Tuyệt Kỹ tiếp theo và Bội Số Sát Thương của Sát Thương Vui Vẻ do Tuyệt Kỹ đó gây ra thông qua Thiên Phú tăng #1[i]% so với bội số ban đầu, hiệu ứng này không thể cộng dồn.",
+        "params": [
+            [0.75, 0.1, 60, 480],
+            [1.5, 0.24, 240, 480]
+        ],
+        "icon": "icon/skill/1505_aha.png"
+    },
     "150601": {
         "id": "150601",
         "name": "Một Đấm!",
@@ -13461,6 +13529,23 @@
             [1.125, 6]
         ],
         "icon": "icon/skill/1506_elation02.png"
+    },
+    "150629": {
+        "id": "150629",
+        "name": "Muôn Mặt Vui Vẻ ★ Ảo Ảnh Ba Chiều",
+        "max_level": 2,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Vết Tích Cố Định",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Khi Nâng Cấp Vận Mệnh \"Vui Vẻ\", \"Điểm Ẩn\" sau khi đạt giới hạn có thể vượt mức thêm, tăng Sát Thương Bạo Kích, mỗi khi nhận 1 điểm \"Cùng Thưởng Thức Tuyệt Kỹ\", đồng thời nhận một phần \"Điểm Ẩn\".",
+        "desc": "Khi Nâng Cấp Vận Mệnh \"Vui Vẻ\", \"Điểm Ẩn\" sau khi đạt giới hạn có thể vượt mức đến #1[i], Sát Thương Bạo Kích tăng #3[i]%, mỗi khi nhận 1 điểm \"Cùng Thưởng Thức Tuyệt Kỹ\", đồng thời nhận \"Điểm Ẩn\" bằng #2[i]% số điểm đó.",
+        "params": [
+            [360, 0.2, 0.4],
+            [999, 0.4, 0.4]
+        ],
+        "icon": "icon/skill/1506_aha.png"
     },
     "150701": {
         "id": "150701",
@@ -14422,6 +14507,394 @@
         ],
         "icon": "icon/skill/1510_assist03.png"
     },
+    "151101": {
+        "id": "151101",
+        "name": "Thắp Sáng Vì Sao, Mở Màn!",
+        "max_level": 10,
+        "element": "Quantum",
+        "type": "Normal",
+        "type_text": "Tấn Công Thường",
+        "effect": "SingleAttack",
+        "effect_text": "Đánh Đơn",
+        "simple_desc": "Gây Sát Thương Vui Vẻ thuộc tính Lượng Tử cho 1 kẻ địch.",
+        "desc": "Gây #1[i]% Sát Thương Vui Vẻ thuộc tính Lượng Tử cho 1 kẻ địch chỉ định.",
+        "params": [
+            [0.25, 1],
+            [0.3, 1],
+            [0.35, 1],
+            [0.4, 1],
+            [0.45, 1],
+            [0.5, 1],
+            [0.55, 1],
+            [0.6, 1],
+            [0.65, 1],
+            [0.7, 1]
+        ],
+        "icon": "icon/skill/1511_basic_atk.png"
+    },
+    "151102": {
+        "id": "151102",
+        "name": "Đây Chính Là Lệnh Sứ, Aha Chứng Nhận™",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Chiến Kỹ",
+        "effect": "Support",
+        "effect_text": "Hỗ Trợ",
+        "simple_desc": "Khiến 1 nhân vật chỉ định phe ta ngoài bản thân nhận trạng thái Lệnh Sứ \"Vui Vẻ\", sau đó lập tức phát động Đòn Đánh Theo Sau, gây Sát Thương Vui Vẻ thuộc tính Lượng Tử cho toàn phe địch. Mục tiêu có trạng thái Lệnh Sứ \"Vui Vẻ\" tăng Độ Vui Vẻ và khi bắt đầu hiệp khiến Aeon ★ Aha nhận \"Nguyện Lực\".",
+        "desc": "Khiến 1 nhân vật chỉ định phe ta ngoài bản thân nhận trạng thái \"Lệnh Sứ Vui Vẻ\", sau đó lập tức phát động Đòn Đánh Theo Sau, gây cho toàn phe địch #2[i]% Sát Thương Vui Vẻ thuộc tính Lượng Tử. Trạng thái \"Lệnh Sứ Vui Vẻ\" duy trì cả trận cho đến khi chuyển sang mục tiêu tiếp theo, mục tiêu có trạng thái \"Lệnh Sứ Vui Vẻ\" tăng #1[i]% Độ Vui Vẻ và khi bắt đầu hiệp sẽ khiến Aeon ★ Aha nhận #6[i] điểm \"Nguyện Lực\".",
+        "params": [
+            [0.1, 0.25, 0, 0, 1, 1],
+            [0.11, 0.275, 0, 0, 1, 1],
+            [0.12, 0.3, 0, 0, 1, 1],
+            [0.13, 0.325, 0, 0, 1, 1],
+            [0.14, 0.35, 0, 0, 1, 1],
+            [0.15, 0.375, 0, 0, 1, 1],
+            [0.1625, 0.4062, 0, 0, 1, 1],
+            [0.175, 0.4375, 0, 0, 1, 1],
+            [0.1875, 0.4688, 0, 0, 1, 1],
+            [0.2, 0.5, 0, 0, 1, 1],
+            [0.21, 0.525, 0, 0, 1, 1],
+            [0.22, 0.55, 0, 0, 1, 1],
+            [0.23, 0.575, 0, 0, 1, 1],
+            [0.24, 0.6, 0, 0, 1, 1],
+            [0.25, 0.625, 0, 0, 1, 1]
+        ],
+        "icon": "icon/skill/1511_skill.png"
+    },
+    "151103": {
+        "id": "151103",
+        "name": "Aha! Vụ Nổ Lớn Điểm Hài Hước Vũ Trụ",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Ultra",
+        "type_text": "Tuyệt Kỹ",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Khiến Aha Ưu Tiên Hành Động, Aeon ★ Aha nhận trạng thái \"Muôn Mặt Vui Vẻ\". Gây lượng lớn Sát Thương Vui Vẻ thuộc tính Lượng Tử lên toàn bộ phe địch, sau đó gây Sát Thương Vui Vẻ thuộc tính Lượng Tử lên 1 kẻ địch ngẫu nhiên, tổng cộng Nảy Bật 5 lần.",
+        "desc": "Khiến Aha Ưu Tiên Hành Động #5[i]%, Aeon ★ Aha nhận trạng thái \"Muôn Mặt Vui Vẻ\", duy trì #6[i] hiệp, khi bắt đầu mỗi hiệp của Aeon ★ Aha, số hiệp duy trì giảm 1. Gây #2[i]% Sát Thương Vui Vẻ thuộc tính Lượng Tử cho toàn phe địch, sau đó gây #3[i] lần sát thương, mỗi lần sát thương gây #4[i]% Sát Thương Vui Vẻ thuộc tính Lượng Tử cho 1 kẻ địch ngẫu nhiên.",
+        "params": [
+            [8, 1.2, 5, 0.36, 0.2, 3],
+            [8, 1.28, 5, 0.384, 0.2, 3],
+            [8, 1.36, 5, 0.408, 0.2, 3],
+            [8, 1.44, 5, 0.432, 0.2, 3],
+            [8, 1.52, 5, 0.456, 0.2, 3],
+            [8, 1.6, 5, 0.48, 0.2, 3],
+            [8, 1.7, 5, 0.51, 0.2, 3],
+            [8, 1.8, 5, 0.54, 0.2, 3],
+            [8, 1.9, 5, 0.57, 0.2, 3],
+            [8, 2, 5, 0.6, 0.2, 3],
+            [8, 2.08, 5, 0.624, 0.2, 3],
+            [8, 2.16, 5, 0.648, 0.2, 3],
+            [8, 2.24, 5, 0.672, 0.2, 3],
+            [8, 2.32, 5, 0.696, 0.2, 3],
+            [8, 2.4, 5, 0.72, 0.2, 3]
+        ],
+        "icon": "icon/skill/1511_ultimate.png"
+    },
+    "151104": {
+        "id": "151104",
+        "name": "Cùng Ngài Biểu Diễn, Kỳ Tích Chương Mới",
+        "max_level": 15,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Thiên Phú",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Sau khi \"Nguyện Lực\" đạt 8 điểm có thể kích hoạt Tuyệt Kỹ, sau khi đạt giới hạn còn có thể vượt mức đến 10 điểm. Aeon ★ Aha nhận được \"Nguyện Lực\" sau khi thi triển Tấn Công Thường, Chiến Kỹ, Kỹ Năng Vui Vẻ. Sau khi Điểm Hài Hước của phe ta lần đầu đạt mức nhất định, Aeon ★ Aha sẽ lập tức nhận \"Nguyện Lực\" và tăng Sát Thương Bạo Kích cho toàn phe ta, sau khi hiệp của Aha kết thúc có thể kích hoạt lại.",
+        "desc": "Sau khi \"Nguyện Lực\" đạt #8[i] điểm có thể kích hoạt Tuyệt Kỹ, sau khi đạt giới hạn còn có thể vượt mức đến #11[i] điểm. Aeon ★ Aha nhận #7[i] điểm \"Nguyện Lực\" sau khi thi triển Tấn Công Thường, Chiến Kỹ, Kỹ Năng Vui Vẻ. Sau khi Điểm Hài Hước của phe ta lần đầu đạt #2[i] điểm, Aeon ★ Aha sẽ lập tức nhận #3[i] điểm \"Nguyện Lực\", sau đó khiến Sát Thương Bạo Kích của toàn phe ta tăng #9[i]%, duy trì #10[i] hiệp, sau khi hiệp của Aha kết thúc có thể kích hoạt lại.",
+        "params": [
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.2,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.22,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.24,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.26,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.28,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.3,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.325,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.35,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.375,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.4,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.42,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.44,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.46,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.48,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.5,
+                3,
+                10
+            ]
+        ],
+        "icon": "icon/skill/1511_talent.png"
+    },
+    "151106": {
+        "id": "151106",
+        "name": "Tấn Công",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm suy yếu Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+        "desc": "Tấn công kẻ địch, sau khi vào chiến đấu sẽ làm suy yếu Sức Bền thuộc tính tương ứng của mục tiêu phe địch.",
+        "params": [],
+        "icon": "icon/skill/1511_basic_atk.png"
+    },
+    "151107": {
+        "id": "151107",
+        "name": "ABRACADABRA!",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Bí Kỹ",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Sau khi dùng Bí Kỹ, tạo ra 1 vùng đặc biệt xung quanh bản thân, kẻ địch trong vùng đặc biệt sẽ rơi vào trạng thái \"Ảo Giác\", kẻ địch trong trạng thái \"Ảo Giác\" không thể phát hiện mục tiêu phe ta, sau khi vào chiến đấu sẽ khiến Aha lập tức nhận 1 hiệp tăng thêm được tính cố định Điểm Hài Hước, hiệp này không tiêu hao Điểm Hài Hước.",
+        "desc": "Sau khi dùng Bí Kỹ, tạo ra 1 vùng đặc biệt xung quanh bản thân duy trì #2[i] giây, kẻ địch trong vùng đặc biệt sẽ rơi vào trạng thái \"Ảo Giác\", kẻ địch trong trạng thái \"Ảo Giác\" không thể phát hiện mục tiêu phe ta, sau khi vào chiến đấu sẽ khiến Aha lập tức nhận 1 hiệp tăng thêm được tính cố định #1[i] Điểm Hài Hước, hiệp này không tiêu hao Điểm Hài Hước. Tối đa chỉ tồn tại 1 hiệu ứng khu vực do phe ta tạo ra.",
+        "params": [
+            [20, 20]
+        ],
+        "icon": "icon/skill/1511_technique.png"
+    },
+    "151120": {
+        "id": "151120",
+        "name": "Trăng Tròn, Là Lúc Thần Có Mặt",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "ElationDamage",
+        "type_text": "Kỹ Năng Vui Vẻ",
+        "effect": "AoEAttack",
+        "effect_text": "Đánh Lan",
+        "simple_desc": "Bỏ qua Mã Tham Gia, luôn thi triển ở cuối Thời Khắc Aha. Gây Sát Thương Vui Vẻ thuộc tính Lượng Tử cho toàn bộ phe địch, đồng thời dựa vào tổng sát thương không phải Sát Thương Chuẩn do mục tiêu phe ta gây ra trong Thời Khắc Aha lần này để gây Sát Thương Chuẩn, chia đều cho toàn bộ phe địch.",
+        "desc": "Bỏ qua Mã Tham Gia, luôn thi triển ở cuối Thời Khắc Aha. Gây #1[i]% Sát Thương Vui Vẻ thuộc tính Lượng Tử cho toàn bộ phe địch, đồng thời gây Sát Thương Chuẩn bằng #2[i]% tổng sát thương không phải Sát Thương Chuẩn do mục tiêu phe ta gây ra trong Thời Khắc Aha lần này, chia đều cho toàn bộ phe địch.",
+        "params": [
+            [0.3, 0.2],
+            [0.33, 0.2],
+            [0.36, 0.2],
+            [0.39, 0.2],
+            [0.42, 0.2],
+            [0.45, 0.2],
+            [0.4875, 0.2],
+            [0.525, 0.2],
+            [0.5625, 0.2],
+            [0.6, 0.2],
+            [0.63, 0.2],
+            [0.66, 0.2],
+            [0.69, 0.2],
+            [0.72, 0.2],
+            [0.75, 0.2]
+        ],
+        "icon": "icon/skill/1511_elation.png"
+    },
+    "151129": {
+        "id": "151129",
+        "name": "Muôn Mặt Vui Vẻ ★ Bỗng Dưng Mà Có",
+        "max_level": 2,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Vết Tích Cố Định",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Khi sở hữu trạng thái \"Muôn Mặt Vui Vẻ\", sẽ Nâng Cấp Vận Mệnh \"Vui Vẻ\" của phe ta, cường hóa Điểm Hài Hước và trạng thái \"Việc Tốt Đáng Thưởng\" thành Điểm Sảng Khoái và trạng thái \"Cùng Thưởng Thức Tuyệt Kỹ\". Điểm Sảng Khoái sẽ nhận lại một phần Điểm Sảng Khoái đã tiêu hao khi kết thúc Thời Khắc Aha. Trong thời gian \"Muôn Mặt Vui Vẻ\", Tỷ Lệ Bạo Kích của Aeon ★ Aha tăng, sát thương gây ra bỏ qua một phần Phòng Thủ của mục tiêu phe địch.",
+        "desc": "Khi sở hữu trạng thái \"Muôn Mặt Vui Vẻ\", Aeon ★ Aha khiến phe ta Nâng Cấp Vận Mệnh \"Vui Vẻ\", cường hóa Điểm Hài Hước và trạng thái \"Việc Tốt Đáng Thưởng\" thành Điểm Sảng Khoái và trạng thái \"Cùng Thưởng Thức Tuyệt Kỹ\". Điểm Sảng Khoái sẽ nhận lại #1[i]% Điểm Sảng Khoái đã tiêu hao khi kết thúc Thời Khắc Aha. Trong thời gian \"Muôn Mặt Vui Vẻ\", Tỷ Lệ Bạo Kích của Aeon ★ Aha tăng #3[i]%, sát thương gây ra bỏ qua #2[i]% Phòng Thủ của mục tiêu phe địch.",
+        "params": [
+            [0.1, 0.3, 0.12],
+            [0.1, 0.6, 0.2]
+        ],
+        "icon": "icon/skill/1511_aha.png"
+    },
+    "151131": {
+        "id": "151131",
+        "name": "Aha Chính Truyện",
+        "max_level": 1,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Thiên Phú",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Khi Aeon ★ Aha và đồng đội gây sát thương, sẽ gây thêm hiệu ứng \"Nợ Vui Vẻ\" cho mục tiêu phe địch, khi mục tiêu phe địch chuyển giai đoạn sẽ giữ lại \"Nợ Vui Vẻ\".",
+        "desc": "Khi Aeon ★ Aha và đồng đội gây sát thương, sẽ gây thêm cho mục tiêu phe địch hiệu ứng \"Nợ Vui Vẻ\" bằng #1[i]% HP đã mất, khi mục tiêu phe địch chuyển giai đoạn sẽ giữ lại \"Nợ Vui Vẻ\", tối đa không vượt quá #3[i]% Giới Hạn HP của mục tiêu.",
+        "params": [
+            [0.25, 1, 0.1]
+        ],
+        "icon": "icon/skill/1511_aeon.png"
+    },
     "151201": {
         "id": "151201",
         "name": "Sóng Âm, Định Tông Cho Làn Gió Biển",
@@ -14771,6 +15244,23 @@
             [0.75, 0.2625, 10, 0.225]
         ],
         "icon": "icon/skill/1513_elation02.png"
+    },
+    "151329": {
+        "id": "151329",
+        "name": "Muôn Mặt Vui Vẻ ★ Ván Bài Ba Lá",
+        "max_level": 2,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Vết Tích Cố Định",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Khi Nâng Cấp Vận Mệnh \"Vui Vẻ\", nếu chỉ có 1 đồng đội Vận Mệnh \"Vui Vẻ\" là Aeon ★ Aha, thì hiệu ứng khi chỉ tồn tại 1 nhân vật Vận Mệnh \"Vui Vẻ\" là Aventurine - Waveflair trong Vết Tích \"Tận Hưởng Ngọn Sóng Lớn\" cũng sẽ có hiệu lực, và hiệu ứng này sẽ được tăng cường: Tốc Độ toàn phe ta tăng, sau khi đồng đội thi triển tấn công, Aventurine - Waveflair nhận thêm \"Nhiệt Huyết\" và Điểm Sảng Khoái.",
+        "desc": "Khi Nâng Cấp Vận Mệnh \"Vui Vẻ\", nếu chỉ có 1 đồng đội Vận Mệnh \"Vui Vẻ\" là Aeon ★ Aha, thì hiệu ứng khi chỉ có 1 nhân vật Vận Mệnh \"Vui Vẻ\" là Aventurine - Waveflair trong Vết Tích \"Tận Hưởng Ngọn Sóng Lớn\" cũng sẽ có hiệu lực, và hiệu ứng này sẽ được tăng cường: Tốc Độ toàn phe ta tăng #2[i]%, sau khi đồng đội thi triển tấn công, Aventurine - Waveflair nhận thêm #3[i] điểm \"Nhiệt Huyết\" và #4[i] Điểm Sảng Khoái.",
+        "params": [
+            [0, 0.15, 1, 1],
+            [0, 0.25, 2, 2]
+        ],
+        "icon": "icon/skill/1513_aha.png"
     },
     "800101": {
         "id": "800101",
@@ -16355,6 +16845,23 @@
         ],
         "icon": "icon/skill/8009_elation.png"
     },
+    "800929": {
+        "id": "800929",
+        "name": "Muôn Mặt Vui Vẻ ★ Hào Quang Nhân Vật Chính",
+        "max_level": 2,
+        "element": "Thunder",
+        "type": "Talent",
+        "type_text": "Vết Tích Cố Định",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Khi Nâng Cấp Vận Mệnh \"Vui Vẻ\", hiệu ứng Tăng Sát Thương Bạo Kích do Tuyệt Kỹ cung cấp tăng thêm, và có hiệu lực cho toàn phe ta. Trước khi Tuyệt Kỹ kích hoạt Kỹ Năng Vui Vẻ của Aeon ★ Aha, kích hoạt thêm một lần Kỹ Năng Vui Vẻ của Nhà Khai Phá, Bội Số Sát Thương của Kỹ Năng Vui Vẻ lần này tăng lên, và được tính toán dựa trên giá trị cao nhất của \"Cùng Thưởng Thức Tuyệt Kỹ\" mà nhân vật phe ta sở hữu. Sau đó kích hoạt Kỹ Năng Vui Vẻ của Aeon ★ Aha, Sát Thương Chuẩn của nó đổi thành tính toán dựa trên sát thương do Kỹ Năng Vui Vẻ của Nhà Khai Phá nói trên gây ra, chia đều cho toàn phe địch.",
+        "desc": "Khi Nâng Cấp Vận Mệnh \"Vui Vẻ\", hiệu ứng Tăng Sát Thương Bạo Kích của Tuyệt Kỹ tăng thêm #1[i]%, và có hiệu lực cho toàn bộ phe ta. Trước khi Tuyệt Kỹ kích hoạt Kỹ Năng Vui Vẻ của Aeon ★ Aha, sẽ kích hoạt thêm một lần Kỹ Năng Vui Vẻ của Nhà Khai Phá, Bội Số Sát Thương của Kỹ Năng Vui Vẻ lần này tăng #2[i]% so với bội số ban đầu, đồng thời tính toán dựa trên giá trị cao nhất của \"Cùng Thưởng Thức Tuyệt Kỹ\" mà nhân vật phe ta sở hữu. Sau đó kích hoạt Kỹ Năng Vui Vẻ của Aeon ★ Aha, Sát Thương Chuẩn của nó đổi thành tính toán dựa theo #3[i]% sát thương do Kỹ Năng Vui Vẻ của Nhà Khai Phá nói trên gây ra, và chia đều cho toàn bộ phe địch.",
+        "params": [
+            [0.2, 2, 0.2],
+            [0.3, 3, 0.2]
+        ],
+        "icon": "icon/skill/8009_aha.png"
+    },
     "801001": {
         "id": "801001",
         "name": "Đây Chính Là Cổ Vũ",
@@ -16529,6 +17036,23 @@
             [8, 0.25, 0.75]
         ],
         "icon": "icon/skill/8010_elation.png"
+    },
+    "801029": {
+        "id": "801029",
+        "name": "Muôn Mặt Vui Vẻ ★ Hào Quang Nhân Vật Chính",
+        "max_level": 2,
+        "element": "Thunder",
+        "type": "Talent",
+        "type_text": "Vết Tích Cố Định",
+        "effect": "Enhance",
+        "effect_text": "Cường Hóa",
+        "simple_desc": "Khi Nâng Cấp Vận Mệnh \"Vui Vẻ\", hiệu ứng Tăng Sát Thương Bạo Kích do Tuyệt Kỹ cung cấp tăng thêm, và có hiệu lực cho toàn phe ta. Trước khi Tuyệt Kỹ kích hoạt Kỹ Năng Vui Vẻ của Aeon ★ Aha, kích hoạt thêm một lần Kỹ Năng Vui Vẻ của Nhà Khai Phá, Bội Số Sát Thương của Kỹ Năng Vui Vẻ lần này tăng lên, và được tính toán dựa trên giá trị cao nhất của \"Cùng Thưởng Thức Tuyệt Kỹ\" mà nhân vật phe ta sở hữu. Sau đó kích hoạt Kỹ Năng Vui Vẻ của Aeon ★ Aha, Sát Thương Chuẩn của nó đổi thành tính toán dựa trên sát thương do Kỹ Năng Vui Vẻ của Nhà Khai Phá nói trên gây ra, chia đều cho toàn phe địch.",
+        "desc": "Khi Nâng Cấp Vận Mệnh \"Vui Vẻ\", hiệu ứng Tăng Sát Thương Bạo Kích của Tuyệt Kỹ tăng thêm #1[i]%, và có hiệu lực cho toàn bộ phe ta. Trước khi Tuyệt Kỹ kích hoạt Kỹ Năng Vui Vẻ của Aeon ★ Aha, sẽ kích hoạt thêm một lần Kỹ Năng Vui Vẻ của Nhà Khai Phá, Bội Số Sát Thương của Kỹ Năng Vui Vẻ lần này tăng #2[i]% so với bội số ban đầu, đồng thời tính toán dựa trên giá trị cao nhất của \"Cùng Thưởng Thức Tuyệt Kỹ\" mà nhân vật phe ta sở hữu. Sau đó kích hoạt Kỹ Năng Vui Vẻ của Aeon ★ Aha, Sát Thương Chuẩn của nó đổi thành tính toán dựa theo #3[i]% sát thương do Kỹ Năng Vui Vẻ của Nhà Khai Phá nói trên gây ra, và chia đều cho toàn bộ phe địch.",
+        "params": [
+            [0.2, 2, 0.2],
+            [0.3, 3, 0.2]
+        ],
+        "icon": "icon/skill/8010_aha.png"
     },
     "1100401": {
         "id": "1100401",

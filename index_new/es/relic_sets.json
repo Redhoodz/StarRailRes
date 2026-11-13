@@ -863,5 +863,31 @@
             []
         ],
         "icon": "icon/relic/328.png"
+    },
+    "329": {
+        "id": "329",
+        "name": "Alegría efímera divina",
+        "desc": [
+            "La VEL del portador aumenta en un 6%. Cuando su Exultación es igual o superior al 40%, su acción se adelanta un 40% al entrar en combate."
+        ],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ]
+        ],
+        "icon": "icon/relic/329.png"
+    },
+    "330": {
+        "id": "330",
+        "name": "Centro de Anomalías Subespacial",
+        "desc": [
+            "La VEL del portador aumenta en un 6%. Cuando la VEL del portador es igual o superior a 145, el efecto de Ruptura de todos los aliados aumenta en un 18% tras entrar en combate. Este efecto no se puede acumular."
+        ],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ]
+        ],
+        "icon": "icon/relic/330.png"
     }
 }

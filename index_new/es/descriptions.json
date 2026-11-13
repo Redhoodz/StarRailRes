@@ -1692,7 +1692,7 @@
     "10443": {
         "id": "10443",
         "title": "Faro",
-        "desc": "Superhéroe producido en masa de Astrópolis, encargado de mantener la seguridad de toda la ciudad.\nSu verdadera identidad es el Anunciamuertes Marco Antali, a quien le borraron la memoria."
+        "desc": "Superhéroe producido en masa de Astrópolis, encargado de mantener la seguridad de toda la ciudad.\nSurgió de la nada hace cinco años y es muy querido por los habitantes de Astrópolis."
     },
     "10444": {
         "id": "10444",
@@ -1703,6 +1703,16 @@
         "id": "10445",
         "title": "Cazadores de Estelaron",
         "desc": "Una organización que viaja entre los mundos en busca de Estelaron.\nPor cierto propósito, avanzan a contracorriente en la Vía de la Conclusión."
+    },
+    "10446": {
+        "id": "10446",
+        "title": "Nihilux",
+        "desc": "El expresidente de la revista de chismes «Semanario Pachi», la autora de «Pelosete más allá del cielo», Codi eQuestRe, la antigua diosa de la lotería de Astrópolis, Beatrice Mellanine... Por supuesto, aquí no cabe tanta gente. Lo más digno es llamarlo Aha."
+    },
+    "10447": {
+        "id": "10447",
+        "title": "Astrobarquillo",
+        "desc": "A lo largo de la historia, Aha tomó prestado en varias ocasiones el barco de gira de la compañía teatral de los Plañideros para participar en las guerras divinas del universo.\nSin embargo, quienes han estado aquí dicen que este barco debería llamarse barco de pasteles."
     },
     "20000": {
         "id": "20000",

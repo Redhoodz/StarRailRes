@@ -5303,6 +5303,12 @@
         "desc": "Sát thương của Himeko - Nova trong Vũ Trụ Sai Phân được tăng cường.\nMỗi khi thi triển Kỹ Năng Trợ Chiến, khiến sát thương cuối cùng do bản thân gây ra tăng 3%, tối đa cộng dồn 10 tầng.",
         "enhanced_desc": ""
     },
+    "661511": {
+        "id": "661511",
+        "name": "Aeon ★ Aha",
+        "desc": "Sát thương của Aeon ★ Aha trong Vũ Trụ Sai Phân được tăng cường.\nKhi ở trong trận, Độ Vui Vẻ của mục tiêu phe ta tăng 24%.",
+        "enhanced_desc": ""
+    },
     "661512": {
         "id": "661512",
         "name": "Robin - Summeretto",

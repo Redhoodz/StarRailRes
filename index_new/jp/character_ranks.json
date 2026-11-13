@@ -6455,9 +6455,7 @@
         "level_up_skills": [
             { "id": "150303", "num": 2 },
             { "id": "150301", "num": 1 },
-            { "id": "150320", "num": 1 },
-            { "id": "150308", "num": 1 },
-            { "id": "150310", "num": 1 }
+            { "id": "150320", "num": 1 }
         ],
         "icon": "icon/skill/1503_ultimate.png"
     },
@@ -7022,6 +7020,80 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1510_rank6.png"
+    },
+    "151101": {
+        "id": "151101",
+        "name": "{RUBY_B#たいしょ}太初{RUBY_E#}が{RUBY_B#ちんもく}沈黙{RUBY_E#}した{RUBY_B#とき}時{RUBY_E#}、\n{RUBY_B#わら}笑{RUBY_E#}ったのは？",
+        "rank": 1,
+        "desc": "戦闘に入った時、即座に「願力」を5獲得する。星神★アッハがフィールド上にいる時、味方全体が与える愉悦ダメージが15%上笑する。",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank1.png"
+    },
+    "151102": {
+        "id": "151102",
+        "name": "{RUBY_B#そ}其{RUBY_E#}の{RUBY_B#まなざ}眼差{RUBY_E#}しと\nキミの{RUBY_B#あいだ}間{RUBY_E#}に",
+        "rank": 2,
+        "desc": "「愉悦」の運命を昇格させ、以下の強化を獲得する。\n#{series_ref_skill_desc:UIText_SeriesSkillDescFormat,151129,2}",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank2.png"
+    },
+    "151103": {
+        "id": "151103",
+        "name": "カードをめくり、\n{RUBY_B#ひき}悲喜{RUBY_E#}を{RUBY_B#うらかえ}裏返{RUBY_E#}す",
+        "rank": 3,
+        "desc": "必殺技のLv.+2、最大Lv.15まで。通常攻撃のLv.+1、最大Lv.10まで。愉悦スキルのLv.+1、最大Lv.15まで。",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151103", "num": 2 },
+            { "id": "151101", "num": 1 },
+            { "id": "151120", "num": 1 }
+        ],
+        "icon": "icon/skill/1511_ultimate.png"
+    },
+    "151104": {
+        "id": "151104",
+        "name": "{RUBY_B#うんめい}運命{RUBY_E#}さえ、\nジョークのように",
+        "rank": 4,
+        "desc": "愉悦スキルが与える確定ダメージのダメージ倍率が、本来の倍率の25%分アップする。星神★アッハが与える愉悦ダメージは、追加で自身以外の味方が持つ「爆笑の褒美」の合計の100%をカウントする。",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank4.png"
+    },
+    "151105": {
+        "id": "151105",
+        "name": "{RUBY_B#ぶたいうえ}舞台上{RUBY_E#}のあたしと、\n{RUBY_B#ぶたいうら}舞台裏{RUBY_E#}のあたし",
+        "rank": 5,
+        "desc": "戦闘スキルのLv.+2、最大Lv.15まで。天賦のLv.+2、最大Lv.15まで。愉悦スキルのLv.+1、最大Lv.15まで。",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151102", "num": 2 },
+            { "id": "151104", "num": 2 },
+            { "id": "151120", "num": 1 }
+        ],
+        "icon": "icon/skill/1511_skill.png"
+    },
+    "151106": {
+        "id": "151106",
+        "name": "{RUBY_B#かみ}神{RUBY_E#}は{RUBY_B#い}言{RUBY_E#}った——\nキミこそ{RUBY_B#ゆえつ}愉悦{RUBY_E#}と！",
+        "rank": 6,
+        "desc": "敵ターゲットは常に、少なくとも自身の最大HP20%分の「愉悦の負債」効果を保持する。星神★アッハが初めて必殺技を発動した後、アッハの行動順が100%早まり、爆笑ネタを100獲得する。",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank6.png"
     },
     "151201": {
         "id": "151201",

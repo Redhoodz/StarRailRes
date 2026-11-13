@@ -830,11 +830,44 @@
         "name": "Mr. 레카",
         "icon": "icon/avatar/UI_Message_Contacts_MrRiker.png"
     },
+    "235": { "id": "235", "name": "나힐럭스", "icon": "icon/avatar/1511.png" },
+    "236": {
+        "id": "236",
+        "name": "낚시 애호가 협회",
+        "icon": "icon/avatar/UI_Message_Group_Default.png"
+    },
+    "237": {
+        "id": "237",
+        "name": "우주 로또",
+        "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
+    },
+    "238": {
+        "id": "238",
+        "name": "달빛 아래의 갈대",
+        "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
+    },
     "239": {
         "id": "239",
         "name": "스코트",
         "icon": "icon/avatar/UI_Message_Contacts_YoulingSikete.png"
     },
+    "240": {
+        "id": "240",
+        "name": "행운이나한테반했나봐",
+        "icon": "icon/avatar/UI_Message_Contacts_Nihilux.png"
+    },
+    "241": { "id": "241", "name": "에이언즈★★★★★아하", "icon": "icon/avatar/1511.png" },
+    "242": {
+        "id": "242",
+        "name": "AAA 에이스 만능 일꾼",
+        "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
+    },
+    "243": {
+        "id": "243",
+        "name": "AAA 에이스 심부름꾼",
+        "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
+    },
+    "244": { "id": "244", "name": "진령짱", "icon": "icon/avatar/WebIcon_Npc_98.png" },
     "1000": { "id": "1000", "name": "폼폼", "icon": "icon/avatar/UI_Message_Contacts_Pam.png" },
     "1001": { "id": "1001", "name": "Mar. 7th", "icon": "icon/avatar/1001.png" },
     "1002": { "id": "1002", "name": "단항", "icon": "icon/avatar/1002.png" },
@@ -920,6 +953,7 @@
     "1506": { "id": "1506", "name": "은랑 LV.999", "icon": "icon/avatar/1506.png" },
     "1508": { "id": "1508", "name": "토오사카 린", "icon": "icon/avatar/1508.png" },
     "1509": { "id": "1509", "name": "길가메시", "icon": "icon/avatar/1509.png" },
+    "1511": { "id": "1511", "name": "에이언즈★아하", "icon": "icon/avatar/1511.png" },
     "200001": {
         "id": "200001",
         "name": "없음",
@@ -1310,6 +1344,18 @@
         "rarity": 5,
         "icon": "icon/avatar/IconHead_200164.png"
     },
+    "200165": {
+        "id": "200165",
+        "name": "나힐럭스•퍼레이드",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200165.png"
+    },
+    "200166": {
+        "id": "200166",
+        "name": "에이언즈★아하•퍼레이드",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200166.png"
+    },
     "201001": { "id": "201001", "name": "Mar. 7th•보존", "icon": "icon/avatar/1001.png" },
     "201002": { "id": "201002", "name": "단항", "icon": "icon/avatar/1002.png" },
     "201003": { "id": "201003", "name": "히메코", "icon": "icon/avatar/1003.png" },
@@ -1396,6 +1442,7 @@
     "201508": { "id": "201508", "name": "토오사카 린", "icon": "icon/avatar/1508.png" },
     "201509": { "id": "201509", "name": "길가메시", "icon": "icon/avatar/1509.png" },
     "201510": { "id": "201510", "name": "히메코•노바", "icon": "icon/avatar/1510.png" },
+    "201511": { "id": "201511", "name": "에이언즈★아하", "icon": "icon/avatar/1511.png" },
     "201512": { "id": "201512", "name": "로빈•서머레토", "icon": "icon/avatar/1512.png" },
     "201513": { "id": "201513", "name": "어벤츄린•웨이브", "icon": "icon/avatar/1513.png" },
     "202001": {
@@ -1698,6 +1745,30 @@
         "rarity": 4,
         "icon": "icon/avatar/IconHead_202055.png"
     },
+    "202056": {
+        "id": "202056",
+        "name": "원대한 계획",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202056.png"
+    },
+    "202057": {
+        "id": "202057",
+        "name": "빛나는 만화가",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202057.png"
+    },
+    "202058": {
+        "id": "202058",
+        "name": "바람처럼 번개처럼",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202058.png"
+    },
+    "202059": {
+        "id": "202059",
+        "name": "아스트로의 약속",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202059.png"
+    },
     "202060": {
         "id": "202060",
         "name": "카스토리스•연회",
@@ -1721,6 +1792,12 @@
         "name": "히아킨•평온",
         "rarity": 5,
         "icon": "icon/avatar/IconHead_202063.png"
+    },
+    "202064": {
+        "id": "202064",
+        "name": "에이언즈★아하•황금시대",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_202064.png"
     },
     "208001": { "id": "208001", "name": "{NICKNAME}•파멸", "icon": "icon/avatar/8001.png" },
     "208002": { "id": "208002", "name": "{NICKNAME}•파멸", "icon": "icon/avatar/8002.png" },

@@ -6455,9 +6455,7 @@
         "level_up_skills": [
             { "id": "150303", "num": 2 },
             { "id": "150301", "num": 1 },
-            { "id": "150320", "num": 1 },
-            { "id": "150308", "num": 1 },
-            { "id": "150310", "num": 1 }
+            { "id": "150320", "num": 1 }
         ],
         "icon": "icon/skill/1503_ultimate.png"
     },
@@ -7022,6 +7020,80 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1510_rank6.png"
+    },
+    "151101": {
+        "id": "151101",
+        "name": "Ai Đã Bật Cười Thuở Thái Sơ Câm Lặng",
+        "rank": 1,
+        "desc": "Khi vào chiến đấu, lập tức nhận 5 điểm \"Nguyện Lực\". Khi Aeon ★ Aha trên sân, Sát Thương Vui Vẻ do toàn bộ mục tiêu phe ta gây ra tăng Hài Hước 15%.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank1.png"
+    },
+    "151102": {
+        "id": "151102",
+        "name": "Giữa Đôi Mắt Ngài Và Bạn",
+        "rank": 2,
+        "desc": "Tăng cường hiệu ứng Nâng Cấp Vận Mệnh \"Vui Vẻ\":\n#{series_ref_skill_desc:UIText_SeriesSkillDescFormat,151129,2}",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank2.png"
+    },
+    "151103": {
+        "id": "151103",
+        "name": "Lá Bài Xếp Chồng, Khiến Buồn Vui Luân Hồi",
+        "rank": 3,
+        "desc": "Cấp Tuyệt Kỹ +2, tối đa không quá cấp 15; Cấp Tấn Công Thường +1, tối đa không quá cấp 10; Cấp Kỹ Năng Vui Vẻ +1, tối đa không quá cấp 15.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151103", "num": 2 },
+            { "id": "151101", "num": 1 },
+            { "id": "151120", "num": 1 }
+        ],
+        "icon": "icon/skill/1511_ultimate.png"
+    },
+    "151104": {
+        "id": "151104",
+        "name": "Vận Mệnh Của Một Trò Đùa Trong Hộp Đen",
+        "rank": 4,
+        "desc": "Bội số Sát Thương Chuẩn do Kỹ Năng Vui Vẻ gây ra tăng 25% so với bội số ban đầu. Sát Thương Vui Vẻ do Aeon ★ Aha gây ra sẽ tính thêm 100% tổng \"Việc Tốt Đáng Thưởng\" mà đồng đội sở hữu.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank4.png"
+    },
+    "151105": {
+        "id": "151105",
+        "name": "Trước Sân Khấu Sau Hậu Trường, Là Ta Mà Chẳng Phải Ta",
+        "rank": 5,
+        "desc": "Cấp Chiến Kỹ +2, tối đa không quá cấp 15; Cấp Thiên Phú +2, tối đa không quá cấp 15; Cấp Kỹ Năng Vui Vẻ +1, tối đa không quá cấp 15.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151102", "num": 2 },
+            { "id": "151104", "num": 2 },
+            { "id": "151120", "num": 1 }
+        ],
+        "icon": "icon/skill/1511_skill.png"
+    },
+    "151106": {
+        "id": "151106",
+        "name": "Vì Thần Nói: Ngươi Chính Là Vui Vẻ",
+        "rank": 6,
+        "desc": "Mục tiêu phe địch luôn có hiệu ứng \"Nợ Vui Vẻ\" ít nhất bằng 20% Giới Hạn HP của mục tiêu đó. Sau khi Aeon ★ Aha lần đầu thi triển Tuyệt Kỹ, giúp Aha Ưu Tiên Hành Động 100% và nhận 100 Điểm Hài Hước.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank6.png"
     },
     "151201": {
         "id": "151201",

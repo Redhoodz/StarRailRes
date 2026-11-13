@@ -979,6 +979,16 @@
         "preview": "image/light_cone_preview/22008.png",
         "portrait": "image/light_cone_portrait/22008.png"
     },
+    "22009": {
+        "id": "22009",
+        "name": "在世界尽头相会吧！",
+        "rarity": 4,
+        "path": "Elation",
+        "desc": "星神的魔术落幕，奇迹的余温仍在震动寰宇。\n一如数千琥珀纪之前，「开拓」与「欢愉」再度并肩而立，也将再度分道向前。\n没有人知道未来如何，但约定却从未改变。\n「知道了，我会为寰宇播撒变数，创造未知与惊喜并存的旅途~」\n祂的身影消失在银河，笑语随风传来——\n「走完阿基维利没走的路，然后，在世界尽头相会吧！」",
+        "icon": "icon/light_cone/22009.png",
+        "preview": "image/light_cone_preview/22009.png",
+        "portrait": "image/light_cone_portrait/22009.png"
+    },
     "23000": {
         "id": "23000",
         "name": "银河铁道之夜",
@@ -1628,6 +1638,16 @@
         "icon": "icon/light_cone/23064.png",
         "preview": "image/light_cone_preview/23064.png",
         "portrait": "image/light_cone_portrait/23064.png"
+    },
+    "23065": {
+        "id": "23065",
+        "name": "当第一声「阿哈」响起",
+        "rarity": 5,
+        "path": "Elation",
+        "desc": "祂曾是舞台上最耀眼的主演。\n群星随那旋转木马昼夜轮转，祂用魔术点亮了黯淡的黄昏。\n当第一声「阿哈」响起，众生欢笑不已。\n祂曾是幕后最精彩的造梦师，以诡计拨弄银河，以幽默愚弄恶兽。\n在祂的执导下，一场场巡演在幻月下悄然开幕，为每一个愿望带来希望。\n当人们习惯坐在观众席上，等待新的感官刺激，「欢愉」似乎已然有了标准回答。\n当最后的游戏开始，幕布拉开，舞台上却只剩下一张神的面具。\n有人选择打破死寂，有人试探登台，祂扮演忠实的观众，为每个人的「阿哈时刻」喝彩——\n「阿哈并非欢愉的名字，所谓欢愉，是每个人必须自己去寻找的答案~」\n没有人注意祂是何时离开的，也没有人知道祂去了哪里。\n只是在某些生命诞生的时刻，烟花绽放的夜晚，或是某个还没亮灯的舞台侧幕——\n亿万人之中偶尔会传来一声轻笑，像是刚刚路过，又像是从未走远。",
+        "icon": "icon/light_cone/23065.png",
+        "preview": "image/light_cone_preview/23065.png",
+        "portrait": "image/light_cone_portrait/23065.png"
     },
     "24000": {
         "id": "24000",

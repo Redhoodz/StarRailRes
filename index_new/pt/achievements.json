@@ -1788,7 +1788,7 @@
         "series_id": "3",
         "title": "1 VS 2 Bilhões",
         "desc": "A virada definitiva na última hora!",
-        "hide_desc": "※ Robin aceitou o desafio, e seus adversários serão os 20 bilhões de fãs do Ratite",
+        "hide_desc": "※ Robin aceitou o desafio, e seus adversários serão os 2 bilhões de fãs do Ratite",
         "hide": false
     },
     "4035504": {
@@ -1876,6 +1876,78 @@
         "series_id": "3",
         "title": "Homo Ludens",
         "desc": "※ Recrie o mito dos oito Atores e reinicie os Jogos da Lua Fantasma",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035701": {
+        "id": "4035701",
+        "series_id": "3",
+        "title": "Oferta de Sobremesa para Oroboros",
+        "desc": "Nada mal... só não é o bastante para preencher o espaço entre os dentes",
+        "hide_desc": "※ Embarque no Congelestrelas de Aha",
+        "hide": false
+    },
+    "4035702": {
+        "id": "4035702",
+        "series_id": "3",
+        "title": "Aqueles que Pescam nas Estrelas",
+        "desc": "Me dá uma vara de pesca, que eu fisgo a Voracidade com ela",
+        "hide_desc": "※ Constrói uma vara de pesca no Congelestrelas",
+        "hide": false
+    },
+    "4035703": {
+        "id": "4035703",
+        "series_id": "3",
+        "title": "Miragem da Euforia",
+        "desc": "A vida jamais pode possuir a Felicidade. Ela só pode vislumbrá-la, tão fugaz quanto uma miragem",
+        "hide_desc": "※ Entre no \"Momento de Alegria\"",
+        "hide": false
+    },
+    "4035704": {
+        "id": "4035704",
+        "series_id": "3",
+        "title": "A Árvore e o Mar",
+        "desc": "SUA e SUA chegada ocorreu aqui uma certa vez.",
+        "hide_desc": "※ Siga Aha e testemunhe uma parada que pertence a Akivili",
+        "hide": false
+    },
+    "4035705": {
+        "id": "4035705",
+        "series_id": "3",
+        "title": "Em Hiato",
+        "desc": "Devido a uma força maior, o autor e os personagens da história estão atualmente em uma excursão...",
+        "hide_desc": "※ Volte para Planarcadia e dê adeus a todos",
+        "hide": false
+    },
+    "4035706": {
+        "id": "4035706",
+        "series_id": "3",
+        "title": "Há Tanta Solidão Nesse Ouro",
+        "desc": "Embora os vigias noturnos a tenham enchido até a borda com Euforia antiga...",
+        "hide_desc": "※ Essa já não é a lua que nossos ancestrais contemplavam",
+        "hide": false
+    },
+    "4035707": {
+        "id": "4035707",
+        "series_id": "3",
+        "title": "Aos que Riem",
+        "desc": "Conclua a \"Hora de Saltar\" em Momento de Alegria: uma apresentação como a sua merece um grande encerramento",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035708": {
+        "id": "4035708",
+        "series_id": "3",
+        "title": "Bola de Guaxinim",
+        "desc": "Ative o cupcake giratório e faça o Congelestrelas funcionar a todo vapor",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035709": {
+        "id": "4035709",
+        "series_id": "3",
+        "title": "Corrida da Cobertura!",
+        "desc": "Congelestrelas, iniciando! Velocidade máxima!",
         "hide_desc": "",
         "hide": false
     },
@@ -4900,6 +4972,142 @@
         "series_id": "4",
         "title": "A Saída 8",
         "desc": "No \"Salto Interplanar!\" no corredor do Instituto de Ciências da Vida, escolha o Teletransportador correto todas as vezes",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045701": {
+        "id": "4045701",
+        "series_id": "4",
+        "title": "Objeto Sublime da Lenda Dourada",
+        "desc": "Colete todas as cartas de recompensa de \"Coelho Estelar\"",
+        "hide_desc": "※ \"A lua brilhante adorna sua janela, enquanto você adorna os sonhos de outra pessoa...\"",
+        "hide": false
+    },
+    "4045702": {
+        "id": "4045702",
+        "series_id": "4",
+        "title": "As Crônicas da Poeirinha",
+        "desc": "Reúna um total de 220 Poeirinhas Sem Nome em Planarcadia e Astrópolis",
+        "hide_desc": "※ \"As palavras ganharam corpo.\"",
+        "hide": false
+    },
+    "4045703": {
+        "id": "4045703",
+        "series_id": "4",
+        "title": "Formação Estelar Desbloqueada",
+        "desc": "Durante a \"Hora de Saltar\" no Momento de Alegria, toque em todos os nomes nos créditos",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045704": {
+        "id": "4045704",
+        "series_id": "4",
+        "title": "Estrelas Orbitam como o Embaraço do Destino",
+        "desc": "Quer uns comprimidos para enjoo?",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045705": {
+        "id": "4045705",
+        "series_id": "4",
+        "title": "Portas do Rosto, Lâmpadas da Boca",
+        "desc": "Acenda as luzes na sala dos segredos e abra a passagem secreta",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045706": {
+        "id": "4045706",
+        "series_id": "4",
+        "title": "Oito níveis submersos",
+        "desc": "Mergulhe na área periférica do Congelestrelas e encontre um caminho até o veleiro encalhado",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045707": {
+        "id": "4045707",
+        "series_id": "4",
+        "title": "Um, Dois, Preparados? Fogo!",
+        "desc": "Salte do Congelestrelas",
+        "hide_desc": "※ O Esferoide é realmente uma invenção brilhante",
+        "hide": false
+    },
+    "4045708": {
+        "id": "4045708",
+        "series_id": "4",
+        "title": "O Bolo Não é Uma Mentira",
+        "desc": "Toque a Melodia Bizarra no Congelestrelas e encontre um \"lanche especial\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045709": {
+        "id": "4045709",
+        "series_id": "4",
+        "title": "Um Pedaço de Bolo",
+        "desc": "Complete o desafio da Grande Tesouraria dos veleiros ao redor do Congelestrelas",
+        "hide_desc": "※ Quando você contempla a Euforia, você e a Euforia riem alegremente",
+        "hide": false
+    },
+    "4045712": {
+        "id": "4045712",
+        "series_id": "4",
+        "title": "Variação de Arcádia: O Príncipe Sapo",
+        "desc": "Toque uma Melodia Bizarra e encontre a criatura misteriosa escondida no Congelestrelas",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045713": {
+        "id": "4045713",
+        "series_id": "4",
+        "title": "Variação de Arcádia: Toca do Coelho",
+        "desc": "Toque a Melodia Bizarra e encontre a criatura misteriosa escondida no Momento de Alegria",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045714": {
+        "id": "4045714",
+        "series_id": "4",
+        "title": "Um Refrão Dedicado à Imundície e à Beleza",
+        "desc": "Conclua todo o conteúdo jogável das \"Crônicas da Gordura Flutuante\" no Congelestrelas e no Momento de Alegria",
+        "hide_desc": "※ \"Meu tesouro não está dentro de um mundo de fantasia, está?\"",
+        "hide": false
+    },
+    "4045715": {
+        "id": "4045715",
+        "series_id": "4",
+        "title": "Operação de Destruição de Ídolos",
+        "desc": "Acerte várias vezes o display do Riso. Ah, que vergonha para Aha",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045716": {
+        "id": "4045716",
+        "series_id": "4",
+        "title": "Salte Até o Fim do Mundo",
+        "desc": "Conclua todos os desafios de \"Salto Interplanar!\" no Momento de Alegria",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045717": {
+        "id": "4045717",
+        "series_id": "4",
+        "title": "Variação de Arcádia: O Vento nos Salgueiros",
+        "desc": "Encontre todas as criaturas misteriosas e depois conheça a Poeirinha estranha",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045718": {
+        "id": "4045718",
+        "series_id": "4",
+        "title": "Encontre a Rainha de Copas",
+        "desc": "Selecione a carta correta no jogo de adivinhação de cartas do \"Salto Interplanar!\" do Congelestrelas",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045719": {
+        "id": "4045719",
+        "series_id": "4",
+        "title": "Não Pisque ou Vai Perder o Milagre",
+        "desc": "Selecione a carta correta no jogo superdifícil de adivinhação de cartas do \"Salto Interplanar\" do Congelestrelas!",
         "hide_desc": "",
         "hide": false
     },
@@ -10759,6 +10967,86 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055701": {
+        "id": "4055701",
+        "series_id": "5",
+        "title": "Uma Longa Dança Comigo, com Você e Eu",
+        "desc": "A verdade vira ficção quando a ficção se torna realidade. Truques de desaparecimento comuns são o ideal para Aha.",
+        "hide_desc": "※ \"Aha\" não passa de um rótulo, um simples pseudônimo. Você poderia se chamar Aha, eu poderia me chamar Aha, e eles também. Quando você remove esse pseudônimo, quem é Aha, então? A resposta aguarda... em nosso próximo truque de magia.",
+        "hide": false
+    },
+    "4055702": {
+        "id": "4055702",
+        "series_id": "5",
+        "title": "Pose Espectral",
+        "desc": "Atravesse a cortina e recupere o Tesouro",
+        "hide_desc": "※ Deixe seu retrato na galeria do Congelestrelas",
+        "hide": false
+    },
+    "4055703": {
+        "id": "4055703",
+        "series_id": "5",
+        "title": "Seleção Natural",
+        "desc": "Interaja com a válvula de poder de doces no Congelestrelas",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055704": {
+        "id": "4055704",
+        "series_id": "5",
+        "title": "Futuro Perfeito Contínuo",
+        "desc": "A gordura flutuante da Terra não passa de alimentação para a Euforia?",
+        "hide_desc": "※ \"Um amante de livros que nunca escreve só está prestando um serviço da boca para fora.\"",
+        "hide": false
+    },
+    "4055705": {
+        "id": "4055705",
+        "series_id": "5",
+        "title": "Arma de Chekhov",
+        "desc": "Se há um rifle pendurado na parede no primeiro ato...",
+        "hide_desc": "※ \"No sexto ato, ele obrigatoriamente tem que disparar.\"",
+        "hide": false
+    },
+    "4055706": {
+        "id": "4055706",
+        "series_id": "5",
+        "title": "Ruínas Nascidas da Clemência",
+        "desc": "Sparkle começou outra guerra de faíscas?",
+        "hide_desc": "※ \"Se ame, até amanhã\"",
+        "hide": false
+    },
+    "4055711": {
+        "id": "4055711",
+        "series_id": "5",
+        "title": "Lenda de QR_GOAT",
+        "desc": "Assuma a loja de sobremesas que Nihilux deixou para trás",
+        "hide_desc": "※ Dizem que os clientes começam a cantar assim que entram: \"QR_GOAT, ó, QR_GOAT! Com você por perto, a vida é doce, sem preocupação!\"",
+        "hide": false
+    },
+    "4055712": {
+        "id": "4055712",
+        "series_id": "5",
+        "title": "Quantas Poeirinhas Eu Devo Comer?",
+        "desc": "Preparou uma sobremesa especial pela primeira vez",
+        "hide_desc": "※ Prometemos que nem uma única Poeirinha foi ferida no preparo deste prato",
+        "hide": false
+    },
+    "4055713": {
+        "id": "4055713",
+        "series_id": "5",
+        "title": "Amor Fugitivo",
+        "desc": "Jogue fora uma sobremesa enquanto o Blade estiver ajudando",
+        "hide_desc": "※ Justo, quem disse que uma lata de lixo também não pode se banquetear?",
+        "hide": false
+    },
+    "4055714": {
+        "id": "4055714",
+        "series_id": "5",
+        "title": "Ganhei! Fim da Parte 1!",
+        "desc": "Conclua o Ato IV da história",
+        "hide_desc": "※ Esta é a minha rota de fuga dos prazos ^^!",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -13748,6 +14036,62 @@
         "series_id": "7",
         "title": "Splashtoon",
         "desc": "Pearl utiliza \"Pincelada: Imagenação da Noite Estrelada\" ou \"Pincelada: Criação da Grande Onda\" para derrotar um Pavão da Tela que esteja no estado de \"Colorido\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075701": {
+        "id": "4075701",
+        "series_id": "7",
+        "title": "Não Tóxico, Inofensivo, Não Ingerir",
+        "desc": "Na batalha contra o \"Protoplasma da Habitante das Profundezas\", nenhum aliado é afetado por \"Paralisia\" depois que o \"Protoplasma da Habitante das Profundezas\" usa \"Comunhão Primordial\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075702": {
+        "id": "4075702",
+        "series_id": "7",
+        "title": "Poder da Elsa_de_QRoz, Oito Poderes Divinos",
+        "desc": "Depois que Aeon ★ Aha usar sua Perícia Suprema, obtenha pelo menos 8 de \"Imaginouro\" antes que o estado de \"Faces da Euforia\" termine",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075703": {
+        "id": "4075703",
+        "series_id": "7",
+        "title": "Três Mandamentos Divinos",
+        "desc": "Em um único combate, faça com que 3 personagens aliados além de Aeon ★ Aha se tornem \"Emanadores\" e cada um conceda 1 de Imaginouro a Aeon ★ Aha por meio do efeito no início do turno",
+        "hide_desc": "※ Os comandos dela são praticamente mandamentos, não são?",
+        "hide": false
+    },
+    "4075704": {
+        "id": "4075704",
+        "series_id": "7",
+        "title": "Aha Nunca se Importou em Reencarnar em Outro Mundo",
+        "desc": "Confundido com uma lombada ao ativar a animação ociosa do Aeon ★ Aha no mapa",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075705": {
+        "id": "4075705",
+        "series_id": "7",
+        "title": "Um Truque de Fuga Perfeito",
+        "desc": "Na batalha contra a primeira face do \"Crânio Divino da Indulgência\", quando as quatro \"Mãos Gigantes do Destino\" aparecerem, derrote apenas uma mão para resgatar o personagem capturado",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075706": {
+        "id": "4075706",
+        "series_id": "7",
+        "title": "Puxe o Gatilho Pela Dama da Sorte",
+        "desc": "Na batalha contra a segunda face do \"Crânio Divino da Indulgência\", dispare continuamente e acerte o quarto disparo",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075707": {
+        "id": "4075707",
+        "series_id": "7",
+        "title": "Prova de Legitimidade do Sorriso",
+        "desc": "Derrote a \"Loucura do 'Embrião da Filosofia'\" enquanto estiver com a vantagem de \"Piada\"",
         "hide_desc": "",
         "hide": false
     },

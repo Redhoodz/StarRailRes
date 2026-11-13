@@ -741,5 +741,27 @@
             []
         ],
         "icon": "icon/relic/328.png"
+    },
+    "329": {
+        "id": "329",
+        "name": "神的瞬息歡愉",
+        "desc": ["使裝備者的速度提高6%。當裝備者的歡愉度大於40%時，進入戰鬥時立刻使行動提前40%。"],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ]
+        ],
+        "icon": "icon/relic/329.png"
+    },
+    "330": {
+        "id": "330",
+        "name": "亞空異容所",
+        "desc": ["使裝備者的速度提高6%，當裝備者的速度大於145時，進入戰鬥後使我方全體擊破特攻提高18%，該效果無法疊加。"],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ]
+        ],
+        "icon": "icon/relic/330.png"
     }
 }

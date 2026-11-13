@@ -5303,6 +5303,12 @@
         "desc": "Himeko • Nova's DMG is amplified in the Divergent Universe.\nEach time she uses her Assist Skill, increases her own final DMG dealt by 3%. Stacks up to 10 time(s).",
         "enhanced_desc": ""
     },
+    "661511": {
+        "id": "661511",
+        "name": "Aeon ★ Aha",
+        "desc": "Aeon ★ Aha's DMG receives Amplification in the Divergent Universe.\nWhile on the field, increases the Elation of ally targets by 24%.",
+        "enhanced_desc": ""
+    },
     "661512": {
         "id": "661512",
         "name": "Robin • Summeretto",

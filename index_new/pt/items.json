@@ -183,18 +183,27 @@
         "id": "61",
         "name": "Cupom de Colecionáveis",
         "type": "Virtual",
-        "sub_type": "Virtual",
+        "sub_type": "Fiat",
         "rarity": 5,
         "icon": "icon/item/61.png",
-        "come_from": ["Obtido na loja de Itens de Moda"]
+        "come_from": []
     },
     "62": {
         "id": "62",
         "name": "Token de Colecionáveis",
         "type": "Virtual",
-        "sub_type": "Virtual",
+        "sub_type": "Fiat",
         "rarity": 5,
         "icon": "icon/item/62.png",
+        "come_from": []
+    },
+    "71": {
+        "id": "71",
+        "name": "Convite da Moda",
+        "type": "Virtual",
+        "sub_type": "Fiat",
+        "rarity": 5,
+        "icon": "icon/item/71.png",
         "come_from": []
     },
     "101": {
@@ -617,6 +626,33 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/821.png",
+        "come_from": []
+    },
+    "822": {
+        "id": "822",
+        "name": "Presente de Asat Pramad",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/822.png",
+        "come_from": []
+    },
+    "823": {
+        "id": "823",
+        "name": "Sinalizador de Isee",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/823.png",
+        "come_from": []
+    },
+    "824": {
+        "id": "824",
+        "name": "\"Assim Posso Te Segurar Na Palma Da Mão\"",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/824.png",
         "come_from": []
     },
     "11001": {
@@ -1390,6 +1426,15 @@
     "11510": {
         "id": "11510",
         "name": "Eidolon de Himeko - Nova",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11511": {
+        "id": "11511",
+        "name": "Eidolon de Aeon ★ Aha",
         "type": "Material",
         "sub_type": "Eidolon",
         "rarity": 5,
@@ -4125,6 +4170,84 @@
             "Sintetizador Omni — Síntese de Relíquia"
         ]
     },
+    "83291": {
+        "id": "83291",
+        "name": "Euforia Efêmera da Divindade",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71062.png",
+        "come_from": []
+    },
+    "83292": {
+        "id": "83292",
+        "name": "Euforia Efêmera da Divindade",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71062.png",
+        "come_from": []
+    },
+    "83293": {
+        "id": "83293",
+        "name": "Euforia Efêmera da Divindade",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71062.png",
+        "come_from": []
+    },
+    "83294": {
+        "id": "83294",
+        "name": "Euforia Efêmera da Divindade",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71062.png",
+        "come_from": [
+            "Universo Divergente: Extração de Ornamentos Planos",
+            "Sintetizador Omni — Síntese de Relíquia"
+        ]
+    },
+    "83301": {
+        "id": "83301",
+        "name": "Asilo Subespacial",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71063.png",
+        "come_from": []
+    },
+    "83302": {
+        "id": "83302",
+        "name": "Asilo Subespacial",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71063.png",
+        "come_from": []
+    },
+    "83303": {
+        "id": "83303",
+        "name": "Asilo Subespacial",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71063.png",
+        "come_from": []
+    },
+    "83304": {
+        "id": "83304",
+        "name": "Asilo Subespacial",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71063.png",
+        "come_from": [
+            "Universo Divergente: Extração de Ornamentos Planos",
+            "Sintetizador Omni — Síntese de Relíquia"
+        ]
+    },
     "89001": {
         "id": "89001",
         "name": "Ornamentos Planos",
@@ -5381,6 +5504,15 @@
         "icon": "icon/item/110509.png",
         "come_from": ["Eco da Guerra: Fortaleza Demoníaca da Mandíbula Desoladora"]
     },
+    "110510": {
+        "id": "110510",
+        "name": "Dente de Leite Faminto",
+        "type": "Material",
+        "sub_type": "WeeklyMonsterDrop",
+        "rarity": 4,
+        "icon": "icon/item/110510.png",
+        "come_from": ["Eco da Guerra: Congelestrelas"]
+    },
     "110610": {
         "id": "110610",
         "name": "Lágrimas dos Trilhos",
@@ -6113,7 +6245,7 @@
         "type": "Material",
         "sub_type": "Material",
         "rarity": 5,
-        "icon": "icon/item/295537.png",
+        "icon": "icon/item/295538.png",
         "come_from": []
     },
     "123000": {
@@ -6142,6 +6274,42 @@
         "rarity": 3,
         "icon": "icon/item/123000.png",
         "come_from": ["Obtido no evento Exploração de Relíquias"]
+    },
+    "123003": {
+        "id": "123003",
+        "name": "Cartão de Acesso",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/123000.png",
+        "come_from": []
+    },
+    "131204": {
+        "id": "131204",
+        "name": "Eidolon do Destino de Jing Yuan",
+        "type": "Material",
+        "sub_type": "AvatarExRankMaterial",
+        "rarity": 5,
+        "icon": "icon/item/131204.png",
+        "come_from": []
+    },
+    "131213": {
+        "id": "131213",
+        "name": "Eidolon do Destino de Dan Heng - Embebidor Lunae",
+        "type": "Material",
+        "sub_type": "AvatarExRankMaterial",
+        "rarity": 5,
+        "icon": "icon/item/131213.png",
+        "come_from": []
+    },
+    "131308": {
+        "id": "131308",
+        "name": "Eidolon do Destino de Acheron",
+        "type": "Material",
+        "sub_type": "AvatarExRankMaterial",
+        "rarity": 5,
+        "icon": "icon/item/131308.png",
+        "come_from": []
     },
     "140000": {
         "id": "140000",
@@ -11084,6 +11252,15 @@
         "icon": "icon/item/140634.png",
         "come_from": []
     },
+    "140637": {
+        "id": "140637",
+        "name": "Verdadeiro Rosto do Desbravamentomon",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140637.png",
+        "come_from": []
+    },
     "149957": {
         "id": "149957",
         "name": "Foto com a 7 de Março",
@@ -12243,6 +12420,15 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "150103": {
+        "id": "150103",
+        "name": "Mágica do Destino",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/150103.png",
         "come_from": []
     },
     "180001": {
@@ -22853,6 +23039,213 @@
         "icon": "icon/item/190021.png",
         "come_from": []
     },
+    "192196": {
+        "id": "192196",
+        "name": "Carta de Recrutamento de Atores Enlutados",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192197": {
+        "id": "192197",
+        "name": "! Taverna Semanal, Edição 1 !",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192198": {
+        "id": "192198",
+        "name": "Relatório de Reconstrução da Gôndola",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192199": {
+        "id": "192199",
+        "name": "Fábula da Lua",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192200": {
+        "id": "192200",
+        "name": "Carta para Roan",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192201": {
+        "id": "192201",
+        "name": "Carta de Recomendação da Academia Dobradura",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192202": {
+        "id": "192202",
+        "name": "Inventário do Espólio da Elsa_de_QRoz",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192203": {
+        "id": "192203",
+        "name": "Crônicas da Gordura Flutuante: Capítulo da Raposa (XVI)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192204": {
+        "id": "192204",
+        "name": "Crônicas da Gordura Flutuante: Capítulo do Coelho (IX)",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192205": {
+        "id": "192205",
+        "name": "Depois do Riso, Vamos Partir Mais Uma Vez",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192206": {
+        "id": "192206",
+        "name": "Nihilux: Abertura Errante",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192207": {
+        "id": "192207",
+        "name": "Pérola Estilhaçada como Sinal!",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192208": {
+        "id": "192208",
+        "name": "Pássaro Voador Contempla a Fera",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192209": {
+        "id": "192209",
+        "name": "Operação: Sparxinha Superfofa!",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192210": {
+        "id": "192210",
+        "name": "Cardápio de Bebidas Desbotado",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192211": {
+        "id": "192211",
+        "name": "Correndo nas Costas do Dragão de Prata",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192212": {
+        "id": "192212",
+        "name": "A Mão do Lobo",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192213": {
+        "id": "192213",
+        "name": "Aguardando a Caça",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192214": {
+        "id": "192214",
+        "name": "Flecha Divina Perfuradora das Nuvens",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192215": {
+        "id": "192215",
+        "name": "Herói da Extinção",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192216": {
+        "id": "192216",
+        "name": "Outro Florescimento",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192217": {
+        "id": "192217",
+        "name": "O último caso do Detetive Cinzento",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192218": {
+        "id": "192218",
+        "name": "Registro do Congelestrelas",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
     "210001": {
         "id": "210001",
         "name": "Dawn of Disaster",
@@ -25220,6 +25613,123 @@
         "icon": "icon/item/210001.png",
         "come_from": []
     },
+    "210514": {
+        "id": "210514",
+        "name": "\"Dance Till the World Rouses\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210515": {
+        "id": "210515",
+        "name": "\"Ship of Fools\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210516": {
+        "id": "210516",
+        "name": "\"Thief's Waltz\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210517": {
+        "id": "210517",
+        "name": "\"Fool's Dance\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210518": {
+        "id": "210518",
+        "name": "\"Phantasmoon Reverie\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210519": {
+        "id": "210519",
+        "name": "\"Candy House\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210520": {
+        "id": "210520",
+        "name": "\"Pre-Dinner Etiquette\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210521": {
+        "id": "210521",
+        "name": "\"Into the Trap You Go\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210522": {
+        "id": "210522",
+        "name": "\"Arcadia Lost\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210523": {
+        "id": "210523",
+        "name": "\"Arrival\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210524": {
+        "id": "210524",
+        "name": "Ex Nihilo",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210525": {
+        "id": "210525",
+        "name": "\"Masquerade\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210526": {
+        "id": "210526",
+        "name": "\"All Silent as Enigmas\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
     "215001": {
         "id": "215001",
         "name": "Pitter-Patter",
@@ -25408,6 +25918,24 @@
         "rarity": 4,
         "icon": "icon/item/220012.png",
         "come_from": ["Caixa de Bate-Papo obtida do evento \"Combate dos Aviões Pixelados\""]
+    },
+    "220013": {
+        "id": "220013",
+        "name": "Mestre Cuca",
+        "type": "Usable",
+        "sub_type": "ChatBubble",
+        "rarity": 4,
+        "icon": "icon/item/220013.png",
+        "come_from": ["Caixa de Bate-Papo obtida no evento \"Fofurinha: O Filme — Confusão na Cozinha\""]
+    },
+    "220014": {
+        "id": "220014",
+        "name": "Loteria Cósmica",
+        "type": "Usable",
+        "sub_type": "ChatBubble",
+        "rarity": 4,
+        "icon": "icon/item/220014.png",
+        "come_from": ["Disponível no evento Palco Fantástico"]
     },
     "221000": {
         "id": "221000",
@@ -28085,6 +28613,51 @@
         "rarity": 4,
         "icon": "icon/item/227017.png",
         "come_from": ["Moda do Desbravamento obtida no evento \"Amor, Fantasmas e Robôs\""]
+    },
+    "227018": {
+        "id": "227018",
+        "name": "Anjo Aprendiz",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227018.png",
+        "come_from": ["Disponível na loja Presente da Poeira Estelar"]
+    },
+    "227019": {
+        "id": "227019",
+        "name": "Criando Confusão",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227019.png",
+        "come_from": ["Disponível na loja Presente da Poeira Estelar"]
+    },
+    "227020": {
+        "id": "227020",
+        "name": "Ferrovia Estelar da Lua Fantasma",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227020.png",
+        "come_from": ["Disponível no evento Palco Fantástico"]
+    },
+    "227021": {
+        "id": "227021",
+        "name": "Agente da Euforia",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227021.png",
+        "come_from": []
+    },
+    "227022": {
+        "id": "227022",
+        "name": "Estilo Amarelo e Roxo",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": null,
+        "come_from": ["Obtido no evento \"Confira Sua Entrega\""]
     },
     "229001": {
         "id": "229001",
@@ -32100,6 +32673,24 @@
         "icon": "icon/item/253005.png",
         "come_from": ["Disponível na loja Presente da Poeira Estelar"]
     },
+    "253006": {
+        "id": "253006",
+        "name": "Hora da Festa",
+        "type": "Usable",
+        "sub_type": "PersonalCard",
+        "rarity": 4,
+        "icon": "icon/item/253006.png",
+        "come_from": ["Disponível no evento Palco Fantástico"]
+    },
+    "253007": {
+        "id": "253007",
+        "name": "Frequência de Astrópolis",
+        "type": "Usable",
+        "sub_type": "PersonalCard",
+        "rarity": 4,
+        "icon": "icon/item/253007.png",
+        "come_from": ["Disponível na loja Presente da Poeira Estelar"]
+    },
     "254000": {
         "id": "254000",
         "name": "Livre Arbítrio de {NICKNAME}",
@@ -34182,11 +34773,11 @@
     },
     "281032": {
         "id": "281032",
-        "name": "Nota Equivalente",
+        "name": "Orbe Fantasmagórico",
         "type": "Virtual",
         "sub_type": "Virtual",
         "rarity": 3,
-        "icon": "icon/item/281032.png",
+        "icon": "icon/item/281032_S2.png",
         "come_from": []
     },
     "281033": {
@@ -34259,6 +34850,24 @@
         "sub_type": "Virtual",
         "rarity": 3,
         "icon": "icon/item/281040.png",
+        "come_from": []
+    },
+    "281041": {
+        "id": "281041",
+        "name": "Moedix (Desenhada por Elsa_de_QRoz)",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/281036.png",
+        "come_from": []
+    },
+    "281042": {
+        "id": "281042",
+        "name": "Ponto de Ascensão",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/281033.png",
         "come_from": []
     },
     "300002": {
@@ -34628,6 +35237,15 @@
         "sub_type": "ForceOpitonalGift",
         "rarity": 5,
         "icon": "icon/item/309012.png",
+        "come_from": []
+    },
+    "309013": {
+        "id": "309013",
+        "name": "Caixa de Presente de Eidolon do Destino à Escolha",
+        "type": "Usable",
+        "sub_type": "ForceOpitonalGift",
+        "rarity": 5,
+        "icon": "icon/item/309013.png",
         "come_from": []
     },
     "310001": {

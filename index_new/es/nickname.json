@@ -86,6 +86,7 @@
         "1508": ["Rin Tohsaka"],
         "1509": ["Gilgamesh"],
         "1510": ["Himeko Nova"],
+        "1511": ["Eón ★ Aha"],
         "1512": ["Robin Estival"],
         "1513": ["Aventurino Oleaje"],
         "8001": ["{NICKNAME}"],
@@ -198,6 +199,7 @@
         "22006": ["Volando hacia un mañana rosado"],
         "22007": ["Juntos hacia el futuro"],
         "22008": ["Hacia el final del horizonte"],
+        "22009": ["¡Nos vemos en El Fin del Mundo!"],
         "23000": ["Noche en la Vía Láctea"],
         "23001": ["En la noche"],
         "23002": ["Algo insustituible"],
@@ -263,6 +265,7 @@
         "23062": ["Soy lo que ves"],
         "23063": ["Levántate y canta"],
         "23064": ["Verano entre olas"],
+        "23065": ["Al primer eco de Aha"],
         "24000": ["Sobre la caída de un Eón"],
         "24001": ["Crucero estelar"],
         "24002": ["La textura de los recuerdos"],
@@ -333,6 +336,8 @@
         "325": ["Etapa cero de Punklorde"],
         "326": ["Ciudad de las mil estrellas"],
         "327": ["Punto de partida de la estrella caída"],
-        "328": ["Instituto de Ciencias de la Vida Cósmica"]
+        "328": ["Instituto de Ciencias de la Vida Cósmica"],
+        "329": ["Alegría efímera divina"],
+        "330": ["Centro de Anomalías Subespacial"]
     }
 }

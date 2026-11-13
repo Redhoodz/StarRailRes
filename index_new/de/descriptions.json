@@ -1552,7 +1552,7 @@
     "10415": {
         "id": "10415",
         "title": "Pearl",
-        "desc": "Eine leitende Angestellte der Abteilung für strategische Investitionen der IFK und eines der Zehn Steinherzen. Ihr Kernstein ist die Glühende Perle.\nDie derzeitige CEO von Planarcadia ist besessen von der Erforschung des Wesens der Kunst."
+        "desc": "Eine leitende Angestellte der Abteilung für strategische Investitionen der IFK und eines der Zehn Steinherzen. Ihr Kernstein ist die Perle der Begutachtung.\nDie derzeitige CEO von Planarcadia ist besessen von der Erforschung des Wesens der Kunst."
     },
     "10416": {
         "id": "10416",
@@ -1692,7 +1692,7 @@
     "10443": {
         "id": "10443",
         "title": "Leuchtturm",
-        "desc": "Ein massenproduzierter Superheld aus Astropolis, der für die Sicherheit der gesamten Stadt verantwortlich ist.\nSeine wahre Identität ist der Herold des Todes Marcus Antali, dessen Erinnerungen gelöscht wurden."
+        "desc": "Ein massenproduzierter Superheld aus Astropolis, der für die Sicherheit der gesamten Stadt verantwortlich ist.\nEr tauchte vor fünf Jahren wie aus dem Nichts auf und erfreut sich bei den Einwohnern von Astropolis großer Beliebtheit."
     },
     "10444": {
         "id": "10444",
@@ -1703,6 +1703,16 @@
         "id": "10445",
         "title": "Stellaron-Jäger",
         "desc": "Eine Organisation, die auf der Jagd nach Stellarons zwischen den Welten reist.\nFür ein bestimmtes Ziel bewegt sie sich auf dem Pfad der „Endgültigkeit“ stromaufwärts."
+    },
+    "10446": {
+        "id": "10446",
+        "title": "Nihilux",
+        "desc": "Die ehemalige Verlagsleiterin des Klatschmagazins „Furbobo-Wochenblatt“, Autorin von „Flauschis himmlische Reise“ unter dem Künstlernamen Blurry_QR_Colt und die einst gefeierte Lottogöttin von Astropolis Beatrice Mellanine ... Natürlich passen so viele Titel nicht in einen Raum. Aha hat nun mal am meisten Ruf von allen."
+    },
+    "10447": {
+        "id": "10447",
+        "title": "Starfroster",
+        "desc": "Das Tournee-Schiff der Truppe der Trauernden Mimen. Um an kosmischen Kriegen unter Göttern teilzunehmen, wurde es schon oft von Aha ausgeliehen.\nDoch alle, die je einen Fuß in dieses Schiff gesetzt haben, sind der Meinung, dass dieses Schiff Dessertschiff genannt werden sollte."
     },
     "20000": {
         "id": "20000",

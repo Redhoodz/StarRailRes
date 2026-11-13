@@ -1692,7 +1692,7 @@
     "10443": {
         "id": "10443",
         "title": "Farol",
-        "desc": "Um super-herói produzido em massa em Astrópolis, responsável por manter a segurança em toda a cidade.\nSua verdadeira identidade é Marcus Antali, o Arauto da Morte que perdeu suas memórias."
+        "desc": "Um super-herói produzido em massa em Astrópolis, responsável por manter a segurança em toda a cidade.\nEle surgiu em cena há cinco anos e é muito amado pelos moradores de Astrópolis."
     },
     "10444": {
         "id": "10444",
@@ -1703,6 +1703,16 @@
         "id": "10445",
         "title": "Caçadores de Stellaron",
         "desc": "Uma organização que viaja entre os mundos caçando Stellarons.\nPor um certo propósito, eles navegam contra a corrente no Caminho da Finalidade."
+    },
+    "10446": {
+        "id": "10446",
+        "title": "Nihilux",
+        "desc": "Ex-presidente da revista de fofocas \"Pelolôncio Semanal\", autora de \"Fofurinha Através do Azul\" sob o pseudônimo Elsa_de_QRoz e outrora célebre Deusa da Loteria de Astrópolis, Beatrice Mellanine... É claro que não há espaço nesta sala para todos esses títulos. Chamar de Aha é o que dá mais prestígio."
+    },
+    "10447": {
+        "id": "10447",
+        "title": "Congelestrelas",
+        "desc": "A nave de turnê dos Atores Enlutados. Ao longo da história, Aha a tomou emprestada várias vezes, sempre para participar de alguma grande batalha cósmica.\nDito isso, todo mundo que já pôs os pés nela vai dizer a mesma coisa: essa nave deveria mesmo se chamar Cosmonéctare."
     },
     "20000": {
         "id": "20000",

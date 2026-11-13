@@ -86,6 +86,7 @@
         "1508": ["Rin Tohsaka"],
         "1509": ["Gilgamesh"],
         "1510": ["Himeko – Nova"],
+        "1511": ["Äonin ★ Aha"],
         "1512": ["Robin – Summeretto"],
         "1513": ["Aventurin – Wellenflair"],
         "8001": ["{NICKNAME}"],
@@ -198,6 +199,7 @@
         "22006": ["Flug in einen rosaroten Morgen"],
         "22007": ["Gemeinsam in die Zukunft"],
         "22008": ["Wettrennen zum Horizont"],
+        "22009": ["Wir sehen uns am Ende der Welt!"],
         "23000": ["Nacht auf der Milchstraße"],
         "23001": ["In der Nacht"],
         "23002": ["Etwas Unersetzliches"],
@@ -263,6 +265,7 @@
         "23062": ["Ich bin, wie du mich siehst"],
         "23063": ["Steh auf und sing"],
         "23064": ["Hochsommer auf den Wellen"],
+        "23065": ["Beim ersten Echo von Aha"],
         "24000": ["Der Niedergang eines Äons"],
         "24001": ["Fahrt durch das Sternenmeer"],
         "24002": ["Textur der Erinnerungen"],
@@ -333,6 +336,8 @@
         "325": ["Etappe Nr. Null von Punklorde"],
         "326": ["Stadt der unzähligen Sterne"],
         "327": ["Ankerplatz des gefallenen Sterns"],
-        "328": ["Institut für kosmische Biowissenschaften"]
+        "328": ["Institut für kosmische Biowissenschaften"],
+        "329": ["Gottes Moment der Freude"],
+        "330": ["AVZ des Subraums"]
     }
 }

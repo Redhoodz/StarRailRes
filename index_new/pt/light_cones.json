@@ -979,6 +979,16 @@
         "preview": "image/light_cone_preview/22008.png",
         "portrait": "image/light_cone_portrait/22008.png"
     },
+    "22009": {
+        "id": "22009",
+        "name": "Te Vejo no Fim do Mundo!",
+        "rarity": 4,
+        "path": "Elation",
+        "desc": "O show de magia do Aeon chega ao fim, mas o calor persistente do milagre ainda reverbera pelo universo.\nAssim como milhares de Eras de Âmbar atrás, o Desbravamento e a Euforia estão lado a lado mais uma vez, e SEU caminho se separará para seguir em frente mais uma vez.\nNinguém sabe o que o futuro reserva, mas a promessa permanece inalterada.\n\"Entendido! Eu vou espalhar variáveis pelo universo, criando uma jornada onde o desconhecido e as surpresas andam de mãos dadas!\"\nA SUA silhueta desaparece no cosmos, a SUA risada flutuando ao vento:\n\"Percorra o caminho que Akivili nunca terminou e, então, a gente se vê no Fim do Mundo!\"",
+        "icon": "icon/light_cone/22009.png",
+        "preview": "image/light_cone_preview/22009.png",
+        "portrait": "image/light_cone_portrait/22009.png"
+    },
     "23000": {
         "id": "23000",
         "name": "Noite na Via Láctea",
@@ -1628,6 +1638,16 @@
         "icon": "icon/light_cone/23064.png",
         "preview": "image/light_cone_preview/23064.png",
         "portrait": "image/light_cone_portrait/23064.png"
+    },
+    "23065": {
+        "id": "23065",
+        "name": "Sobre o Primeiro Eco de \"Aha\"",
+        "rarity": 5,
+        "path": "Elation",
+        "desc": "Essa figura já foi a protagonista mais deslumbrante do palco.\nAs estrelas se alternavam entre o dia e a noite naquele carrossel, e essa figura usava mágica para iluminar o crepúsculo sombrio.\nAo primeiro eco de Aha, e então sorriram as massas.\nEssa figura já foi a mais brilhante artífice de sonhos nos bastidores, manipulando o cosmos com truques e enganando bestas ferozes com humor.\nSob sua orientação, espetáculos itinerantes erguiam silenciosamente suas cortinas sob a Lua Fantasma, trazendo esperança a cada desejo.\nQuando as pessoas se acostumaram a ficar sentadas na plateia, esperando por novos estímulos sensoriais, a Euforia parecia já ter encontrado sua resposta padrão.\nQuando o jogo final começou e as cortinas se abriram, apenas a máscara de uma divindade permaneceu no palco.\nAlguns escolheram quebrar o silêncio mortal, alguns tentaram subir ao palco, enquanto a divindade desempenhava o papel da plateia fiel, aplaudindo o Instante Aha de todos...\n\"Aha não é o nome da Euforia. A chamada Euforia é uma resposta que cada um precisa encontrar por si mesmo!\"\nNinguém percebeu quando a divindade partiu, nem ninguém soube para onde foi.\nApenas naqueles momentos em que certas vidas vêm ao mundo, em noites em que os fogos de artifício florescem, ou nos lados não iluminados de um determinado palco...\nUma risadinha ocasional ecoava em meio aos bilhões, como se o Aeon estivesse apenas de passagem, ou talvez nunca tivesse partido.",
+        "icon": "icon/light_cone/23065.png",
+        "preview": "image/light_cone_preview/23065.png",
+        "portrait": "image/light_cone_portrait/23065.png"
     },
     "24000": {
         "id": "24000",

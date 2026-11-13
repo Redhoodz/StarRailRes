@@ -986,11 +986,44 @@
         "name": "Господин Река",
         "icon": "icon/avatar/UI_Message_Contacts_MrRiker.png"
     },
+    "235": { "id": "235", "name": "Нигилюкса", "icon": "icon/avatar/1511.png" },
+    "236": {
+        "id": "236",
+        "name": "Общество любителей рыбалки",
+        "icon": "icon/avatar/UI_Message_Group_Default.png"
+    },
+    "237": {
+        "id": "237",
+        "name": "Вселенская лотерея",
+        "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
+    },
+    "238": {
+        "id": "238",
+        "name": "Тростник под луной",
+        "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
+    },
     "239": {
         "id": "239",
         "name": "Скотт",
         "icon": "icon/avatar/UI_Message_Contacts_YoulingSikete.png"
     },
+    "240": {
+        "id": "240",
+        "name": "Удача_без_ума_от_меня",
+        "icon": "icon/avatar/UI_Message_Contacts_Nihilux.png"
+    },
+    "241": { "id": "241", "name": "Эон ★★★★★ Аха", "icon": "icon/avatar/1511.png" },
+    "242": {
+        "id": "242",
+        "name": "AAA мастер на все руки",
+        "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
+    },
+    "243": {
+        "id": "243",
+        "name": "AAA АХАстер на все руки",
+        "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
+    },
+    "244": { "id": "244", "name": "Эфемермер", "icon": "icon/avatar/WebIcon_Npc_98.png" },
     "1000": {
         "id": "1000",
         "name": "Пом-Пом",
@@ -1080,6 +1113,7 @@
     "1506": { "id": "1506", "name": "Серебряный Волк ур. 999", "icon": "icon/avatar/1506.png" },
     "1508": { "id": "1508", "name": "Рин Тосака", "icon": "icon/avatar/1508.png" },
     "1509": { "id": "1509", "name": "Гильгамеш", "icon": "icon/avatar/1509.png" },
+    "1511": { "id": "1511", "name": "Эон ★ Аха", "icon": "icon/avatar/1511.png" },
     "200001": {
         "id": "200001",
         "name": "Нет",
@@ -1470,6 +1504,18 @@
         "rarity": 5,
         "icon": "icon/avatar/IconHead_200164.png"
     },
+    "200165": {
+        "id": "200165",
+        "name": "Нигилюкса: Парад",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200165.png"
+    },
+    "200166": {
+        "id": "200166",
+        "name": "Эон ★ Аха: Парад",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200166.png"
+    },
     "201001": { "id": "201001", "name": "Март 7 (Сохранение)", "icon": "icon/avatar/1001.png" },
     "201002": { "id": "201002", "name": "Дань Хэн", "icon": "icon/avatar/1002.png" },
     "201003": { "id": "201003", "name": "Химеко", "icon": "icon/avatar/1003.png" },
@@ -1568,6 +1614,7 @@
     "201508": { "id": "201508", "name": "Рин Тосака", "icon": "icon/avatar/1508.png" },
     "201509": { "id": "201509", "name": "Гильгамеш", "icon": "icon/avatar/1509.png" },
     "201510": { "id": "201510", "name": "Химеко: Нова", "icon": "icon/avatar/1510.png" },
+    "201511": { "id": "201511", "name": "Эон ★ Аха", "icon": "icon/avatar/1511.png" },
     "201512": { "id": "201512", "name": "Зарянка: Яснопея", "icon": "icon/avatar/1512.png" },
     "201513": { "id": "201513", "name": "Авантюрин: Прибой", "icon": "icon/avatar/1513.png" },
     "202001": {
@@ -1870,6 +1917,30 @@
         "rarity": 4,
         "icon": "icon/avatar/IconHead_202055.png"
     },
+    "202056": {
+        "id": "202056",
+        "name": "Грандиозные планы",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202056.png"
+    },
+    "202057": {
+        "id": "202057",
+        "name": "Сияющая комиксистка",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202057.png"
+    },
+    "202058": {
+        "id": "202058",
+        "name": "Молниеносность",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202058.png"
+    },
+    "202059": {
+        "id": "202059",
+        "name": "Обещание тысячи звёзд",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202059.png"
+    },
     "202060": {
         "id": "202060",
         "name": "Кастория: Вечеринка",
@@ -1893,6 +1964,12 @@
         "name": "Гиацина: Беззаботность",
         "rarity": 5,
         "icon": "icon/avatar/IconHead_202063.png"
+    },
+    "202064": {
+        "id": "202064",
+        "name": "Эон ★ Аха: Золотой век",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_202064.png"
     },
     "208001": {
         "id": "208001",

@@ -5303,6 +5303,12 @@
         "desc": "El daño de Himeko Nova se amplifica en el Universo Diferenciado.\nCada vez que lanza la habilidad de apoyo, el daño final que inflige aumenta en un 3%. Este efecto se puede acumular hasta 10 veces.",
         "enhanced_desc": ""
     },
+    "661511": {
+        "id": "661511",
+        "name": "Eón ★ Aha",
+        "desc": "El daño del Eón ★ Aha se amplifica en el Universo Diferenciado.\nMientras está en el campo de batalla, la Exultación de los aliados aumenta en un 24%.",
+        "enhanced_desc": ""
+    },
     "661512": {
         "id": "661512",
         "name": "Robin Estival",

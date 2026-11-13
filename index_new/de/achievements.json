@@ -1879,6 +1879,78 @@
         "hide_desc": "",
         "hide": false
     },
+    "4035701": {
+        "id": "4035701",
+        "series_id": "3",
+        "title": "Dessert für Oroboros",
+        "desc": "Schmeckt gut ... Reicht nur nicht einmal für den hohlen Zahn.",
+        "hide_desc": "※ Betritt Ahas Starfroster.",
+        "hide": false
+    },
+    "4035702": {
+        "id": "4035702",
+        "series_id": "3",
+        "title": "Nach den Sternen angelndes Etwas",
+        "desc": "Gib mir eine Angelrute und ich kann damit die Gier fangen.",
+        "hide_desc": "※ Stelle eine Angelrute auf der Starfroster auf.",
+        "hide": false
+    },
+    "4035703": {
+        "id": "4035703",
+        "series_id": "3",
+        "title": "Phantasmagorie des Hochgefühls",
+        "desc": "Im Leben kann man nie Glück haben, man kann nur einen flüchtigen Blick darauf haben, wie bei einer Phantasmagorie.",
+        "hide_desc": "※ Betritt „Moment der Freude“.",
+        "hide": false
+    },
+    "4035704": {
+        "id": "4035704",
+        "series_id": "3",
+        "title": "Baum und Meer",
+        "desc": "Sie waren einst hier.",
+        "hide_desc": "※ Folge Aha und werde Zeuge einer Haltestelle Akivilis.",
+        "hide": false
+    },
+    "4035705": {
+        "id": "4035705",
+        "series_id": "3",
+        "title": "Vorübergehend ausgesetzt",
+        "desc": "Aufgrund höherer Gewalt sind die Autorin und die Figuren der Geschichte derzeit auf Feldforschung ...",
+        "hide_desc": "※ Kehre nach Planarcadia zurück, um dich von allen zu verabschieden.",
+        "hide": false
+    },
+    "4035706": {
+        "id": "4035706",
+        "series_id": "3",
+        "title": "So viel Einsamkeit in jenem Stück Gold",
+        "desc": "Obwohl die Nachtwache sie bereits mit uraltem Hochgefühl erfüllt hatte ...",
+        "hide_desc": "※ Das ist nicht mehr der Mond, den die Ahnen erblickten.",
+        "hide": false
+    },
+    "4035707": {
+        "id": "4035707",
+        "series_id": "3",
+        "title": "An jene, die lachen",
+        "desc": "Schließe die „Sprung-Zeit“ des Moments der Freude ab. Eure Vorstellung verdient ein grandioses Finale.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035708": {
+        "id": "4035708",
+        "series_id": "3",
+        "title": "Waschbärball",
+        "desc": "Starte das rotierende Törtchen, um der Starfroster volle Power zu geben.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035709": {
+        "id": "4035709",
+        "series_id": "3",
+        "title": "Snack-Sprint!",
+        "desc": "Starfroster, los geht’s! Volle Kraft voraus!",
+        "hide_desc": "",
+        "hide": false
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -4900,6 +4972,142 @@
         "series_id": "4",
         "title": "Ausgang 8",
         "desc": "Wähle in „Interplanarer Sprung!“ im Korridor des Instituts für Biowissenschaften jedes Mal den richtigen Teleporter.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045701": {
+        "id": "4045701",
+        "series_id": "4",
+        "title": "Das erhabene Objekt der goldenen Legende",
+        "desc": "Sammle alle Belohnungskarten von „Sternhase“.",
+        "hide_desc": "※ „Der helle Mond schmückt dein Fenster, während du die Träume eines anderen schmückst.“",
+        "hide": false
+    },
+    "4045702": {
+        "id": "4045702",
+        "series_id": "4",
+        "title": "Die Legende der Fantasie-Wispaes",
+        "desc": "Sammle insgesamt 220 Namenlose Wispaes in Planarcadia und Astropolis.",
+        "hide_desc": "※ „Worte wurden zu Fleisch.“",
+        "hide": false
+    },
+    "4045703": {
+        "id": "4045703",
+        "series_id": "4",
+        "title": "All-Star-Aufstellung freigeschaltet",
+        "desc": "Berühre in der „Sprung-Zeit“ des Moments der Freude alle Namen im Abspann.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045704": {
+        "id": "4045704",
+        "series_id": "4",
+        "title": "Die Bahnen der Sterne sind wie die Verstrickungen des Schicksals",
+        "desc": "Brauchst du etwas gegen Reisekrankheit?",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045705": {
+        "id": "4045705",
+        "series_id": "4",
+        "title": "Die Tür im Gesicht, das Licht im Mund",
+        "desc": "Schalte das Licht des geheimen Raums ein und öffne den versteckten Durchgang.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045706": {
+        "id": "4045706",
+        "series_id": "4",
+        "title": "Die acht Unterwasseretappen",
+        "desc": "Begib dich vom Außenbereich der Starfroster unter Wasser und finde den Weg zum gestrandeten Segelschiff.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045707": {
+        "id": "4045707",
+        "series_id": "4",
+        "title": "Stufen eins und zwei bereit, Feuer!",
+        "desc": "Katapultiere dich von der Starfroster.",
+        "hide_desc": "※ Sphäroiden sind wirklich eine großartige Erfindung.",
+        "hide": false
+    },
+    "4045708": {
+        "id": "4045708",
+        "series_id": "4",
+        "title": "Der Kuchen ist keine Lüge",
+        "desc": "Spiele die Seltsame Melodie auf der Starfroster und finde eine „besondere Leckerei“.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045709": {
+        "id": "4045709",
+        "series_id": "4",
+        "title": "One Piece of cake",
+        "desc": "Schließe die Herausforderung der Großen Schatzkammer der Segelschiffe rund um die Starfroster ab.",
+        "hide_desc": "※ Du blicktest in das Hochgefühl und du lachtest gemeinsam mit ihm.",
+        "hide": false
+    },
+    "4045712": {
+        "id": "4045712",
+        "series_id": "4",
+        "title": "Arcadia-Variation: Froschkönig",
+        "desc": "Spiele die Seltsame Melodie und finde die mysteriöse Kreatur, die sich in der Starfroster versteckt.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045713": {
+        "id": "4045713",
+        "series_id": "4",
+        "title": "Arcadia-Variation: Kaninchenbau",
+        "desc": "Spiele die Seltsame Melodie und finde die mysteriöse Kreatur, die sich im Moment der Freude versteckt.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045714": {
+        "id": "4045714",
+        "series_id": "4",
+        "title": "Ein Chor für Schmutz und Schönheit",
+        "desc": "Schließe alle Spielinhalte von „Chroniken des schwimmenden Schmieröls“ auf der Starfroster und im Moment der Freude ab.",
+        "hide_desc": "※ „Mein Schatz befindet sich nicht in der Fantasiewelt, nicht wahr?“",
+        "hide": false
+    },
+    "4045715": {
+        "id": "4045715",
+        "series_id": "4",
+        "title": "Ikonoklastische Aktion",
+        "desc": "Greife mehrmals den Aufsteller des großen Gelächters an. Ach, wie peinlich für Aha!",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045716": {
+        "id": "4045716",
+        "series_id": "4",
+        "title": "Sprung nach Herzenslust am Ende der Welt",
+        "desc": "Schließe alle Vorkommnisse von „Interplanarer Sprung!“ im Moment der Freude ab.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045717": {
+        "id": "4045717",
+        "series_id": "4",
+        "title": "Arcadia-Variation: Der Wind in den Weiden",
+        "desc": "Triff dich mit dem seltsamen Wispae, nachdem du alle mysteriösen Kreaturen gefunden hast.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045718": {
+        "id": "4045718",
+        "series_id": "4",
+        "title": "Finde die Herzkönigin",
+        "desc": "Wähle im Kartenratespiel in „Interplanarer Sprung!“ auf der Starfroster die richtige Karte aus.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045719": {
+        "id": "4045719",
+        "series_id": "4",
+        "title": "Nicht blinzeln, sonst verpasst du ein Wunder",
+        "desc": "Wähle im superschweren Kartenratespiel in „Interplanarer Sprung!“ auf der Starfroster die richtige Karte aus.",
         "hide_desc": "",
         "hide": false
     },
@@ -10759,6 +10967,86 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055701": {
+        "id": "4055701",
+        "series_id": "5",
+        "title": "Lange mit dir und mir gerungen",
+        "desc": "Wenn man eine Unwahrheit als Wahrheit darstellt, wird die Wahrheit zur Unwahrheit. Hinter der großen Zaubershow steckt Aha.",
+        "hide_desc": "※ Aha ist nur ein Name, ein Deckname. Du kannst dich Aha nennen, ich kann mich auch Aha nennen, sie alle können es. Und wenn man diesen Decknamen ablegt? Wer ist Aha dann? Die Antwort wird im nächsten Zaubertrick offenbart.",
+        "hide": false
+    },
+    "4055702": {
+        "id": "4055702",
+        "series_id": "5",
+        "title": "Geistermoment",
+        "desc": "„Tritt durch den Vorhang und hol dir den Schatz zurück.“",
+        "hide_desc": "※ Hinterlasse dein Porträt in der Galerie der Starfroster.",
+        "hide": false
+    },
+    "4055703": {
+        "id": "4055703",
+        "series_id": "5",
+        "title": "Natürliche Auslese",
+        "desc": "Interagiere mit dem Süßigkeiten-Energieventil auf der Starfroster.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055704": {
+        "id": "4055704",
+        "series_id": "5",
+        "title": "Futur II Verlaufsform",
+        "desc": "Ist das schwimmende Schmieröl der Erde nicht auch Nahrung für das Hochgefühl?",
+        "hide_desc": "※ „Ein Buchliebhaber, der nie schreibt, schwingt nur große Reden.“",
+        "hide": false
+    },
+    "4055705": {
+        "id": "4055705",
+        "series_id": "5",
+        "title": "Tschechows Gewehr",
+        "desc": "Wenn im Prolog ein Gewehr auf der Bühne hängt ...",
+        "hide_desc": "※„Dann muss dieses Gewehr im sechsten Akt der Geschichte abgefeuert werden.“",
+        "hide": false
+    },
+    "4055706": {
+        "id": "4055706",
+        "series_id": "5",
+        "title": "Barmherzigkeit führt oft zum eigenen Verderben",
+        "desc": "Ist Sparkle schon wieder mit Sparxie viral gegangen?",
+        "hide_desc": "※ „Hab dich lieb, altes Ich, bis morgen.“",
+        "hide": false
+    },
+    "4055711": {
+        "id": "4055711",
+        "series_id": "5",
+        "title": "Die Legende von QR_Gold",
+        "desc": "Übernimm den von Nihilux hinterlassenen Dessertladen.",
+        "hide_desc": "※ Angeblich singen die Kunden, sobald sie den Laden betreten: „QR_Gold, oh, QR_Gold, mit dir ist das Leben schön und sorgenfrei!“",
+        "hide": false
+    },
+    "4055712": {
+        "id": "4055712",
+        "series_id": "5",
+        "title": "Wie viele Wispaes hast du schon verschlungen?",
+        "desc": "Zum ersten Mal ein besonderes Dessert zubereitet.",
+        "hide_desc": "※ Wir versprechen, dass in unserem Laden kein einziges Wispae zu Schaden gekommen ist.",
+        "hide": false
+    },
+    "4055713": {
+        "id": "4055713",
+        "series_id": "5",
+        "title": "Süßer Ausreißer",
+        "desc": "Wirf einmal ein Dessert weg, während Blade hilft.",
+        "hide_desc": "※ Stimmt, wer sagt denn, dass eine Mülltonne kein Festmahl verdient?",
+        "hide": false
+    },
+    "4055714": {
+        "id": "4055714",
+        "series_id": "5",
+        "title": "Ich habe gewonnen! Ende von Teil eins!",
+        "desc": "Schließe die Handlung von Akt IV ab.",
+        "hide_desc": "※ Das ist meine Fluchtroute vor den Abgabefristen ^^!",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -13748,6 +14036,62 @@
         "series_id": "7",
         "title": "Splashtoon",
         "desc": "Pearl setzt „Pinselführung: Imageniere Mond und Sterne“ oder „Pinselführung: Male die Welle“ ein, um einen Zeichenbrett-Pfau zu besiegen, der sich im Status „Farbe“ befindet.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075701": {
+        "id": "4075701",
+        "series_id": "7",
+        "title": "Nicht giftig und harmlos. Nicht zum Verzehr geeignet.",
+        "desc": "Im Kampf gegen das „Protoplasma des Tiefenkriechers“ wurde kein Verbündeter mit Lähmung belegt, nachdem das Protoplasma des Tiefenkriechers „Urrudel“ eingesetzt hat.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075702": {
+        "id": "4075702",
+        "series_id": "7",
+        "title": "QR_Colt-Kraft, acht göttliche Kräfte",
+        "desc": "Erhalte nach dem Einsatz des Ultimates von Äonin ★ Aha insgesamt mindestens 8 Pkt. „Wunschkraft“, bevor der Status „Facetten des Hochgefühls“ endet.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075703": {
+        "id": "4075703",
+        "series_id": "7",
+        "title": "Drei Emanatoren, mein Gott",
+        "desc": "In einem einzigen Kampf werden 3 verbündete Figuren außer Äonin ★ Aha zu Emanatoren und gewähren Äonin ★ Aha durch Effekte zu Beginn der Runde jeweils 1 Punkt Wunschkraft.",
+        "hide_desc": "※ Hast du das verstanden? „Drei Emanatoren, mein Gott“ klingt als wäre man völlig überwältigt, dabei ist damit die Äonin gemeint. Ich lach mich kaputt.",
+        "hide": false
+    },
+    "4075704": {
+        "id": "4075704",
+        "series_id": "7",
+        "title": "Aha war es schon immer egal, in einer anderen Welt wiedergeboren zu werden.",
+        "desc": "Löse mit Äonin ★ Aha im Labyrinth eine Warteanimation aus und werde versehentlich für eine Bremsschwelle gehalten.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075705": {
+        "id": "4075705",
+        "series_id": "7",
+        "title": "Perfekter Entfesselungstrick",
+        "desc": "indem du nur eine Hand besiegst, wenn die vier „Großen Hände des Schicksals“ auftauchen.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075706": {
+        "id": "4075706",
+        "series_id": "7",
+        "title": "Den Abzug für die Glücksgöttin betätigen",
+        "desc": "Feuere im Kampf gegen das zweite Gesicht des „Göttlichen Schädels des Übermaßes“ kontinuierlich und treffe mit dem vierten Schuss.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075707": {
+        "id": "4075707",
+        "series_id": "7",
+        "title": "Legitimitätsbeweis des Lächelns",
+        "desc": "Besiege „Embryo der Philosophie: Manie“ im Kampf, während du bei den Lachpunkten im Vorteil bist.",
         "hide_desc": "",
         "hide": false
     },

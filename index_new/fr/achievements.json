@@ -1788,7 +1788,7 @@
         "series_id": "3",
         "title": "1 VS 2 milliards",
         "desc": "Une remontada ou rien !",
-        "hide_desc": "※ Robin a accepté le défi, et ses adversaires seront les 20 milliards de fans d'Adhibou",
+        "hide_desc": "※ Robin a accepté le défi, et ses adversaires seront les 2 milliards de fans d'Adhibou",
         "hide": false
     },
     "4035504": {
@@ -1876,6 +1876,78 @@
         "series_id": "3",
         "title": "Homo Ludens",
         "desc": "※ Recréer le mythe des huit Acteurs et relancer les Jeux Fabulunaires",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035701": {
+        "id": "4035701",
+        "series_id": "3",
+        "title": "Dessert pour Ouroboros",
+        "desc": "Pas mal... mais ça ne suffit pas à combler l'espace entre les dents",
+        "hide_desc": "※ Embarquer à bord de l'Astro-cornetto d'Aha",
+        "hide": false
+    },
+    "4035702": {
+        "id": "4035702",
+        "series_id": "3",
+        "title": "Pêcheur d'étoiles",
+        "desc": "Donnez-moi une canne à pêche, et je ferrerai la Voracité avec elle",
+        "hide_desc": "※ Installer une canne à pêche sur l'Astro-cornetto",
+        "hide": false
+    },
+    "4035703": {
+        "id": "4035703",
+        "series_id": "3",
+        "title": "Mirage de l'Allégresse",
+        "desc": "La vie ne peut jamais posséder le bonheur. Elle ne peut qu'en entrevoir un reflet, aussi fugace qu'un mirage",
+        "hide_desc": "※ Découvrir le Moment d'allégresse",
+        "hide": false
+    },
+    "4035704": {
+        "id": "4035704",
+        "series_id": "3",
+        "title": "L'arbre et la mer",
+        "desc": "Ils sont tous deux arrivés ici autrefois",
+        "hide_desc": "※ Suivre Aha et assister à un arrêt d'Akivili",
+        "hide": false
+    },
+    "4035705": {
+        "id": "4035705",
+        "series_id": "3",
+        "title": "Pause temporelle",
+        "desc": "Pour des raisons de force majeure, tant l'autrice que les personnages de l'histoire sont partis à la recherche d'inspiration...",
+        "hide_desc": "※ Retourner à Planarcadia et dire au revoir à tout le monde",
+        "hide": false
+    },
+    "4035706": {
+        "id": "4035706",
+        "series_id": "3",
+        "title": "Tant de solitude dans cet or",
+        "desc": "Bien que les veilleurs de nuit l'aient remplie jusqu'à ras bord d'une Allégresse ancestrale...",
+        "hide_desc": "※ Ce n'est plus la lune que nos ancêtres contemplaient jadis",
+        "hide": false
+    },
+    "4035707": {
+        "id": "4035707",
+        "series_id": "3",
+        "title": "À ceux qui rient",
+        "desc": "Terminer l'Heure du saut dans le Moment d'allégresse ; une performance comme la vôtre mérite un grand rappel final",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035708": {
+        "id": "4035708",
+        "series_id": "3",
+        "title": "Ballon raton laveur",
+        "desc": "Activer le cupcake tournoyant et naviguer l'Astro-cornetto à pleine vitesse",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035709": {
+        "id": "4035709",
+        "series_id": "3",
+        "title": "C'est parti pour le glaçage !",
+        "desc": "Astro-cornetto, on démarre ! À toute vitesse !",
         "hide_desc": "",
         "hide": false
     },
@@ -4900,6 +4972,142 @@
         "series_id": "4",
         "title": "Exit 8",
         "desc": "Choisir à chaque fois le bon téléporteur lors d'un Saut interdimensionnel ! du couloir de l'Institut des Sciences de la vie",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045701": {
+        "id": "4045701",
+        "series_id": "4",
+        "title": "Objet de convoitise de la légende dorée",
+        "desc": "Récupérer toutes les cartes de récompense de Lapin stellaire",
+        "hide_desc": "※ « Tandis que le clair de lune décore les bords de ta fenêtre, ta présence embellit le rêve de quelqu'un... »",
+        "hide": false
+    },
+    "4045702": {
+        "id": "4045702",
+        "series_id": "4",
+        "title": "Chroniques des Ætherae",
+        "desc": "Rassembler 220 Ætherae sans nom dans Planarcadia et Astropolis",
+        "hide_desc": "※ « Les mots devinrent chair. »",
+        "hide": false
+    },
+    "4045703": {
+        "id": "4045703",
+        "series_id": "4",
+        "title": "Formation All-Star débloquée",
+        "desc": "Durant l'Heure du saut dans le Moment d'allégresse, toucher chaque nom dans les crédits",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045704": {
+        "id": "4045704",
+        "series_id": "4",
+        "title": "Les étoiles orbitent comme l'enchevêtrement du destin",
+        "desc": "Vous voulez des pilules contre le mal des transports ?",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045705": {
+        "id": "4045705",
+        "series_id": "4",
+        "title": "Portes du visage, lumières de la bouche",
+        "desc": "Allumer les lumières dans la salle secrète et ouvrir le passage caché",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045706": {
+        "id": "4045706",
+        "series_id": "4",
+        "title": "Huit obstacles sous-marins",
+        "desc": "Plonger sous l'eau depuis la zone périphérique de l'Astro-cornetto et trouver un chemin vers le voilier échoué",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045707": {
+        "id": "4045707",
+        "series_id": "4",
+        "title": "Niveaux 1 et 2 parés ? Feu !",
+        "desc": "Se lancer depuis l'Astro-cornetto",
+        "hide_desc": "※ Le sphéroïde est vraiment une invention géniale",
+        "hide": false
+    },
+    "4045708": {
+        "id": "4045708",
+        "series_id": "4",
+        "title": "The Cake is Not a Lie",
+        "desc": "Jouer une mélodie étrange sur l'Astro-cornetto et trouver un en-cas spécial",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045709": {
+        "id": "4045709",
+        "series_id": "4",
+        "title": "Une part de gâteau",
+        "desc": "Terminer le défi de la Grande salle au trésor des voiliers autour de l'Astro-cornetto",
+        "hide_desc": "※ Lorsque vous contemplez l'Allégresse, vous et l'Allégresse riez joyeusement",
+        "hide": false
+    },
+    "4045712": {
+        "id": "4045712",
+        "series_id": "4",
+        "title": "Variation arcadienne : Le prince grenouille",
+        "desc": "Jouer une mélodie étrange et découvrir la mystérieuse créature qui se cache dans l'Astro-cornetto",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045713": {
+        "id": "4045713",
+        "series_id": "4",
+        "title": "Variation arcadienne : Terrier du lapin",
+        "desc": "Jouer une mélodie étrange et découvrir la mystérieuse créature qui se cache dans le Moment d'allégresse",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045714": {
+        "id": "4045714",
+        "series_id": "4",
+        "title": "Un Chœur dédié à la souillure et à la beauté",
+        "desc": "Terminer tout le contenu du mode de jeu Chroniques des graisses flottantes dans l'Astro-cornetto et le Moment d'allégresse",
+        "hide_desc": "※ «  Mon trésor ne se trouve pas dans un monde fantastique, n'est-ce pas ? »",
+        "hide": false
+    },
+    "4045715": {
+        "id": "4045715",
+        "series_id": "4",
+        "title": "Opération mort aux idoles",
+        "desc": "Porter plusieurs coups sur le grand panneau du Rire. Ah, quelle humiliation pour Aha !",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045716": {
+        "id": "4045716",
+        "series_id": "4",
+        "title": "Sauter jusqu'au Bout du monde",
+        "desc": "Terminer tous les défis « Saut interdimensionnel ! » du Moment d'allégresse",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045717": {
+        "id": "4045717",
+        "series_id": "4",
+        "title": "Variation arcadienne : Le vent dans les saules",
+        "desc": "Rencontrer l'étrange Ætherae après avoir trouvé toutes les créatures mystérieuses",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045718": {
+        "id": "4045718",
+        "series_id": "4",
+        "title": "Trouver la reine de cœur",
+        "desc": "Sélectionner la bonne carte dans le jeu de devinette de cartes « Saut interdimensionnel ! » de l'Astro-cornetto.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045719": {
+        "id": "4045719",
+        "series_id": "4",
+        "title": "Garde l'œil ouvert pour ne pas rater le miracle",
+        "desc": "Sélectionner la bonne carte dans le jeu de devinette de cartes super difficile « Saut interdimensionnel ! » de l'Astro-cornetto",
         "hide_desc": "",
         "hide": false
     },
@@ -10759,6 +10967,86 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055701": {
+        "id": "4055701",
+        "series_id": "5",
+        "title": "Entre toi et moi",
+        "desc": "La vérité devient mensonge quand le mensonge devient vérité. Les spectacles de disparition, c'est le truc d'Aha",
+        "hide_desc": "※ Aha n'est rien de plus qu'une étiquette, un simple pseudonyme. Tu pourrais t'appeler Aha, je pourrais m'appeler Aha, et eux aussi d'ailleurs. Mais outre ce nom, qui est Aha alors ? La réponse t'attend... dans notre prochain tour de magie.",
+        "hide": false
+    },
+    "4055702": {
+        "id": "4055702",
+        "series_id": "5",
+        "title": "Pose spectrale",
+        "desc": "« Franchir le rideau et reprendre le trésor. »",
+        "hide_desc": "※ Laisser votre portrait dans la galerie de l'Astro-cornetto",
+        "hide": false
+    },
+    "4055703": {
+        "id": "4055703",
+        "series_id": "5",
+        "title": "Sélection naturelle",
+        "desc": "Interagir avec la valve à glycopropulsion sur l'Astro-cornetto",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055704": {
+        "id": "4055704",
+        "series_id": "5",
+        "title": "Futur parfait continu",
+        "desc": "La graisse flottante de la Terre n'est-elle pas source d'Allégresse ?",
+        "hide_desc": "※ « Un amoureux des livres qui n'écrit jamais se contente de belles paroles. »",
+        "hide": false
+    },
+    "4055705": {
+        "id": "4055705",
+        "series_id": "5",
+        "title": "Fusil de Tchekhov",
+        "desc": "Si un fusil est accroché au mur au premier acte...",
+        "hide_desc": "※ « Au sixième acte, il doit absolument faire feu. »",
+        "hide": false
+    },
+    "4055706": {
+        "id": "4055706",
+        "series_id": "5",
+        "title": "Déboires de l'indulgence",
+        "desc": "Sparkle a encore déclenché une guerre explosive ?",
+        "hide_desc": "※ « Je l'aime, à plus »",
+        "hide": false
+    },
+    "4055711": {
+        "id": "4055711",
+        "series_id": "5",
+        "title": "La légende de ScanaGOAT",
+        "desc": "Reprendre la boutique de desserts laissée par Nihilux",
+        "hide_desc": "※ Il paraît que les clients se mettent à chanter dès qu'ils entrent : « ScanaGOAT, oh, ScanaGOAT ! Avec toi, la vie est douce et sans soucis ! »",
+        "hide": false
+    },
+    "4055712": {
+        "id": "4055712",
+        "series_id": "5",
+        "title": "Combien d'Ætherae devrais-je manger ?",
+        "desc": "Préparer un dessert spécial pour la première fois",
+        "hide_desc": "※ Nous promettons qu'aucun Ætherae n'a été blessé lors de la préparation de ce plat",
+        "hide": false
+    },
+    "4055713": {
+        "id": "4055713",
+        "series_id": "5",
+        "title": "Amour fugace",
+        "desc": "Jeter un dessert pendant que Blade vous aide",
+        "hide_desc": "※ C'est vrai, qui a dit qu'une poubelle ne pouvait pas festoyer elle aussi ?",
+        "hide": false
+    },
+    "4055714": {
+        "id": "4055714",
+        "series_id": "5",
+        "title": "J'ai gagné ! Fin de la partie 1 !",
+        "desc": "Terminer l'histoire de l'acte IV",
+        "hide_desc": "※ C'est ma stratégie pour échapper aux délais ^^ !",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -13395,7 +13683,7 @@
         "id": "4075108",
         "series_id": "7",
         "title": "Le surfeur d'écume",
-        "desc": "Déclencher au moins 3 fois l'effet Brillance du Savon super moussant au cours d'un même combat contre le Roi Pom-Pom en alliage",
+        "desc": "Déclencher au moins 3 fois l'effet Brillance du Puissance du savon au cours d'un même combat contre le Roi Pom-Pom en alliage",
         "hide_desc": "",
         "hide": false
     },
@@ -13748,6 +14036,62 @@
         "series_id": "7",
         "title": "Splashtoon",
         "desc": "Utiliser Trait du ciel nocturne imagénéré ou Trait de l'ultime vague avec Perle pour éliminer un Pictopaon dans l'état Chroma",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075701": {
+        "id": "4075701",
+        "series_id": "7",
+        "title": "Non toxique, inoffensif, pas comestible",
+        "desc": "Lors du combat contre le Protoplasme de Rampant des profondeurs, faire en sorte qu'aucun allié ne soit affecté par Paralysie après l'utilisation de Communion primordiale",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075702": {
+        "id": "4075702",
+        "series_id": "7",
+        "title": "Puissance bidimensionnelle, huit pouvoirs divins",
+        "desc": "Après qu'Aiôn ★ Aha a utilisé son ultime, obtenir au moins 8 points de Souhaissence avant la fin de l'état de Facettes de l'Allégresse",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075703": {
+        "id": "4075703",
+        "series_id": "7",
+        "title": "Trois commandements divins",
+        "desc": "En un seul combat, faire en sorte que 3 personnages alliés (à l'exception d'Aiôn ★ Aha) deviennent des Émanateurs, et que chacun accorde 1 point de Souhaissence à Aiôn ★ Aha via l'effet au début du tour",
+        "hide_desc": "※ Ses commandements ressemblent beaucoup à des ordres divins, non ?",
+        "hide": false
+    },
+    "4075704": {
+        "id": "4075704",
+        "series_id": "7",
+        "title": "Aha n'en a jamais eu rien à faire de la réincarnation dans un autre monde",
+        "desc": "Utiliser Aiôn ★ Aha, activer son action d'oisiveté dans le labyrinthe et être pris pour un dos-d'âne",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075705": {
+        "id": "4075705",
+        "series_id": "7",
+        "title": "Une évasion parfaite",
+        "desc": "Lors du combat contre la première forme du Crâne divin de l'indulgence, quand les quatre Mains géantes du destin apparaissent, sauver le personnage capturé en n'éliminant qu'une seule main",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075706": {
+        "id": "4075706",
+        "series_id": "7",
+        "title": "Appuyer sur la détente pour tenter la Déesse de la chance",
+        "desc": "Dans le combat contre le second visage du Crâne divin de l'indulgence, tirer sans relâche et faire mouche au quatrième tir",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075707": {
+        "id": "4075707",
+        "series_id": "7",
+        "title": "Preuve de légitimité du sourire",
+        "desc": "Vaincre Folie de l'Embryon de la philosophie (démence) tout en ayant l'avantage de Panache",
         "hide_desc": "",
         "hide": false
     },

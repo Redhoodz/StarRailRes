@@ -183,18 +183,27 @@
         "id": "61",
         "name": "ตั๋วจุ่มเทรนดี้ทอย",
         "type": "Virtual",
-        "sub_type": "Virtual",
+        "sub_type": "Fiat",
         "rarity": 5,
         "icon": "icon/item/61.png",
-        "come_from": ["ได้รับจากร้านค้า \"ไอเทมแฟชั่น\""]
+        "come_from": []
     },
     "62": {
         "id": "62",
         "name": "เหรียญเทรนดี้ทอย",
         "type": "Virtual",
-        "sub_type": "Virtual",
+        "sub_type": "Fiat",
         "rarity": 5,
         "icon": "icon/item/62.png",
+        "come_from": []
+    },
+    "71": {
+        "id": "71",
+        "name": "บัตรเชิญแฟชั่น",
+        "type": "Virtual",
+        "sub_type": "Fiat",
+        "rarity": 5,
+        "icon": "icon/item/71.png",
         "come_from": []
     },
     "101": {
@@ -612,6 +621,33 @@
         "sub_type": "Material",
         "rarity": 5,
         "icon": "icon/item/821.png",
+        "come_from": []
+    },
+    "822": {
+        "id": "822",
+        "name": "ของขวัญจาก Asat Pramad",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/822.png",
+        "come_from": []
+    },
+    "823": {
+        "id": "823",
+        "name": "สัญญาณนำทางของ Isee",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/823.png",
+        "come_from": []
+    },
+    "824": {
+        "id": "824",
+        "name": "\"อุ้มเธอไว้ในมือได้แล้ว\"",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 5,
+        "icon": "icon/item/824.png",
         "come_from": []
     },
     "11001": {
@@ -1385,6 +1421,15 @@
     "11510": {
         "id": "11510",
         "name": "Eidolon ของ \"Himeko - นวดารา\"",
+        "type": "Material",
+        "sub_type": "Eidolon",
+        "rarity": 5,
+        "icon": "icon/item/11003.png",
+        "come_from": []
+    },
+    "11511": {
+        "id": "11511",
+        "name": "Eidolon ของเทพดารา ★ Aha",
         "type": "Material",
         "sub_type": "Eidolon",
         "rarity": 5,
@@ -4108,6 +4153,84 @@
             "\"เครื่องผสานสารพัดประโยชน์\" - ผสานรีลิกส์"
         ]
     },
+    "83291": {
+        "id": "83291",
+        "name": "God's Moment of Joy",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71062.png",
+        "come_from": []
+    },
+    "83292": {
+        "id": "83292",
+        "name": "God's Moment of Joy",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71062.png",
+        "come_from": []
+    },
+    "83293": {
+        "id": "83293",
+        "name": "God's Moment of Joy",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71062.png",
+        "come_from": []
+    },
+    "83294": {
+        "id": "83294",
+        "name": "God's Moment of Joy",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71062.png",
+        "come_from": [
+            "สกัดจักรวาลประดับใน \"จักรวาลต่างมิติ\"",
+            "\"เครื่องผสานสารพัดประโยชน์\" - ผสานรีลิกส์"
+        ]
+    },
+    "83301": {
+        "id": "83301",
+        "name": "Subspace ASC Center",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 2,
+        "icon": "icon/item/71063.png",
+        "come_from": []
+    },
+    "83302": {
+        "id": "83302",
+        "name": "Subspace ASC Center",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 3,
+        "icon": "icon/item/71063.png",
+        "come_from": []
+    },
+    "83303": {
+        "id": "83303",
+        "name": "Subspace ASC Center",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 4,
+        "icon": "icon/item/71063.png",
+        "come_from": []
+    },
+    "83304": {
+        "id": "83304",
+        "name": "Subspace ASC Center",
+        "type": "Display",
+        "sub_type": "RelicSetShowOnly",
+        "rarity": 5,
+        "icon": "icon/item/71063.png",
+        "come_from": [
+            "สกัดจักรวาลประดับใน \"จักรวาลต่างมิติ\"",
+            "\"เครื่องผสานสารพัดประโยชน์\" - ผสานรีลิกส์"
+        ]
+    },
     "89001": {
         "id": "89001",
         "name": "จักรวาลประดับ",
@@ -5382,6 +5505,15 @@
         "icon": "icon/item/110509.png",
         "come_from": ["Echo of War: เมืองปีศาจงานดับสูญ"]
     },
+    "110510": {
+        "id": "110510",
+        "name": "Ravenous Baby Tooth",
+        "type": "Material",
+        "sub_type": "WeeklyMonsterDrop",
+        "rarity": 4,
+        "icon": "icon/item/110510.png",
+        "come_from": ["Echo of War \"เรือสตาร์ฟรอสเตอร์\""]
+    },
     "110610": {
         "id": "110610",
         "name": "Tears of Rail",
@@ -6118,7 +6250,7 @@
         "type": "Material",
         "sub_type": "Material",
         "rarity": 5,
-        "icon": "icon/item/295537.png",
+        "icon": "icon/item/295538.png",
         "come_from": []
     },
     "123000": {
@@ -6147,6 +6279,42 @@
         "rarity": 3,
         "icon": "icon/item/123000.png",
         "come_from": ["ได้รับจากกิจกรรม \"ตะลุยคลังมหัศจรรย์\""]
+    },
+    "123003": {
+        "id": "123003",
+        "name": "บัตรผ่าน",
+        "type": "Material",
+        "sub_type": "Material",
+        "rarity": 3,
+        "icon": "icon/item/123000.png",
+        "come_from": []
+    },
+    "131204": {
+        "id": "131204",
+        "name": "Eidolon สานชะตาของ Jing Yuan",
+        "type": "Material",
+        "sub_type": "AvatarExRankMaterial",
+        "rarity": 5,
+        "icon": "icon/item/131204.png",
+        "come_from": []
+    },
+    "131213": {
+        "id": "131213",
+        "name": "Eidolon สานชะตาของ Dan Heng - จ้าวยลจันทรา",
+        "type": "Material",
+        "sub_type": "AvatarExRankMaterial",
+        "rarity": 5,
+        "icon": "icon/item/131213.png",
+        "come_from": []
+    },
+    "131308": {
+        "id": "131308",
+        "name": "Eidolon สานชะตาของ Acheron",
+        "type": "Material",
+        "sub_type": "AvatarExRankMaterial",
+        "rarity": 5,
+        "icon": "icon/item/131308.png",
+        "come_from": []
     },
     "140000": {
         "id": "140000",
@@ -11089,6 +11257,15 @@
         "icon": "icon/item/140634.png",
         "come_from": []
     },
+    "140637": {
+        "id": "140637",
+        "name": "โฉมหน้าแท้จริงของภูตบุกเบิก",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 3,
+        "icon": "icon/item/140637.png",
+        "come_from": []
+    },
     "149957": {
         "id": "149957",
         "name": "รูปคู่กับ March 7th",
@@ -12248,6 +12425,15 @@
         "sub_type": "Mission",
         "rarity": 3,
         "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "150103": {
+        "id": "150103",
+        "name": "มายากลแห่งโชคชะตา",
+        "type": "Mission",
+        "sub_type": "Mission",
+        "rarity": 4,
+        "icon": "icon/item/150103.png",
         "come_from": []
     },
     "180001": {
@@ -22848,6 +23034,213 @@
         "icon": "icon/item/190021.png",
         "come_from": []
     },
+    "192196": {
+        "id": "192196",
+        "name": "จดหมายรับสมัคร นักแสดงโศก",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192197": {
+        "id": "192197",
+        "name": "~ บาร์ไทมส์ รายสัปดาห์ ฉบับที่ 1 ~",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192198": {
+        "id": "192198",
+        "name": "รายงานการสร้าง เรือกอนโดลาใหม่",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192199": {
+        "id": "192199",
+        "name": "นิทานจากดวงจันทร์",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192200": {
+        "id": "192200",
+        "name": "จดหมายถึง Roan",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192201": {
+        "id": "192201",
+        "name": "จดหมายแนะนำ: มหาวิทยาลัย Paperfold",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190003.png",
+        "come_from": []
+    },
+    "192202": {
+        "id": "192202",
+        "name": "รายการมรดกของคิ้วคิวอาร์ชา",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192203": {
+        "id": "192203",
+        "name": "บันทึกคราบไขลอยล่อง: บทแห่งจิ้งจอก 16",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192204": {
+        "id": "192204",
+        "name": "บันทึกคราบไขลอยล่อง: บทแห่งกระต่าย 9",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192205": {
+        "id": "192205",
+        "name": "ออกเดินทางอีกครั้ง หลังจากสิ้นเสียงหัวเราะ",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192206": {
+        "id": "192206",
+        "name": "Nihilux: บทโหมโรงแห่งการพเนจร",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192207": {
+        "id": "192207",
+        "name": "ทำลายไข่มุกเป็นสัญญาณ!",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192208": {
+        "id": "192208",
+        "name": "วิหคทะยาน แหงนมองอสูร",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192209": {
+        "id": "192209",
+        "name": "ปฏิบัติการ: น้อง Sparxie สุดคิวต์!",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192210": {
+        "id": "192210",
+        "name": "เมนูเครื่องดื่มสีซีดมัว",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192211": {
+        "id": "192211",
+        "name": "วิ่งไปเถอะ บนหลังมังกรสีเงิน",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192212": {
+        "id": "192212",
+        "name": "หัตถ์แห่งหมาป่า",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190023.png",
+        "come_from": []
+    },
+    "192213": {
+        "id": "192213",
+        "name": "เฝ้ารอการล่า",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192214": {
+        "id": "192214",
+        "name": "ศรเทพทะลวงเมฆา",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192215": {
+        "id": "192215",
+        "name": "วีรบุรุษชุบไฟ",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
+    "192216": {
+        "id": "192216",
+        "name": "รุ่งโรจน์พลันโรยรา ครั้งที่สอง",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190021.png",
+        "come_from": []
+    },
+    "192217": {
+        "id": "192217",
+        "name": "คดีสุดท้าย ของยอดนักสืบอมตะ",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190005.png",
+        "come_from": []
+    },
+    "192218": {
+        "id": "192218",
+        "name": "บันทึกการแสดง ของเรือสตาร์ฟรอสเตอร์",
+        "type": "Usable",
+        "sub_type": "Book",
+        "rarity": 1,
+        "icon": "icon/item/190022.png",
+        "come_from": []
+    },
     "210001": {
         "id": "210001",
         "name": "\"Dawn of Disaster\"",
@@ -23075,7 +23468,7 @@
     },
     "210205": {
         "id": "210205",
-        "name": "Warden of Jade",
+        "name": "\"Warden of Jade\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23138,7 +23531,7 @@
     },
     "210212": {
         "id": "210212",
-        "name": "Hunter's Intuition",
+        "name": "\"Hunter's Intuition\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23156,7 +23549,7 @@
     },
     "210214": {
         "id": "210214",
-        "name": "Sanctus Medicus Dharani",
+        "name": "\"Sanctus Medicus Dharani\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23165,7 +23558,7 @@
     },
     "210215": {
         "id": "210215",
-        "name": "Mokshasatya",
+        "name": "\"Mokshasatya\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23174,7 +23567,7 @@
     },
     "210216": {
         "id": "210216",
-        "name": "Gleaming Clash",
+        "name": "\"Gleaming Clash\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23183,7 +23576,7 @@
     },
     "210217": {
         "id": "210217",
-        "name": "Evanescent Dreams",
+        "name": "\"Evanescent Dreams\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23192,7 +23585,7 @@
     },
     "210218": {
         "id": "210218",
-        "name": "Erstwhile Resonance",
+        "name": "\"Erstwhile Resonance\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23201,7 +23594,7 @@
     },
     "210219": {
         "id": "210219",
-        "name": "Samudrartha",
+        "name": "\"Samudrartha\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23210,7 +23603,7 @@
     },
     "210220": {
         "id": "210220",
-        "name": "Obscured Pearls",
+        "name": "\"Obscured Pearls\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23219,7 +23612,7 @@
     },
     "210221": {
         "id": "210221",
-        "name": "Arteria Inceptionis",
+        "name": "\"Arteria Inceptionis\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23255,7 +23648,7 @@
     },
     "210225": {
         "id": "210225",
-        "name": "Paean of Indulgence",
+        "name": "\"Paean of Indulgence\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23264,7 +23657,7 @@
     },
     "210226": {
         "id": "210226",
-        "name": "Cosmic Sacrifice for Love",
+        "name": "\"Cosmic Sacrifice for Love\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23273,7 +23666,7 @@
     },
     "210227": {
         "id": "210227",
-        "name": "A Gentleman's Fantasy",
+        "name": "\"A Gentleman's Fantasy\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23282,7 +23675,7 @@
     },
     "210228": {
         "id": "210228",
-        "name": "Dancing Fantasms",
+        "name": "\"Dancing Fantasms\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -23291,7 +23684,7 @@
     },
     "210229": {
         "id": "210229",
-        "name": "Nesting Avians",
+        "name": "\"Nesting Avians\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -24236,7 +24629,7 @@
     },
     "210404": {
         "id": "210404",
-        "name": "Homeland",
+        "name": "\"Homeland\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -24245,7 +24638,7 @@
     },
     "210405": {
         "id": "210405",
-        "name": "Maze",
+        "name": "\"Maze\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -24416,7 +24809,7 @@
     },
     "210424": {
         "id": "210424",
-        "name": "Corridor of Memorial Dreams",
+        "name": "\"Corridor of Memorial Dreams\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -24425,7 +24818,7 @@
     },
     "210425": {
         "id": "210425",
-        "name": "Theophany",
+        "name": "\"Theophany\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -24434,7 +24827,7 @@
     },
     "210426": {
         "id": "210426",
-        "name": "Dream of Gnawing",
+        "name": "\"Dream of Gnawing\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -24443,7 +24836,7 @@
     },
     "210427": {
         "id": "210427",
-        "name": "Nightmarish Omen",
+        "name": "\"Nightmarish Omen\"",
         "type": "Usable",
         "sub_type": "MusicAlbum",
         "rarity": 3,
@@ -25215,6 +25608,123 @@
         "icon": "icon/item/210001.png",
         "come_from": []
     },
+    "210514": {
+        "id": "210514",
+        "name": "\"Dance Till the World Rouses\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210515": {
+        "id": "210515",
+        "name": "\"Ship of Fools\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210516": {
+        "id": "210516",
+        "name": "\"Thief's Waltz\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210517": {
+        "id": "210517",
+        "name": "\"Fool's Dance\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210518": {
+        "id": "210518",
+        "name": "\"Phantasmoon Reverie\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210519": {
+        "id": "210519",
+        "name": "\"Candy House\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210520": {
+        "id": "210520",
+        "name": "\"Pre-Dinner Etiquette\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210521": {
+        "id": "210521",
+        "name": "\"Into the Trap You Go\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210522": {
+        "id": "210522",
+        "name": "\"Arcadia Lost\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210523": {
+        "id": "210523",
+        "name": "\"Arrival\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210524": {
+        "id": "210524",
+        "name": "\"Ex Nihilo\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210525": {
+        "id": "210525",
+        "name": "\"Masquerade\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
+    "210526": {
+        "id": "210526",
+        "name": "\"All Silent as Enigmas\"",
+        "type": "Usable",
+        "sub_type": "MusicAlbum",
+        "rarity": 3,
+        "icon": "icon/item/210001.png",
+        "come_from": []
+    },
     "215001": {
         "id": "215001",
         "name": "\"ฝนพรำ\"",
@@ -25403,6 +25913,24 @@
         "rarity": 4,
         "icon": "icon/item/220012.png",
         "come_from": ["กรอบแชทที่ได้รับจากกิจกรรม \"ศึกดวลเครื่องบินพิกเซล\""]
+    },
+    "220013": {
+        "id": "220013",
+        "name": "ยอดครัวหัวป่าก์",
+        "type": "Usable",
+        "sub_type": "ChatBubble",
+        "rarity": 4,
+        "icon": "icon/item/220013.png",
+        "come_from": ["กรอบแชทที่ได้รับจากกิจกรรม \"ขบวนขนฟูเดอะมูฟวี่: ครัวหรรษา\""]
+    },
+    "220014": {
+        "id": "220014",
+        "name": "คอสมิกบิ๊กลอตโต้",
+        "type": "Usable",
+        "sub_type": "ChatBubble",
+        "rarity": 4,
+        "icon": "icon/item/220014.png",
+        "come_from": ["ได้รับจากกิจกรรม \"ลานแสดงปีติมายา\""]
     },
     "221000": {
         "id": "221000",
@@ -28076,6 +28604,51 @@
         "rarity": 4,
         "icon": "icon/item/227017.png",
         "come_from": ["แฟชั่นบุกเบิกที่ได้รับหลังกิจกรรม \"กลไก หัวใจ วิญญาณ\""]
+    },
+    "227018": {
+        "id": "227018",
+        "name": "ทูตสวรรค์ฝึกหัด",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227018.png",
+        "come_from": ["ได้รับจากร้าน \"ของขวัญละอองดาว\""]
+    },
+    "227019": {
+        "id": "227019",
+        "name": "ปิ๊งไอเดียปั่น",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227019.png",
+        "come_from": ["ได้รับจากร้าน \"ของขวัญละอองดาว\""]
+    },
+    "227020": {
+        "id": "227020",
+        "name": "รางดาราจันทร์มายา",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227020.png",
+        "come_from": ["ได้รับจากกิจกรรม \"ลานแสดงปีติมายา\""]
+    },
+    "227021": {
+        "id": "227021",
+        "name": "ตัวแทน \"ปิติสุข\"",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 4,
+        "icon": "icon/item/227021.png",
+        "come_from": []
+    },
+    "227022": {
+        "id": "227022",
+        "name": "แฟชั่นเหลืองม่วง",
+        "type": "Usable",
+        "sub_type": "PlayerOutfit",
+        "rarity": 5,
+        "icon": null,
+        "come_from": ["ได้รับจากกิจกรรม \"โปรดรับพัสดุ\""]
     },
     "229001": {
         "id": "229001",
@@ -32091,6 +32664,24 @@
         "icon": "icon/item/253005.png",
         "come_from": ["ได้รับจากร้าน \"ของขวัญละอองดาว\""]
     },
+    "253006": {
+        "id": "253006",
+        "name": "ช่วงเวลารื่นเริง",
+        "type": "Usable",
+        "sub_type": "PersonalCard",
+        "rarity": 4,
+        "icon": "icon/item/253006.png",
+        "come_from": ["ได้รับจากกิจกรรม \"ลานแสดงปีติมายา\""]
+    },
+    "253007": {
+        "id": "253007",
+        "name": "ย่านความถี่พันดารา",
+        "type": "Usable",
+        "sub_type": "PersonalCard",
+        "rarity": 4,
+        "icon": "icon/item/253007.png",
+        "come_from": ["ได้รับจากร้าน \"ของขวัญละอองดาว\""]
+    },
     "254000": {
         "id": "254000",
         "name": "เจตจำนงเสรีของ {NICKNAME}",
@@ -34173,11 +34764,11 @@
     },
     "281032": {
         "id": "281032",
-        "name": "ธนบัตรเพชรค่าเทียบเท่า",
+        "name": "ลูกแก้วปีติมายา",
         "type": "Virtual",
         "sub_type": "Virtual",
         "rarity": 3,
-        "icon": "icon/item/281032.png",
+        "icon": "icon/item/281032_S2.png",
         "come_from": []
     },
     "281033": {
@@ -34250,6 +34841,24 @@
         "sub_type": "Virtual",
         "rarity": 3,
         "icon": "icon/item/281040.png",
+        "come_from": []
+    },
+    "281041": {
+        "id": "281041",
+        "name": "เหรียญพิกเซล (วาดโดยคิ้วคิวอาร์ชา)",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/281036.png",
+        "come_from": []
+    },
+    "281042": {
+        "id": "281042",
+        "name": "คะแนนเลื่อนขั้น",
+        "type": "Virtual",
+        "sub_type": "Virtual",
+        "rarity": 3,
+        "icon": "icon/item/281033.png",
         "come_from": []
     },
     "300002": {
@@ -34619,6 +35228,15 @@
         "sub_type": "ForceOpitonalGift",
         "rarity": 5,
         "icon": "icon/item/309012.png",
+        "come_from": []
+    },
+    "309013": {
+        "id": "309013",
+        "name": "กล่องของขวัญ Eidolon สานชะตา",
+        "type": "Usable",
+        "sub_type": "ForceOpitonalGift",
+        "rarity": 5,
+        "icon": "icon/item/309013.png",
         "come_from": []
     },
     "310001": {

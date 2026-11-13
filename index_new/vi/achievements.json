@@ -1835,7 +1835,7 @@
         "id": "4035509",
         "series_id": "3",
         "title": "Aha! Aha?",
-        "desc": "Rốt cuộc cô là ai vậy!",
+        "desc": "Cho nên, rốt cuộc cô là ai vậy?",
         "hide_desc": "※Vốn định dùng thân phận người bình thường để chung sống với các người... Bây giờ, tôi lật bài ngửa đây",
         "hide": false
     },
@@ -1875,7 +1875,79 @@
         "id": "4035605",
         "series_id": "3",
         "title": "Người Chơi",
-        "desc": "※Tái hiện thần thoại của 8 Kẻ Khóc Thuê, khởi động lại Trò Chơi Ảo Nguyệt",
+        "desc": "※Tái hiện thần thoại của tám Kẻ Khóc Thuê, khởi động lại Trò Chơi Ảo Nguyệt",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035701": {
+        "id": "4035701",
+        "series_id": "3",
+        "title": "Món Tráng Miệng Dâng Lên Oroboros",
+        "desc": "Hương vị không tệ... chỉ là chưa bõ dính răng.",
+        "hide_desc": "※ Lên Tàu Sao Ngọt Ngào của Aha",
+        "hide": false
+    },
+    "4035702": {
+        "id": "4035702",
+        "series_id": "3",
+        "title": "Vật Câu Các Vì Sao",
+        "desc": "Hãy cho tôi một chiếc cần câu, tôi có thể dùng nó để câu \"Tham Ăn\".",
+        "hide_desc": "※ Lắp cần câu cho Tàu Sao Ngọt Ngào",
+        "hide": false
+    },
+    "4035703": {
+        "id": "4035703",
+        "series_id": "3",
+        "title": "Ảo Ảnh Vui Vẻ",
+        "desc": "Đời người không thể có được hạnh phúc, chỉ có thể nhìn thoáng qua hạnh phúc tựa như ảo ảnh.",
+        "hide_desc": "※ Bước vào \"Vui Vẻ Phút Chốc\"",
+        "hide": false
+    },
+    "4035704": {
+        "id": "4035704",
+        "series_id": "3",
+        "title": "Cây Và Biển",
+        "desc": "Ngài và Ngài, từng đặt chân đến đây.",
+        "hide_desc": "※ Theo chân Aha chứng kiến trạm dừng thuộc về Akivili",
+        "hide": false
+    },
+    "4035705": {
+        "id": "4035705",
+        "series_id": "3",
+        "title": "Tạm Ngừng Xuất Bản",
+        "desc": "Vì lý do bất khả kháng, tác giả và các nhân vật trong truyện đều đang ra ngoài tìm tư liệu...",
+        "hide_desc": "※ Trở về Planarcadia, chào tạm biệt mọi người",
+        "hide": false
+    },
+    "4035706": {
+        "id": "4035706",
+        "series_id": "3",
+        "title": "Trong Ánh Vàng Chứa Bao Nỗi Cô Độc",
+        "desc": "Dù những người gác đêm đã lấp đầy nàng bằng sự Vui Vẻ cổ xưa...",
+        "hide_desc": "※ Đó đã không còn là vầng trăng mà người xưa trông thấy",
+        "hide": false
+    },
+    "4035707": {
+        "id": "4035707",
+        "series_id": "3",
+        "title": "Gửi Đến Người Vui Cười",
+        "desc": "Hoàn thành \"Thời Khắc Jump\" của Vui Vẻ Phút Chốc, màn biểu diễn của các bạn xứng đáng với phần hạ màn hoành tráng",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035708": {
+        "id": "4035708",
+        "series_id": "3",
+        "title": "Bóng Gấu Mèo",
+        "desc": "Khởi động bánh kem xoay, tăng hết mã lực cho Tàu Sao Ngọt Ngào",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035709": {
+        "id": "4035709",
+        "series_id": "3",
+        "title": "Bánh Ngọt Xông Lên!",
+        "desc": "Tàu Sao Ngọt Ngào, khởi động! Tiến hết tốc lực!",
         "hide_desc": "",
         "hide": false
     },
@@ -4900,6 +4972,142 @@
         "series_id": "4",
         "title": "Lối Ra Số 8",
         "desc": "Trong \"JUMP Không Gian 2D!\" ở hành lang Viện Nghiên Cứu Sinh Học, chọn chính xác cổng dịch chuyển mỗi lần",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045701": {
+        "id": "4045701",
+        "series_id": "4",
+        "title": "Khách Thể Cao Thượng Của Truyền Thuyết Hoàng Kim",
+        "desc": "Thu thập đủ thẻ thưởng của \"Thỏ Đường Ray Tinh Cầu\"",
+        "hide_desc": "※ \"Trăng sáng tô điểm bên cửa sổ, người tô điểm giấc mộng nhân gian.\"",
+        "hide": false
+    },
+    "4045702": {
+        "id": "4045702",
+        "series_id": "4",
+        "title": "Truyện Huyễn Tưởng Bụi Linh",
+        "desc": "Triệu tập tổng cộng 220 Bụi Linh Vô Danh tại Planarcadia và Astropolis",
+        "hide_desc": "※ \"Từ ngữ đã trở thành máu thịt.\"",
+        "hide": false
+    },
+    "4045703": {
+        "id": "4045703",
+        "series_id": "4",
+        "title": "Mở Khóa Đội Hình Minh Tinh",
+        "desc": "Trong \"Thời Khắc Jump\" của Vui Vẻ Phút Chốc, chạm vào tất cả tên trong danh sách nhân sự",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045704": {
+        "id": "4045704",
+        "series_id": "4",
+        "title": "Quỹ Đạo Của Những Vì Sao Đan Xen Như Vận Mệnh",
+        "desc": "Bạn có muốn uống thuốc say xe không?",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045705": {
+        "id": "4045705",
+        "series_id": "4",
+        "title": "Cánh Cửa Trên Mặt, Ánh Đèn Trong Miệng",
+        "desc": "Mở đèn phòng bí mật và lối đi ẩn",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045706": {
+        "id": "4045706",
+        "series_id": "4",
+        "title": "Tám Ải Dưới Nước",
+        "desc": "Từ vòng ngoài Tàu Sao Ngọt Ngào đi xuống dưới nước, tìm đường đến thuyền buồm mắc cạn",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045707": {
+        "id": "4045707",
+        "series_id": "4",
+        "title": "Chuẩn Bị Cấp 1, Cấp 2, Phóng!",
+        "desc": "Phóng bản thân ra khỏi Tàu Sao Ngọt Ngào",
+        "hide_desc": "※ Xe Lồng Cầu quả là một phát minh vĩ đại",
+        "hide": false
+    },
+    "4045708": {
+        "id": "4045708",
+        "series_id": "4",
+        "title": "Bánh Kem Không Phải Là Một Lời Nói Dối",
+        "desc": "Diễn tấu Chương Nhạc Kỳ Dị trên Tàu Sao Ngọt Ngào, tìm ra một miếng \"đồ ngọt đặc biệt\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045709": {
+        "id": "4045709",
+        "series_id": "4",
+        "title": "Một Miếng Bánh",
+        "desc": "Hoàn thành thử thách Kho Báu Bí Mật của thuyền buồm xung quanh Tàu Sao Ngọt Ngào",
+        "hide_desc": "※Khi bạn nhìn chằm chằm vào Vui Vẻ, bạn và Vui Vẻ đều cười rất tươi",
+        "hide": false
+    },
+    "4045712": {
+        "id": "4045712",
+        "series_id": "4",
+        "title": "Biến Tấu Thiên Đường Vui Vẻ: Hoàng Tử Ếch",
+        "desc": "Diễn tấu Chương Nhạc Kỳ Dị, tìm ra sinh vật bí ẩn ẩn náu tại Tàu Sao Ngọt Ngào",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045713": {
+        "id": "4045713",
+        "series_id": "4",
+        "title": "Biến Tấu Thiên Đường Vui Vẻ: Hang Thỏ",
+        "desc": "Diễn tấu Chương Nhạc Kỳ Dị, tìm ra sinh vật bí ẩn ẩn náu tại Vui Vẻ Phút Chốc",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045714": {
+        "id": "4045714",
+        "series_id": "4",
+        "title": "Khúc Hợp Xướng Dành Cho Sự Dơ Bẩn Và Cái Đẹp",
+        "desc": "Hoàn thành tất cả nội dung cách chơi \"Ký Sự Mỡ Nổi\" tại Tàu Sao Ngọt Ngào và Vui Vẻ Phút Chốc",
+        "hide_desc": "※ \"Kho báu của tôi không nằm trong thế giới giả tưởng, đúng không?\"",
+        "hide": false
+    },
+    "4045715": {
+        "id": "4045715",
+        "series_id": "4",
+        "title": "Phong Trào Phá Hủy Thần Tượng",
+        "desc": "Nhiều lần tấn công standee của Thần Niềm Vui vĩ đại, haiz, Aha thật mất mặt.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045716": {
+        "id": "4045716",
+        "series_id": "4",
+        "title": "Jump Thỏa Thích Ở Tận Thế",
+        "desc": "Hoàn thành tất cả \"JUMP Không Gian 2D!\" của Vui Vẻ Phút Chốc",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045717": {
+        "id": "4045717",
+        "series_id": "4",
+        "title": "Biến Tấu Thiên Đường Vui Vẻ: Gió Qua Rặng Liễu",
+        "desc": "Sau khi tìm thấy tất cả sinh vật bí ẩn, hãy gặp Bụi Linh Linh kỳ lạ",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045718": {
+        "id": "4045718",
+        "series_id": "4",
+        "title": "Tìm Nữ Hoàng Quân Cơ",
+        "desc": "Chọn đúng thẻ bài trong trò chơi đoán bài của \"JUMP Không Gian 2D!\" Tàu Sao Ngọt Ngào",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045719": {
+        "id": "4045719",
+        "series_id": "4",
+        "title": "Đừng Chớp Mắt, Sẽ Bỏ Lỡ Kỳ Tích Đấy",
+        "desc": "Chọn đúng thẻ bài trong trò chơi đoán bài siêu khó của \"JUMP Không Gian 2D!\" Tàu Sao Ngọt Ngào",
         "hide_desc": "",
         "hide": false
     },
@@ -10759,6 +10967,86 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055701": {
+        "id": "4055701",
+        "series_id": "5",
+        "title": "Ta Cùng Ngươi Và Ta Giằng Co Đã Lâu",
+        "desc": "Khi giả hóa thật thì thật cũng thành giả, ảo thuật biến người sống chính là Aha",
+        "hide_desc": "※ Aha chỉ là một cái tên, một bí danh, bạn có thể tên là Aha, tôi cũng có thể tên là Aha, bọn họ đều có thể, sau khi bỏ bí danh này đi thì sao? Aha rốt cuộc là ai... Đáp án, sẽ được tiết lộ trong màn ảo thuật tiếp theo.",
+        "hide": false
+    },
+    "4055702": {
+        "id": "4055702",
+        "series_id": "5",
+        "title": "Hồn Ma Ngưng Đọng",
+        "desc": "\"Xuyên qua bức màn, tìm lại kho báu\"",
+        "hide_desc": "※ Để lại chân dung của bạn trong phòng tranh của Tàu Sao Ngọt Ngào",
+        "hide": false
+    },
+    "4055703": {
+        "id": "4055703",
+        "series_id": "5",
+        "title": "Chọn Lọc Tự Nhiên",
+        "desc": "Tương tác với Van Động Lực Kẹo trên Tàu Sao Ngọt Ngào",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055704": {
+        "id": "4055704",
+        "series_id": "5",
+        "title": "Thì Tương Lai Hoàn Thành Tiếp Diễn",
+        "desc": "Lớp mỡ nổi của trái đất, chẳng phải là dưỡng chất của Vui Vẻ sao?",
+        "hide_desc": "※ \"Nếu người yêu sách chưa từng thử viết sách, thì khó tránh khỏi có hơi giống chỉ yêu thích trên danh nghĩa.\"",
+        "hide": false
+    },
+    "4055705": {
+        "id": "4055705",
+        "series_id": "5",
+        "title": "Khẩu Súng Của Chekhov",
+        "desc": "Nếu ở màn mở đầu có một khẩu súng treo trên sân khấu...",
+        "hide_desc": "※ \"Thì khẩu súng đó phải khai hỏa ở màn thứ sáu của câu chuyện.\"",
+        "hide": false
+    },
+    "4055706": {
+        "id": "4055706",
+        "series_id": "5",
+        "title": "Nhân Từ Thường Hại Thân",
+        "desc": "Sparkle lại châm ngòi nổ làm dân tình cháy máy rồi đấy à?",
+        "hide_desc": "※ \"Yêu chính mình, ngày mai gặp lại\"",
+        "hide": false
+    },
+    "4055711": {
+        "id": "4055711",
+        "series_id": "5",
+        "title": "Huyền Thoại QR_GOAT",
+        "desc": "Tiếp quản tiệm đồ ngọt do Nihilux để lại",
+        "hide_desc": "※ Nghe nói thực khách đến tiệm liền hát: \"QR_GOAT ơi, QR_GOAT, khi có bạn cuộc sống tươi đẹp không muộn phiền~\"",
+        "hide": false
+    },
+    "4055712": {
+        "id": "4055712",
+        "series_id": "5",
+        "title": "Ăn Mấy Bụi Linh?",
+        "desc": "Lần đầu làm ra món đồ ngọt đặc biệt",
+        "hide_desc": "※ Chúng tôi cam kết, tiệm chúng tôi không có bất kỳ Bụi Linh nào bị thương",
+        "hide": false
+    },
+    "4055713": {
+        "id": "4055713",
+        "series_id": "5",
+        "title": "Cục Cưng Chạy Trốn",
+        "desc": "Vứt bỏ món đồ ngọt 1 lần trong lúc Blade giúp đỡ",
+        "hide_desc": "※ Cũng đúng, ai bảo thùng rác không thể ăn bữa thịnh soạn chứ",
+        "hide": false
+    },
+    "4055714": {
+        "id": "4055714",
+        "series_id": "5",
+        "title": "Tôi Thắng Rồi! Hết Phần Một!",
+        "desc": "Hoàn thành cốt truyện màn 4.",
+        "hide_desc": "※ Đây chính là lộ trình trốn bản thảo của tôi ^^!",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -13748,6 +14036,62 @@
         "series_id": "7",
         "title": "Phun Sơn Tung Tóe",
         "desc": "Pearl thi triển \"Hành Bút, Huyễn Tạo Trăng Sao\" hoặc \"Hành Bút, Vẽ Ngọn Sóng Cuối\" đánh bại Khổng Tước Canvas đang ở trạng thái Sắc Màu",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075701": {
+        "id": "4075701",
+        "series_id": "7",
+        "title": "Không Độc Không Hại, Không Thể Ăn",
+        "desc": "Trong trận chiến với \"Nguyên Thể Thú Vực Sâu\", sau khi \"Nguyên Thể Thú Vực Sâu\" thi triển \"Tiệc Thánh Nguyên Sơ\", phe ta không có mục tiêu nào rơi vào \"Tê Liệt\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075702": {
+        "id": "4075702",
+        "series_id": "7",
+        "title": "Mã Lực QR_Colt, Bát Đại Thần Lực",
+        "desc": "Sau khi Aeon ★ Aha thi triển Tuyệt Kỹ, trước khi trạng thái \"Muôn Mặt Vui Vẻ\" kết thúc, tích lũy nhận được ít nhất 8 điểm \"Nguyện Lực\".",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075703": {
+        "id": "4075703",
+        "series_id": "7",
+        "title": "Tam Lệnh Ngô Thần",
+        "desc": "Trong 1 trận chiến, 3 nhân vật phe ta ngoại trừ Aeon ★ Aha đều từng trở thành \"Lệnh Sứ\", và lần lượt thông qua hiệu ứng bắt đầu hiệp cung cấp 1 điểm \"Nguyện Lực\" cho Aeon ★ Aha.",
+        "hide_desc": "※Bạn đã hiểu chưa? \"Tam Lệnh Ngô Thần\" gần âm với \"Tam Lệnh Ngũ Thân\", thật khiến người ta không nhịn được cười",
+        "hide": false
+    },
+    "4075704": {
+        "id": "4075704",
+        "series_id": "7",
+        "title": "Aha Xưa Nay Chẳng Bận Tâm Đến Việc Chuyển Sinh Sang Dị Giới",
+        "desc": "Khi dùng Aeon ★ Aha kích hoạt động tác chờ trong mê cung, vô tình bị nhầm là gờ giảm tốc",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075705": {
+        "id": "4075705",
+        "series_id": "7",
+        "title": "Ảo Thuật Thoát Thân Hoàn Hảo",
+        "desc": "xuất hiện, chỉ cần tiêu diệt 1 bàn tay là giải cứu thành công nhân vật bị bắt đi",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075706": {
+        "id": "4075706",
+        "series_id": "7",
+        "title": "Bóp Cò Vì Nữ Thần May Mắn",
+        "desc": "Trong lúc giao chiến với khuôn mặt thứ hai của \"Sọ Thần Ham Vui\", bắn liên tục và bắn ra phát súng thứ tư",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075707": {
+        "id": "4075707",
+        "series_id": "7",
+        "title": "Bằng Chứng Tính Chính Thống Của Nụ Cười",
+        "desc": "Trong trận chiến với \"'Bào Thai Triết Học' Điên Cuồng\", đánh bại nó khi Điểm Hài Hước chiếm ưu thế",
         "hide_desc": "",
         "hide": false
     },

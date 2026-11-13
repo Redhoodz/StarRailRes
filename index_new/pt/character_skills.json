@@ -12470,6 +12470,23 @@
         ],
         "icon": "icon/skill/1501_elation.png"
     },
+    "150129": {
+        "id": "150129",
+        "name": "Faces da Euforia ★ Trinca",
+        "max_level": 2,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Rastro Inato",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Quando o Caminho da Euforia ascende, o multiplicador de Dano da Perícia da Euforia aumenta, e os aliados-alvo ignoram parte da DEF do inimigo-alvo ao causar Dano. Quando \"Hahahaha\" é ativado, concede \"Êxtase\" adicional com base na quantidade de \"Arrasou!\" possuída.",
+        "desc": "Quando o Caminho da Euforia ascende, o multiplicador de Dano da Perícia da Euforia aumenta em #5[i]% do seu multiplicador original, e os aliados-alvo ignoram #1[i]% da DEF do inimigo-alvo ao causar Dano. Para cada #2[i] ponto(s) de \"Arrasou!\" acumulado(s), ativar \"Hahahaha\" também concede #3[i] \"Êxtase\", até um máximo de #4[i].",
+        "params": [
+            [0.15, 10, 1, 8, 0.5],
+            [0.2, 10, 1, 12, 1.2]
+        ],
+        "icon": "icon/skill/1501_aha.png"
+    },
     "150201": {
         "id": "150201",
         "name": "Alegria dos Dardos Emplumados",
@@ -12644,6 +12661,23 @@
             [1, 1.25, 0.16, 3, 5, 0.25]
         ],
         "icon": "icon/skill/1502_elation.png"
+    },
+    "150229": {
+        "id": "150229",
+        "name": "Faces da Euforia ★ Leitura de Mentes",
+        "max_level": 2,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Rastro Inato",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Quando o Caminho da Euforia ascende, o multiplicador de Dano do efeito \"Grande Dádiva\" aumenta. Após usar a Perícia Suprema, Yao Guang regenera uma quantidade fixa de Energia e ganha \"Êxtase\".",
+        "desc": "Quando o Caminho da Euforia ascende, o multiplicador de Dano do efeito \"Grande Dádiva\" aumenta em um valor igual a #1[i]% do seu valor original. Após usar a Perícia Suprema, Yao Guang regenera uma quantidade fixa de #2[i] Energia e ganha #4[i] ponto(s) de \"Êxtase\".",
+        "params": [
+            [0.2, 12, 0, 10],
+            [0.4, 30, 0, 10]
+        ],
+        "icon": "icon/skill/1502_aha.png"
     },
     "150301": {
         "id": "150301",
@@ -12869,6 +12903,23 @@
             [0.125, 0.1875, 0.25, 0.5]
         ],
         "icon": "icon/skill/1503_elation.png"
+    },
+    "150329": {
+        "id": "150329",
+        "name": "Faces da Euforia ★ Saltando da Página",
+        "max_level": 2,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Rastro Inato",
+        "effect": "Support",
+        "effect_text": "Suporte",
+        "simple_desc": "Quando o Caminho da Euforia ascende, o limite máximo de \"Arrasou!\" de Pearl aumenta. Quando a rodada extra concedida pela Perícia Suprema termina, os efeitos de \"Mandou Bem\" e \"Piada\" obtidos no início da rodada extra são parcialmente mantidos.",
+        "desc": "Quando o Caminho da Euforia ascende, o limite máximo de \"Arrasou!\" de Pearl aumenta para #1[i]. Quando a rodada extra concedida pela Perícia Suprema termina, #2[i]% ponto(s) de \"Mandou Bem\" e #3[i]% ponto(s) de \"Piada\" obtidos no início da rodada extra são mantidos.",
+        "params": [
+            [75, 0.1, 0.1],
+            [75, 0.2, 0.2]
+        ],
+        "icon": "icon/skill/1503_aha.png"
     },
     "150401": {
         "id": "150401",
@@ -13190,6 +13241,23 @@
         ],
         "icon": "icon/skill/1505_elation.png"
     },
+    "150529": {
+        "id": "150529",
+        "name": "Faces da Euforia ★ Das Páginas às Pétalas",
+        "max_level": 2,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Rastro Inato",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Quando o Caminho da Euforia ascende, Energia excedente pode se acumular. Após usar a Perícia Suprema, essa acumulação é removida para regenerar uma quantidade igual de Energia. Essa instância de regeneração não ativa o efeito de \"Mandou Bem\" do Talento. O Dano causado ignora parte da DEF do inimigo-alvo. Acumular uma certa quantidade de \"Arrasou!\" aumenta o multiplicador de Dano da próxima Perícia Suprema e o do Dano de Euforia causado por essa Perícia Suprema por meio do Talento. Esse efeito não pode acumular.",
+        "desc": "Quando o Caminho da Euforia ascende, a Energia excedente pode acumular até #3[i] ponto(s). Após usar a Perícia Suprema, esse acúmulo é zerado para regenerar a quantidade equivalente de Energia. Essa regeneração não ativa o efeito de ganho de \"Mandou Bem\" do Talento. O Dano causado ignora #2[i]% da DEF do inimigo-alvo. Para cada #4[i] pontos de \"Arrasou!\" acumulado(s), o multiplicador de Dano da próxima Perícia Suprema e o do Dano de Euforia causado por essa Perícia Suprema por meio do Talento aumentam em #1[i]% dos seus respectivos valores originais. Esse efeito não pode acumular.",
+        "params": [
+            [0.75, 0.1, 60, 480],
+            [1.5, 0.24, 240, 480]
+        ],
+        "icon": "icon/skill/1505_aha.png"
+    },
     "150601": {
         "id": "150601",
         "name": "Segura Esse Socão!",
@@ -13461,6 +13529,23 @@
             [1.125, 6]
         ],
         "icon": "icon/skill/1506_elation02.png"
+    },
+    "150629": {
+        "id": "150629",
+        "name": "Faces da Euforia ★ Ilusão Holográfica",
+        "max_level": 2,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Rastro Inato",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Quando o Caminho da Euforia ascende, o \"MMR Oculto\" pode gerar um excedente ao atingir seu limite máximo. O Dano CRIT aumenta. Cada 1 ponto de \"Arrasou!\" obtido concede simultaneamente uma parte do \"MMR Oculto\".",
+        "desc": "Quando o Caminho da Euforia ascende, o \"MMR Oculto\" pode gerar até #1[i] de excedente ao atingir seu limite máximo. Aumenta o Dano CRIT em #3[i]%. Para cada 1 ponto de \"Arrasou!\" obtido, concede simultaneamente \"MMR Oculto\" equivalente a #2[i]% dessa quantidade.",
+        "params": [
+            [360, 0.2, 0.4],
+            [999, 0.4, 0.4]
+        ],
+        "icon": "icon/skill/1506_aha.png"
     },
     "150701": {
         "id": "150701",
@@ -14422,6 +14507,394 @@
         ],
         "icon": "icon/skill/1510_assist03.png"
     },
+    "151101": {
+        "id": "151101",
+        "name": "Congelestrelas, Começa o Espetáculo!",
+        "max_level": 10,
+        "element": "Quantum",
+        "type": "Normal",
+        "type_text": "ATQ Básico",
+        "effect": "SingleAttack",
+        "effect_text": "Alvo Único",
+        "simple_desc": "Causa Dano de Euforia Quântico a um inimigo-alvo.",
+        "desc": "Causa #1[i]% de Dano de Euforia Quântico a um inimigo-alvo designado.",
+        "params": [
+            [0.25, 1],
+            [0.3, 1],
+            [0.35, 1],
+            [0.4, 1],
+            [0.45, 1],
+            [0.5, 1],
+            [0.55, 1],
+            [0.6, 1],
+            [0.65, 1],
+            [0.7, 1]
+        ],
+        "icon": "icon/skill/1511_basic_atk.png"
+    },
+    "151102": {
+        "id": "151102",
+        "name": "Este Emanador Foi Certificado por Aha™",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "BPSkill",
+        "type_text": "Perícia",
+        "effect": "Support",
+        "effect_text": "Suporte",
+        "simple_desc": "Permite que um personagem aliado designado (exceto esta unidade) obtenha o estado de \"Emanador da Euforia\" e, em seguida, realiza imediatamente um Ataque Extra, causando Dano de Euforia Quântico a todos os inimigos. O alvo com o estado de \"Emanador da Euforia\" tem seu atributo de Euforia aumentado e, no início da sua rodada, permite que Aeon ★ Aha obtenha \"Imaginouro\".",
+        "desc": "Faz um personagem aliado designado (exceto esta unidade) entrar no estado de \"Emanador da Euforia\" e, em seguida, desfere imediatamente um Ataque Extra, causando #2[i]% de Dano de Euforia Quântico a todos os inimigos. O estado de \"Emanador da Euforia\" dura por toda a batalha, até trocar para o próximo alvo. O alvo com o estado de \"Emanador da Euforia\" tem seu atributo de Euforia aumentado em #1[i]% e, no início da sua rodada, faz Aeon ★ Aha ganhar #6[i] ponto(s) de \"Imaginouro\".",
+        "params": [
+            [0.1, 0.25, 0, 0, 1, 1],
+            [0.11, 0.275, 0, 0, 1, 1],
+            [0.12, 0.3, 0, 0, 1, 1],
+            [0.13, 0.325, 0, 0, 1, 1],
+            [0.14, 0.35, 0, 0, 1, 1],
+            [0.15, 0.375, 0, 0, 1, 1],
+            [0.1625, 0.4062, 0, 0, 1, 1],
+            [0.175, 0.4375, 0, 0, 1, 1],
+            [0.1875, 0.4688, 0, 0, 1, 1],
+            [0.2, 0.5, 0, 0, 1, 1],
+            [0.21, 0.525, 0, 0, 1, 1],
+            [0.22, 0.55, 0, 0, 1, 1],
+            [0.23, 0.575, 0, 0, 1, 1],
+            [0.24, 0.6, 0, 0, 1, 1],
+            [0.25, 0.625, 0, 0, 1, 1]
+        ],
+        "icon": "icon/skill/1511_skill.png"
+    },
+    "151103": {
+        "id": "151103",
+        "name": "Aha! Que Haja Riso",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "Ultra",
+        "type_text": "Perícia Suprema",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "Avança Adiante a ação de Aha. Aeon ★ Aha obtém o estado de \"Faces da Euforia\". Causa Dano de Euforia Quântico massivo a todos os inimigos. Em seguida, causa Dano de Euforia Quântico a inimigos aleatórios, ricocheteando um total de 5 vez(es).",
+        "desc": "Avança Adiante a ação de Aha em #5[i]%. Aeon ★ Aha entra no estado de \"Faces da Euforia\", com duração de #6[i] rodada(s). No início de cada rodada de Aeon ★ Aha, a duração diminui em 1. Causa #2[i]% de Dano de Euforia Quântico a todos os inimigos. Depois, causa #3[i] instância(s) de Dano, com cada instância causando #4[i]% de Dano de Euforia Quântico a um inimigo aleatório.",
+        "params": [
+            [8, 1.2, 5, 0.36, 0.2, 3],
+            [8, 1.28, 5, 0.384, 0.2, 3],
+            [8, 1.36, 5, 0.408, 0.2, 3],
+            [8, 1.44, 5, 0.432, 0.2, 3],
+            [8, 1.52, 5, 0.456, 0.2, 3],
+            [8, 1.6, 5, 0.48, 0.2, 3],
+            [8, 1.7, 5, 0.51, 0.2, 3],
+            [8, 1.8, 5, 0.54, 0.2, 3],
+            [8, 1.9, 5, 0.57, 0.2, 3],
+            [8, 2, 5, 0.6, 0.2, 3],
+            [8, 2.08, 5, 0.624, 0.2, 3],
+            [8, 2.16, 5, 0.648, 0.2, 3],
+            [8, 2.24, 5, 0.672, 0.2, 3],
+            [8, 2.32, 5, 0.696, 0.2, 3],
+            [8, 2.4, 5, 0.72, 0.2, 3]
+        ],
+        "icon": "icon/skill/1511_ultimate.png"
+    },
+    "151104": {
+        "id": "151104",
+        "name": "Faça Maravilhas com Aha",
+        "max_level": 15,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Talento",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "A Perícia Suprema pode ser ativada após o \"Imaginouro\" atingir 8 ponto(s). Após atingir seu limite máximo, o \"Imaginouro\" ainda pode exceder esse limite até 10. Depois de usar o ATQ Básico, a Perícia ou a Perícia da Euforia, Aeon ★ Aha ganha \"Imaginouro\". Depois que o valor de \"Piada\" de todos os aliados atingir um determinado limite pela primeira vez, Aeon ★ Aha ganha imediatamente \"Imaginouro\" e aumenta o Dano CRIT de todos os aliados. Isso pode ser ativado novamente após o fim da rodada de Aha.",
+        "desc": "Pode ativar a Perícia Suprema depois que o \"Imaginouro\" chegar a #8[i]. Depois de atingir seu limite superior, o Imaginouro ainda pode transbordar até #11[i]. Depois de usar o ATQ Básico, a Perícia ou a Perícia da Euforia, Aeon ★ Aha ganha #7[i] de \"Imaginouro\". Depois que os pontos de \"Piada\" de todos os aliados chegam a #2[i] pela primeira vez, Aeon ★ Aha ganha imediatamente #3[i] de Imaginouro e aumenta o Dano CRIT de todos os aliados em #9[i]%, durando #10[i] rodada(s). Isso pode ser ativado novamente depois que a rodada de Aha terminar.",
+        "params": [
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.2,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.22,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.24,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.26,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.28,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.3,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.325,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.35,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.375,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.4,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.42,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.44,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.46,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.48,
+                3,
+                10
+            ],
+            [
+                1,
+                40,
+                1,
+                0,
+                20,
+                8,
+                1,
+                8,
+                0.5,
+                3,
+                10
+            ]
+        ],
+        "icon": "icon/skill/1511_talent.png"
+    },
+    "151106": {
+        "id": "151106",
+        "name": "Ataque",
+        "max_level": 1,
+        "element": "Quantum",
+        "type": "MazeNormal",
+        "type_text": "",
+        "effect": "MazeAttack",
+        "effect_text": "",
+        "simple_desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+        "desc": "Ataca um inimigo, e, quando a batalha começa, reduz a Tenacidade do alvo inimigo do Tipo correspondente.",
+        "params": [],
+        "icon": "icon/skill/1511_basic_atk.png"
+    },
+    "151107": {
+        "id": "151107",
+        "name": "ABRACADABRA!",
+        "max_level": 1,
+        "element": "",
+        "type": "Maze",
+        "type_text": "Técnica",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Após usar a Técnica, cria uma Dimensão Especial ao redor desta unidade. Inimigos dentro da Dimensão Especial sofrem \"Equívoco\". Inimigos que sofrem \"Equívoco\" não conseguem detectar aliados-alvo. Após entrar em combate, Aha ganha imediatamente 1 rodada extra, que leva em conta uma quantidade fixa de pontos de \"Piada\". Essa rodada não consome \"Piada\".",
+        "desc": "Após usar a Técnica, cria uma Dimensão Especial ao redor desta unidade, com duração de #2[i] segundo(s). Inimigos dentro da Dimensão Especial sofrem \"Equívoco\". Inimigos afligidos com \"Equívoco\" não conseguem detectar aliados-alvo. Após entrar em combate, Aha ganha imediatamente 1 rodada extra, que leva em conta uma quantidade fixa de #1[i] ponto(s) de \"Piada\". Essa rodada não consome pontos de \"Piada\". Só pode existir 1 Efeito de Dimensão criado pelos aliados ao mesmo tempo.",
+        "params": [
+            [20, 20]
+        ],
+        "icon": "icon/skill/1511_technique.png"
+    },
+    "151120": {
+        "id": "151120",
+        "name": "Lua Cheia Com Aha",
+        "max_level": 15,
+        "element": "Quantum",
+        "type": "ElationDamage",
+        "type_text": "Perícia da Euforia",
+        "effect": "AoEAttack",
+        "effect_text": "Área",
+        "simple_desc": "É sempre usada no fim do \"Instante Aha\", independentemente do \"ID do Participante\". Causa Dano de Euforia Quântico a todos os inimigos e causa Dano Verdadeiro com base no total de Dano não-Verdadeiro causado pelos aliados-alvo durante este Instante Aha, distribuído igualmente entre todos os inimigos.",
+        "desc": "É sempre usada no fim do Instante Aha, independentemente do \"ID do Participante\". Causa #1[i]% de Dano de Euforia Quântico a todos os inimigos e causa Dano Verdadeiro igual a #2[i]% do total de Dano não-Verdadeiro causado pelos aliados-alvo durante este Instante Aha, distribuído igualmente entre todos os inimigos.",
+        "params": [
+            [0.3, 0.2],
+            [0.33, 0.2],
+            [0.36, 0.2],
+            [0.39, 0.2],
+            [0.42, 0.2],
+            [0.45, 0.2],
+            [0.4875, 0.2],
+            [0.525, 0.2],
+            [0.5625, 0.2],
+            [0.6, 0.2],
+            [0.63, 0.2],
+            [0.66, 0.2],
+            [0.69, 0.2],
+            [0.72, 0.2],
+            [0.75, 0.2]
+        ],
+        "icon": "icon/skill/1511_elation.png"
+    },
+    "151129": {
+        "id": "151129",
+        "name": "Faces da Euforia ★ Saído do Nada",
+        "max_level": 2,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Rastro Inato",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Enquanto estiver no estado de \"Faces da Euforia\", faz o Caminho da Euforia dos aliados ascender e aprimora a \"Piada\" e \"Mandou Bem\" para \"Êxtase\" e \"Arrasou!\", respectivamente. \"Êxtase\" recupera parte da quantidade consumida quando o \"Instante Aha\" termina. Durante \"Faces da Euforia\", a Chance de CRIT de Aeon ★ Aha aumenta, e o Dano causado ignora parte da DEF do inimigo-alvo.",
+        "desc": "Enquanto estiver no estado de \"Faces da Euforia\", Aeon ★ Aha faz o Caminho da Euforia dos aliados ascender e aprimora \"Piada\" e \"Mandou Bem\" para \"Êxtase\" e \"Arrasou!\", respectivamente. \"Êxtase\" recupera #1[i]% do valor consumido quando o \"Instante Aha\" termina. Durante \"Faces da Euforia\", a Chance de CRIT de Aeon ★ Aha aumenta em #3[i]%, e o Dano causado ignora #2[i]% da DEF do inimigo-alvo.",
+        "params": [
+            [0.1, 0.3, 0.12],
+            [0.1, 0.6, 0.2]
+        ],
+        "icon": "icon/skill/1511_aha.png"
+    },
+    "151131": {
+        "id": "151131",
+        "name": "A Verdadeira História de Aha",
+        "max_level": 1,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Talento",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Quando Aeon ★ Aha ou um aliado causa Dano, também aplica o efeito de \"Dívida de Euforia\" ao inimigo-alvo. A \"Dívida de Euforia\" persiste durante a transição de fase do inimigo-alvo.",
+        "desc": "Quando Aeon ★ Aha ou um aliado causa Dano, também aplica o efeito de \"Dívida de Euforia\" ao inimigo-alvo, em um valor igual a #1[i]% da perda de PV do alvo. A \"Dívida de Euforia\" persiste durante a transição de fase do inimigo-alvo, com limite de #3[i]% dos PV máximos do alvo.",
+        "params": [
+            [0.25, 1, 0.1]
+        ],
+        "icon": "icon/skill/1511_aeon.png"
+    },
     "151201": {
         "id": "151201",
         "name": "O Mar Canta no Meu Tom",
@@ -14771,6 +15244,23 @@
             [0.75, 0.2625, 10, 0.225]
         ],
         "icon": "icon/skill/1513_elation02.png"
+    },
+    "151329": {
+        "id": "151329",
+        "name": "Faces da Euforia ★ Jogo de Três Cartas",
+        "max_level": 2,
+        "element": "",
+        "type": "Talent",
+        "type_text": "Rastro Inato",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Quando o Caminho da Euforia ascende, se Aeon ★ Aha for o único aliado de Euforia, o efeito do Rastro \"Desfrute as Marés Furiosas\" que normalmente exige que Aventurine - Veraneio seja o único personagem da Euforia também entrará em vigor, e esse efeito será aprimorado: a VEL de todos os aliados aumenta. Depois que um aliado atacar, Aventurine - Veraneio ganha \"Fervor\" e \"Êxtase\" adicional.",
+        "desc": "Quando o Caminho da Euforia ascende, se Aeon ★ Aha for o único aliado da Euforia, o efeito do Rastro \"Desfrute as Marés Furiosas\" que normalmente requer que Aventurine - Veraneio seja o único personagem da Euforia também entrará em vigor, e esse efeito será aprimorado: a VEL de todos os aliados aumenta em #2[i]%. Depois que um aliado atacar, Aventurine - Veraneio ganha #3[i] de \"Fervor\" adicional e #4[i] de \"Êxtase\".",
+        "params": [
+            [0, 0.15, 1, 1],
+            [0, 0.25, 2, 2]
+        ],
+        "icon": "icon/skill/1513_aha.png"
     },
     "800101": {
         "id": "800101",
@@ -16355,6 +16845,23 @@
         ],
         "icon": "icon/skill/8009_elation.png"
     },
+    "800929": {
+        "id": "800929",
+        "name": "Faces da Euforia ★ Armadura do Protagonismo",
+        "max_level": 2,
+        "element": "Thunder",
+        "type": "Talent",
+        "type_text": "Rastro Inato",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Quando o Caminho da Euforia ascender, o efeito de aumento de Dano CRIT fornecido pela Perícia Suprema aumenta ainda mais e passa a afetar todos os aliados. Antes de a Perícia Suprema ativar a Perícia da Euforia de Aeon ★ Aha, ela também ativa uma instância adicional da Perícia da Euforia {F#da Desbravadora}{M#do Desbravador}. O multiplicador de Dano dessa Perícia da Euforia aumenta e é calculado com base no maior valor de \"Arrasou!\" possuído pelos personagens aliados. Em seguida, a Perícia da Euforia de Aeon ★ Aha é ativada, e seu Dano Verdadeiro passa a ser calculado com base no Dano causado pela Perícia da Euforia {F#da Desbravadora}{M#do Desbravador} mencionada acima, sendo distribuído igualmente entre todos os inimigos.",
+        "desc": "Quando o Caminho da Euforia ascender, o efeito de Bônus de Dano CRIT da Perícia Suprema aumenta adicionalmente em #1[i]% e passa a afetar todos os aliados. Antes de a Perícia Suprema ativar a Perícia da Euforia de Aeon ★ Aha, ela também ativa uma instância da Perícia da Euforia {F#da Desbravadora}{M#do Desbravador}. O multiplicador de Dano dessa Perícia da Euforia aumenta em #2[i]% do seu valor original e é calculado com base no maior valor de \"Arrasou!\" entre os personagens aliados. Em seguida, a Perícia da Euforia de Aeon ★ Aha é ativada, e seu Dano Verdadeiro passa a ser calculado com base em #3[i]% do Dano causado pela Perícia da Euforia {F#da Desbravadora}{M#do Desbravador} mencionada acima, sendo distribuído igualmente entre todos os inimigos.",
+        "params": [
+            [0.2, 2, 0.2],
+            [0.3, 3, 0.2]
+        ],
+        "icon": "icon/skill/8009_aha.png"
+    },
     "801001": {
         "id": "801001",
         "name": "Todo Mundo Fazendo Barulho!",
@@ -16529,6 +17036,23 @@
             [8, 0.25, 0.75]
         ],
         "icon": "icon/skill/8010_elation.png"
+    },
+    "801029": {
+        "id": "801029",
+        "name": "Faces da Euforia ★ Armadura do Protagonismo",
+        "max_level": 2,
+        "element": "Thunder",
+        "type": "Talent",
+        "type_text": "Rastro Inato",
+        "effect": "Enhance",
+        "effect_text": "Aprimoramento",
+        "simple_desc": "Quando o Caminho da Euforia ascender, o efeito de aumento de Dano CRIT fornecido pela Perícia Suprema aumenta ainda mais e passa a afetar todos os aliados. Antes de a Perícia Suprema ativar a Perícia da Euforia de Aeon ★ Aha, ela também ativa uma instância adicional da Perícia da Euforia {F#da Desbravadora}{M#do Desbravador}. O multiplicador de Dano dessa Perícia da Euforia aumenta e é calculado com base no maior valor de \"Arrasou!\" possuído pelos personagens aliados. Em seguida, a Perícia da Euforia de Aeon ★ Aha é ativada, e seu Dano Verdadeiro passa a ser calculado com base no Dano causado pela Perícia da Euforia {F#da Desbravadora}{M#do Desbravador} mencionada acima, sendo distribuído igualmente entre todos os inimigos.",
+        "desc": "Quando o Caminho da Euforia ascender, o efeito de Bônus de Dano CRIT da Perícia Suprema aumenta adicionalmente em #1[i]% e passa a afetar todos os aliados. Antes de a Perícia Suprema ativar a Perícia da Euforia de Aeon ★ Aha, ela também ativa uma instância da Perícia da Euforia {F#da Desbravadora}{M#do Desbravador}. O multiplicador de Dano dessa Perícia da Euforia aumenta em #2[i]% do seu valor original e é calculado com base no maior valor de \"Arrasou!\" entre os personagens aliados. Em seguida, a Perícia da Euforia de Aeon ★ Aha é ativada, e seu Dano Verdadeiro passa a ser calculado com base em #3[i]% do Dano causado pela Perícia da Euforia {F#da Desbravadora}{M#do Desbravador} mencionada acima, sendo distribuído igualmente entre todos os inimigos.",
+        "params": [
+            [0.2, 2, 0.2],
+            [0.3, 3, 0.2]
+        ],
+        "icon": "icon/skill/8010_aha.png"
     },
     "1100401": {
         "id": "1100401",

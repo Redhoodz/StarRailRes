@@ -863,5 +863,31 @@
             []
         ],
         "icon": "icon/relic/328.png"
+    },
+    "329": {
+        "id": "329",
+        "name": "Vui Vẻ Phút Chốc Của Thần",
+        "desc": [
+            "Tăng 6% Tốc Độ của người trang bị. Khi Độ Vui Vẻ của người trang bị lớn hơn hoặc bằng 40%, khi vào chiến đấu sẽ lập tức Ưu Tiên Hành Động 40%."
+        ],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ]
+        ],
+        "icon": "icon/relic/329.png"
+    },
+    "330": {
+        "id": "330",
+        "name": "Viện Dị Dung Á Không Gian",
+        "desc": [
+            "Tăng 6% Tốc Độ của người trang bị, khi Tốc Độ của người trang bị lớn hơn hoặc bằng 145, sau khi vào chiến đấu sẽ tăng 18% Tấn Công Kích Phá của toàn phe ta, hiệu ứng này không thể cộng dồn."
+        ],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ]
+        ],
+        "icon": "icon/relic/330.png"
     }
 }

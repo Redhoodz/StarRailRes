@@ -979,6 +979,16 @@
         "preview": "image/light_cone_preview/22008.png",
         "portrait": "image/light_cone_portrait/22008.png"
     },
+    "22009": {
+        "id": "22009",
+        "name": "Hẹn Gặp Lại Tại Tận Thế Nhé!",
+        "rarity": 4,
+        "path": "Elation",
+        "desc": "Màn ảo thuật của Aeon đã khép lại, dư âm của kỳ tích vẫn đang chấn động khắp vũ trụ.\nGiống như hàng ngàn Hổ Phách Kỷ trước, \"Khai Phá\" và \"Vui Vẻ\" một lần nữa kề vai sát cánh, và rồi cũng sẽ lại chia ngả tiến bước.\nKhông ai biết tương lai sẽ ra sao, nhưng ước hẹn thì chưa từng thay đổi.\n\"Biết rồi, tôi sẽ gieo rắc biến số cho vũ trụ, tạo ra một hành trình đan xen giữa những điều bí ẩn và những điều bất ngờ~\"\nBóng dáng Ngài biến mất trong vũ trụ, tiếng cười nói theo gió vọng đến...\n\"Hãy đi hết con đường mà Akivili chưa đi, sau đó, gặp lại nhau tại Tận Thế nhé!\"",
+        "icon": "icon/light_cone/22009.png",
+        "preview": "image/light_cone_preview/22009.png",
+        "portrait": "image/light_cone_portrait/22009.png"
+    },
     "23000": {
         "id": "23000",
         "name": "Chuyến Tàu Đêm Trên Dải Ngân Hà",
@@ -1628,6 +1638,16 @@
         "icon": "icon/light_cone/23064.png",
         "preview": "image/light_cone_preview/23064.png",
         "portrait": "image/light_cone_portrait/23064.png"
+    },
+    "23065": {
+        "id": "23065",
+        "name": "Khi Tiếng \"Aha\" Đầu Tiên Vang Lên",
+        "rarity": 5,
+        "path": "Elation",
+        "desc": "Ngài từng là diễn viên chính chói sáng nhất trên sân khấu.\nNhững vì sao xoay vần ngày đêm theo vòng quay ngựa gỗ, Ngài dùng ảo thuật thắp sáng hoàng hôn ảm đạm.\nKhi tiếng \"Aha\" đầu tiên vang lên, chúng sinh bật cười không ngừng.\nNgài từng là bậc thầy tạo giấc mơ tuyệt vời nhất sau cánh gà, dùng mưu kế khuấy đảo vũ trụ, dùng sự hài hước trêu ghẹo ác thú.\nDưới sự đạo diễn của Ngài, từng buổi lưu diễn lặng lẽ khai mạc dưới Ảo Nguyệt, mang hy vọng đến cho từng tâm nguyện.\nKhi mọi người đã quen ngồi trên khán đài, chờ đợi những kích thích giác quan mới, \"Vui Vẻ\" dường như đã có câu trả lời tiêu chuẩn.\nKhi trò chơi cuối cùng bắt đầu, bức màn kéo lên, trên sân khấu lại chỉ còn sót lại một chiếc mặt nạ của thần.\nCó người chọn phá vỡ sự tĩnh lặng, có người thử bước lên sân khấu, Ngài đóng vai một khán giả trung thành, reo hò cho \"Thời Khắc Aha\" của mỗi người...\n\"Aha không phải tên của Vui Vẻ, thứ gọi là Vui Vẻ, là đáp án mà mỗi người phải tự mình đi tìm~\"\nKhông ai để ý Ngài rời đi từ khi nào, cũng không ai biết Ngài đã đi đâu.\nChỉ là trong thời khắc một vài sinh mệnh ra đời, đêm pháo hoa nở rộ, hay một góc cánh gà sân khấu nào đó chưa lên đèn...\nTrong hàng tỷ người thỉnh thoảng sẽ truyền đến một tiếng cười nhẹ, giống như vừa mới đi ngang qua, lại giống như chưa từng đi xa.",
+        "icon": "icon/light_cone/23065.png",
+        "preview": "image/light_cone_preview/23065.png",
+        "portrait": "image/light_cone_portrait/23065.png"
     },
     "24000": {
         "id": "24000",

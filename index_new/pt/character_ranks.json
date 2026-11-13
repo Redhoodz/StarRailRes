@@ -6455,9 +6455,7 @@
         "level_up_skills": [
             { "id": "150303", "num": 2 },
             { "id": "150301", "num": 1 },
-            { "id": "150320", "num": 1 },
-            { "id": "150308", "num": 1 },
-            { "id": "150310", "num": 1 }
+            { "id": "150320", "num": 1 }
         ],
         "icon": "icon/skill/1503_ultimate.png"
     },
@@ -7022,6 +7020,80 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1510_rank6.png"
+    },
+    "151101": {
+        "id": "151101",
+        "name": "Quem Deu Uma Risadinha no Silêncio Primordial?",
+        "rank": 1,
+        "desc": "Ao entrar em combate, ganha imediatamente 5 \"Imaginouro\". Quando Aeon ★ Aha está presente, concede uma galhofa de 15% ao Dano de Euforia causado por todos os aliados-alvo.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank1.png"
+    },
+    "151102": {
+        "id": "151102",
+        "name": "Entre os Olhos Divinos e os Seus",
+        "rank": 2,
+        "desc": "Aprimora os efeitos de Ascensão do Caminho da Euforia: \n#{series_ref_skill_desc:UIText_SeriesSkillDescFormat,151129,2}",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank2.png"
+    },
+    "151103": {
+        "id": "151103",
+        "name": "Um Baralho Marcado de Tristeza e Alegria",
+        "rank": 3,
+        "desc": "Nv. da Perícia Suprema +2, até um máximo de Nv. 15.\nNv. do ATQ Básico +1, até um máximo de Nv. 10.\nNv. da Perícia da Euforia +1, até um máximo de Nv. 15.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151103", "num": 2 },
+            { "id": "151101", "num": 1 },
+            { "id": "151120", "num": 1 }
+        ],
+        "icon": "icon/skill/1511_ultimate.png"
+    },
+    "151104": {
+        "id": "151104",
+        "name": "O Destino de uma Piada na Caixa-Preta",
+        "rank": 4,
+        "desc": "O multiplicador do Dano Verdadeiro causado pela Perícia da Euforia aumenta em 25% do seu valor original. Quando Aeon ★ Aha causa Dano de Euforia, 100% adicional do total de \"Mandou Bem\" dos aliados será levado em consideração.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank4.png"
+    },
+    "151105": {
+        "id": "151105",
+        "name": "Moi no Palco e Eu nos Bastidores",
+        "rank": 5,
+        "desc": "Nv. da Perícia +2, até um máximo de Nv. 15.\nNv. do Talento +2, até um máximo de Nv. 15.\nNv. da Perícia da Euforia +1, até um máximo de Nv. 15.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151102", "num": 2 },
+            { "id": "151104", "num": 2 },
+            { "id": "151120", "num": 1 }
+        ],
+        "icon": "icon/skill/1511_skill.png"
+    },
+    "151106": {
+        "id": "151106",
+        "name": "Pois Aha Disse: Você é Euforia",
+        "rank": 6,
+        "desc": "Os inimigos-alvo sempre carregam o efeito \"Dívida de Euforia\", que ocupa pelo menos 20% dos PV máximos deles. Após Aeon ★ Aha usar a Perícia Suprema pela primeira vez, a ação de \"Aha\" é Avançada Adiante em 100%, e Aha ganha 100 \"Piada(s)\".",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank6.png"
     },
     "151201": {
         "id": "151201",

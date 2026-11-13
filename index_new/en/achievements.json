@@ -1788,7 +1788,7 @@
         "series_id": "3",
         "title": "1 vs. 2 Billion",
         "desc": "The ultimate last-ditch comeback!",
-        "hide_desc": "※ Robin has accepted the challenge, and her opponents will be Ratite's 20 billion fans",
+        "hide_desc": "※ Robin has accepted the challenge, and her opponents will be Ratite's 2 billion fans",
         "hide": false
     },
     "4035504": {
@@ -1876,6 +1876,78 @@
         "series_id": "3",
         "title": "Homo Ludens",
         "desc": "※ Recreate the myth of the eight Actors, and relaunch the Phantasmoon Games",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035701": {
+        "id": "4035701",
+        "series_id": "3",
+        "title": "Dessert Offering for Oroboros",
+        "desc": "Not bad... just not enough to fill the gap between the teeth",
+        "hide_desc": "※ Board Aha's Starfroster",
+        "hide": false
+    },
+    "4035702": {
+        "id": "4035702",
+        "series_id": "3",
+        "title": "They Who Fish at the Stars",
+        "desc": "Give me a fishing rod, and I'll reel in the Voracity with it",
+        "hide_desc": "※ Build a fishing rod on the Starfroster",
+        "hide": false
+    },
+    "4035703": {
+        "id": "4035703",
+        "series_id": "3",
+        "title": "Elation's Mirage",
+        "desc": "Life can never possess happiness. It can only catch a glimpse of it, as fleeting as a mirage",
+        "hide_desc": "※ Enter the \"Moment of Joy\"",
+        "hide": false
+    },
+    "4035704": {
+        "id": "4035704",
+        "series_id": "3",
+        "title": "The Tree and the Sea",
+        "desc": "THEY and THEY once arrived here",
+        "hide_desc": "※ Follow Aha and witness a stop that belongs to Akivili",
+        "hide": false
+    },
+    "4035705": {
+        "id": "4035705",
+        "series_id": "3",
+        "title": "On Hiatus",
+        "desc": "Due to force majeure, the author and the story's characters are currently out on a field trip...",
+        "hide_desc": "※ Return to Planarcadia and bid everyone farewell",
+        "hide": false
+    },
+    "4035706": {
+        "id": "4035706",
+        "series_id": "3",
+        "title": "There Is Such Loneliness in That Gold",
+        "desc": "Though the nightwatchmen have filled her to the brim with ancient Elation...",
+        "hide_desc": "※ That is no longer the moon our ancestors once gazed upon",
+        "hide": false
+    },
+    "4035707": {
+        "id": "4035707",
+        "series_id": "3",
+        "title": "To Those Who Laugh",
+        "desc": "Complete the \"Jump Time\" in Moment of Joy, a performance like yours deserves a grand curtain call",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035708": {
+        "id": "4035708",
+        "series_id": "3",
+        "title": "Raccoon Ball",
+        "desc": "Activate the spinning cupcake and kick the Starfroster into high gear",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035709": {
+        "id": "4035709",
+        "series_id": "3",
+        "title": "Frosting Dash!",
+        "desc": "Starfroster, starting up! Full speed ahead!",
         "hide_desc": "",
         "hide": false
     },
@@ -4900,6 +4972,142 @@
         "series_id": "4",
         "title": "The Exit 8",
         "desc": "In the \"Interplanar Jump!\" in the Life Sciences Institute corridor, choose the correct teleporter every time",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045701": {
+        "id": "4045701",
+        "series_id": "4",
+        "title": "Sublime Object of Golden Legend",
+        "desc": "Collect all reward cards from Star Rabbit",
+        "hide_desc": "※ \"The bright moon adorns your window, while you adorn someone else's dreams...\"",
+        "hide": false
+    },
+    "4045702": {
+        "id": "4045702",
+        "series_id": "4",
+        "title": "The Wispae Chronicles",
+        "desc": "Cumulatively rally 220 Nameless Wispae in Planarcadia and Astropolis",
+        "hide_desc": "※ \"Words became flesh.\"",
+        "hide": false
+    },
+    "4045703": {
+        "id": "4045703",
+        "series_id": "4",
+        "title": "All-Star Lineup Unlocked",
+        "desc": "During the \"Jump Time\" in Moment of Joy, touch every name in the credits",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045704": {
+        "id": "4045704",
+        "series_id": "4",
+        "title": "Stars Orbit Like Destiny's Entanglement",
+        "desc": "You want some motion sickness pills?",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045705": {
+        "id": "4045705",
+        "series_id": "4",
+        "title": "Doors of the Face, Lamps of the Mouth",
+        "desc": "Turn on the lights in the secret room and open the hidden passage",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045706": {
+        "id": "4045706",
+        "series_id": "4",
+        "title": "Eight Levels Underwater",
+        "desc": "Head underwater from the peripheral area of the Starfroster and find a way to the stranded sailboat",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045707": {
+        "id": "4045707",
+        "series_id": "4",
+        "title": "One, Two, Ready? Fire!",
+        "desc": "Launch yourself off the Starfroster",
+        "hide_desc": "※ The Spheroid truly is a brilliant invention",
+        "hide": false
+    },
+    "4045708": {
+        "id": "4045708",
+        "series_id": "4",
+        "title": "The Cake Is Not a Lie",
+        "desc": "Play a Bizarre Melody on the Starfroster and find a \"special snack\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045709": {
+        "id": "4045709",
+        "series_id": "4",
+        "title": "One Piece of Cake",
+        "desc": "Complete the Grand Treasury Challenge of the sailboats around the Starfroster",
+        "hide_desc": "※ When you gaze into Elation, you and Elation laugh joyfully",
+        "hide": false
+    },
+    "4045712": {
+        "id": "4045712",
+        "series_id": "4",
+        "title": "Arcadia Variation: The Frog Prince",
+        "desc": "Play a Bizarre Melody and find the mysterious creature hiding in the Starfroster",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045713": {
+        "id": "4045713",
+        "series_id": "4",
+        "title": "Arcadia Variation: Rabbit Hole",
+        "desc": "Play a Bizarre Melody and find the mysterious creature hiding in the Moment of Joy",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045714": {
+        "id": "4045714",
+        "series_id": "4",
+        "title": "A Chorus Dedicated to Filth and Beauty",
+        "desc": "Complete all gameplay content in Floating Grease Chronicles in the Starfroster and Moment of Joy",
+        "hide_desc": "※ \"My treasure doesn't lie within a world of fantasy, does it?\"",
+        "hide": false
+    },
+    "4045715": {
+        "id": "4045715",
+        "series_id": "4",
+        "title": "Idol Destruction Operation",
+        "desc": "Land several hits on The Laughter's standee. Ah, how embarrassing for Aha",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045716": {
+        "id": "4045716",
+        "series_id": "4",
+        "title": "Jump All the Way at the World's End",
+        "desc": "Complete all the \"Interplanar Jump!\" challenges in Moment of Joy",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045717": {
+        "id": "4045717",
+        "series_id": "4",
+        "title": "Arcadia Variation: The Wind in the Willows",
+        "desc": "Meet the strange wispae after finding all the mysterious creatures",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045718": {
+        "id": "4045718",
+        "series_id": "4",
+        "title": "Find the Queen of Hearts",
+        "desc": "Select the correct card in the card-guessing game of Starfroster's \"Interplanar Jump!\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045719": {
+        "id": "4045719",
+        "series_id": "4",
+        "title": "Don't Blink Or You'll Miss the Miracle",
+        "desc": "Select the correct card in the super-hard card-guessing game of Starfroster's \"Interplanar Jump!\"",
         "hide_desc": "",
         "hide": false
     },
@@ -10759,6 +10967,86 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055701": {
+        "id": "4055701",
+        "series_id": "5",
+        "title": "A Long Dance With Me, Yourself, and I",
+        "desc": "Truth becomes fiction when fiction turns real. Standard disappearing acts are Aha's ideal.",
+        "hide_desc": "※ \"Aha\" is nothing more than a label, a simple alias. You could be called Aha, I could be called Aha, and so could they. Once you strip that alias away, who is Aha then? The answer awaits... in our next magic trick.",
+        "hide": false
+    },
+    "4055702": {
+        "id": "4055702",
+        "series_id": "5",
+        "title": "Spectral Pose",
+        "desc": "\"Pass through the curtain, and reclaim the treasure\"",
+        "hide_desc": "※ Leave your portrait in the Starfroster's gallery",
+        "hide": false
+    },
+    "4055703": {
+        "id": "4055703",
+        "series_id": "5",
+        "title": "Natural Selection",
+        "desc": "Interact with the Candy Power Valve on the Starfroster",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055704": {
+        "id": "4055704",
+        "series_id": "5",
+        "title": "Future Perfect Continuous Tense",
+        "desc": "Isn't the floating grease of the Earth but nourishment for the Elation?",
+        "hide_desc": "※ \"A book lover who never writes is just paying lip service.\"",
+        "hide": false
+    },
+    "4055705": {
+        "id": "4055705",
+        "series_id": "5",
+        "title": "Chekhov's Gun",
+        "desc": "If there is a rifle hanging on the wall in the first act...",
+        "hide_desc": "※ \"In the sixth act, it absolutely must go off.\"",
+        "hide": false
+    },
+    "4055706": {
+        "id": "4055706",
+        "series_id": "5",
+        "title": "Undoings Born of Leniency",
+        "desc": "Sparkle's sparked another sparkwar?",
+        "hide_desc": "※ \"Love ya-self, see ya tomorrow\"",
+        "hide": false
+    },
+    "4055711": {
+        "id": "4055711",
+        "series_id": "5",
+        "title": "QR_GOAT Legend",
+        "desc": "Take over the dessert shop Nihilux left behind",
+        "hide_desc": "※ Rumor has it customers start singing the moment they walk in: \"QR_GOAT, oh, QR_GOAT! With you around, life's sweet and trouble-free~\"",
+        "hide": false
+    },
+    "4055712": {
+        "id": "4055712",
+        "series_id": "5",
+        "title": "How Many Wispae Should I Eat?",
+        "desc": "Make a special dessert for the first time",
+        "hide_desc": "※ We promise that not a single wispae was harmed in the making of this dish",
+        "hide": false
+    },
+    "4055713": {
+        "id": "4055713",
+        "series_id": "5",
+        "title": "Runaway Sweetheart",
+        "desc": "Throw away a dessert while Blade is helping",
+        "hide_desc": "※ Fair enough, who says a trashcan can't feast too?",
+        "hide": false
+    },
+    "4055714": {
+        "id": "4055714",
+        "series_id": "5",
+        "title": "I Won! End of Part 1!",
+        "desc": "Complete Act IV of the story",
+        "hide_desc": "※ This is my escape route from deadlines ^^!",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -13748,6 +14036,62 @@
         "series_id": "7",
         "title": "Splashtoon",
         "desc": "Pearl uses Brushstroke: Imagenate the Starry Night or Brushstroke: Render the Great Wave to defeat a Canvas Peacock that is in the Color state",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075701": {
+        "id": "4075701",
+        "series_id": "7",
+        "title": "Non-Toxic, Harmless, Not for Consumption",
+        "desc": "In the battle with the \"Depth Crawler Protoplasm,\" no allies are afflicted with \"Paralysis\" after the \"Depth Crawler Protoplasm\" uses \"Primordial Communion\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075702": {
+        "id": "4075702",
+        "series_id": "7",
+        "title": "QR_Coltpower, Eight Godly Powers",
+        "desc": "After Aeon ★ Aha uses her Ultimate, gain at least 8 \"Wishpower\" before the \"Faces of Elation\" state ends",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075703": {
+        "id": "4075703",
+        "series_id": "7",
+        "title": "Three Divine Commandments",
+        "desc": "In a single combat, have 3 ally characters aside from Aeon ★ Aha become \"Emanators,\" and each provide Aeon ★ Aha with 1 \"Wishpower\" through the effect when the turn begins",
+        "hide_desc": "※ Her commands are pretty much commandments, aren't they?",
+        "hide": false
+    },
+    "4075704": {
+        "id": "4075704",
+        "series_id": "7",
+        "title": "Aha Has Never Cared About Reincarnation Into Another World",
+        "desc": "Mistaken for a speed bump when triggering Aeon ★ Aha's idle animation in the overworld",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075705": {
+        "id": "4075705",
+        "series_id": "7",
+        "title": "A Perfect Escape Trick",
+        "desc": "In the battle against the first face of the \"Divine Skull of Indulgence,\" when the four \"Giant Hand of Destiny\" appear, rescue the captured character by defeating only one hand",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075706": {
+        "id": "4075706",
+        "series_id": "7",
+        "title": "Pull the Trigger for Lady Luck",
+        "desc": "In the battle against the second face of the \"Divine Skull of Indulgence,\" fire continuously and land the fourth shot",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075707": {
+        "id": "4075707",
+        "series_id": "7",
+        "title": "Smile's Proof of Legitimacy",
+        "desc": "Defeat \"'Embryo of Philosophy' Madness\" while holding the Punchline advantage",
         "hide_desc": "",
         "hide": false
     },

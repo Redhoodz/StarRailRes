@@ -86,6 +86,7 @@
         "1508": ["Rin Tohsaka"],
         "1509": ["Gilgamesh"],
         "1510": ["Himeko • Nova"],
+        "1511": ["Aiôn ★ Aha"],
         "1512": ["Robin • Estivaria"],
         "1513": ["Aventurine • Croisette"],
         "8001": ["{NICKNAME}"],
@@ -198,6 +199,7 @@
         "22006": ["Envol vers un lendemain rosé"],
         "22007": ["L'avenir nous verra réunis"],
         "22008": ["Course vers l'horizon"],
+        "22009": ["Retrouvons-nous au bout du monde !"],
         "23000": ["Nuit sur la voie lactée"],
         "23001": ["Dans la nuit"],
         "23002": ["Quelque chose d'irremplaçable"],
@@ -263,6 +265,7 @@
         "23062": ["Je suis tel que tu me vois"],
         "23063": ["À vous !"],
         "23064": ["Un déferlement d'été"],
+        "23065": ["Au premier écho d'Aha"],
         "24000": ["La chute d'un Aiôn"],
         "24001": ["Exploration de la mer stellaire"],
         "24002": ["Texture des Mémoires"],
@@ -333,6 +336,8 @@
         "325": ["Punklorde : niveau zéro"],
         "326": ["Épicentre du cosmos"],
         "327": ["Ancrage de l'étoile déchue"],
-        "328": ["Institut cosmique des Sciences de la Vie"]
+        "328": ["Institut cosmique des Sciences de la Vie"],
+        "329": ["Moment d'allégresse divin"],
+        "330": ["Centre SCA"]
     }
 }

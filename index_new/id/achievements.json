@@ -1836,7 +1836,7 @@
         "series_id": "3",
         "title": "Aha! Aha?",
         "desc": "Jadi, siapa kamu sebenarnya?!",
-        "hide_desc": "※ Awalnya, aku ingin berbaur dengan kalian sebagai orang biasa ... tapi sekarang, kubuka kartuku.",
+        "hide_desc": "※ Awalnya, aku ingin berbaur dengan kalian sebagai orang biasa ... tapi sekarang, aku akan terus terang",
         "hide": false
     },
     "4035601": {
@@ -1876,6 +1876,78 @@
         "series_id": "3",
         "title": "Manusia Pemain",
         "desc": "※ Hadirkan kembali kisah delapan Actor dan mulai ulang Permainan Bulan Imajinasi",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035701": {
+        "id": "4035701",
+        "series_id": "3",
+        "title": "Camilan Manis untuk Oroboros",
+        "desc": "Rasanya tidak buruk ... hanya saja, tidak mengenyangkan.",
+        "hide_desc": "※ Naiki Starfroster Aha",
+        "hide": false
+    },
+    "4035702": {
+        "id": "4035702",
+        "series_id": "3",
+        "title": "Pemancing Bintang-Bintang",
+        "desc": "Aku mampu memancing \"Voracity\" hanya bermodalkan sebuah joran.",
+        "hide_desc": "※ Pasang joran untuk Starfroster.",
+        "hide": false
+    },
+    "4035703": {
+        "id": "4035703",
+        "series_id": "3",
+        "title": "Fatamorgana Kebahagiaan",
+        "desc": "Manusia tak pernah benar-benar bisa menikmati kebahagiaan, hanya bayangannya yang semu bak fatamorgana.",
+        "hide_desc": "※ Masuki \"Kegembiraan Sesaat\".",
+        "hide": false
+    },
+    "4035704": {
+        "id": "4035704",
+        "series_id": "3",
+        "title": "Pohon dan Laut",
+        "desc": "\"Dia\" dan \"Dia\", pernah singgah di sini.",
+        "hide_desc": "※ Ikuti Aha untuk menyaksikan sebuah perhentian milik Akivili.",
+        "hide": false
+    },
+    "4035705": {
+        "id": "4035705",
+        "series_id": "3",
+        "title": "Hiatus Sementara",
+        "desc": "Penulis dan karakter dalam cerita sedang keluar untuk mencari inspirasi akibat suatu kondisi yang tidak kondusif ....",
+        "hide_desc": "※ Kembali ke Planarcadia dan berpamitan dengan semua orang.",
+        "hide": false
+    },
+    "4035706": {
+        "id": "4035706",
+        "series_id": "3",
+        "title": "Hamparan Emas Itu Menyimpan Banyak Sekali Kesepian",
+        "desc": "Meski para penjaga malam telah memenuhinya dengan Elation kuno ....",
+        "hide_desc": "※ Ia bukan lagi bulan yang sama dengan yang dilihat oleh para leluhur.",
+        "hide": false
+    },
+    "4035707": {
+        "id": "4035707",
+        "series_id": "3",
+        "title": "Hormat kepada Para Pembawa Tawa",
+        "desc": "Selesaikan \"Momen Jump\" di Kegembiraan Sesaat, penampilan kalian layak mendapat penutup yang megah",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035708": {
+        "id": "4035708",
+        "series_id": "3",
+        "title": "Bola Rakun",
+        "desc": "Aktifkan kue putar kecil, pacu Starfroster dengan daya penuh",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035709": {
+        "id": "4035709",
+        "series_id": "3",
+        "title": "Camilan Manis, Maju!",
+        "desc": "Nyalakan Starfroster! Maju dengan kecepatan penuh!",
         "hide_desc": "",
         "hide": false
     },
@@ -4900,6 +4972,142 @@
         "series_id": "4",
         "title": "Pintu Keluar 8",
         "desc": "Pilih setiap portal teleport dengan benar di \"Jump 2D!\" Koridor Institut Penelitian Ilmu Kehidupan",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045701": {
+        "id": "4045701",
+        "series_id": "4",
+        "title": "Konsep Penting Legenda Emas",
+        "desc": "Kumpulkan semua kartu hadiah \"Kelinci Rel Bintang\"",
+        "hide_desc": "※ \"Rembulan menghiasi jendelamu, dan dirimu menghiasi mimpi orang lain.\"",
+        "hide": false
+    },
+    "4045702": {
+        "id": "4045702",
+        "series_id": "4",
+        "title": "Kisah Wispae Fantasi",
+        "desc": "Kumpulkan total 220 wispae tanpa nama di Planarcadia dan Astropolis",
+        "hide_desc": "※ \"Kata-kata itu sudah menjadi darah dan daging.\"",
+        "hide": false
+    },
+    "4045703": {
+        "id": "4045703",
+        "series_id": "4",
+        "title": "Buka Lineup All-Star",
+        "desc": "Dalam \"Momen Jump\" di Kegembiraan Sesaat, sentuh semua nama yang ada di daftar pemeran",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045704": {
+        "id": "4045704",
+        "series_id": "4",
+        "title": "Orbit Bintang Bagaikan Jalinan Takdir",
+        "desc": "Kamu butuh obat mabuk perjalanan?",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045705": {
+        "id": "4045705",
+        "series_id": "4",
+        "title": "Pintu di Wajah, Lampu di Mulut",
+        "desc": "Nyalakan lampu di ruang rahasia dan terowongan yang tersembunyi",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045706": {
+        "id": "4045706",
+        "series_id": "4",
+        "title": "8 Tingkatan Bawah Air",
+        "desc": "Menyelamlah dari area sekitar Starfroster dan temukan jalan menuju perahu layar yang terdampar",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045707": {
+        "id": "4045707",
+        "series_id": "4",
+        "title": "Tingkat 1 dan 2 Bersiap, Tembak!",
+        "desc": "Luncurkan diri sendiri dari Starfroster",
+        "hide_desc": "※ Spheroid memang penemuan yang luar biasa.",
+        "hide": false
+    },
+    "4045708": {
+        "id": "4045708",
+        "series_id": "4",
+        "title": "Kue Bukan Kebohongan",
+        "desc": "Mainkan simfoni aneh di Starfroster dan temukan sebuah \"camilan manis yang istimewa\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045709": {
+        "id": "4045709",
+        "series_id": "4",
+        "title": "Sepotong Kue",
+        "desc": "Selesaikan tantangan Harta Karun Besar kapal layar di sekitar Starfroster",
+        "hide_desc": "※ Saat kamu menatap Elation, kamu dan Elation sama-sama tertawa bahagia",
+        "hide": false
+    },
+    "4045712": {
+        "id": "4045712",
+        "series_id": "4",
+        "title": "Variasi Utopia: Pangeran Katak",
+        "desc": "Mainkan Simfoni Aneh dan temukan makhluk misterius yang bersembunyi di Starfroster",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045713": {
+        "id": "4045713",
+        "series_id": "4",
+        "title": "Variasi Utopia: Lubang Kelinci",
+        "desc": "Mainkan Simfoni Aneh dan temukan makhluk misterius yang bersembunyi di Kegembiraan Sesaat",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045714": {
+        "id": "4045714",
+        "series_id": "4",
+        "title": "Untuk Paduan Suara yang Kotor dan Indah",
+        "desc": "Selesaikan semua konten gameplay \"Kisah Lemak Melayang\" di Starfroster dan Kegembiraan Sesaat",
+        "hide_desc": "※ \"Hartaku tidak ada di dunia fantasi, bukan begitu?\"",
+        "hide": false
+    },
+    "4045715": {
+        "id": "4045715",
+        "series_id": "4",
+        "title": "Gerakan Ikonoklasme",
+        "desc": "Menyerang Stand milik The Laughter yang agung berkali-kali. Aduh, memalukan Sekali",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045716": {
+        "id": "4045716",
+        "series_id": "4",
+        "title": "Jump Sepuasnya di Ujung Dunia",
+        "desc": "Selesaikan semua \"Jump 2D!\" di Kegembiraan Sesaat",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045717": {
+        "id": "4045717",
+        "series_id": "4",
+        "title": "Variasi Utopia: Angin Semilir di Hutan Dedalu",
+        "desc": "Setelah menemukan semua makhluk misterius, temui Wispaeling yang aneh",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045718": {
+        "id": "4045718",
+        "series_id": "4",
+        "title": "Menemukan Ratu Hati",
+        "desc": "Pilih kartu yang benar dalam permainan tebak kartu di \"Jump 2D!\" Starfroster",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045719": {
+        "id": "4045719",
+        "series_id": "4",
+        "title": "Jangan Berkedip atau Kamu akan Melewatkan Keajaiban",
+        "desc": "Pilih kartu yang benar dalam permainan tebak kartu super sulit di \"Jump 2D!\" Starfroster",
         "hide_desc": "",
         "hide": false
     },
@@ -10759,6 +10967,86 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055701": {
+        "id": "4055701",
+        "series_id": "5",
+        "title": "Pergulatan Lama dengan Aku dan Kita Berdua",
+        "desc": "Saat berpura-pura, yang nyata pun menjadi palsu. Sulap mengubah orang adalah Aha",
+        "hide_desc": "※ Aha hanyalah sebuah nama, sebuah panggilan. Kamu bisa dipanggil Aha, aku pun bisa, semua orang bisa. Lalu siapakah Aha yang sebenarnya setelah panggilan itu dihapus? Jawabannya akan terungkap dalam sulap berikutnya.",
+        "hide": false
+    },
+    "4055702": {
+        "id": "4055702",
+        "series_id": "5",
+        "title": "Pembekuan Hantu",
+        "desc": "\"Lewati tirai dan rebut kembali harta karun\"",
+        "hide_desc": "※ Tinggalkan potretmu di galeri Starfroster",
+        "hide": false
+    },
+    "4055703": {
+        "id": "4055703",
+        "series_id": "5",
+        "title": "Seleksi Alam",
+        "desc": "Berinteraksi dengan Katup Tenaga Permen di Starfroster",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055704": {
+        "id": "4055704",
+        "series_id": "5",
+        "title": "Menuju Masa Depan yang Sempurna",
+        "desc": "Lemak bumi yang mengapung, bukankah itu juga menjadi nutrisi bagi Elation?",
+        "hide_desc": "※ \"Kalau pencinta buku enggak pernah coba menulis buku, berarti cuma sekadar omong kosong.\"",
+        "hide": false
+    },
+    "4055705": {
+        "id": "4055705",
+        "series_id": "5",
+        "title": "Senapan Chekhov",
+        "desc": "Jika sebuah senjata sudah tergantung di panggung sejak awal ....",
+        "hide_desc": "※ \"Kalau begitu, senjata ini harus ditembakkan pada bab keenam cerita.\"",
+        "hide": false
+    },
+    "4055706": {
+        "id": "4055706",
+        "series_id": "5",
+        "title": "Terlalu Memanjakan Diri Sering Kali Merugikan Diri",
+        "desc": "Sparkle keasyikan ngobrol lagi?",
+        "hide_desc": "※ \"Sayangi dirimu, sampai jumpa besok.\"",
+        "hide": false
+    },
+    "4055711": {
+        "id": "4055711",
+        "series_id": "5",
+        "title": "Legenda Nikiluks",
+        "desc": "Mengambil alih toko kue yang ditinggalkan Nihilux",
+        "hide_desc": "※ Konon para pelanggan yang datang ke toko selalu bernyanyi, \"Nikiluks, oh Nikiluks, berkat kamu hidup jadi indah tanpa beban~\"",
+        "hide": false
+    },
+    "4055712": {
+        "id": "4055712",
+        "series_id": "5",
+        "title": "Makan Berapa Wispae?",
+        "desc": "Membuat camilan manis spesial untuk pertama kalinya",
+        "hide_desc": "※ Kami berjanji, tidak melukai satu pun wispae di toko ini",
+        "hide": false
+    },
+    "4055713": {
+        "id": "4055713",
+        "series_id": "5",
+        "title": "Si Manis yang Kabur",
+        "desc": "Membuang satu camilan manis saat Blade sedang membantu",
+        "hide_desc": "※ Iya juga, siapa bilang tempat sampah tidak boleh makan makanan mewah.",
+        "hide": false
+    },
+    "4055714": {
+        "id": "4055714",
+        "series_id": "5",
+        "title": "Aku Menang! Bagian 1 Selesai!",
+        "desc": "Selesaikan alur cerita Bab 4.",
+        "hide_desc": "※ Inilah rute kaburku dari tenggat waktu^^!",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -11922,7 +12210,7 @@
     "4072612": {
         "id": "4072612",
         "series_id": "7",
-        "title": "Heh, Cosmic Big Lotto?",
+        "title": "Heh, Lotre Besar Kosmik?",
         "desc": "Memicu efek pemulihan HP dari Talent \"Bleak Breeds Bliss\" Fu Xuan sebanyak 4 kali dalam 1 pertempuran",
         "hide_desc": "",
         "hide": true
@@ -13748,6 +14036,62 @@
         "series_id": "7",
         "title": "Semprot dan Coret Sembarangan",
         "desc": "Pearl melancarkan \"Brushstroke: Imagenate the Starry Night\" atau \"Brushstroke: Render the Great Wave\" untuk mengalahkan Canvas Peacock yang sedang dalam status Color",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075701": {
+        "id": "4075701",
+        "series_id": "7",
+        "title": "Tak Beracun, Tak Berbahaya, Tak Dapat Dikonsumsi",
+        "desc": "Dalam pertempuran melawan \"Depth Crawler Protoplasm\", tidak ada rekan tim yang memasuki status \"Paralysis\" setelah \"Depth Crawler Protoplasm\" melancarkan \"Primordial Communion\"",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075702": {
+        "id": "4075702",
+        "series_id": "7",
+        "title": "Kekuatan Kuda QR, Delapan Kekuatan Ilahi",
+        "desc": "Setelah Aeon ★ Aha melancarkan Ultimate, minimal memperoleh total 8 poin \"Wishpower\" sebelum status \"Faces of Elation\" berakhir",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075703": {
+        "id": "4075703",
+        "series_id": "7",
+        "title": "Tiga Titah Dewa",
+        "desc": "Dalam satu pertempuran, 3 karakter tim selain Aeon ★ Aha pernah menjadi \"Emanator\", dan masing-masing memberikan 1 \"Wishpower\" ke Aeon ★ Aha melalui efek saat giliran dimulai.",
+        "hide_desc": "※ Apa kamu mengerti? Perintahnya itu sudah seperti \"Tiga Titah Dewa\", mengundang gelak tawa",
+        "hide": false
+    },
+    "4075704": {
+        "id": "4075704",
+        "series_id": "7",
+        "title": "Aha Tak Pernah Merisaukan tentang Reinkarnasi ke Dunia Lain",
+        "desc": "Saat menggunakan Aeon ★ Aha untuk memicu pertunjukan siaga di labirin, secara tidak sengaja dianggap sebagai Zona Lamban",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075705": {
+        "id": "4075705",
+        "series_id": "7",
+        "title": "Trik Meloloskan Diri yang Sempurna",
+        "desc": "cukup kalahkan satu tangan untuk menyelamatkan karakter yang diculik",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075706": {
+        "id": "4075706",
+        "series_id": "7",
+        "title": "Tarik Pelatuk untuk Dewi Keberuntungan",
+        "desc": "Dalam pertarungan melawan wajah kedua \"Divine Skull of Indulgence\", tembak secara beruntun hingga tembakan keempat",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075707": {
+        "id": "4075707",
+        "series_id": "7",
+        "title": "Bukti Keotentikan Senyuman",
+        "desc": "Kalahkan \"'Embryo of Philosophy' Madness\" saat memiliki keunggulan Punchline",
         "hide_desc": "",
         "hide": false
     },

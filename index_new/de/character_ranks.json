@@ -6455,9 +6455,7 @@
         "level_up_skills": [
             { "id": "150303", "num": 2 },
             { "id": "150301", "num": 1 },
-            { "id": "150320", "num": 1 },
-            { "id": "150308", "num": 1 },
-            { "id": "150310", "num": 1 }
+            { "id": "150320", "num": 1 }
         ],
         "icon": "icon/skill/1503_ultimate.png"
     },
@@ -7022,6 +7020,80 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1510_rank6.png"
+    },
+    "151101": {
+        "id": "151101",
+        "name": "Wer kicherte in der Stille des Anfangs",
+        "rank": 1,
+        "desc": "Erhält beim Kampfeintritt sofort 5 Pkt. Wunschkraft. Wenn Äonin ★ Aha sich auf dem Kampffeld befindet, verstärkt der von allen Verbündeten verursachte Hochgefühl-SCH das Lachen um 15%.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank1.png"
+    },
+    "151102": {
+        "id": "151102",
+        "name": "Zwischen seinen Augen und dir",
+        "rank": 2,
+        "desc": "Verstärkt den Effekt der Apotheose des Pfads des Hochgefühls: \n#{series_ref_skill_desc:UIText_SeriesSkillDescFormat,151129,2}",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank2.png"
+    },
+    "151103": {
+        "id": "151103",
+        "name": "Kartendeck aus Freud und Leid",
+        "rank": 3,
+        "desc": "Ultimate-Stufe +2 bis max. St. 15. Standardangriff-Stufe +1 bis max. St. 10. Hochgefühl-Fähigkeitsstufe +1 bis max. St. 15.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151103", "num": 2 },
+            { "id": "151101", "num": 1 },
+            { "id": "151120", "num": 1 }
+        ],
+        "icon": "icon/skill/1511_ultimate.png"
+    },
+    "151104": {
+        "id": "151104",
+        "name": "Scherz in der Blackbox",
+        "rank": 4,
+        "desc": "Erhöht den Multiplikator des durch die Hochgefühl-Fähigkeit verursachten Tatsächlichen SCH um 25% des ursprünglichen Multiplikators. Wenn Äonin ★ Aha Hochgefühl-SCH verursacht, werden zusätzlich 100% der Gesamtsumme von Verdiente Leistung aller Verbündeten angerechnet.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank4.png"
+    },
+    "151105": {
+        "id": "151105",
+        "name": "Ich bin ich, und doch nicht ich",
+        "rank": 5,
+        "desc": "Fertigkeitsstufe +2 bis max. St. 15. Talentstufe +2 bis max. St. 15. Hochgefühl-Fähigkeitsstufe +1 bis max. St. 15.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151102", "num": 2 },
+            { "id": "151104", "num": 2 },
+            { "id": "151120", "num": 1 }
+        ],
+        "icon": "icon/skill/1511_skill.png"
+    },
+    "151106": {
+        "id": "151106",
+        "name": "Der Äon sagte: Du bist das Hochgefühl",
+        "rank": 6,
+        "desc": "Gegner haben stets den Effekt Hochgefühl-Schulden in Höhe von mindestens 20% ihrer jeweiligen max. LP. Nachdem Äonin ★ Aha ihren Ultimate zum ersten Mal eingesetzt hat, erhält Aha einen Aktionsvorzug von 100% und 100 Lachpunkte.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank6.png"
     },
     "151201": {
         "id": "151201",

@@ -1692,7 +1692,7 @@
     "10443": {
         "id": "10443",
         "title": "Mercusuar",
-        "desc": "Superhero model produksi massal Astropolis, bertanggung jawab menjaga keamanan seluruh kota.\nIdentitas aslinya adalah Pengantar Maut Marcus Antali, yang ingatannya telah dihapus."
+        "desc": "Superhero model produksi massal Astropolis, bertanggung jawab menjaga keamanan seluruh kota.\nMuncul secara tiba-tiba lima tahun lalu dan sangat dicintai oleh penduduk Astropolis."
     },
     "10444": {
         "id": "10444",
@@ -1703,6 +1703,16 @@
         "id": "10445",
         "title": "Stellaron Hunter",
         "desc": "Organisasi yang berkelana di antara berbagai dunia untuk memburu Stellaron.\nDemi suatu tujuan, mereka menelusuri hulu di dalam Path \"Finality\"."
+    },
+    "10446": {
+        "id": "10446",
+        "title": "Nihilux",
+        "desc": "Mantan presdir majalah gosip \"Mingguan Rakun\", penulis \"Bululu Melintasi Biru Angkasa\" Kuda QR Blur, mantan Dewi Lotre Astropolis Beatrice Mellanine ... Tentu saja, tidak bisa menampung orang sebanyak itu. Akan lebih baik kalau memanggilnya Aha."
+    },
+    "10447": {
+        "id": "10447",
+        "title": "Starfroster",
+        "desc": "Kapal tur rombongan Mourning Actor, dalam sejarah pernah beberapa kali dipinjam Aha untuk berpartisipasi dalam Perang Galaksi Dewa.\nTapi orang-orang yang pernah ke sini bilang bahwa kapal ini seharusnya disebut Snackfroster."
     },
     "20000": {
         "id": "20000",

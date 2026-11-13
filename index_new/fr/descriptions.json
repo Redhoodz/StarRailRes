@@ -1692,7 +1692,7 @@
     "10443": {
         "id": "10443",
         "title": "Phare",
-        "desc": "Super-héros fabriqué en série à Astropolis, il est chargé d'assurer la sécurité de toute la ville.\nSon véritable nom est Marcus Antali, le Héraut de la mort dépouillé de ses souvenirs."
+        "desc": "Super-héros fabriqué en série à Astropolis, il est chargé d'assurer la sécurité de toute la ville.\nIl a fait irruption il y a cinq ans et tous les habitants d'Astropolis lui vouent un profond amour."
     },
     "10444": {
         "id": "10444",
@@ -1703,6 +1703,16 @@
         "id": "10445",
         "title": "Chasseurs de Stellaron",
         "desc": "Une organisation qui voyage entre les mondes à la poursuite des Stellarons.\nDans un but précis, elle navigue à contre-courant sur la Voie de la Finalité."
+    },
+    "10446": {
+        "id": "10446",
+        "title": "Nihilux",
+        "desc": "Ancienne patronne du magazine de potins Pandaroo Hebdo, autrice de Toudoux à travers les cieux sous le pseudonyme Scanasson, et autrefois célébrée comme Déesse du loto d'Astropolis, Béatrice Mellanine... Mais la place manque pour toutes ces identités. Le mieux étant de l'appeler Aha, c'est ce nom qui a le plus d'influence parmi eux."
+    },
+    "10447": {
+        "id": "10447",
+        "title": "Astro-cornetto",
+        "desc": "Le vaisseau itinérant des Acteurs en deuil. Il a été emprunté par Aha à de nombreuses reprises au fil de l'histoire, chaque fois pour participer à quelque grande bataille cosmique.\nCela dit, tous ceux qui ont mis les pieds à bord s'accorderont à vous dire que ce vaisseau devrait s'appeler le Gâto-cornetto."
     },
     "20000": {
         "id": "20000",

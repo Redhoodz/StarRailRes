@@ -1879,6 +1879,78 @@
         "hide_desc": "",
         "hide": false
     },
+    "4035701": {
+        "id": "4035701",
+        "series_id": "3",
+        "title": "Postre para Oroboros",
+        "desc": "Sabe bien... pero no me llena ni un poquito.",
+        "hide_desc": "※Aborda el Astrobarquillo de Aha.",
+        "hide": false
+    },
+    "4035702": {
+        "id": "4035702",
+        "series_id": "3",
+        "title": "Pescador de estrellas",
+        "desc": "Dame una caña de pescar y atraparé a la Voracidad.",
+        "hide_desc": "※Instala una caña de pescar en el Astrobarquillo.",
+        "hide": false
+    },
+    "4035703": {
+        "id": "4035703",
+        "series_id": "3",
+        "title": "Espejismo de la Exultación",
+        "desc": "En la vida es imposible poseer la felicidad, solo se puede tener un atisbo de ella como si fuera un espejismo.",
+        "hide_desc": "※Entra en Alegrías efímeras.",
+        "hide": false
+    },
+    "4035704": {
+        "id": "4035704",
+        "series_id": "3",
+        "title": "El árbol y el mar",
+        "desc": "Ambos llegaron a este lugar.",
+        "hide_desc": "※Sigue a Aha para ser testigo de una parada de Akivili.",
+        "hide": false
+    },
+    "4035705": {
+        "id": "4035705",
+        "series_id": "3",
+        "title": "Pausa temporal",
+        "desc": "Por causas de fuerza mayor, tanto el autor como los personajes de la historia están fuera buscando inspiración...",
+        "hide_desc": "※Regresa a Planarcadia y despídete de todos.",
+        "hide": false
+    },
+    "4035706": {
+        "id": "4035706",
+        "series_id": "3",
+        "title": "Hay tanta soledad en ese oro",
+        "desc": "Aunque los vigías de la noche ya la hayan llenado de la antigua Exultación...",
+        "hide_desc": "※Esa ya no es la luna que contemplaban nuestros antepasados.",
+        "hide": false
+    },
+    "4035707": {
+        "id": "4035707",
+        "series_id": "3",
+        "title": "Para quienes regalan risas",
+        "desc": "Completa la \"Hora del salto\" de Alegrías efímeras. Su actuación merece un gran cierre.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035708": {
+        "id": "4035708",
+        "series_id": "3",
+        "title": "Esfera de mapache",
+        "desc": "Activa el pastelito giratorio para poner a máxima potencia el Astrobarquillo.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4035709": {
+        "id": "4035709",
+        "series_id": "3",
+        "title": "¡Pastelitos a la carrera!",
+        "desc": "¡Astrobarquillo, en marcha! ¡A toda velocidad!",
+        "hide_desc": "",
+        "hide": false
+    },
     "4040101": {
         "id": "4040101",
         "series_id": "4",
@@ -4900,6 +4972,142 @@
         "series_id": "4",
         "title": "Salida 8",
         "desc": "Elige correctamente cada portal de teletransportación en Salto bidimensional del pasillo del Instituto de Ciencias de la Vida.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045701": {
+        "id": "4045701",
+        "series_id": "4",
+        "title": "El sublime objeto de la leyenda dorada",
+        "desc": "Reúne todas las cartas de recompensa de Conejo estelar",
+        "hide_desc": "※\"La luna clara adorna tu ventana, y tú adornas los sueños de otra persona\".",
+        "hide": false
+    },
+    "4045702": {
+        "id": "4045702",
+        "series_id": "4",
+        "title": "Leyenda de los eterae fantásticos",
+        "desc": "Reúne un total de 220 eterae anónimos en Planarcadia y Astrópolis.",
+        "hide_desc": "※\"Las palabras se hicieron carne\".",
+        "hide": false
+    },
+    "4045703": {
+        "id": "4045703",
+        "series_id": "4",
+        "title": "Formación estelar desbloqueada",
+        "desc": "Toca todos los nombres del elenco durante la \"Hora del salto\" de Alegrías efímeras.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045704": {
+        "id": "4045704",
+        "series_id": "4",
+        "title": "Las órbitas de las estrellas son como los enredos del destino",
+        "desc": "¿Quieres medicinas para el mareo?",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045705": {
+        "id": "4045705",
+        "series_id": "4",
+        "title": "Puertas en el rostro, luces en la boca",
+        "desc": "Enciende las luces de la habitación secreta y abre el pasadizo oculto.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045706": {
+        "id": "4045706",
+        "series_id": "4",
+        "title": "Ocho niveles bajo el agua",
+        "desc": "Sumérgete en las inmediaciones del Astrobarquillo y encuentra el camino hacia el velero encallado.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045707": {
+        "id": "4045707",
+        "series_id": "4",
+        "title": "Niveles uno y dos preparados, ¡fuego!",
+        "desc": "Lánzate desde el Astrobarquillo.",
+        "hide_desc": "※El esferoide es realmente un gran invento.",
+        "hide": false
+    },
+    "4045708": {
+        "id": "4045708",
+        "series_id": "4",
+        "title": "El pastel no miente",
+        "desc": "Toca la melodía extraña en el Astrobarquillo y encuentra el dulce especial.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045709": {
+        "id": "4045709",
+        "series_id": "4",
+        "title": "Un trozo de pastel",
+        "desc": "Completa el desafío del Gran Tesoro de los veleros encallados alrededor del Astrobarquillo.",
+        "hide_desc": "※Miras fijamente a la Exultación y amb{F#as}{M#os} se ríen alegremente.",
+        "hide": false
+    },
+    "4045712": {
+        "id": "4045712",
+        "series_id": "4",
+        "title": "Variación de la arcadia: Príncipe rana",
+        "desc": "Toca una melodía extraña y encuentra a la misteriosa criatura oculta en el Astrobarquillo.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045713": {
+        "id": "4045713",
+        "series_id": "4",
+        "title": "Variación de la arcadia: Madriguera del conejo",
+        "desc": "Toca una melodía extraña y encuentra a la misteriosa criatura oculta en Alegrías efímeras.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045714": {
+        "id": "4045714",
+        "series_id": "4",
+        "title": "Coro dedicado a la inmundicia y la belleza",
+        "desc": "Completa todo el contenido del modo de juego de «Crónicas de la Grasa Flotante» en el Astrobarquillo y Alegrías efímeras.",
+        "hide_desc": "※\"Mi tesoro no está en un mundo de fantasía, ¿verdad?\".",
+        "hide": false
+    },
+    "4045715": {
+        "id": "4045715",
+        "series_id": "4",
+        "title": "Movimiento iconoclasta",
+        "desc": "Ataca varias veces la figura del gran Señor de las Risas. Ay, Aha ha quedado en ridículo.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045716": {
+        "id": "4045716",
+        "series_id": "4",
+        "title": "Salta a gusto en El Fin del Mundo",
+        "desc": "Completa todos los ¡Salto bidimensional! de Alegrías efímeras.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045717": {
+        "id": "4045717",
+        "series_id": "4",
+        "title": "Variación de la arcadia: El viento en los sauces",
+        "desc": "Reúnete con el eterae extraño tras encontrar a todas las criaturas misteriosas.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045718": {
+        "id": "4045718",
+        "series_id": "4",
+        "title": "Encuentra a la Reina de Corazones",
+        "desc": "Elige la carta correcta en el juego de adivinar cartas de ¡Salto bidimensional! en el Astrobarquillo.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4045719": {
+        "id": "4045719",
+        "series_id": "4",
+        "title": "No parpadees o te perderás el milagro",
+        "desc": "Elige la carta correcta en el juego superdifícil de adivinar cartas de ¡Salto bidimensional! en el Astrobarquillo.",
         "hide_desc": "",
         "hide": false
     },
@@ -10759,6 +10967,86 @@
         "hide_desc": "",
         "hide": false
     },
+    "4055701": {
+        "id": "4055701",
+        "series_id": "5",
+        "title": "Lidiando conmigo y contigo",
+        "desc": "Cuando la mentira se convierte en verdad, la verdad se convierte en mentira. El truco de desaparecer es propio de Aha.",
+        "hide_desc": "※Aha es solo un nombre, un alias. Tú puedes llamarte Aha, yo puedo llamarme Aha, ellos también pueden. Pero una vez que quitamos este alias, ¿quién es Aha? La respuesta se revelará en el próximo truco de magia.",
+        "hide": false
+    },
+    "4055702": {
+        "id": "4055702",
+        "series_id": "5",
+        "title": "Instantánea espectral",
+        "desc": "\"Atraviesa el telón, recupera el tesoro\".",
+        "hide_desc": "※Deja tu retrato en la galería del Astrobarquillo.",
+        "hide": false
+    },
+    "4055703": {
+        "id": "4055703",
+        "series_id": "5",
+        "title": "Selección natural",
+        "desc": "Interactúa con el interruptor de energía de caramelo del Astrobarquillo.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4055704": {
+        "id": "4055704",
+        "series_id": "5",
+        "title": "Futuro perfecto continuo",
+        "desc": "¿Acaso la grasa de la tierra no es sustento para la Exultación?",
+        "hide_desc": "※\"Si un amante de los libros nunca intenta escribir uno, sería un tanto hipócrita\".",
+        "hide": false
+    },
+    "4055705": {
+        "id": "4055705",
+        "series_id": "5",
+        "title": "El arma de Chéjov",
+        "desc": "Si en el prólogo hay un arma colgada en el escenario...",
+        "hide_desc": "※\"Entonces, en el sexto acto de la historia, debe dispararse\".",
+        "hide": false
+    },
+    "4055706": {
+        "id": "4055706",
+        "series_id": "5",
+        "title": "La compasión lleva a la ruina",
+        "desc": "¿Sparkle volvió a hacer viral a Chispa?",
+        "hide_desc": "※\"Te quiero, mi antigua yo. Nos vemos mañana\".",
+        "hide": false
+    },
+    "4055711": {
+        "id": "4055711",
+        "series_id": "5",
+        "title": "La leyenda de Duowarma",
+        "desc": "Hazte cargo de la pastelería que dejó Nihilux.",
+        "hide_desc": "※Se dice que los clientes cantan desde que entran: \"Oh, Duowarma, Duowarma, contigo la vida es bella y sin problemas\".",
+        "hide": false
+    },
+    "4055712": {
+        "id": "4055712",
+        "series_id": "5",
+        "title": "¿Cuántos eterae debo comer?",
+        "desc": "Preparar un postre especial por primera vez.",
+        "hide_desc": "※Prometemos que en nuestra tienda ningún eterae ha sido lastimado.",
+        "hide": false
+    },
+    "4055713": {
+        "id": "4055713",
+        "series_id": "5",
+        "title": "Dulce fugitivo",
+        "desc": "Desecha un postre mientras Blade te ayuda.",
+        "hide_desc": "※Es verdad, ¿quién dice que un cubo de basura no puede comer un banquete?",
+        "hide": false
+    },
+    "4055714": {
+        "id": "4055714",
+        "series_id": "5",
+        "title": "¡Gané! ¡Fin de la primera parte!",
+        "desc": "Completa la historia del Acto IV.",
+        "hide_desc": "※¡Esta es mi ruta de escape para huir de los plazos de entrega ^^!",
+        "hide": false
+    },
     "4060101": {
         "id": "4060101",
         "series_id": "6",
@@ -13748,6 +14036,62 @@
         "series_id": "7",
         "title": "Rociado frenético",
         "desc": "Perla lanza \"Pincelada de fabulación estelar\" o \"Pincelada de la gran ola\" para derrotar a Pavo Real del Lienzo mientras está en el estado de Color.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075701": {
+        "id": "4075701",
+        "series_id": "7",
+        "title": "No tóxico e inofensivo, pero no comestible",
+        "desc": "En la batalla contra Primordio de Bestia del Abismo, ningún objetivo aliado es afectado con Parálisis después de que Primordio de Bestia del Abismo lance Comunión primordial.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075702": {
+        "id": "4075702",
+        "series_id": "7",
+        "title": "Potencia bidimensional, poderes divinos absolutos",
+        "desc": "Tras lanzar la habilidad definitiva del Eón ★ Aha, acumula al menos 8 pts. de Imagiesencia antes de que termine el estado de Caras de la Exultación.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075703": {
+        "id": "4075703",
+        "series_id": "7",
+        "title": "Tres decretos divinos",
+        "desc": "En una sola batalla, 3 personajes aliados, a excepción del Eón ★ Aha, se convierten en Emanadores y cada uno otorga 1 punto de Imagiesencia al Eón ★ Aha mediante el efecto de inicio de turno.",
+        "hide_desc": "※¿Entiendes? Más que decretos parecen mandamientos. Es para partirse de risa.",
+        "hide": false
+    },
+    "4075704": {
+        "id": "4075704",
+        "series_id": "7",
+        "title": "A Aha nunca le ha importado reencarnar en otro mundo",
+        "desc": "Te confunden por accidente con un badén reductor de velocidad al activar la animación de espera del Eón ★ Aha en la escena.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075705": {
+        "id": "4075705",
+        "series_id": "7",
+        "title": "Truco de escape perfecto",
+        "desc": "En la batalla contra el primer rostro de Cráneo Divino de la Indulgencia, elimina solo una de las cuatro Grandes Manos del Destino para rescatar al personaje capturado.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075706": {
+        "id": "4075706",
+        "series_id": "7",
+        "title": "Aprieta el gatillo por la Diosa de la fortuna",
+        "desc": "En la batalla contra el segundo rostro de Cráneo Divino de la Indulgencia, dispara de forma continua y asesta el cuarto tiro.",
+        "hide_desc": "",
+        "hide": false
+    },
+    "4075707": {
+        "id": "4075707",
+        "series_id": "7",
+        "title": "Prueba de legitimidad de la sonrisa",
+        "desc": "Derrota a Locura del Embrión de la Filosofía cuando tengas ventaja de Chiste.",
         "hide_desc": "",
         "hide": false
     },

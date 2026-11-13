@@ -979,6 +979,16 @@
         "preview": "image/light_cone_preview/22008.png",
         "portrait": "image/light_cone_portrait/22008.png"
     },
+    "22009": {
+        "id": "22009",
+        "name": "¡Nos vemos en El Fin del Mundo!",
+        "rarity": 4,
+        "path": "Elation",
+        "desc": "Aunque el truco de magia del Eón haya concluido, los ecos del milagro aún sacuden el universo.\nAl igual que hace miles de Eras del Ámbar, las Vías Trazacaminos y de la Exultación vuelven a estar juntas, y volverán a separar sus caminos para seguir adelante.\nNadie sabe qué depara el futuro, pero la promesa nunca ha cambiado.\n\"Entendido, sembraré variables por el universo para crear un viaje donde lo desconocido y lo sorprendente coexistan\".\nSu silueta desaparece en el cosmos, y el viento trae consigo su risa:\n\"Recorre el camino que Akivili no pudo completar y, luego, ¡nos vemos en El Fin del Mundo!\".",
+        "icon": "icon/light_cone/22009.png",
+        "preview": "image/light_cone_preview/22009.png",
+        "portrait": "image/light_cone_portrait/22009.png"
+    },
     "23000": {
         "id": "23000",
         "name": "Noche en la Vía Láctea",
@@ -1628,6 +1638,16 @@
         "icon": "icon/light_cone/23064.png",
         "preview": "image/light_cone_preview/23064.png",
         "portrait": "image/light_cone_portrait/23064.png"
+    },
+    "23065": {
+        "id": "23065",
+        "name": "Al primer eco de Aha",
+        "rarity": 5,
+        "path": "Elation",
+        "desc": "Otrora fue el protagonista más deslumbrante del escenario.\nLas estrellas giraban día y noche junto a aquel carrusel de caballos de madera, y con su magia iluminó el sombrío crepúsculo.\nAl primer eco de Aha, todos rieron sin cesar.\nEntre bastidores, también fue el creador de sueños más extraordinario; manipuló el cosmos con sus artimañas y engañó a feroces bestias con su humor.\nBajo su dirección, las giras se inauguraban en silencio bajo la fabuluna y llevaban esperanza a cada deseo.\nCuando la gente se acostumbró a sentarse entre el público a la espera de nuevos estímulos, parecía que la Exultación ya tenía una respuesta predeterminada.\nCuando comenzó el último juego y se levantó el telón, sobre el escenario solo quedó la máscara de un dios.\nAlgunos eligieron romper el silencio, otros intentaron subir al escenario, mientras que él actuó como un espectador fiel y aclamó el Momento Aha de todos...\n\"Aha no es el nombre de la Exultación. La llamada Exultación es la respuesta que cada persona debe buscar por su cuenta\".\nNadie notó cuándo se marchó ni a dónde fue.\nSin embargo, en los momentos en que nacen ciertas vidas, en las noches en las que los fuegos artificiales florecen, o en las bambalinas de algún escenario aún sin iluminar...\na veces se oye una leve risa entre miles de millones de personas, como si acabara de pasar por ahí o como si nunca se hubiera marchado.",
+        "icon": "icon/light_cone/23065.png",
+        "preview": "image/light_cone_preview/23065.png",
+        "portrait": "image/light_cone_portrait/23065.png"
     },
     "24000": {
         "id": "24000",

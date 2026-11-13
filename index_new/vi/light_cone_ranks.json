@@ -2381,6 +2381,25 @@
             ]
         ]
     },
+    "22009": {
+        "id": "22009",
+        "skill": "Đồng Mưu",
+        "desc": "Trong đội cứ có 1 nhân vật Vận Mệnh \"Vui Vẻ\", Sát Thương Bạo Kích của người trang bị tăng #1[i]%, khi Aeon ★ Aha trong trận, Sát Thương Bạo Kích của người trang bị tăng thêm #2[i]%.",
+        "params": [
+            [0.06, 0.12],
+            [0.07, 0.14],
+            [0.08, 0.16],
+            [0.09, 0.18],
+            [0.1, 0.2]
+        ],
+        "properties": [
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
     "23000": {
         "id": "23000",
         "skill": "Chòm Sao Băng",
@@ -4233,6 +4252,35 @@
             ],
             [
                 { "type": "CriticalChanceBase", "value": 0.3 }
+            ]
+        ]
+    },
+    "23065": {
+        "id": "23065",
+        "skill": "Lưu Diễn Ngẫu Hứng",
+        "desc": "Tốc Độ cơ bản của người trang bị tăng #1[i] điểm. Khi thi triển Chiến Kỹ lên một mục tiêu khác của phe ta, nhận #2[i] Điểm Hài Hước, hiệu ứng này cách #3[i] hiệp tối đa kích hoạt 1 lần, sau đó khiến toàn bộ phe ta trong trận khi gây sát thương sẽ bỏ qua #4[i]% Phòng Thủ của mục tiêu phe địch, hiệu ứng này không thể cộng dồn.",
+        "params": [
+            [12, 10, 1, 0.16],
+            [14, 12, 1, 0.18],
+            [16, 14, 1, 0.2],
+            [18, 16, 1, 0.22],
+            [20, 18, 1, 0.24]
+        ],
+        "properties": [
+            [
+                { "type": "BaseSpeed", "value": 12 }
+            ],
+            [
+                { "type": "BaseSpeed", "value": 14 }
+            ],
+            [
+                { "type": "BaseSpeed", "value": 16 }
+            ],
+            [
+                { "type": "BaseSpeed", "value": 18 }
+            ],
+            [
+                { "type": "BaseSpeed", "value": 20 }
             ]
         ]
     },

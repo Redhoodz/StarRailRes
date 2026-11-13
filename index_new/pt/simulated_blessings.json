@@ -5303,6 +5303,12 @@
         "desc": "O Dano de Himeko - Nova é amplificado no Universo Divergente.\nSempre que ela usa sua Perícia de Assistência, aumenta seu próprio Dano final causado em 3%. Acumula até 10 vez(es).",
         "enhanced_desc": ""
     },
+    "661511": {
+        "id": "661511",
+        "name": "Aeon ★ Aha",
+        "desc": "O Dano de Aeon ★ Aha recebe Amplificação no Universo Divergente.\nEnquanto estiver em campo, aumenta a Euforia dos aliados-alvo em 24%.",
+        "enhanced_desc": ""
+    },
     "661512": {
         "id": "661512",
         "name": "Robin - Summeretto",

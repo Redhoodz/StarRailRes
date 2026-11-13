@@ -6455,9 +6455,7 @@
         "level_up_skills": [
             { "id": "150303", "num": 2 },
             { "id": "150301", "num": 1 },
-            { "id": "150320", "num": 1 },
-            { "id": "150308", "num": 1 },
-            { "id": "150310", "num": 1 }
+            { "id": "150320", "num": 1 }
         ],
         "icon": "icon/skill/1503_ultimate.png"
     },
@@ -7022,6 +7020,80 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1510_rank6.png"
+    },
+    "151101": {
+        "id": "151101",
+        "name": "Who Giggled at the Primordial Hush?",
+        "rank": 1,
+        "desc": "Saat memasuki pertempuran, segera memperoleh 5 poin \"Wishpower\". Saat Aeon ★ Aha ada di medan pertempuran, Elation DMG yang diakibatkan seluruh rekan tim memperoleh 15% Penambahan Tawa.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank1.png"
+    },
+    "151102": {
+        "id": "151102",
+        "name": "Between THEIR Eyes and Yours",
+        "rank": 2,
+        "desc": "Meningkatkan efek Path \"Elation\" Naik Tingkat:\n#{series_ref_skill_desc:UIText_SeriesSkillDescFormat,151129,2}",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank2.png"
+    },
+    "151103": {
+        "id": "151103",
+        "name": "A Stacked Deck of Sorrow and Joy",
+        "rank": 3,
+        "desc": "Level Ultimate +2, maksimal Lv. 15. Level Basic Attack +1, maksimal Lv. 10. Level Elation Skill +1, maksimal Lv. 15.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151103", "num": 2 },
+            { "id": "151101", "num": 1 },
+            { "id": "151120", "num": 1 }
+        ],
+        "icon": "icon/skill/1511_ultimate.png"
+    },
+    "151104": {
+        "id": "151104",
+        "name": "A Joke's Fate Boxed in Black",
+        "rank": 4,
+        "desc": "Multiplier dari True DMG yang diakibatkan Elation Skill meningkat sebesar 25% dari Multiplier aslinya. Saat Aeon ★ Aha mengakibatkan Elation DMG, akan menghitung ekstra 100% dari akumulasi \"Certified Banger\" yang dimiliki oleh rekan tim.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank4.png"
+    },
+    "151105": {
+        "id": "151105",
+        "name": "Moi Onstage and Me Offstage",
+        "rank": 5,
+        "desc": "Level Skill +2, maksimal Lv. 15. Level Talent +2, maksimal Lv. 15. Level Elation Skill +1, maksimal Lv. 15.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151102", "num": 2 },
+            { "id": "151104", "num": 2 },
+            { "id": "151120", "num": 1 }
+        ],
+        "icon": "icon/skill/1511_skill.png"
+    },
+    "151106": {
+        "id": "151106",
+        "name": "For THEY Said: You Are Elation",
+        "rank": 6,
+        "desc": "Target musuh selalu memiliki efek \"Elation Debt\" setidaknya sebesar 20% Max HP target. Setelah Aeon ★ Aha pertama kali melancarkan Ultimate, membuat Aha mengalami 100% pendahuluan aksi dan memperoleh 100 Punchline.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank6.png"
     },
     "151201": {
         "id": "151201",

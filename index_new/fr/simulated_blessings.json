@@ -5303,6 +5303,12 @@
         "desc": "Amplifie les DGT de Himeko • Nova dans l'Univers parallèle.\nÀ chaque utilisation de sa compétence de soutien, augmente ses DGT finaux infligés de 3%. Cumulable jusqu'à 10 fois.",
         "enhanced_desc": ""
     },
+    "661511": {
+        "id": "661511",
+        "name": "Aiôn ★ Aha",
+        "desc": "Amplifie les DGT d'Aiôn ★ Aha dans l'Univers parallèle.\nLorsqu'elle est sur le champ de bataille, augmente l'Allégresse des cibles alliées de 24%.",
+        "enhanced_desc": ""
+    },
     "661512": {
         "id": "661512",
         "name": "Robin • Estivaria",

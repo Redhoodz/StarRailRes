@@ -4808,7 +4808,7 @@
     "661004": {
         "id": "661004",
         "name": "Welt",
-        "desc": "Welt memperoleh Amplifikasi DMG di Divergent Universe.\nSetelah memberikan status Imprisonment, aksi target musuh akan tertunda ekstra 30%, dan DMG yang diterima target musuh meningkat 15%, berlangsung selama 2 giliran.",
+        "desc": "Welt memperoleh Amplifikasi DMG di Divergent Universe.\nSetelah memberikan status Imprisonment, aksi target musuh akan mengalami penundaan ekstra 30%, dan DMG yang diterima target musuh meningkat 15%, berlangsung selama 2 giliran.",
         "enhanced_desc": ""
     },
     "661005": {
@@ -5301,6 +5301,12 @@
         "id": "661510",
         "name": "Himeko • Nova",
         "desc": "Himeko • Nova memperoleh Amplifikasi DMG di Divergent Universe.\nSetiap kali melancarkan Skill Dukungan, DMG final yang diakibatkan diri meningkat 3%, dapat ditumpuk hingga 10 lapis.",
+        "enhanced_desc": ""
+    },
+    "661511": {
+        "id": "661511",
+        "name": "Aeon ★ Aha",
+        "desc": "Aeon ★ Aha memperoleh Amplifikasi DMG di Divergent Universe.\nSaat berada di medan pertempuran, Tingkat Elation rekan tim meningkat 24%.",
         "enhanced_desc": ""
     },
     "661512": {

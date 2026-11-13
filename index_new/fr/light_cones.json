@@ -979,6 +979,16 @@
         "preview": "image/light_cone_preview/22008.png",
         "portrait": "image/light_cone_portrait/22008.png"
     },
+    "22009": {
+        "id": "22009",
+        "name": "Retrouvons-nous au bout du monde !",
+        "rarity": 4,
+        "path": "Elation",
+        "desc": "Le petit numéro de magie de l'Aiôn touche à sa fin, pourtant la douce chaleur du miracle continue de résonner à travers l'univers.\nComme il y a des milliers d'ères de l'Ambre, la Voie du Pionnier et l'Allégresse se retrouvent côte à côte, et elles s'apprêtent à se séparer pour tracer leur propre chemin.\nNul ne sait ce que l'avenir réserve, mais la promesse, elle, demeure inchangée.\n« Compris ! Je vais semer des variables à travers l'univers, créant ainsi un voyage où l'inconnu et les surprises vont de pair. »\nSa silhouette se fond dans le cosmos, son rire porté par le vent :\n« Marche jusqu'au bout du chemin qu'Akivili n'a jamais terminé, et ensuite... retrouvons-nous au bout du monde ! »",
+        "icon": "icon/light_cone/22009.png",
+        "preview": "image/light_cone_preview/22009.png",
+        "portrait": "image/light_cone_portrait/22009.png"
+    },
     "23000": {
         "id": "23000",
         "name": "Nuit sur la voie lactée",
@@ -1628,6 +1638,16 @@
         "icon": "icon/light_cone/23064.png",
         "preview": "image/light_cone_preview/23064.png",
         "portrait": "image/light_cone_portrait/23064.png"
+    },
+    "23065": {
+        "id": "23065",
+        "name": "Au premier écho d'Aha",
+        "rarity": 5,
+        "path": "Elation",
+        "desc": "Il fut jadis la vedette la plus éblouissante sur scène.\nLes étoiles tournaient nuit et jour à la manière d'un carrousel, et il utilisait la magie pour illuminer le crépuscule obscur.\nDès que le premier « Aha » se fit entendre, tous les êtres vivants rirent sans discontinuer.\nIl fut jadis le faiseur de rêves le plus brillant dans l'ombre des coulisses, orchestrant la galaxie à coups de ruse et se jouant des bêtes malfaisantes par le biais de l'humour.\nSous sa houlette, le rideau des spectacles itinérants se levait discrètement devant la Fabulune pour donner espoir à chaque vœu.\nLorsque les gens prirent l'habitude de s'installer dans la salle, en quête de nouveaux stimuli, l'Allégresse semblait avoir déjà sa réponse toute faite.\nQuand l'ultime jeu débuta et que le rideau se leva, il ne resta sur scène que le masque d'un dieu.\nCertains choisirent de briser le silence de mort, d'autres tâtèrent le terrain en montant sur scène, tandis qu'il jouait le rôle de spectateur fidèle, acclamant le Moment d'Aha de chacun...\n« Aha n'est pas le nom de l'Allégresse. Ce qu'on appelle l'Allégresse est une réponse que chacun doit trouver en son for intérieur. »\nNul ne remarqua le moment de son départ, et nul ne sut où il s'en alla.\nSeulement lors de ces instants où certains naissent, pendant les nuits où les feux d'artifice éclosent, ou dans les coulisses d'une scène qui n'a pas encore allumé ses feux.\nUn rire étouffé résonne parfois parmi des milliards d'âmes, à la fois comme s'il venait de passer et comme s'il n'était jamais parti.",
+        "icon": "icon/light_cone/23065.png",
+        "preview": "image/light_cone_preview/23065.png",
+        "portrait": "image/light_cone_portrait/23065.png"
     },
     "24000": {
         "id": "24000",

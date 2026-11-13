@@ -863,5 +863,31 @@
             []
         ],
         "icon": "icon/relic/328.png"
+    },
+    "329": {
+        "id": "329",
+        "name": "God's Moment of Joy",
+        "desc": [
+            "Meningkatkan 6% SPD pengguna. Ketika Tingkat Elation pengguna lebih dari atau sama dengan 40%, saat memasuki pertempuran segera mendahulukan aksi sebesar 40%."
+        ],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ]
+        ],
+        "icon": "icon/relic/329.png"
+    },
+    "330": {
+        "id": "330",
+        "name": "Subspace ASC Center",
+        "desc": [
+            "Meningkatkan 6% SPD pengguna. Saat SPD pengguna lebih dari atau sama dengan 145, Break Effect seluruh rekan tim meningkat 18% setelah memasuki pertempuran. Efek ini tidak dapat ditumpuk."
+        ],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ]
+        ],
+        "icon": "icon/relic/330.png"
     }
 }

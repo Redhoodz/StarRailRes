@@ -3603,7 +3603,7 @@
     },
     "121806": {
         "id": "121806",
-        "name": "Feu des neufs transformations",
+        "name": "Feu des neuf transformations",
         "rank": 6,
         "desc": "Lorsqu'une cible ennemie est éliminée, ses cumuls de Charbons ardents sont transférés à l'ennemi ayant le moins de cumuls de Charbons ardents sur le champ de bataille. La limite de cumuls de Charbons ardents passe à 9. Chaque cumul de Charbons ardents réduit toutes les RÉS de type de la cible de 3%.",
         "materials": [
@@ -5439,7 +5439,7 @@
     },
     "140401": {
         "id": "140401",
-        "name": "Droiture née de l'adversité",
+        "name": "Échine sculptée par le givre",
         "rank": 1,
         "desc": "Augmente le multiplicateur de DGT de Dieu déicide sur la cible principale de 30%. Cette capacité inflige désormais à tous les ennemis des DGT imaginaires équivalents au multiplicateur de DGT appliqué à la cible principale.",
         "materials": [
@@ -6455,9 +6455,7 @@
         "level_up_skills": [
             { "id": "150303", "num": 2 },
             { "id": "150301", "num": 1 },
-            { "id": "150320", "num": 1 },
-            { "id": "150308", "num": 1 },
-            { "id": "150310", "num": 1 }
+            { "id": "150320", "num": 1 }
         ],
         "icon": "icon/skill/1503_ultimate.png"
     },
@@ -6637,7 +6635,7 @@
         "id": "150506",
         "name": "Demoiselle : Un pas dans les rêves",
         "rank": 6,
-        "desc": "La durée de Banger absolu d'Evanescia augmente de 1 tour. Les comidégâts infligés par Evanescia s'égayent de 15%. Pour chaque tranche de 100 points de Banger absolu en possession, les DGT s'égayent de 2.0% supplémentaires, jusqu'à 1 000 points de Banger absolu comptabilisés. Après avoir utilisé son ultime pour la première fois après l'entrée en combat, Evanescia régénère un montant fixe de 120 points d'énergie. Cet effet peut se déclencher 1 fois tous les 4 ultimes utilisés.",
+        "desc": "La durée de Banger absolu d'Evanescia augmente de 1 tour. Les comidégâts infligés par Evanescia s'égaient de 15%. Pour chaque tranche de 100 points de Banger absolu en possession, les DGT s'égaient de 2.0% supplémentaires, jusqu'à 1 000 points de Banger absolu comptabilisés. Après avoir utilisé son ultime pour la première fois après l'entrée en combat, Evanescia régénère un montant fixe de 120 points d'énergie. Cet effet peut se déclencher 1 fois tous les 4 ultimes utilisés.",
         "materials": [
             { "id": "11505", "num": 1 }
         ],
@@ -6717,7 +6715,7 @@
         "id": "150606",
         "name": "Solo maxxing !",
         "rank": 6,
-        "desc": "Les comidégâts infligés lors de l'ATQ normale renforcée s'égayent de 50%.\nLorsqu'une cible ennemie entre en combat, lui applique Faiblesse absolue, ce qui lui implante une Faiblesse à tous les types, et réduit sa RÉS de base à tous les types à 0 (si la RÉS de base est déjà à 0, la RÉS du type correspondant diminue de 20%).",
+        "desc": "Les comidégâts infligés lors de l'ATQ normale renforcée s'égaient de 50%.\nLorsqu'une cible ennemie entre en combat, lui applique Faiblesse absolue, ce qui lui implante une Faiblesse à tous les types, et réduit sa RÉS de base à tous les types à 0 (si la RÉS de base est déjà à 0, la RÉS du type correspondant diminue de 20%).",
         "materials": [
             { "id": "11506", "num": 1 }
         ],
@@ -7023,6 +7021,80 @@
         "level_up_skills": [],
         "icon": "icon/skill/1510_rank6.png"
     },
+    "151101": {
+        "id": "151101",
+        "name": "Qui rit dans le silence primitif ?",
+        "rank": 1,
+        "desc": "Lors de l'entrée en combat, gagne immédiatement 5 points de Souhaissence. Lorsqu'Aiôn ★ Aha est présente sur le champ de bataille, les comidégâts infligés par toutes les cibles alliées s'égaient de 15%.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank1.png"
+    },
+    "151102": {
+        "id": "151102",
+        "name": "Entre son regard et le vôtre",
+        "rank": 2,
+        "desc": "Renforce les effets d'Ascension de l'Allégresse :\n#{series_ref_skill_desc:UIText_SeriesSkillDescFormat,151129,2}",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank2.png"
+    },
+    "151103": {
+        "id": "151103",
+        "name": "Jeu de chagrins et de joies",
+        "rank": 3,
+        "desc": "Niv. de l'ultime +2, jusqu'au Niv. 15 maximum.\nNiv. de l'ATQ normale +1, jusqu'au Niv. 10 maximum.\nNiv. de la comicompétence +1, jusqu'au Niv. 15 maximum.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151103", "num": 2 },
+            { "id": "151101", "num": 1 },
+            { "id": "151120", "num": 1 }
+        ],
+        "icon": "icon/skill/1511_ultimate.png"
+    },
+    "151104": {
+        "id": "151104",
+        "name": "Le destin d'une blague enfermée dans le noir",
+        "rank": 4,
+        "desc": "Le multiplicateur de DGT réels infligés par la comicompétence augmente d'un montant équivalent à 25% du multiplicateur initial. Les comidégâts infligés par Aiôn ★ Aha comptabilisent 100% supplémentaires du total de cumuls de Banger absolu de ses coéquipiers.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank4.png"
+    },
+    "151105": {
+        "id": "151105",
+        "name": "Celle que je suis et ne suis pas",
+        "rank": 5,
+        "desc": "Niv. de la compétence +2, jusqu'au Niv. 15 maximum.\nNiv. du talent +2, jusqu'au Niv. 15 maximum.\nNiv. de la comicompétence +1, jusqu'au Niv. 15 maximum.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151102", "num": 2 },
+            { "id": "151104", "num": 2 },
+            { "id": "151120", "num": 1 }
+        ],
+        "icon": "icon/skill/1511_skill.png"
+    },
+    "151106": {
+        "id": "151106",
+        "name": "Aha a dit : tu seras l'Allégresse",
+        "rank": 6,
+        "desc": "L'effet Dette d'Allégresse affecte en continu les cibles ennemies, et la valeur de cet effet est au moins équivalente à 20% de leurs PV max. Après qu'Aiôn ★ Aha a lancé son ultime pour la première fois, Aha avance son action de 100% et gagne 100 points de Panache.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank6.png"
+    },
     "151201": {
         "id": "151201",
         "name": "Oiselle estivale et solitaire",
@@ -7168,7 +7240,7 @@
         "id": "151306",
         "name": "Faire du passé une folle chevauchée",
         "rank": 6,
-        "desc": "Les comidégâts infligés par Aventurine • Croisette s'égayent de 25%. Après qu'Aventurine • Croisette a utilisé sa comicompétence 2 fois, toutes les comicompétences utilisées par la suite deviennent Au pari d'un bel été, et la Ferveur n'est plus consommée lorsque la comicompétence Au pari d'un bel été inflige des DGT supplémentaires en dehors du Moment d'Aha.",
+        "desc": "Les comidégâts infligés par Aventurine • Croisette s'égaient de 25%. Après qu'Aventurine • Croisette a utilisé sa comicompétence 2 fois, toutes les comicompétences utilisées par la suite deviennent Au pari d'un bel été, et la Ferveur n'est plus consommée lorsque la comicompétence Au pari d'un bel été inflige des DGT supplémentaires en dehors du Moment d'Aha.",
         "materials": [
             { "id": "11513", "num": 1 }
         ],

@@ -866,5 +866,31 @@
             []
         ],
         "icon": "icon/relic/328.png"
+    },
+    "329": {
+        "id": "329",
+        "name": "Moment d'allégresse divin",
+        "desc": [
+            "Augmente la VIT du porteur de 6%. Lorsque l'Allégresse du porteur est supérieure ou égale à 40%, son action avance immédiatement de 40% au début du combat."
+        ],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ]
+        ],
+        "icon": "icon/relic/329.png"
+    },
+    "330": {
+        "id": "330",
+        "name": "Centre SCA",
+        "desc": [
+            "Augmente la VIT du porteur de 6%. Lorsque la VIT du porteur est supérieure ou égale à 145, augmente l'effet de Rupture de tous les alliés de 18% après l'entrée en combat. Cet effet ne peut pas être cumulé."
+        ],
+        "properties": [
+            [
+                { "type": "SpeedAddedRatio", "value": 0.06 }
+            ]
+        ],
+        "icon": "icon/relic/330.png"
     }
 }

@@ -974,11 +974,44 @@
         "name": "Mr. Reca",
         "icon": "icon/avatar/UI_Message_Contacts_MrRiker.png"
     },
+    "235": { "id": "235", "name": "Nihilux", "icon": "icon/avatar/1511.png" },
+    "236": {
+        "id": "236",
+        "name": "Hiệp Hội Yêu Câu Cá",
+        "icon": "icon/avatar/UI_Message_Group_Default.png"
+    },
+    "237": {
+        "id": "237",
+        "name": "Quay Thưởng Hành Tinh",
+        "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
+    },
+    "238": {
+        "id": "238",
+        "name": "Lau Sậy Dưới Ánh Trăng",
+        "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
+    },
     "239": {
         "id": "239",
         "name": "Skott",
         "icon": "icon/avatar/UI_Message_Contacts_YoulingSikete.png"
     },
+    "240": {
+        "id": "240",
+        "name": "Vận May Bá Đạo Phải Lòng Tôi",
+        "icon": "icon/avatar/UI_Message_Contacts_Nihilux.png"
+    },
+    "241": { "id": "241", "name": "Aeon ★★★★★ Aha", "icon": "icon/avatar/1511.png" },
+    "242": {
+        "id": "242",
+        "name": "Thợ Giỏi Kim Bài AAA",
+        "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
+    },
+    "243": {
+        "id": "243",
+        "name": "Thợ Ha Kim Bài AAA",
+        "icon": "icon/avatar/UI_Message_Contacts_Anonymous.png"
+    },
+    "244": { "id": "244", "name": "Bụi Linh Linh", "icon": "icon/avatar/WebIcon_Npc_98.png" },
     "1000": {
         "id": "1000",
         "name": "Pom-Pom",
@@ -1068,6 +1101,7 @@
     "1506": { "id": "1506", "name": "Sói Bạc LV.999", "icon": "icon/avatar/1506.png" },
     "1508": { "id": "1508", "name": "Rin Tohsaka", "icon": "icon/avatar/1508.png" },
     "1509": { "id": "1509", "name": "Gilgamesh", "icon": "icon/avatar/1509.png" },
+    "1511": { "id": "1511", "name": "Aeon ★ Aha", "icon": "icon/avatar/1511.png" },
     "200001": {
         "id": "200001",
         "name": "Trống",
@@ -1458,6 +1492,18 @@
         "rarity": 5,
         "icon": "icon/avatar/IconHead_200164.png"
     },
+    "200165": {
+        "id": "200165",
+        "name": "Nihilux - Diễu Hành",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200165.png"
+    },
+    "200166": {
+        "id": "200166",
+        "name": "Aeon ★ Aha - Diễu Hành",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_200166.png"
+    },
     "201001": { "id": "201001", "name": "March 7th - Bảo Hộ", "icon": "icon/avatar/1001.png" },
     "201002": { "id": "201002", "name": "Dan Heng", "icon": "icon/avatar/1002.png" },
     "201003": { "id": "201003", "name": "Himeko", "icon": "icon/avatar/1003.png" },
@@ -1548,6 +1594,7 @@
     "201508": { "id": "201508", "name": "Rin Tohsaka", "icon": "icon/avatar/1508.png" },
     "201509": { "id": "201509", "name": "Gilgamesh", "icon": "icon/avatar/1509.png" },
     "201510": { "id": "201510", "name": "Himeko - Nova", "icon": "icon/avatar/1510.png" },
+    "201511": { "id": "201511", "name": "Aeon ★ Aha", "icon": "icon/avatar/1511.png" },
     "201512": { "id": "201512", "name": "Robin - Summeretto", "icon": "icon/avatar/1512.png" },
     "201513": { "id": "201513", "name": "Aventurine - Waveflair", "icon": "icon/avatar/1513.png" },
     "202001": {
@@ -1850,6 +1897,30 @@
         "rarity": 4,
         "icon": "icon/avatar/IconHead_202055.png"
     },
+    "202056": {
+        "id": "202056",
+        "name": "Hoài Bão Lớn Lao",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202056.png"
+    },
+    "202057": {
+        "id": "202057",
+        "name": "Họa Sĩ Truyện Tranh Tỏa Sáng",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202057.png"
+    },
+    "202058": {
+        "id": "202058",
+        "name": "Nhanh Như Chớp",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202058.png"
+    },
+    "202059": {
+        "id": "202059",
+        "name": "Hẹn Ước Astropolis",
+        "rarity": 4,
+        "icon": "icon/avatar/IconHead_202059.png"
+    },
     "202060": {
         "id": "202060",
         "name": "Castorice - Yến Tiệc",
@@ -1873,6 +1944,12 @@
         "name": "Hyacine - Vô Ưu",
         "rarity": 5,
         "icon": "icon/avatar/IconHead_202063.png"
+    },
+    "202064": {
+        "id": "202064",
+        "name": "Aeon ★ Aha - Thời Đại Hoàng Kim",
+        "rarity": 5,
+        "icon": "icon/avatar/IconHead_202064.png"
     },
     "208001": { "id": "208001", "name": "{NICKNAME} - Hủy Diệt", "icon": "icon/avatar/8001.png" },
     "208002": { "id": "208002", "name": "{NICKNAME} - Hủy Diệt", "icon": "icon/avatar/8002.png" },

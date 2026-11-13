@@ -6455,9 +6455,7 @@
         "level_up_skills": [
             { "id": "150303", "num": 2 },
             { "id": "150301", "num": 1 },
-            { "id": "150320", "num": 1 },
-            { "id": "150308", "num": 1 },
-            { "id": "150310", "num": 1 }
+            { "id": "150320", "num": 1 }
         ],
         "icon": "icon/skill/1503_ultimate.png"
     },
@@ -7022,6 +7020,80 @@
         ],
         "level_up_skills": [],
         "icon": "icon/skill/1510_rank6.png"
+    },
+    "151101": {
+        "id": "151101",
+        "name": "¿Quién se rió durante el silencio primigenio?",
+        "rank": 1,
+        "desc": "Al entrar en combate, obtiene inmediatamente 5 pts. de Imagiesencia. Cuando el Eón ★ Aha está en el campo de batalla, el Daño de Exultación que infligen todos los aliados aumenta su gracia en un 15%.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank1.png"
+    },
+    "151102": {
+        "id": "151102",
+        "name": "Entre su mirada y la tuya",
+        "rank": 2,
+        "desc": "Mejora los efectos de Apoteosis de la Vía de la Exultación:\n#{series_ref_skill_desc:UIText_SeriesSkillDescFormat,151129,2}",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank2.png"
+    },
+    "151103": {
+        "id": "151103",
+        "name": "Baraja de alegrías y pesares",
+        "rank": 3,
+        "desc": "Niv. de habilidad definitiva +2 (máximo: nivel 15). Niv. de ATQ básico +1 (máximo: nivel 10). Niv. de habilidad de Exultación +1 (máximo: nivel 15).",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151103", "num": 2 },
+            { "id": "151101", "num": 1 },
+            { "id": "151120", "num": 1 }
+        ],
+        "icon": "icon/skill/1511_ultimate.png"
+    },
+    "151104": {
+        "id": "151104",
+        "name": "Jocosidad en caja negra",
+        "rank": 4,
+        "desc": "El multiplicador del Daño verdadero infligido por la habilidad de Exultación aumenta en un 25% del multiplicador original. El Daño de Exultación infligido por el Eón ★ Aha contabiliza además un 100% del total de ¡Bien hecho! que tengan los compañeros de equipo.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank4.png"
+    },
+    "151105": {
+        "id": "151105",
+        "name": "Soy y no soy dentro y fuera de escena",
+        "rank": 5,
+        "desc": "Niv. de habilidad básica +2 (máximo: nivel 15). Niv. de talento +2 (máximo: nivel 15). Niv. de habilidad de Exultación +1 (máximo: nivel 15).",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [
+            { "id": "151102", "num": 2 },
+            { "id": "151104", "num": 2 },
+            { "id": "151120", "num": 1 }
+        ],
+        "icon": "icon/skill/1511_skill.png"
+    },
+    "151106": {
+        "id": "151106",
+        "name": "Porque dijo: Tú eres la Exultación",
+        "rank": 6,
+        "desc": "Los enemigos siempre tienen un efecto de Deuda de Exultación equivalente al menos a un 20% de sus PV máx. Después de que el Eón ★ Aha lance su habilidad definitiva por primera vez, Aha adelanta su acción en un 100% y obtiene 100 puntos de Chiste.",
+        "materials": [
+            { "id": "11511", "num": 1 }
+        ],
+        "level_up_skills": [],
+        "icon": "icon/skill/1511_rank6.png"
     },
     "151201": {
         "id": "151201",

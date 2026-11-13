@@ -86,6 +86,7 @@
         "1508": ["Rin Tohsaka"],
         "1509": ["Gilgamesh"],
         "1510": ["Himeko - Nova"],
+        "1511": ["Aeon ★ Aha"],
         "1512": ["Robin - Summeretto"],
         "1513": ["Aventurine - Waveflair"],
         "8001": ["{NICKNAME}"],
@@ -198,6 +199,7 @@
         "22006": ["Bay Đến Ngày Mai Màu Hồng"],
         "22007": ["Tương Lai, Có Chúng Ta Cùng Nhau"],
         "22008": ["Hướng Tới Tận Cùng Đường Chân Trời"],
+        "22009": ["Hẹn Gặp Lại Tại Tận Thế Nhé!"],
         "23000": ["Chuyến Tàu Đêm Trên Dải Ngân Hà"],
         "23001": ["Trong Đêm Tối"],
         "23002": ["Vật Không Thể Thay Thế"],
@@ -263,6 +265,7 @@
         "23062": ["Ngươi Thấy Chính Là Ta"],
         "23063": ["Bạn Sẽ Đứng Dậy Cất Tiếng Hát"],
         "23064": ["Ném Mùa Hè Vào Bọt Sóng"],
+        "23065": ["Khi Tiếng \"Aha\" Đầu Tiên Vang Lên"],
         "24000": ["Sự Sụp Đổ Của Aeon"],
         "24001": ["Du Hành Trên Biển Sao"],
         "24002": ["Chất Liệu Ký Ức"],
@@ -333,6 +336,8 @@
         "325": ["Punklorde Ải Zero"],
         "326": ["Thành Phố Ngàn Sao Hội Tụ"],
         "327": ["Điểm Khởi Hành Sao Rơi"],
-        "328": ["Viện Nghiên Cứu Sinh Học Vũ Trụ"]
+        "328": ["Viện Nghiên Cứu Sinh Học Vũ Trụ"],
+        "329": ["Vui Vẻ Phút Chốc Của Thần"],
+        "330": ["Viện Dị Dung Á Không Gian"]
     }
 }

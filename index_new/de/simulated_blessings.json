@@ -5303,6 +5303,12 @@
         "desc": "Erhöht den von Himeko – Nova verursachten SCH in Divergentes Universum.\nErhöht den verursachten endgültigen SCH bei jedem Einsatz der Unterstützungsfertigkeit um 3%. Dieser Effekt ist bis zu 10-fach stapelbar.",
         "enhanced_desc": ""
     },
+    "661511": {
+        "id": "661511",
+        "name": "Äonin ★ Aha",
+        "desc": "Erhöht den von Äonin ★ Aha verursachten SCH in Divergentes Universum.\nWenn sie sich auf dem Kampffeld befindet, wird das Hochgefühl der Verbündeten um 24% erhöht.",
+        "enhanced_desc": ""
+    },
     "661512": {
         "id": "661512",
         "name": "Robin – Summeretto",

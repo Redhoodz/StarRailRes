@@ -1552,7 +1552,7 @@
     "10415": {
         "id": "10415",
         "title": "Pearl",
-        "desc": "Cán bộ cấp cao của \"Bộ Phận Đầu Tư Chiến Lược\" thuộc Công Ty Hành Tinh Hòa Bình, một trong \"10 Người Có Trái Tim Đá\", đá tảng là \"Trân Châu Phát Quang\".\nCEO hiện tại của \"Planarcadia\", kiên trì nghiên cứu bản chất của nghệ thuật."
+        "desc": "Cán bộ cấp cao của \"Bộ Phận Đầu Tư Chiến Lược\" thuộc Công Ty Hành Tinh Hòa Bình, một trong \"10 Người Có Trái Tim Đá\", đá tảng là \"Trân Châu Soi Chiếu\".\nCEO hiện tại của \"Planarcadia\", kiên trì nghiên cứu bản chất của nghệ thuật."
     },
     "10416": {
         "id": "10416",
@@ -1692,7 +1692,7 @@
     "10443": {
         "id": "10443",
         "title": "Hải Đăng",
-        "desc": "Siêu Anh Hùng được sản xuất hàng loạt của Astropolis, chịu trách nhiệm duy trì an ninh cho toàn thành phố.\nThân phận thật sự là Ma Báo Tử Marcus Antali đã bị xóa ký ức."
+        "desc": "Siêu Anh Hùng được sản xuất hàng loạt của Astropolis, chịu trách nhiệm duy trì an ninh cho toàn thành phố.\nBất ngờ xuất hiện vào 5 năm trước, được cư dân Astropolis vô cùng yêu mến."
     },
     "10444": {
         "id": "10444",
@@ -1703,6 +1703,16 @@
         "id": "10445",
         "title": "Thợ Săn Stellaron",
         "desc": "Tổ chức đi qua các thế giới để săn Stellaron.\nVì một mục đích nào đó, họ đã đi ngược dòng trong Vận Mệnh \"Tuyệt Diệt\"."
+    },
+    "10446": {
+        "id": "10446",
+        "title": "Nihilux",
+        "desc": "Cựu giám đốc tạp chí lá cải \"Tuần Báo Furbobo\", tác giả Blurry_QR_Colt của \"Tàu Bông Xuyên Trời Xanh\", nữ thần Quay Thưởng Lớn một thời của Astropolis - Beatrice Mellanine... Đương nhiên, ở đây không chứa nổi nhiều người như vậy. Vẫn nên gọi là Aha cho có thể diện nhất."
+    },
+    "10447": {
+        "id": "10447",
+        "title": "Tàu Sao Ngọt Ngào",
+        "desc": "Tàu lưu diễn của đoàn kịch Kẻ Khóc Thuê, trong lịch sử từng nhiều lần được Aha mượn để tham gia cuộc chiến vũ trụ của các vị thần.\nTuy nhiên, những người từng đến đây đều nói, con tàu này nên được gọi là tàu bánh ngọt."
     },
     "20000": {
         "id": "20000",

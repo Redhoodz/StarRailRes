@@ -86,6 +86,7 @@
         "1508": ["Rin Tohsaka"],
         "1509": ["Gilgamesh"],
         "1510": ["Himeko - Nova"],
+        "1511": ["Aeon ★ Aha"],
         "1512": ["Robin - Summeretto"],
         "1513": ["Aventurine - Veraneio"],
         "8001": ["{NICKNAME}"],
@@ -198,6 +199,7 @@
         "22006": ["Rumo ao Amanhã Cor-de-Rosa"],
         "22007": ["Juntos no Futuro"],
         "22008": ["Corrida ao Horizonte"],
+        "22009": ["Te Vejo no Fim do Mundo!"],
         "23000": ["Noite na Via Láctea"],
         "23001": ["Na Noite"],
         "23002": ["Algo Insubstituível"],
@@ -263,6 +265,7 @@
         "23062": ["Eu Sou Como Tu Me Vês"],
         "23063": ["Levanta e Canta"],
         "23064": ["Surfando a Onda do Verão"],
+        "23065": ["Sobre o Primeiro Eco de \"Aha\""],
         "24000": ["Na Queda de Um Aeon"],
         "24001": ["Percorrendo o Mar Estelar"],
         "24002": ["Textura de Memórias"],
@@ -333,6 +336,8 @@
         "325": ["Estágio Zero de Punklorde"],
         "326": ["Cidade da Convergência Estelar"],
         "327": ["Ancoradouro da Estrela Caída"],
-        "328": ["Instituto de Ciências da Vida Cósmica"]
+        "328": ["Instituto de Ciências da Vida Cósmica"],
+        "329": ["Euforia Efêmera da Divindade"],
+        "330": ["Asilo Subespacial"]
     }
 }

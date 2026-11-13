@@ -2381,6 +2381,25 @@
             ]
         ]
     },
+    "22009": {
+        "id": "22009",
+        "skill": "Conspirator",
+        "desc": "For every Elation character on the team, increase the wearer's CRIT DMG by #1[i]%. When Aeon ★ Aha is on the field, the wearer's CRIT DMG additionally increases by #2[i]%.",
+        "params": [
+            [0.06, 0.12],
+            [0.07, 0.14],
+            [0.08, 0.16],
+            [0.09, 0.18],
+            [0.1, 0.2]
+        ],
+        "properties": [
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
     "23000": {
         "id": "23000",
         "skill": "Meteor Swarm",
@@ -4233,6 +4252,35 @@
             ],
             [
                 { "type": "CriticalChanceBase", "value": 0.3 }
+            ]
+        ]
+    },
+    "23065": {
+        "id": "23065",
+        "skill": "Improv Tour",
+        "desc": "Increases the wearer's base SPD by #1[i]. When using Skill on one other ally, gains #2[i] Punchline. This effect can trigger at most once after a gap of every #3[i] turn(s). Then, enables all allies to ignore #4[i]% of the enemy target's DEF when they deal DMG during this battle. This effect cannot be stacked.",
+        "params": [
+            [12, 10, 1, 0.16],
+            [14, 12, 1, 0.18],
+            [16, 14, 1, 0.2],
+            [18, 16, 1, 0.22],
+            [20, 18, 1, 0.24]
+        ],
+        "properties": [
+            [
+                { "type": "BaseSpeed", "value": 12 }
+            ],
+            [
+                { "type": "BaseSpeed", "value": 14 }
+            ],
+            [
+                { "type": "BaseSpeed", "value": 16 }
+            ],
+            [
+                { "type": "BaseSpeed", "value": 18 }
+            ],
+            [
+                { "type": "BaseSpeed", "value": 20 }
             ]
         ]
     },
